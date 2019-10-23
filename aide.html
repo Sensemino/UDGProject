@@ -1,0 +1,90 @@
+<div class="container">
+    <div id = "ChampsGeneraux" class = "col-xs-12 col-sn-12 col-md-12 col-lg-12">
+        <div class="panel panel-primary " >
+            <div class = "panel-heading">
+                <h3 class="panel-title">Param&egrave;tres g&eacute;n&eacute;raux :</h3>
+            </div>
+            <div class = "panel-body">
+                <ul>
+                    <li>Nom du projet : d&eacute;finit le nom de l'archive qui sera t&eacute;l&eacute;chargeable via le bouton "G&eacute;n&eacute;rer"</li>
+                    <li>Nom de la table : permet de g&eacute;n&eacute;rer un fichier texte avec du code SQL qui cr&eacute;e une table avec ce nom et enregistre les fichiers de sortie avec ce nom</li>
+                    <li>Nombres de lignes : d&eacute;finit le nombre de lignes de donn&eacute;es &agrave; g&eacute;n&eacute;rer</li>
+                    <li>Graine de g&eacute;n&eacute;ration : permet de choisir un nombre qui, si vous le r&eacute;-utilisez vous donnera les m&ecirc;mes donn&eacute;es lors de la g&eacute;n&eacute;ration</li>
+                    <li>Formats de sortie : permet de choisir le ou les formats de sortie pour les donn&eacute;es</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div id = "ChampsDonnees" class = "col-xs-12 col-sn-12 col-md-12 col-lg-12">
+        <div class="panel panel-primary " >
+            <div class = "panel-heading">
+                <h3 class="panel-title">Champs de donn&eacute;es :</h3>
+            </div>
+            <div class = "panel-body">
+                <ul>
+                    <li>Nom : nom de la donn&eacute;e, fournit une en-t&ecirc;te avec ce nom dans le CSV et/ou un champ de ce nom avec des valeurs dans une table en SQL</li>
+                    <li>
+                        <p>Types de donn&eacute;es :</p>
+                        <ul>
+                            <li>Dictionnaire : permet de choisir parmi une liste de dictionnaires disponibles. Les dictionnaires sont en rapport avec un th&egrave;me.</li>
+                            <li>Num&eacute;rique : permet de g&eacute;n&eacute;rer de mani&egrave;re al&eacute;atoire un nombre entre une valeur minimum et une maximum</li>
+                            <li>Formule : calcule des valeur selon une formule du mod&egrave;le a * x [ + - * / ou % pour modulo] b o&ugrave; a, x et b peuvent &ecirc;tre des noms de colonne  ou des nombres.</li>
+                        </ul>
+                    </li>
+                    <li>Null : Nombre de lignes de donn&eacute;es qui seront non d&eacute;finies, cette valeur peut &ecirc;tre saisie en pourcentage ou en valeur absolue</li>
+                    <li>Codage : syst&egrave;me de correspondances pour faire correspondre des valeurs &agrave; des codes, comme par exemple "1;Homme" associera le code 1 &agrave; la valeur "Homme"</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div id = "ChampBoutons" class = "col-xs-12 col-sn-12 col-md-12 col-lg-12">
+        <div class="panel panel-primary " >
+            <div class = "panel-heading">
+                <h3 class="panel-title">Les diff&eacute;rents boutons :</h3>
+            </div>
+            <div class = "panel-body">
+                <ul>
+                    <li>Remettre &agrave; z&eacute;ro : recharge la page</li>
+                    <li>Ajouter/Supprimer une colonne : permet l'ajout/ la suppression d'un champ de donn&eacute;es</li>
+                    <li>Ajouter/Supprimer table : ajoute une table en derni&egrave;re position ou supprime la derni&egrave;re table</li>
+                    <li>Importer un fichier XML ou SQL : va permettre de pr&eacute;charger la page de g&eacute;n&eacute;ration via une cr&eacute;ation de table SQL ou un fichier de param&eacute;trage XML </li>
+                    <li>G&eacute;n&eacute;rer : lance le script de g&eacute;n&eacute;ration </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div id = "ChampExemples" class = "col-xs-12 col-sn-12 col-md-12 col-lg-12">
+        <div class="panel panel-primary " >
+            <div class = "panel-heading">
+                <h3 class="panel-title">Les Exemples :</h3>
+            </div>
+            <div class = "panel-body">
+                <ul>
+                    <li>Va pr&eacute;charger la page pr&ecirc;te &agrave; &ecirc;tre g&eacute;n&eacute;r&eacute;e afin de montrer un exemple de donn&eacute;es simples &agrave; g&eacute;n&eacute;rer.</li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div id = "FichierExemple" class = "col-xs-12 col-sn-12 col-md-12 col-lg-12">
+        <div class="panel panel-primary " >
+            <div class = "panel-heading">
+                <h3 class="panel-title">Exemple de Fichier :</h3>
+            </div>
+            <div class = "panel-body">
+                <ul>
+                    <li>Voici un fichier de param&eacute;trage au format XML : <a href="Fichiers/Parametre.xml">Afficher</a> </li>
+                    <li>Voici un exemple de fichier mysql valide : <a href="Fichiers/titanic_mysql_cr.txt">Afficher</a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

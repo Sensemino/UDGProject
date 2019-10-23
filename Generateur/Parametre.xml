@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+
+    <Table> <!-- VILLES -->
+        <Champs>
+            <Donnee Type="Numerique" NomColonne="idVille" Null="0" Min="1" Max="500" ModeGeneration="aleatoire"/>
+            <Donnee Type="Dictionnaire" NomColonne="nomVille" NomDictionnaire="villes" ModeGeneration="unique"/>
+        </Champs>
+        <Parametre>
+            <Sortie SQL="True"/>
+            <Nbligne valeur="10"/>
+            <NomTable nom="villes"/>
+            <Seed valeur="1027666" />
+        </Parametre>
+    </Table>
+
+</Generateur>

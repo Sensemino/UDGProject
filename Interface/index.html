@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html ; charset= utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Générateur de données</title>
+  <link href="Style/css/bootstrap.min.css" rel="stylesheet" type = "text/css"/>
+  <link href="Style/css/style.css" rel="stylesheet" type = "text/css"/>
+  <script src="scripts/GestionForm.js" type="text/javascript"></script>
+  <script src="scripts/exemple.js" type="text/javascript"></script>
+  <script src="scripts/validation.js" type="text/javascript"></script>
+  <script src="scripts/recuperation.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" type="text/javascript"></script>
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body onload = "GestionImportFichier();">
+<div class="col-xs-12 col-sn-12 col-md-12 col-lg-12">
+  <a href="Aide.xhtml"  onclick="window.open(this.href);return false;" id="BoutonAide" class="btn btn-lg btn-info">Aide</a>
+</div>
+<div class="jumbotron">
+  <div class ="container">
+    <div class="row">
+      <div class ="col-xs-2 col-sn-2 col-md-2 col-lg-2">
+        <img alt="icone du générateur" src="ressources/images/logo-site.png" height="125" width="125"/>
+      </div>
+      <div class ="col-xs-8 col-sn-8 col-md-8 col-lg-8"><!--le titre prend 8 colonne-->
+        <h1 >Générateur de données</h1>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="container"><!--début formulaire-->
+    <div class="row">
+      <div class="col-xs-13 col-sn-13 col-md-13 col-lg-13">
+        <div class="titleprghp">
+          <span class="prg">Formulaire de génération&nbsp;:&nbsp;</span>
+          <button onclick="RAZ();" id="RAZ" class="btn btn-default">Remettre à zéro</button>
+        </div>
+      </div>
+    </div>
+    <form id="formulaire" method="post" onsubmit="return validationEnvoi();" action = "../Generateur/TraitementsForm.php">
+    <!-- Nom de la feulle de donnees -->
+    <div class="row">
+      <div class="col-xs-12 col-sn-12 col-md-12 col-lg-12">
+        <div class="form-horizontal">
+          <div class="form-group">
+            <label class ="col-xs-2 col-sn-2 col-md-2 col-lg-2" for = "NomFeuilleDeDonnees">Nom du projet :</label>
+            <div class = "col-xs-10 col-sn-10 col-md-10 col-lg-10">
+              <input type="text" class="form-control required" name="NomProjet" onchange="ValidationInputProjet('NomFeuilleDeDonnees');" id = "NomFeuilleDeDonnees" value =""></input>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--début du formulaire dynamique-->
+    <div id="tables">
+      <div id="table0" class = "well row table">
+        <div class="row">
+          <div class="col-xs-12 col-sn-12 col-md-12 col-lg-12">
+            <div class="form-horizontal">
+              <div class="form-group DGT">
+                <label class ="col-xs-3 col-sn-3 col-md-3 col-lg-3" for = "NomTable0">Nom de la Table&nbsp;:&nbsp;</label>
+                <div class = "col-xs-9 col-sn-9 col-md-9 col-lg-9">
+                  <input type="text" class="form-control required" id = "NomTable0" onchange="ValidationInputParametreTable(0,'NomTable');" name ="NomTable0" value =""></input>
+                </div>
+                <label  class ="col-xs-3 col-sn-3 col-md-3 col-lg-3" for = "NombreDeLigne0">Nombre de lignes&nbsp;&nbsp;:</label>
+                <div class = "col-xs-9 col-sn-9 col-md-9 col-lg-9">
+                    <input type="text" class="form-control required" id ="NombreDeLigne0" onchange="ValidationInputParametreTable(0,'NombreDeLigne');" name="NombreDeLigne0" value =""></input>
+                </div>
+                <label class ="col-xs-3 col-sn-3 col-md-3 col-lg-3"  for = "SEED0">Graine de génération&nbsp;:&nbsp;</label>
+                <div class = "col-xs-9 col-sn-9 col-md-9 col-lg-9">
+                  <input type="text" class="form-control" id ="SEED0" onchange="ValidationInputParametreTable(0,'SEED');" name="SEED0" value =""></input>
+                </div>
+                <label class ="col-xs-3 col-sn-3 col-md-3 col-lg-3">Formats de sortie&nbsp;:&nbsp;</label>
+                <label class="formatSortie checkbox-inline" for="CSV0">CSV&nbsp;</label><input type="checkbox" name="CSV0" id="CSV0" value="CSV0"></input>
+                <label class="checkbox-inline formatSortie" for="SQL0">SQL&nbsp;</label><input type="checkbox" name="SQL0" id="SQL0" value="SQL0"></input>
+                <label class="checkbox-inline formatSortie" for="XML0">XML&nbsp;</label><input type="checkbox" name="XML0" id="XML0" value="XML0"></input>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id ="tab0Lignes">
+          <div id="tab0Ligne0" class="row col-xs-12 col-sn-12 col-md-12 col-lg-12 form-inline form-group">
+            <label for = "tab0label0">&nbsp;Nom&nbsp;:&nbsp;</label>
+            <input type="text" class="form-control required" name = "tab0label0" onchange="nomLigne(0,0);" id = "tab0label0" value=""></input>
+
+            <label for="tab0TypeDeDonnees0">&nbsp;Type de Données&nbsp;:&nbsp;</label>
+            <select class="form-control" id="tab0TypeDeDonnees0" name="tab0TypeDeDonnees0" onchange="GestionOptionTDD(0,0);">
+              <option class="Defaultab" selected="selected" >Choisissez un type de données</option>
+              <option value = "Dictionnaire" >Dictionnaire</option>
+              <option value = "Numerique">Numerique</option>
+              <option value = "Formule">Formule</option>
+            </select>
+            <label id="tab0LabelModeDeGeneration0" for="tab0ModeDeGeneration0">&nbsp;Mode de Génération&nbsp;:&nbsp;</label>
+            <select class="form-control" id="tab0ModeDeGeneration0" disabled ="disabled"  name="tab0ModeDeGeneration0" onchange="GestionOptionMDG(0,0)">
+              <option class="Defaultab" selected="selected" >Choisissez un mode</option>
+              <option value = "Aleatoire">Aléatoire (uniforme)</option>
+              <option value = "Codage">Loi Normale</option>
+              <option value = "LoiNormale">Loi Normale</option>
+              <option value = "Sequentielle">Séquentielle</option>
+            </select>
+            <br/>
+            <label for = "tab0LesNull0">Null&nbsp;:&nbsp;</label>
+              <input type="text" class="form-control" name="tab0LesNull0" onchange="nullLigne(0,0);" id = "tab0LesNull0"></input>
+            <div id="tab0Minimum0" class="form-group">
+            </div>
+            <div id ="tab0Maximum0" class="form-group">
+            </div>
+            <div id="tab0PasSeq0" class="form-group">
+            </div>
+            <div id="tab0Dico0" class="form-group">
+            </div>
+            <div id="tab0Formule0" class="form-group">
+            </div>
+            <div id="tab0Codage0" class="form-group">
+            </div>
+
+          </div>
+        </div>
+
+        <div class = "row col-xs-12 col-sn-12 col-md-12 col-lg-12">
+          <button type="button" class="col-xs-3 col-sn-3 col-md-3 col-lg-3 btn btn-lg btn-success" onclick="addRow(0);">Ajouter une colonne</button>
+          <div class="col-xs-6 col-sn-6 col-md-6 col-lg-6"><!--sert a l'espace entre les boutons-->
+          </div>
+          <button type="button" class="col-xs-3 col-sn-3 col-md-3 col-lg-3 btn btn-lg btn-danger" onclick="DelRow(0);">Supprimer une colonne</button>
+
+        </div>
+      </div>
+    </div>
+    <div id="boutons_table" class = "row col-xs-12 col-sn-12 col-md-12 col-lg-12">
+      <button type="button" class="col-xs-3 col-sn-3 col-md-3 col-lg-3 btn btn-lg btn-success" onclick="addTable();">Ajouter une Table</button>
+      <div class="col-xs-6 col-sn-6 col-md-6 col-lg-6"><!--sert a l'espace entre les boutons-->
+      </div>
+      <button type="button" class="col-xs-3 col-sn-3 col-md-3 col-lg-3 btn btn-lg btn-danger" onclick="delTable();">Supprimer une Table</button>
+
+    </div>
+    <div id = "FormatSortie" class = "row col-xs-12 col-sn-12 col-md-12 col-lg-12">
+      <div class="panel panel-primary " >
+        <div class = "panel-heading">
+          <h3 class="panel-title">Entrées/Sorties :</h3>
+        </div>
+        <div class = "panel-body" id="chargementDeFichier">
+          <button type="button" class = "btn btn-lg btn-default" id="btnOpen">Importer un fichier XML ou SQL</button>
+          <input type="file" id="AcceptInput" accept=".sql,.xml,.txt"/>
+
+            <button type="submit" id="BoutonEnvois" class="btn btn-lg btn-default">Générer</button>
+        </div>
+      </div>
+    </div>
+    </form>
+  </div>
+<div class="container">
+<div id = "Exemples" class = "col-xs-12 col-sn-12 col-md-12 col-lg-12">
+      <div class="panel panel-primary " >
+        <div class = "panel-heading">
+          <h3 class="panel-title">Exemples :</h3>
+        </div>
+        <div class = "panel-body">
+          <button type="submit" id="ChampsSimpleBtn" class="btn btn-lg btn-default" onclick="ChampSimple();">Champ simple</button>
+          <button type="submit" id="ChampsFormuleBtn" class="btn btn-lg btn-default btn-ex" onclick="ChampFormule();">Formule</button>
+          <button type="submit" id="ChampsMultiTabBtn" class="btn btn-lg btn-default btn-ex" onclick="ChampMultiTables();">Champs Muti Tables</button>
+          <button type="submit" id="CodageBtn" class="btn btn-lg btn-default btn-ex" onclick="Codage();">Codage</button>
+          <button type="submit" id="ChampsCoherentBtn" class="btn btn-lg btn-default btn-ex" onclick="DonneeCoherente();">Champs Cohérent</button>
+        </div>
+      </div>
+    </div>
+</div>
+<p id="credit"><em>Created by : Brice Harismendy, Corentin Couvry, Antoine Legoubé, Alban Baumard, Geoffroy Berry</em></p>
+</body>
+</html>

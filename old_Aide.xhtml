@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+        PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Page D'aide de l'interface</title>
+    <link href="Style/css/bootstrap.min.css" rel="stylesheet" type = "text/css"/>
+    <link href="Style/css/style.css" rel="stylesheet" type = "text/css"/>
+</head>
+<body>
+<div class="jumbotron">
+    <div class ="container">
+        <div class="row">
+            <div class ="col-xs-2 col-sn-2 col-md-2 col-lg-2">
+                <img alt="icone du générateur" src="logo-site.png" height="125" width="125"/>
+            </div>
+            <div class ="col-xs-8 col-sn-8 col-md-8 col-lg-8"><!--le titre prend 8 colonne-->
+                <h1 >Page D'aide de l'interface</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div id = "ChampsGeneraux" class = "col-xs-12 col-sn-12 col-md-12 col-lg-12">
+        <div class="panel panel-primary " >
+            <div class = "panel-heading">
+                <h3 class="panel-title">Les champs généraux :</h3>
+            </div>
+            <div class = "panel-body">
+                <ul>
+                    <li>Nom du projet : définie le nom de l'archive que vous pourrez télécharger à la fin du script</li>
+                    <li>Nom de la table : permet de générer  un SQL créant une table avec ce nom, enregistre les fichiers de sortie avec ce nom</li>
+                    <li>Nombres de lignes : définit le nombre de ligne de données que vous voullez</li>
+                    <li>Graine de génération : vous permet de choisir un nombre qui, si vous le ré-utilisez vous donnera les mêmes données lors de la génération</li>
+                    <li>Formats de sortie : vous permet de choisir un ou plusieurs formats de données à la fin du script</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div id = "ChampsDonnees" class = "col-xs-12 col-sn-12 col-md-12 col-lg-12">
+        <div class="panel panel-primary " >
+            <div class = "panel-heading">
+                <h3 class="panel-title">Les champs de données :</h3>
+            </div>
+            <div class = "panel-body">
+                <ul>
+                    <li>Nom : nom de la donnée, vous permet d'avoir une en-tête avec ce nom dans le CSV ou de rentrer les valeurs dans une table en SQL</li>
+                    <li>
+                        <p>Type de données :</p>
+                        <ul>
+                            <li>Dictionnaire : va vous permettre de choisir parmis une liste de dictionnaires celui qui vous convient. Les dictionnaires sont en rapport avec un thème.</li>
+                            <li>Numérique : va vous permettre de générer de manière aléatoire un nombre entre une valeur minimum et une maximum</li>
+                            <li>Formule : une formule sous la form a * x [ + - * / ou % pour modulo] b où a, x et b peuvent être des noms de colonne  ou des nombres.</li>
+                        </ul>
+                    </li>
+                    <li>Null : Nombre de ligne de données qui seront non définies, peut être en % ou en valeur brut</li>
+                    <li>codage : système de codage pour faire correspondre des valeurs à un nombre exemple "1;homme" associera tout les 1 à homme</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div id = "ChampBoutons" class = "col-xs-12 col-sn-12 col-md-12 col-lg-12">
+        <div class="panel panel-primary " >
+            <div class = "panel-heading">
+                <h3 class="panel-title">Les différents boutons :</h3>
+            </div>
+            <div class = "panel-body">
+                <ul>
+                    <li>Remettre à zéro : recharge la page</li>
+                    <li>Ajouter/Supprimer une colonne : permet l'ajout/ la suppression d'un champ de données</li>
+                    <li>Ajouter/Supprimer table : ajoute une table en dernière position ou supprime la dernière table</li>
+                    <li>Importer un fichier XML ou SQL : va permettre de précharger la page de génération via une création de table SQL ou un fichier de paramétrage XML </li>
+                    <li>Générer : lance le script de génération </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div id = "ChampExemples" class = "col-xs-12 col-sn-12 col-md-12 col-lg-12">
+        <div class="panel panel-primary " >
+            <div class = "panel-heading">
+                <h3 class="panel-title">Les Exemples :</h3>
+            </div>
+            <div class = "panel-body">
+                <ul>
+                    <li>Va précharger la page prête à être générée afin de montrer un exemple de données simples à générer.</li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div id = "FichierExemple" class = "col-xs-12 col-sn-12 col-md-12 col-lg-12">
+        <div class="panel panel-primary " >
+            <div class = "panel-heading">
+                <h3 class="panel-title">Exemple de Fichier :</h3>
+            </div>
+            <div class = "panel-body">
+                <ul>
+                    <li>Voici un fichier de paramétrage au format XML : <a href="ressources/Files/Parametre.xml">Afficher</a> </li>
+                    <li>Voici un exemple de fichier mysql valide : <a href="ressources/Files/titanic_mysql_cr.txt">Afficher</a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

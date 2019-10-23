@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Generateur> <Table><Champs><Donnee Type="Dictionnaire" NomColonne="IDEN"/><Donnee Type="Numerique" NomColonne="CLASS"/><Donnee Type="Numerique" NomColonne="AGE"/><Donnee Type="Numerique" NomColonne="SEX"/><Donnee Type="Numerique" NomColonne="SURV"/></Champs><Parametre><Sortie/><Nbligne/><NomTable nom="titanic"/></Parametre></Table></Generateur>

@@ -1,0 +1,12 @@
+function aide(onOff) {
+  if (onOff==1) {
+     window.document.getElementById('aide').setAttribute('onclick','aide(0)  ; return false')
+     window.document.getElementById('aide').setAttribute('class','row')
+     window.document.getElementById('BoutonAide').innerHTML="Masquer l'aide"
+  } else {
+     window.document.getElementById('aide').setAttribute('onclick','aide(1) ; return false')
+     window.document.getElementById('aide').setAttribute('class','row pasvu')
+     window.document.getElementById('BoutonAide').innerHTML="Afficher l'aide"
+  } // fin si
+  return(false)
+} // fin de fonction aide

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+
+    <Table>
+
+        <Champs>
+            <Donnee Type="Numerique" NomColonne="Age" Min="15" Max="130" ModeGeneration="uniforme" Null="6%" Unite="ans"/>
+        </Champs>
+
+        <Parametre>
+            <Sortie  XML="True" CSV="True"/>
+            <Nbligne valeur="100"/>
+            <NomTable nom="test"/>
+            <Seed valeur="123" />
+        </Parametre>
+
+    </Table>
+
+</Generateur>

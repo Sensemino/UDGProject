@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+    <Table>
+        <Champs>
+            <Donnee Type="Dictionnaire" NomColonne="Prenoms" NomDictionnaire="Prenoms" ModeGeneration="uniforme" GenererDependance="True"/>
+            <Donnee Type="Dictionnaire" NomColonne="noms" NomDictionnaire = "noms" ModeGeneration="uniforme"/>
+            <Donnee Type="Numerique" NomColonne="Age" Min="15" Max="130" ModeGeneration="uniforme" Null="6%" Unite="ans"/>
+            <Donnee Type="Numerique" NomColonne="Poids" NbDecimale="1" Min="35.1" Max="300.9" ModeGeneration="uniforme" Null="52"/>
+            <Donnee Type="Numerique" NomColonne="Taille" NbDecimale="2" Min="1.01" Max="2.40" ModeGeneration="uniforme" Null="6%"/>
+            <Donnee Type="Dictionnaire" NomColonne="villes" NomDictionnaire="villes" ModeGeneration="uniforme"/>
+	        <Donnee Type="Numerique" NomColonne="CodeSexe" NomPerso="sexe" Min="1" Max="5" ModeGeneration="uniforme" codage="1;Homme;2;Femme"/>
+            <Donnee Type="Numerique" NomColonne="Temperature" NomPerso="Celsius" NbDecimale="2" Min="0.00" Max="100" ModeGeneration="uniforme"/>
+            <Donnee Type="Formule" NomColonne="Fahrenheit" Formule= "Celsius 1.8 + 32" />
+
+        </Champs>
+        <Parametre>
+            <Sortie  XML="True" CSV="True"/>
+            <Nbligne valeur="1000"/>
+            <NomTable nom="test"/>
+            <Seed valeur="123" />
+        </Parametre>
+    </Table>
+
+    <Table>
+        <Champs>
+            <Donnee Type="Dictionnaire" NomColonne="Prenoms" NomDictionnaire="Prenoms" ModeGeneration="unique"/>
+            <Donnee Type="Dictionnaire" NomColonne="noms" NomDictionnaire = "noms" ModeGeneration="uniforme"/>
+            <Donnee Type="Numerique" NomColonne="Age" Min="15" Max="130" ModeGeneration="uniforme" Null="6%"/>
+        </Champs>
+        <Parametre>
+            <Sortie CSV="True" SQL="True"/>
+            <Nbligne valeur="1000000"/>
+            <NomTable nom="test2"/>
+            <Seed valeur="58125" />
+        </Parametre>
+    </Table>
+</Generateur>

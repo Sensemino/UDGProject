@@ -1,0 +1,12 @@
+if [[ -z $1 ]] ; then
+    echo syntaxe : generer FICHIER_XML
+    exit 1
+fi # fin
+
+if [[ ! -r $1 ]] ; then
+    echo Fichier $1 non vu.
+    exit 1
+fi # fin
+
+php generer.php $*
+

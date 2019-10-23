@@ -1,0 +1,11 @@
+if [[ -z $1 ]] ; then
+    echo syntaxe : verifieXML FICHIER_XML
+    exit 1
+fi # fin
+
+if [[ ! -r $1 ]] ; then
+    echo Fichier $1 non vu.
+    exit 1
+fi # fin
+
+xmlstarlet val -e -s Parametre.xsd $1

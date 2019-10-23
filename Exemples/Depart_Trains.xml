@@ -1,0 +1,48 @@
+<!-- EXERCICE 1 -->
+<!--
+<Generateur>
+	<Table>
+		<Champs>
+			<Donnee Type="Dictionnaire" NomColonne="Nom_commune" NomDictionnaire="villes" ModeGeneration="uniforme" GenererDependance="True"/>
+
+		</Champs>
+		<Parametre>
+			<Sortie XML="True" CSV="True"/>
+			<Nbligne valeur="10"/>
+			<NomTable nom="test"/>
+			<Seed valeur="123"/>
+		</Parametre>
+	</Table>
+</Generateur>
+-->
+
+<!-- EXERCICE 2 -->
+
+<Generateur>
+	<Table>
+		<Champs>
+			<Donnee Type="Dictionnaire" NomColonne="Nom_commune" NomDictionnaire="villes" ModeGeneration="uniforme" GenererDependance="True"/>
+			<Donnee Type="Dictionnaire" NomColonne="Type_train" NomDictionnaire="typestrains" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Prénom" NomDictionnaire="prenoms" ModeGeneration="uniforme" GenererDependance="True"/>
+		</Champs>
+		<Parametres>
+			<Sortie XML="True" CSV="True"/> 
+			<Nbligne valeur="10"/>
+			<NomTable nom="test"/>
+			<Seed valeur="123"/>
+		</Parametres>
+	</Table>
+
+	<!--<Table>
+		<Champs>
+			<Donnee Type="Dictionnaire" NomColonne="Type_train" NomDictionnaire="types_trains" ModeGeneration="uniforme"/>
+		</Champs>
+		<Parametres>
+			<Sortie XML="True" CSV="True"/>
+			<Nbligne valeur="10"/>
+			<NomTable nom="test"/>
+			<Seed valeur="123"/>
+		</Parametres	>
+		
+	</Table>-->
+</Generateur>

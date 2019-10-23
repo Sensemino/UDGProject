@@ -1,0 +1,22 @@
+La génération du mardi 22 octobre 2019 a durée : 0.01 secondes
+==============================================
+Table n°1
+==================================================
+Données Générales : 
+La seed de génération est : 123 
+==================================================
+Nom_commune : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+CodePostale : 
+==================================================
+Type_train : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Prénom : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+==================================================

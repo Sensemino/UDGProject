@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- # (gH)   -_-  generateur.xsd  ;  TimeStamp (unix) : 08 Novembre 2016 vers 17:07 -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+  <xs:element name="Generateur">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Table"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Table">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Champs"/>
+        <xs:element ref="Parametres"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Champs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Donnee"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Donnee">
+    <xs:complexType>
+      <xs:attribute name="Formule"/>
+      <xs:attribute name="Max" type="xs:decimal"/>
+      <xs:attribute name="Min" type="xs:decimal"/>
+      <xs:attribute name="NomDictionnaire" type="xs:NCName"/>
+      <xs:attribute name="ModeGeneration" type="xs:NCName"/>
+      <xs:attribute name="NbDecimale" type="xs:integer"/>
+      <xs:attribute name="NomColonne" use="required"/>
+      <xs:attribute name="NomPerso" type="xs:NCName"/>
+      <xs:attribute name="Null"/>
+      <xs:attribute name="Type" use="required" type="xs:NCName"/>
+      <xs:attribute name="Unite" type="xs:NCName"/>
+      <xs:attribute name="calcul"/>
+      <xs:attribute name="codage"/>
+      <xs:attribute name="GenererDependance"/>
+      <xs:attribute name="TableReference" type="xs:NCName"/>
+      <xs:attribute name="ColonneReference" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Parametres">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Sortie"/>
+        <xs:element ref="Nbligne"/>
+        <xs:element ref="NomTable"/>
+        <xs:element ref="Seed" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Sortie">
+    <xs:complexType>
+      <xs:attribute name="CSV" type="xs:NCName"/>
+      <xs:attribute name="XML" type="xs:NCName"/>
+      <xs:attribute name="SQL" type="xs:NCName"/>
+      <xs:attribute name="JSON" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Nbligne">
+    <xs:complexType>
+      <xs:attribute name="valeur" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="NomTable">
+    <xs:complexType>
+      <xs:attribute name="nom" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Seed">
+    <xs:complexType>
+      <xs:attribute name="valeur" type="xs:integer"/>
+    </xs:complexType>
+
+  </xs:element>
+
+</xs:schema>
