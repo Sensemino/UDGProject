@@ -1,0 +1,32 @@
+					Commandes git : 
+
+
+ En premier vous aurez à récupérer le projet sur github avec la commande clone :
+	git clone URLDonnéParGitHub
+
+ Ensuite si vous voulez créer un fichier et l'envoyer sur le gitHub, vous avez juste à faire deux commandes.
+
+ La première sert à ajouter un fichier, à l'indexer au git :
+	git add NomDuFichier.extension
+
+ Lorsque vous avez fini de modifier votre fichier, il vous faudra commit, c'est à dire, valider les modifications que vous avez fait (git prendra ainsi que les fichiers modifiés.) :
+	git commit -m "Commentaires de ce que vous avez modifié" (mettez bien les guillemets)
+
+ Et enfin (on en fini plus c'est long), on va tout envoyer sur le GitHub (après la validation des modifications avec le commit, sinon il n'envoie rien) :
+	git push origin master
+
+
+ Enfin, quelques autres commandes :
+
+	Peut etre vous demandera-t-on de définir votre email (ou votre pseudonyme), il s'agit de cette commande :
+		git config --global user.email LOLO@unix.gouv.interieur.fr
+		git config --global user.name LOLO
+
+	Aussi pour vérifier ce que les autres ont pu faire, la commande de log est très utile :
+		git log
+	Elle vous indiquera les commits qui ont été fait, c'est pour ça qu'il est intéressant de laisser un commentaire clair après votre commit.
+
+	Dernière commande (promis), pour savoir où on en est dans les modifications (ce qui est à sauvegarder, ce qui l'est déjà, etc...)
+		git status
+
+ Voilà, have fun :)
