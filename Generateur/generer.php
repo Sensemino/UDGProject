@@ -113,6 +113,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     fclose($fp);
 
     $listeData = $table->getElementsByTagName("Donnee");//récupération des différent champ a générer
+    $n=100000;
     $nbligneagenerer = 100000;// initialisation du nombre de ligne a généré par passage
     $nbedepassage = $nbligne / 100000;//initialisation du nombre de passage
     $PremierPassage = 0;

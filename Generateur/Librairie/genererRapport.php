@@ -94,20 +94,13 @@ foreach ($listeData as $data)
             while ($DonneesRapport[$lignemat][0] != $NomDonnees) {
                 $lignemat++;
             }
-            if ($PremierPassage == 0) {
-                $i = 1;
-            } else {
-                $i = 0;
-            }
-            while ($i < $nbligneagenerer) {
-                if ($donnees[$lignemat][$i] == "NULL") {
-                    $NbNullPostGene++;
-                }
-                $i++;
-            }
-            if ($PremierPassage == 0 and $donnees[$lignemat][$i] == "NULL") {
-                $NbNullPostGene++;
-            }
+            
+            $NbNullPostGene = 0;
+            
+            $lesValeurs=array_slice($donnees[$lignemat+1],2); //Recuperation des valeurs uniquement ////BIDOUILLAGE////
+            
+            $NbNullPostGene = nbNull($lesValeurs); //récupère le nombre de null généré
+
             if ($PremierPassage == 0) {
                 $DonneesRapport[$lignemat][2] = $NbNullPostGene;
                 $DonneesRapport[$lignemat][3] = ($NbNullPostGene / $nbligneagenerer) * 100;
