@@ -255,9 +255,6 @@ if (!$dom->load($fichier) ||( !$dom->schemaValidate("udg.xsd"))) {// validation 
 
 
                         }
-                        echo("Voici : ");
-                        print_r($donnees);
-                        echo ("\n\n");
 
                         $lignemat++;
                         break;
@@ -604,5 +601,6 @@ if (!$dom->load($fichier) ||( !$dom->schemaValidate("udg.xsd"))) {// validation 
     $fp = fopen($PositionRapport,'w');
     $write = fwrite($fp, $new_content);
     fclose($fp);
+    print_r($donnees);
 }
 ?>
