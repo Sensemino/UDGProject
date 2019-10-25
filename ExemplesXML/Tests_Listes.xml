@@ -34,7 +34,7 @@
 			<Donnee Type="Dictionnaire" NomColonne="Département" NomDictionnaire="departements" ModeGeneration="uniforme"/>
 			<Donnee Type="Dictionnaire" NomColonne="Entreprise Pharmaceutique" NomDictionnaire="entreprises_pharma" ModeGeneration="uniforme"/>
 			<Donnee Type="Dictionnaire" NomColonne="Événement historique" NomDictionnaire="evenements_historiques" ModeGeneration="uniforme"/>
-			<Donnee Type="Dictionnaire" NomColonne="Langage informatique" NomDictionnaire="langages_informatique" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Langages informatiques" NomDictionnaire="langages_informatique" ModeGeneration="uniforme"/>
 			<Donnee Type="Dictionnaire" NomColonne="Médicament" NomDictionnaire="medic" ModeGeneration="uniforme"/>
 			<Donnee Type="Dictionnaire" NomColonne="Métier" NomDictionnaire="metiers" ModeGeneration="uniforme"/>
 			<Donnee Type="Dictionnaire" NomColonne="Molécules" NomDictionnaire="molecules" ModeGeneration="uniforme"/>
