@@ -232,6 +232,7 @@ if (!$dom->load($fichier) ||( !$dom->schemaValidate("udg.xsd"))) {// validation 
                                 $donnees[$lignemat] = array();
                                 $donnees[$lignemat] = $dicos[1];
                                 array_unshift($donnees[$lignemat], 'Sexe');
+                                array_unshift($donnees[$lignemat], array('reference' => false));                                
 
                                 $DonneesRapport[$lignemat] = array();
                                 $DonneesRapport[$lignemat][1] = 'Sexe';
@@ -245,6 +246,7 @@ if (!$dom->load($fichier) ||( !$dom->schemaValidate("udg.xsd"))) {// validation 
                                 $donnees[$lignemat] = array();
                                 $donnees[$lignemat] = $dicos[1];
                                 array_unshift($donnees[$lignemat], 'CodePostale');
+                                array_unshift($donnees[$lignemat], array('reference' => false));
 
                                 $DonneesRapport[$lignemat] = array();
                                 $DonneesRapport[$lignemat][0] = 'CodePostale';
@@ -253,6 +255,9 @@ if (!$dom->load($fichier) ||( !$dom->schemaValidate("udg.xsd"))) {// validation 
 
 
                         }
+                        echo("Voici : ");
+                        print_r($donnees);
+                        echo ("\n\n");
 
                         $lignemat++;
                         break;

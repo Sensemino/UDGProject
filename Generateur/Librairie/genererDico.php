@@ -35,7 +35,6 @@ function genererDico($nbligne, $NomDonnees, $GenererDep){//remplie un tableau en
 
                 preg_match('/[0-9]+/', $fichier[$ligne], $codePostale);
                 $dicogene[1][$j] = $codePostale[0];
-                print_r($codePostale);
             }
         }
     }
