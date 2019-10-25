@@ -1,0 +1,26 @@
+Exemple de base (Parametre) :
+
+-ajout un id auto increment par defaut
+-nom de projet a renseigner a chaque fois
+-NULL= 0 %
+
+demo1:
+
+-il manque un type String pour les chaine de caractere + REGEX + taille
+-Probleme de coherence sur les prenoms : Jacqueline','Homme' / 'Antoine','Femme'
+
+demo2:
+
+-1% NULL ?
+
+demo3:
+
+-il manque un type String pour les chaine de caractere + REGEX + taille
+-clee étrangère sur auto increment ?
+-phrase ?
+-mask=XXY-999 ?
+-mask=xy_-990 ?
+
+=> definition du format UDG
+
+=> double clée primaire => modification de de FoncEcrireSql.php nécessaire (switch et ajout d'un bouton pour clé primaire personalisée)

@@ -1,0 +1,13 @@
+<Generateur>
+	<Table>
+		<Champs>
+			<Donnee Type="Numerique" NomColonne="quantité" Min="0" Max="100" ModeGeneration="uniforme"/>
+		</Champs>
+		<Parametre>
+			<Sortie SQL="True"/>
+			<Nbligne valeur="100"/>
+			<NomTable nom="produits"/>
+			<Seed valeur="123"/>
+		</Parametre>
+	</Table>
+</Generateur>
