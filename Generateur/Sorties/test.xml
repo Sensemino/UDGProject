@@ -318,4 +318,414 @@
 </_Type_train><_Prénom>Sarah</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>NEAUPHLE LE CHATEAU</_Nom_commune><_38740>19130</_38740><_Type_train>TRAIN CHARBON
 </_Type_train><_Prénom>Colette</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST SOLVE</_Nom_commune><_38740>13780</_38740><_Type_train>TRAIN CHARBON
 </_Type_train><_Prénom>Vincent</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>RIBOUX</_Nom_commune><_38740>81400</_38740><_Type_train>TRAIN CHARBON
-</_Type_train><_Prénom>Philippine</_Prénom><_Femme>Homme</_Femme></ligne></test><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/></Generation>
+</_Type_train><_Prénom>Philippine</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ENTRAIGUES</_Nom_commune><_38740>71800</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Rochelle</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>VAUBAN</_Nom_commune><_38740>9400</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Fernande</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>CAPOULET ET JUNAC</_Nom_commune><_38740>10180</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>François</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST LYE</_Nom_commune><_38740>53970</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Apollinaire</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>L HUISSERIE</_Nom_commune><_38740>57590</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Cerise</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>ALAINCOURT LA COTE</_Nom_commune><_38740>78640</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Sarah</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>NEAUPHLE LE CHATEAU</_Nom_commune><_38740>19130</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Colette</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST SOLVE</_Nom_commune><_38740>13780</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Vincent</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>RIBOUX</_Nom_commune><_38740>81400</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Philippine</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ENTRAIGUES</_Nom_commune><_38740>71800</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Rochelle</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>VAUBAN</_Nom_commune><_38740>9400</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Fernande</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>CAPOULET ET JUNAC</_Nom_commune><_38740>10180</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>François</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST LYE</_Nom_commune><_38740>53970</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Apollinaire</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>L HUISSERIE</_Nom_commune><_38740>57590</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Cerise</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>ALAINCOURT LA COTE</_Nom_commune><_38740>78640</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Sarah</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>NEAUPHLE LE CHATEAU</_Nom_commune><_38740>19130</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Colette</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST SOLVE</_Nom_commune><_38740>13780</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Vincent</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>RIBOUX</_Nom_commune><_38740>81400</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Philippine</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ENTRAIGUES</_Nom_commune><_38740>71800</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Rochelle</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>VAUBAN</_Nom_commune><_38740>9400</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Fernande</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>CAPOULET ET JUNAC</_Nom_commune><_38740>10180</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>François</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST LYE</_Nom_commune><_38740>53970</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Apollinaire</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>L HUISSERIE</_Nom_commune><_38740>57590</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Cerise</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>ALAINCOURT LA COTE</_Nom_commune><_38740>78640</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Sarah</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>NEAUPHLE LE CHATEAU</_Nom_commune><_38740>19130</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Colette</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST SOLVE</_Nom_commune><_38740>13780</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Vincent</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>RIBOUX</_Nom_commune><_38740>81400</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Philippine</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ENTRAIGUES</_Nom_commune><_38740>71800</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Rochelle</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>VAUBAN</_Nom_commune><_38740>9400</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Fernande</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>CAPOULET ET JUNAC</_Nom_commune><_38740>10180</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>François</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST LYE</_Nom_commune><_38740>53970</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Apollinaire</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>L HUISSERIE</_Nom_commune><_38740>57590</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Cerise</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>ALAINCOURT LA COTE</_Nom_commune><_38740>78640</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Sarah</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>NEAUPHLE LE CHATEAU</_Nom_commune><_38740>19130</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Colette</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST SOLVE</_Nom_commune><_38740>13780</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Vincent</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>RIBOUX</_Nom_commune><_38740>81400</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Philippine</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ENTRAIGUES</_Nom_commune><_38740>71800</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Rochelle</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>VAUBAN</_Nom_commune><_38740>9400</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Fernande</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>CAPOULET ET JUNAC</_Nom_commune><_38740>10180</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>François</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST LYE</_Nom_commune><_38740>53970</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Apollinaire</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>L HUISSERIE</_Nom_commune><_38740>57590</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Cerise</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>ALAINCOURT LA COTE</_Nom_commune><_38740>78640</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Sarah</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>NEAUPHLE LE CHATEAU</_Nom_commune><_38740>19130</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Colette</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST SOLVE</_Nom_commune><_38740>13780</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Vincent</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>RIBOUX</_Nom_commune><_38740>81400</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Philippine</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ENTRAIGUES</_Nom_commune><_38740>71800</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Rochelle</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>VAUBAN</_Nom_commune><_38740>9400</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Fernande</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>CAPOULET ET JUNAC</_Nom_commune><_38740>10180</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>François</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST LYE</_Nom_commune><_38740>53970</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Apollinaire</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>L HUISSERIE</_Nom_commune><_38740>57590</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Cerise</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>ALAINCOURT LA COTE</_Nom_commune><_38740>78640</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Sarah</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>NEAUPHLE LE CHATEAU</_Nom_commune><_38740>19130</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Colette</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST SOLVE</_Nom_commune><_38740>13780</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Vincent</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>RIBOUX</_Nom_commune><_38740>81400</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Philippine</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ENTRAIGUES</_Nom_commune><_38740>71800</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Rochelle</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>VAUBAN</_Nom_commune><_38740>9400</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Fernande</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>CAPOULET ET JUNAC</_Nom_commune><_38740>10180</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>François</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST LYE</_Nom_commune><_38740>53970</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Apollinaire</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>L HUISSERIE</_Nom_commune><_38740>57590</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Cerise</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>ALAINCOURT LA COTE</_Nom_commune><_38740>78640</_38740><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Sarah</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>NEAUPHLE LE CHATEAU</_Nom_commune><_38740>19130</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Colette</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST SOLVE</_Nom_commune><_38740>13780</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Vincent</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>RIBOUX</_Nom_commune><_38740>81400</_38740><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Philippine</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ENTRAIGUES</_Nom_commune><_CodePostale>38740</_CodePostale><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Rochelle</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>VAUBAN</_Nom_commune><_CodePostale>71800</_CodePostale><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Fernande</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>CAPOULET ET JUNAC</_Nom_commune><_CodePostale>9400</_CodePostale><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>François</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST LYE</_Nom_commune><_CodePostale>10180</_CodePostale><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Apollinaire</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>L HUISSERIE</_Nom_commune><_CodePostale>53970</_CodePostale><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Cerise</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>ALAINCOURT LA COTE</_Nom_commune><_CodePostale>57590</_CodePostale><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Sarah</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>NEAUPHLE LE CHATEAU</_Nom_commune><_CodePostale>78640</_CodePostale><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Colette</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ST SOLVE</_Nom_commune><_CodePostale>19130</_CodePostale><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Vincent</_Prénom><_Femme>Femme</_Femme></ligne><ligne><_Nom_commune>RIBOUX</_Nom_commune><_CodePostale>13780</_CodePostale><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Philippine</_Prénom><_Femme>Homme</_Femme></ligne><ligne><_Nom_commune>ENTRAIGUES</_Nom_commune><_CodePostale>38740</_CodePostale><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Rochelle</_Prénom><_Sexe>Femme</_Sexe></ligne><ligne><_Nom_commune>VAUBAN</_Nom_commune><_CodePostale>71800</_CodePostale><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Fernande</_Prénom><_Sexe>Femme</_Sexe></ligne><ligne><_Nom_commune>CAPOULET ET JUNAC</_Nom_commune><_CodePostale>9400</_CodePostale><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>François</_Prénom><_Sexe>Homme</_Sexe></ligne><ligne><_Nom_commune>ST LYE</_Nom_commune><_CodePostale>10180</_CodePostale><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Apollinaire</_Prénom><_Sexe>Homme</_Sexe></ligne><ligne><_Nom_commune>L HUISSERIE</_Nom_commune><_CodePostale>53970</_CodePostale><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Cerise</_Prénom><_Sexe>Femme</_Sexe></ligne><ligne><_Nom_commune>ALAINCOURT LA COTE</_Nom_commune><_CodePostale>57590</_CodePostale><_Type_train>TER EXPRESS
+</_Type_train><_Prénom>Sarah</_Prénom><_Sexe>Femme</_Sexe></ligne><ligne><_Nom_commune>NEAUPHLE LE CHATEAU</_Nom_commune><_CodePostale>78640</_CodePostale><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Colette</_Prénom><_Sexe>Femme</_Sexe></ligne><ligne><_Nom_commune>ST SOLVE</_Nom_commune><_CodePostale>19130</_CodePostale><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Vincent</_Prénom><_Sexe>Homme</_Sexe></ligne><ligne><_Nom_commune>RIBOUX</_Nom_commune><_CodePostale>13780</_CodePostale><_Type_train>TRAIN CHARBON
+</_Type_train><_Prénom>Philippine</_Prénom><_Sexe>Femme</_Sexe></ligne><ligne><_Nomdelacommune>ECHENOZ LA MELINE</_Nomdelacommune><_CodePostale>70000</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>Guilmette
+</_Nom><_Prénom>Rochelle</_Prénom><_Sexe>Femme</_Sexe><_Acteur>Stephen Campbell Moore
+</_Acteur><_Producteur>Joseph Sistrom
+</_Producteur><_Réalisateur>Kijû Yoshida
+</_Réalisateur><_Scénariste/><_Titredufilm>Les Disparus
+</_Titredufilm><_Sociétédeproduction>MVMA Productions
+</_Sociétédeproduction><_Département>MANCHE
+</_Département><_EntreprisePharmaceutique>LABORATOIRES OPODEX INDUSTRIE
+</_EntreprisePharmaceutique><_Événementhistorique>Août 1945 : Hiroshima.
+</_Événementhistorique><_Langageinformatique>Orwell
+</_Langageinformatique><_Médicament>ATHYMIL 60 mg cp pellic séc
+</_Médicament><_Métier>Conducteur PL
+</_Métier><_Molécules>Ba
+</_Molécules><_Nationalité/><_Pays>VANUATU
+</_Pays><_Personnagehistorique>Phillips Cosby
+</_Personnagehistorique><_Référencedelarticle>NZ01851
+</_Référencedelarticle><_Région>Alsace-Champagne-Ardenne-Lorraine 
+</_Région></ligne><ligne><_Nomdelacommune>RIGNY LE FERRON</_Nomdelacommune><_CodePostale>10160</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>Quenneville
+</_Nom><_Prénom>Vespasien</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Eligio Zamara
+</_Acteur><_Producteur>Michael Wayne
+</_Producteur><_Réalisateur>Jacques Tati
+</_Réalisateur><_Scénariste/><_Titredufilm>Speed Racer
+</_Titredufilm><_Sociétédeproduction>Aloest productions
+</_Sociétédeproduction><_Département>CHER
+</_Département><_EntreprisePharmaceutique>LABORATOIRES M. RICHARD
+</_EntreprisePharmaceutique><_Événementhistorique>1589 : Assassinat du roi Henri III, sans héritier,c’est la fin de la dynastie des Valois. Henri de Navarre devient le premier roiprotestant et fonde la dynastie des Bourbons. C’est le début de l’absolutisme.
+</_Événementhistorique><_Langageinformatique>Boomerang
+</_Langageinformatique><_Médicament>CARBOSYMAG gél
+</_Médicament><_Métier>Tourneur
+</_Métier><_Molécules>Y
+</_Molécules><_Nationalité/><_Pays>ROYAUME-UNI
+</_Pays><_Personnagehistorique>Douglas Brymner
+</_Personnagehistorique><_Référencedelarticle>YK27867</_Référencedelarticle><_Région>Aquitaine-Limousin-Poitou-Charentes 
+</_Région></ligne><ligne><_Nomdelacommune>SOMMECAISE</_Nomdelacommune><_CodePostale>89110</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>Desrosiers
+</_Nom><_Prénom>Herbert</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Wim Sonneveld
+</_Acteur><_Producteur>Alan J. Pakula
+</_Producteur><_Réalisateur>Nobuhiro Suwa
+</_Réalisateur><_Scénariste/><_Titredufilm>Effraction
+</_Titredufilm><_Sociétédeproduction>HBO Films
+</_Sociétédeproduction><_Département>CORREZE
+</_Département><_EntreprisePharmaceutique>LABORATOIRES GALENIQUES VERNIN
+</_EntreprisePharmaceutique><_Événementhistorique>496 : Baptême de Clovis et début de la dynastiemérovingienne.
+</_Événementhistorique><_Langageinformatique>MaxScript langage interne de 3D Studio Max
+</_Langageinformatique><_Médicament>ATEBEMYXINE collyre sol
+</_Médicament><_Métier>Téléconseiller financier
+</_Métier><_Molécules>Au
+</_Molécules><_Nationalité/><_Pays>BAHREIN
+</_Pays><_Personnagehistorique>Jean-Baptiste Le Moyne de Bienville
+</_Personnagehistorique><_Référencedelarticle>NZ01855
+</_Référencedelarticle><_Région>Mayotte 
+</_Région></ligne><ligne><_Nomdelacommune>COULANGES LA VINEUSE</_Nomdelacommune><_CodePostale>89580</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>Quenneville
+</_Nom><_Prénom>Edmond</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Briem Anita
+</_Acteur><_Producteur>Greg Mottola
+</_Producteur><_Réalisateur>Alex Joffé
+</_Réalisateur><_Scénariste/><_Titredufilm>Die Hard 4 - retour en enfer
+</_Titredufilm><_Sociétédeproduction>Lereby Productions
+</_Sociétédeproduction><_Département>DROME
+</_Département><_EntreprisePharmaceutique>LABORATOIRES PIONNEAU
+</_EntreprisePharmaceutique><_Événementhistorique>XVI ème siècle : Génocide des Indiens du Nouveau Monde. Mouvement humaniste en Europe.
+</_Événementhistorique><_Langageinformatique>SISAL
+</_Langageinformatique><_Médicament>ACCOFIL 48 MU/0,5 ml sol inj/p perf en seringue préremplie
+</_Médicament><_Métier>Analyse Risques
+</_Métier><_Molécules>Lv
+</_Molécules><_Nationalité/><_Pays>FEROE (ILES)
+</_Pays><_Personnagehistorique>Jeanne Mance
+</_Personnagehistorique><_Référencedelarticle>NZ01851
+</_Référencedelarticle><_Région>Corse</_Région></ligne><ligne><_Nomdelacommune>CARMAUX</_Nomdelacommune><_CodePostale>81400</_CodePostale><_Typedetrain>TRAIN CHARBON
+</_Typedetrain><_Nom>LaCaille
+</_Nom><_Prénom>Hector</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Ludovic Francois
+</_Acteur><_Producteur>Eric Stoltz
+</_Producteur><_Réalisateur>Larry Clark
+</_Réalisateur><_Scénariste/><_Titredufilm>La Légende de Beowulf
+</_Titredufilm><_Sociétédeproduction>Kourtrajmé
+</_Sociétédeproduction><_Département>DEUX-SEVRES
+</_Département><_EntreprisePharmaceutique>ILTOO PHARMA
+</_EntreprisePharmaceutique><_Événementhistorique>1936-1938 : Gouvernement du Front Populaire en France et création de lois sociales.
+</_Événementhistorique><_Langageinformatique>GOTO++
+</_Langageinformatique><_Médicament>AZATHIOPRINE TEVA 50 mg cp pellic
+</_Médicament><_Métier>Agent de fabrication automobile
+</_Métier><_Molécules>Cf
+</_Molécules><_Nationalité/><_Pays>PORTUGAL
+</_Pays><_Personnagehistorique>William Price
+</_Personnagehistorique><_Référencedelarticle>NZ01855
+</_Référencedelarticle><_Région>Languedoc-Roussillon-Midi-Pyrénées 
+</_Région></ligne><ligne><_Nomdelacommune>TUBUAI</_Nomdelacommune><_CodePostale>98754</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>Bouchard
+</_Nom><_Prénom>Alexandrie</_Prénom><_Sexe>Femme</_Sexe><_Acteur>Mario Cimarro
+</_Acteur><_Producteur>Ronald M. Bozman
+</_Producteur><_Réalisateur>Dave Fleischer
+</_Réalisateur><_Scénariste/><_Titredufilm>Crime City
+</_Titredufilm><_Sociétédeproduction>Metropolitan Filmexport
+</_Sociétédeproduction><_Département>JURA
+</_Département><_EntreprisePharmaceutique>BAYER HEALTHCARE SAS
+</_EntreprisePharmaceutique><_Événementhistorique>1905 : Loi de séparation de l’église et de l’Etat.
+</_Événementhistorique><_Langageinformatique>Franz Lisp
+</_Langageinformatique><_Médicament>ALGINATE DE SODIUM/BICARBONATE DE SODIUM MYLAN susp buv en sachet
+</_Médicament><_Métier>Ajusteur
+</_Métier><_Molécules>Uuo
+</_Molécules><_Nationalité/><_Pays>AFGHANISTAN
+</_Pays><_Personnagehistorique>Leon Joseph Koerner
+</_Personnagehistorique><_Référencedelarticle>NZ01856
+</_Référencedelarticle><_Région>Normandie 
+</_Région></ligne><ligne><_Nomdelacommune>EFFRY</_Nomdelacommune><_CodePostale>2500</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>LHiver
+</_Nom><_Prénom>Papillion</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Fabrizio Moroni
+</_Acteur><_Producteur>Rob Burnett
+</_Producteur><_Réalisateur>Kim Ke-young
+</_Réalisateur><_Scénariste/><_Titredufilm>Kiss kiss, bang bang
+</_Titredufilm><_Sociétédeproduction>SouthWind Productions
+</_Sociétédeproduction><_Département>OISE
+</_Département><_EntreprisePharmaceutique>LABORATOIRES MAYOLY SPINDLER
+</_EntreprisePharmaceutique><_Événementhistorique>8 mai 1945 : Capitulation allemande.
+</_Événementhistorique><_Langageinformatique>D
+</_Langageinformatique><_Médicament>ACETATE DE CYPROTERONE EG 100 mg cp séc
+</_Médicament><_Métier>Monteur câbleur aéronautique
+</_Métier><_Molécules>Es
+</_Molécules><_Nationalité/><_Pays>HEARD ET MACDONALD (ILES)
+</_Pays><_Personnagehistorique>Martin Frobisher
+</_Personnagehistorique><_Référencedelarticle>NZ01855
+</_Référencedelarticle><_Région>Île-de-France 
+</_Région></ligne><ligne><_Nomdelacommune>OCTON</_Nomdelacommune><_CodePostale>34800</_CodePostale><_Typedetrain>TRAIN CHARBON
+</_Typedetrain><_Nom>Picard
+</_Nom><_Prénom>Théo</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Mohamed Akil
+</_Acteur><_Producteur>Jay Presson Allen
+</_Producteur><_Réalisateur>Frédéric Videau
+</_Réalisateur><_Scénariste/><_Titredufilm>Mamma Mia !
+</_Titredufilm><_Sociétédeproduction>Vitagraph Company of America
+</_Sociétédeproduction><_Département>ALLIER
+</_Département><_EntreprisePharmaceutique>CRISTERS
+</_EntreprisePharmaceutique><_Événementhistorique>1885 : Indochine française.
+</_Événementhistorique><_Langageinformatique>Visual Objects
+</_Langageinformatique><_Médicament>BUDESONIDE CRISTERS 0,5 mg/2 ml susp p inhal p nébulis en récipient unidose
+</_Médicament><_Métier>Tuyauteur aéronautique
+</_Métier><_Molécules>V
+</_Molécules><_Nationalité/><_Pays>SAINT-CHRISTOPHE-ET-NIEVES
+</_Pays><_Personnagehistorique>Sir Gilbert Parker, 1st Baronet
+</_Personnagehistorique><_Référencedelarticle>YK27869
+</_Référencedelarticle><_Région>Bretagne 
+</_Région></ligne><ligne><_Nomdelacommune>ROSSFELD</_Nomdelacommune><_CodePostale>67230</_CodePostale><_Typedetrain>TRAIN CHARBON
+</_Typedetrain><_Nom>Cartier
+</_Nom><_Prénom>Angèle</_Prénom><_Sexe>Femme</_Sexe><_Acteur>Don Battee
+</_Acteur><_Producteur>Tony Anthony
+</_Producteur><_Réalisateur>William Dieterle
+</_Réalisateur><_Scénariste/><_Titredufilm>A contre-courant
+</_Titredufilm><_Sociétédeproduction>Little Bear
+</_Sociétédeproduction><_Département>VAUCLUSE
+</_Département><_EntreprisePharmaceutique>INTER.MED
+</_EntreprisePharmaceutique><_Événementhistorique>1885 : Indochine française.
+</_Événementhistorique><_Langageinformatique>GDL
+</_Langageinformatique><_Médicament>CALCIDIA 1,54 g glé p susp buv
+</_Médicament><_Métier>Maçon VRD
+</_Métier><_Molécules>He
+</_Molécules><_Nationalité/><_Pays>POLYNESIE FRANCAISE
+</_Pays><_Personnagehistorique>William Molson
+</_Personnagehistorique><_Référencedelarticle>YK27869
+</_Référencedelarticle><_Région>Centre-Val de Loire 
+</_Région></ligne><ligne><_Nomdelacommune>ECHENOZ LA MELINE</_Nomdelacommune><_CodePostale>70000</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>Guilmette
+</_Nom><_Prénom>Rochelle</_Prénom><_Sexe>Femme</_Sexe><_Acteur>Stephen Campbell Moore
+</_Acteur><_Producteur>Joseph Sistrom
+</_Producteur><_Réalisateur>Kijû Yoshida
+</_Réalisateur><_Scénariste></_Scénariste><_Titredufilm>Les Disparus
+</_Titredufilm><_Sociétédeproduction>MVMA Productions
+</_Sociétédeproduction><_Département>MANCHE
+</_Département><_EntreprisePharmaceutique>LABORATOIRES OPODEX INDUSTRIE
+</_EntreprisePharmaceutique><_Événementhistorique>Août 1945 : Hiroshima.
+</_Événementhistorique><_Langageinformatique>Orwell
+</_Langageinformatique><_Médicament>ATHYMIL 60 mg cp pellic séc
+</_Médicament><_Métier>Conducteur PL
+</_Métier><_Molécules>Ba
+</_Molécules><_Nationalité>Colombien
+</_Nationalité><_Pays>VANUATU
+</_Pays><_Personnagehistorique>Phillips Cosby
+</_Personnagehistorique><_Référencedelarticle>NZ01851
+</_Référencedelarticle><_Région>Alsace-Champagne-Ardenne-Lorraine 
+</_Région></ligne><ligne><_Nomdelacommune>RIGNY LE FERRON</_Nomdelacommune><_CodePostale>10160</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>Quenneville
+</_Nom><_Prénom>Vespasien</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Eligio Zamara
+</_Acteur><_Producteur>Michael Wayne
+</_Producteur><_Réalisateur>Jacques Tati
+</_Réalisateur><_Scénariste></_Scénariste><_Titredufilm>Speed Racer
+</_Titredufilm><_Sociétédeproduction>Aloest productions
+</_Sociétédeproduction><_Département>CHER
+</_Département><_EntreprisePharmaceutique>LABORATOIRES M. RICHARD
+</_EntreprisePharmaceutique><_Événementhistorique>1589 : Assassinat du roi Henri III, sans héritier,c’est la fin de la dynastie des Valois. Henri de Navarre devient le premier roiprotestant et fonde la dynastie des Bourbons. C’est le début de l’absolutisme.
+</_Événementhistorique><_Langageinformatique>Boomerang
+</_Langageinformatique><_Médicament>CARBOSYMAG gél
+</_Médicament><_Métier>Tourneur
+</_Métier><_Molécules>Y
+</_Molécules><_Nationalité>Cubain
+</_Nationalité><_Pays>ROYAUME-UNI
+</_Pays><_Personnagehistorique>Douglas Brymner
+</_Personnagehistorique><_Référencedelarticle>YK27867</_Référencedelarticle><_Région>Aquitaine-Limousin-Poitou-Charentes 
+</_Région></ligne><ligne><_Nomdelacommune>SOMMECAISE</_Nomdelacommune><_CodePostale>89110</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>Desrosiers
+</_Nom><_Prénom>Herbert</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Wim Sonneveld
+</_Acteur><_Producteur>Alan J. Pakula
+</_Producteur><_Réalisateur>Nobuhiro Suwa
+</_Réalisateur><_Scénariste></_Scénariste><_Titredufilm>Effraction
+</_Titredufilm><_Sociétédeproduction>HBO Films
+</_Sociétédeproduction><_Département>CORREZE
+</_Département><_EntreprisePharmaceutique>LABORATOIRES GALENIQUES VERNIN
+</_EntreprisePharmaceutique><_Événementhistorique>496 : Baptême de Clovis et début de la dynastiemérovingienne.
+</_Événementhistorique><_Langageinformatique>MaxScript langage interne de 3D Studio Max
+</_Langageinformatique><_Médicament>ATEBEMYXINE collyre sol
+</_Médicament><_Métier>Téléconseiller financier
+</_Métier><_Molécules>Au
+</_Molécules><_Nationalité>Arubais
+</_Nationalité><_Pays>BAHREIN
+</_Pays><_Personnagehistorique>Jean-Baptiste Le Moyne de Bienville
+</_Personnagehistorique><_Référencedelarticle>NZ01855
+</_Référencedelarticle><_Région>Mayotte 
+</_Région></ligne><ligne><_Nomdelacommune>COULANGES LA VINEUSE</_Nomdelacommune><_CodePostale>89580</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>Quenneville
+</_Nom><_Prénom>Edmond</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Briem Anita
+</_Acteur><_Producteur>Greg Mottola
+</_Producteur><_Réalisateur>Alex Joffé
+</_Réalisateur><_Scénariste></_Scénariste><_Titredufilm>Die Hard 4 - retour en enfer
+</_Titredufilm><_Sociétédeproduction>Lereby Productions
+</_Sociétédeproduction><_Département>DROME
+</_Département><_EntreprisePharmaceutique>LABORATOIRES PIONNEAU
+</_EntreprisePharmaceutique><_Événementhistorique>XVI ème siècle : Génocide des Indiens du Nouveau Monde. Mouvement humaniste en Europe.
+</_Événementhistorique><_Langageinformatique>SISAL
+</_Langageinformatique><_Médicament>ACCOFIL 48 MU/0,5 ml sol inj/p perf en seringue préremplie
+</_Médicament><_Métier>Analyse Risques
+</_Métier><_Molécules>Lv
+</_Molécules><_Nationalité>Polonais
+</_Nationalité><_Pays>FEROE (ILES)
+</_Pays><_Personnagehistorique>Jeanne Mance
+</_Personnagehistorique><_Référencedelarticle>NZ01851
+</_Référencedelarticle><_Région>Corse</_Région></ligne><ligne><_Nomdelacommune>CARMAUX</_Nomdelacommune><_CodePostale>81400</_CodePostale><_Typedetrain>TRAIN CHARBON
+</_Typedetrain><_Nom>LaCaille
+</_Nom><_Prénom>Hector</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Ludovic Francois
+</_Acteur><_Producteur>Eric Stoltz
+</_Producteur><_Réalisateur>Larry Clark
+</_Réalisateur><_Scénariste></_Scénariste><_Titredufilm>La Légende de Beowulf
+</_Titredufilm><_Sociétédeproduction>Kourtrajmé
+</_Sociétédeproduction><_Département>DEUX-SEVRES
+</_Département><_EntreprisePharmaceutique>ILTOO PHARMA
+</_EntreprisePharmaceutique><_Événementhistorique>1936-1938 : Gouvernement du Front Populaire en France et création de lois sociales.
+</_Événementhistorique><_Langageinformatique>GOTO++
+</_Langageinformatique><_Médicament>AZATHIOPRINE TEVA 50 mg cp pellic
+</_Médicament><_Métier>Agent de fabrication automobile
+</_Métier><_Molécules>Cf
+</_Molécules><_Nationalité>Danois
+</_Nationalité><_Pays>PORTUGAL
+</_Pays><_Personnagehistorique>William Price
+</_Personnagehistorique><_Référencedelarticle>NZ01855
+</_Référencedelarticle><_Région>Languedoc-Roussillon-Midi-Pyrénées 
+</_Région></ligne><ligne><_Nomdelacommune>TUBUAI</_Nomdelacommune><_CodePostale>98754</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>Bouchard
+</_Nom><_Prénom>Alexandrie</_Prénom><_Sexe>Femme</_Sexe><_Acteur>Mario Cimarro
+</_Acteur><_Producteur>Ronald M. Bozman
+</_Producteur><_Réalisateur>Dave Fleischer
+</_Réalisateur><_Scénariste></_Scénariste><_Titredufilm>Crime City
+</_Titredufilm><_Sociétédeproduction>Metropolitan Filmexport
+</_Sociétédeproduction><_Département>JURA
+</_Département><_EntreprisePharmaceutique>BAYER HEALTHCARE SAS
+</_EntreprisePharmaceutique><_Événementhistorique>1905 : Loi de séparation de l’église et de l’Etat.
+</_Événementhistorique><_Langageinformatique>Franz Lisp
+</_Langageinformatique><_Médicament>ALGINATE DE SODIUM/BICARBONATE DE SODIUM MYLAN susp buv en sachet
+</_Médicament><_Métier>Ajusteur
+</_Métier><_Molécules>Uuo
+</_Molécules><_Nationalité>Mexicain
+</_Nationalité><_Pays>AFGHANISTAN
+</_Pays><_Personnagehistorique>Leon Joseph Koerner
+</_Personnagehistorique><_Référencedelarticle>NZ01856
+</_Référencedelarticle><_Région>Normandie 
+</_Région></ligne><ligne><_Nomdelacommune>EFFRY</_Nomdelacommune><_CodePostale>2500</_CodePostale><_Typedetrain>TER EXPRESS
+</_Typedetrain><_Nom>LHiver
+</_Nom><_Prénom>Papillion</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Fabrizio Moroni
+</_Acteur><_Producteur>Rob Burnett
+</_Producteur><_Réalisateur>Kim Ke-young
+</_Réalisateur><_Scénariste></_Scénariste><_Titredufilm>Kiss kiss, bang bang
+</_Titredufilm><_Sociétédeproduction>SouthWind Productions
+</_Sociétédeproduction><_Département>OISE
+</_Département><_EntreprisePharmaceutique>LABORATOIRES MAYOLY SPINDLER
+</_EntreprisePharmaceutique><_Événementhistorique>8 mai 1945 : Capitulation allemande.
+</_Événementhistorique><_Langageinformatique>D
+</_Langageinformatique><_Médicament>ACETATE DE CYPROTERONE EG 100 mg cp séc
+</_Médicament><_Métier>Monteur câbleur aéronautique
+</_Métier><_Molécules>Es
+</_Molécules><_Nationalité>Botswanais
+</_Nationalité><_Pays>HEARD ET MACDONALD (ILES)
+</_Pays><_Personnagehistorique>Martin Frobisher
+</_Personnagehistorique><_Référencedelarticle>NZ01855
+</_Référencedelarticle><_Région>Île-de-France 
+</_Région></ligne><ligne><_Nomdelacommune>OCTON</_Nomdelacommune><_CodePostale>34800</_CodePostale><_Typedetrain>TRAIN CHARBON
+</_Typedetrain><_Nom>Picard
+</_Nom><_Prénom>Théo</_Prénom><_Sexe>Homme</_Sexe><_Acteur>Mohamed Akil
+</_Acteur><_Producteur>Jay Presson Allen
+</_Producteur><_Réalisateur>Frédéric Videau
+</_Réalisateur><_Scénariste></_Scénariste><_Titredufilm>Mamma Mia !
+</_Titredufilm><_Sociétédeproduction>Vitagraph Company of America
+</_Sociétédeproduction><_Département>ALLIER
+</_Département><_EntreprisePharmaceutique>CRISTERS
+</_EntreprisePharmaceutique><_Événementhistorique>1885 : Indochine française.
+</_Événementhistorique><_Langageinformatique>Visual Objects
+</_Langageinformatique><_Médicament>BUDESONIDE CRISTERS 0,5 mg/2 ml susp p inhal p nébulis en récipient unidose
+</_Médicament><_Métier>Tuyauteur aéronautique
+</_Métier><_Molécules>V
+</_Molécules><_Nationalité>Ecossais
+</_Nationalité><_Pays>SAINT-CHRISTOPHE-ET-NIEVES
+</_Pays><_Personnagehistorique>Sir Gilbert Parker, 1st Baronet
+</_Personnagehistorique><_Référencedelarticle>YK27869
+</_Référencedelarticle><_Région>Bretagne 
+</_Région></ligne><ligne><_Nomdelacommune>ROSSFELD</_Nomdelacommune><_CodePostale>67230</_CodePostale><_Typedetrain>TRAIN CHARBON
+</_Typedetrain><_Nom>Cartier
+</_Nom><_Prénom>Angèle</_Prénom><_Sexe>Femme</_Sexe><_Acteur>Don Battee
+</_Acteur><_Producteur>Tony Anthony
+</_Producteur><_Réalisateur>William Dieterle
+</_Réalisateur><_Scénariste></_Scénariste><_Titredufilm>A contre-courant
+</_Titredufilm><_Sociétédeproduction>Little Bear
+</_Sociétédeproduction><_Département>VAUCLUSE
+</_Département><_EntreprisePharmaceutique>INTER.MED
+</_EntreprisePharmaceutique><_Événementhistorique>1885 : Indochine française.
+</_Événementhistorique><_Langageinformatique>GDL
+</_Langageinformatique><_Médicament>CALCIDIA 1,54 g glé p susp buv
+</_Médicament><_Métier>Maçon VRD
+</_Métier><_Molécules>He
+</_Molécules><_Nationalité>Georgien
+</_Nationalité><_Pays>POLYNESIE FRANCAISE
+</_Pays><_Personnagehistorique>William Molson
+</_Personnagehistorique><_Référencedelarticle>YK27869
+</_Référencedelarticle><_Région>Centre-Val de Loire 
+</_Région></ligne></test><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/><test/></Generation>

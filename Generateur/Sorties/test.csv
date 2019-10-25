@@ -1,21 +1,199 @@
-Nom_commune;38740;Type_train;Prénom;Femme;
-ENTRAIGUES;71800;TRAIN CHARBON
-;Rochelle;Femme;
-VAUBAN;9400;TER EXPRESS
-;Fernande;Homme;
-CAPOULET ET JUNAC;10180;TER EXPRESS
-;François;Homme;
-ST LYE;53970;TRAIN CHARBON
-;Apollinaire;Femme;
-L HUISSERIE;57590;TER EXPRESS
-;Cerise;Femme;
-ALAINCOURT LA COTE;78640;TER EXPRESS
-;Sarah;Femme;
-NEAUPHLE LE CHATEAU;19130;TRAIN CHARBON
-;Colette;Homme;
-ST SOLVE;13780;TRAIN CHARBON
-;Vincent;Femme;
-RIBOUX;81400;TRAIN CHARBON
-;Philippine;Homme;
-LABASTIDE GABAUSSE;TER EXPRESS
-;Adam;
+Nom de la commune;CodePostale;Type de train;Nom;Prénom;Sexe;Acteur;Producteur;Réalisateur;Scénariste;Titre du film;Société de production ;Département;Entreprise Pharmaceutique;Événement historique;Langage informatique;Médicament;Métier;Molécules;Nationalité;Pays;Personnage historique;Référence de l article;Région;
+ECHENOZ LA MELINE;70000;TER EXPRESS
+;Guilmette
+;Rochelle;Femme;Stephen Campbell Moore
+;Joseph Sistrom
+;Kijû Yoshida
+;;Les Disparus
+;MVMA Productions
+;MANCHE
+;LABORATOIRES OPODEX INDUSTRIE
+;Août 1945 : Hiroshima.
+;Orwell
+;ATHYMIL 60 mg cp pellic séc
+;Conducteur PL
+;Ba
+;Colombien
+;VANUATU
+;Phillips Cosby
+;NZ01851
+;Alsace-Champagne-Ardenne-Lorraine 
+;
+RIGNY LE FERRON;10160;TER EXPRESS
+;Quenneville
+;Vespasien;Homme;Eligio Zamara
+;Michael Wayne
+;Jacques Tati
+;;Speed Racer
+;Aloest productions
+;CHER
+;LABORATOIRES M. RICHARD
+;1589 : Assassinat du roi Henri III, sans héritier,c’est la fin de la dynastie des Valois. Henri de Navarre devient le premier roiprotestant et fonde la dynastie des Bourbons. C’est le début de l’absolutisme.
+;Boomerang
+;CARBOSYMAG gél
+;Tourneur
+;Y
+;Cubain
+;ROYAUME-UNI
+;Douglas Brymner
+;YK27867;Aquitaine-Limousin-Poitou-Charentes 
+;
+SOMMECAISE;89110;TER EXPRESS
+;Desrosiers
+;Herbert;Homme;Wim Sonneveld
+;Alan J. Pakula
+;Nobuhiro Suwa
+;;Effraction
+;HBO Films
+;CORREZE
+;LABORATOIRES GALENIQUES VERNIN
+;496 : Baptême de Clovis et début de la dynastiemérovingienne.
+;MaxScript langage interne de 3D Studio Max
+;ATEBEMYXINE collyre sol
+;Téléconseiller financier
+;Au
+;Arubais
+;BAHREIN
+;Jean-Baptiste Le Moyne de Bienville
+;NZ01855
+;Mayotte 
+;
+COULANGES LA VINEUSE;89580;TER EXPRESS
+;Quenneville
+;Edmond;Homme;Briem Anita
+;Greg Mottola
+;Alex Joffé
+;;Die Hard 4 - retour en enfer
+;Lereby Productions
+;DROME
+;LABORATOIRES PIONNEAU
+;XVI ème siècle : Génocide des Indiens du Nouveau Monde. Mouvement humaniste en Europe.
+;SISAL
+;ACCOFIL 48 MU/0,5 ml sol inj/p perf en seringue préremplie
+;Analyse Risques
+;Lv
+;Polonais
+;FEROE (ILES)
+;Jeanne Mance
+;NZ01851
+;Corse;
+CARMAUX;81400;TRAIN CHARBON
+;LaCaille
+;Hector;Homme;Ludovic Francois
+;Eric Stoltz
+;Larry Clark
+;;La Légende de Beowulf
+;Kourtrajmé
+;DEUX-SEVRES
+;ILTOO PHARMA
+;1936-1938 : Gouvernement du Front Populaire en France et création de lois sociales.
+;GOTO++
+;AZATHIOPRINE TEVA 50 mg cp pellic
+;Agent de fabrication automobile
+;Cf
+;Danois
+;PORTUGAL
+;William Price
+;NZ01855
+;Languedoc-Roussillon-Midi-Pyrénées 
+;
+TUBUAI;98754;TER EXPRESS
+;Bouchard
+;Alexandrie;Femme;Mario Cimarro
+;Ronald M. Bozman
+;Dave Fleischer
+;;Crime City
+;Metropolitan Filmexport
+;JURA
+;BAYER HEALTHCARE SAS
+;1905 : Loi de séparation de l’église et de l’Etat.
+;Franz Lisp
+;ALGINATE DE SODIUM/BICARBONATE DE SODIUM MYLAN susp buv en sachet
+;Ajusteur
+;Uuo
+;Mexicain
+;AFGHANISTAN
+;Leon Joseph Koerner
+;NZ01856
+;Normandie 
+;
+EFFRY;2500;TER EXPRESS
+;LHiver
+;Papillion;Homme;Fabrizio Moroni
+;Rob Burnett
+;Kim Ke-young
+;;Kiss kiss, bang bang
+;SouthWind Productions
+;OISE
+;LABORATOIRES MAYOLY SPINDLER
+;8 mai 1945 : Capitulation allemande.
+;D
+;ACETATE DE CYPROTERONE EG 100 mg cp séc
+;Monteur câbleur aéronautique
+;Es
+;Botswanais
+;HEARD ET MACDONALD (ILES)
+;Martin Frobisher
+;NZ01855
+;Île-de-France 
+;
+OCTON;34800;TRAIN CHARBON
+;Picard
+;Théo;Homme;Mohamed Akil
+;Jay Presson Allen
+;Frédéric Videau
+;;Mamma Mia !
+;Vitagraph Company of America
+;ALLIER
+;CRISTERS
+;1885 : Indochine française.
+;Visual Objects
+;BUDESONIDE CRISTERS 0,5 mg/2 ml susp p inhal p nébulis en récipient unidose
+;Tuyauteur aéronautique
+;V
+;Ecossais
+;SAINT-CHRISTOPHE-ET-NIEVES
+;Sir Gilbert Parker, 1st Baronet
+;YK27869
+;Bretagne 
+;
+ROSSFELD;67230;TRAIN CHARBON
+;Cartier
+;Angèle;Femme;Don Battee
+;Tony Anthony
+;William Dieterle
+;;A contre-courant
+;Little Bear
+;VAUCLUSE
+;INTER.MED
+;1885 : Indochine française.
+;GDL
+;CALCIDIA 1,54 g glé p susp buv
+;Maçon VRD
+;He
+;Georgien
+;POLYNESIE FRANCAISE
+;William Molson
+;YK27869
+;Centre-Val de Loire 
+;
+COULONGES THOUARSAIS;79330;TER EXPRESS
+;Lafreniere
+;Nazaire;Homme;Earl Pastko
+;Steve Starkey
+;Mervyn Leroy
+;;La force du pardon (TV)
+;American Zoetrope
+;OISE
+;GENZYME POLYCLONALS SAS
+;1661-1715 : Début du règne personnel de Louis XIV.
+;Amiga E
+;CANDESARTAN MYLAN 8 mg cp séc
+;Dessinateur
+;Os
+;Slovaque
+;LAOS
+;Susan Louisa Moir Allison
+;NZ01851
+;Île-de-France 
+;

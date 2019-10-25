@@ -1,0 +1,68 @@
+<!-- EXERCICE 1 -->
+<!--
+<Generateur>
+	<Table>
+		<Champs>
+			<Donnee Type="Dictionnaire" NomColonne="Nom_commune" NomDictionnaire="villes" ModeGeneration="uniforme" GenererDependance="True"/>
+
+		</Champs>
+		<Parametre>
+			<Sortie XML="True" CSV="True"/>
+			<Nbligne valeur="10"/>
+			<NomTable nom="test"/>
+			<Seed valeur="123"/>
+		</Parametre>
+	</Table>
+</Generateur>
+-->
+
+<!-- EXERCICE 2 -->
+
+<Generateur>
+	<Table>
+		<Champs>
+			<Donnee Type="Dictionnaire" NomColonne="Nom de la commune" NomDictionnaire="villes" ModeGeneration="uniforme" GenererDependance="True"/>
+			<Donnee Type="Dictionnaire" NomColonne="Type de train" NomDictionnaire="types_trains" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Nom" NomDictionnaire="noms" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Prénom" NomDictionnaire="prenoms" ModeGeneration="uniforme" GenererDependance="True"/>
+			<Donnee Type="Dictionnaire" NomColonne="Acteur" NomDictionnaire="acteurs" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Producteur" NomDictionnaire="producteurs" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Réalisateur" NomDictionnaire="realisateurs" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Scénariste" NomDictionnaire="scenaristes" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Titre du film" NomDictionnaire="titres_films" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Société de production " NomDictionnaire="societes_production" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Département" NomDictionnaire="departements" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Entreprise Pharmaceutique" NomDictionnaire="entreprises_pharma" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Événement historique" NomDictionnaire="evenements_historiques" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Langage informatique" NomDictionnaire="langages_informatique" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Médicament" NomDictionnaire="medic" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Métier" NomDictionnaire="metiers" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Molécules" NomDictionnaire="molecules" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Nationalité" NomDictionnaire="nationalites" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Pays" NomDictionnaire="pays" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Personnage historique" NomDictionnaire="personnages_historiques" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Référence de l article" NomDictionnaire="references_articles" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Région" NomDictionnaire="regions" ModeGeneration="uniforme"/>
+
+		</Champs>
+		<Parametres>
+			<Sortie XML="True" CSV="True"/> 
+			<Nbligne valeur="10"/>
+			<NomTable nom="test"/>
+			<Seed valeur="1234"/>
+		</Parametres>
+	</Table>
+
+	<!--<Table>
+		<Champs>
+			<Donnee Type="Dictionnaire" NomColonne="Type_train" NomDictionnaire="types_trains" ModeGeneration="uniforme"/>
+		</Champs>
+		<Parametres>
+			<Sortie XML="True" CSV="True"/>
+			<Nbligne valeur="10"/>
+			<NomTable nom="test"/>
+			<Seed valeur="123"/>
+		</Parametres	>
+		
+	</Table>-->
+</Generateur>
