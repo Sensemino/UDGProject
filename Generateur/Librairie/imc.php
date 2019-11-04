@@ -3,43 +3,69 @@ function imc($donnees,$nbligne,$lignemat) //Calcul de l'imc (poids / taille^2)
 {
   $i = 0;
   $j = 0;
-  $donneeRetourne = array();
+  $indexPoids = 0;            //Permet de connaître l'emplacement dans le tableau de la table poids
+  $indexTaille = 0;           //idem mais pour la taille
+  $resultatIMC = array();
   $donneesPoids = array();
   $donneesTailles = array();
 
-  // Gestion des colonne où doit apparaitre 'Poids' et 'Taille'
-  for($j = 0; $j<$lignemat; $j++)
+  // Gestion de l'écriture des nom de tables pour correspondre à "Taille(s)" et "Poids"
+  foreach($donnees as $indicePremiereColonne=>$premiereColonne)
   {
-    for($i = 0; $i<$nbligne; $i++)
-    {
-      if($donnees[$j][0] == 'Poids' )
+      foreach($premiereColonne as $indiceDeuxiemeColonne=>$deuxiemeColonne2)
       {
-        $donneesPoids[$i] = $donnees[$j][$i];
+      if (is_string($deuxiemeColonne2) && !preg_match('#^[0-9,\s\.-]+$#', $deuxiemeColonne2))
+      {
+          $donnees[$indicePremiereColonne][$indiceDeuxiemeColonne] = strtolower($donnees[$indicePremiereColonne][$indiceDeuxiemeColonne]);
+          $donnees[$indicePremiereColonne][$indiceDeuxiemeColonne] = ucfirst($donnees[$indicePremiereColonne][$indiceDeuxiemeColonne]);
       }
-      if($donnees[$j][0] == 'Taille')
+      }
+  }
+
+  // Gestion des colonne où doit apparaitre 'Poids' et 'Taille'
+  for($i = 0;$i<$lignemat;$i++)
+  {
+    for($j = 0;$j<=$nbligne;$j++)
+    {
+      if($donnees[$i][$j] == 'Poids' )
       {
-        $donneesTailles[$i] = $donnees[$j][$i];
+        $indexPoids = $j;
+      }
+      if($donnees[$i][$j] == 'Taille' || $donnees[$i][$j] == 'Tailles')
+      {
+        $indexTaille = $j;
+      }
+    }
+    for($j = 0;$j<=$nbligne;$j++)
+    {
+      if($donnees[$i][$indexPoids] == 'Poids' && is_numeric($donnees[$i][$j]))
+      {
+        $donneesPoids[$j-2] = $donnees[$i][$j];
+      }
+      if($donnees[$i][$indexTaille] == 'Taille' || $donnees[$i][$j] == 'Tailles' && is_numeric($donnees[$i][$j]))
+      {
+        $donneesTailles[$j-2] = $donnees[$i][$j];
       }
     }
   }
 
-  // Remplissage du tableau $donneeRetourne
-  for($i = 1; $i<$nbligne; $i++)
+  // Remplissage du tableau $resultatIMC
+  for($i = 0; $i<$nbligne-1; $i++)
   {
     if($donneesPoids[$i] == 'NULL' || $donneesTailles[$i] == 'NULL')
     {
-      $donneeRetourne[$i] = 'NULL';
+      $resultatIMC[$i] = 'NULL';
     }
     else
     {
       if($donneesPoids[$i] > 0 && $donneesTailles[$i] > 0)
       {
-        $donneeRetourne[$i] = $donneesPoids[$i]/($donneesTailles[$i]*$donneesTailles[$i]);
+        $resultatIMC[$i] = $donneesPoids[$i]/($donneesTailles[$i]*$donneesTailles[$i]);
       }
       else
-      $donneeRetourne[$i] = 0;
+        $resultatIMC[$i] = 0;
     }
   }
-  return $donneeRetourne;
+  return $resultatIMC;
 }
 ?>

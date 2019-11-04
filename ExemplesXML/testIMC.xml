@@ -1,0 +1,15 @@
+<Generateur>
+	<Table>
+		<Champs>
+			<Donnee Type="Numerique" NomColonne="taiLles" Min="0.5" Max="2.5" NbDecimale="2" ModeGeneration="uniforme"/>
+            <Donnee Type="Numerique" NomColonne="poiDs" Min="10" Max="200" NbDecimale="2" ModeGeneration="uniforme"/>
+            <Donnee Type="IMC" NomColonne="IMC"/>
+		</Champs>
+		<Parametres>
+			<Sortie SQL="True" />
+			<Nbligne valeur="40"/>
+			<NomTable nom="IMC"/>
+			<Seed valeur="12"/>
+		</Parametres>
+	</Table>
+</Generateur>

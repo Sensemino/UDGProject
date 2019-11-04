@@ -2,11 +2,11 @@
 	<Table>
 		<Champs>
 			<Donnee Type="Numerique" NomColonne="temperature" NomPerso="Celsius" Min="0" Max="100" Null="2" ModeGeneration="uniforme"/>
-			<Donnee Type="Formule" NomColonne="fahrenheit" Formule="1 1.8 + 32"/>
+			<Donnee Type="Formule" NomColonne="fahrenheit" Formule="Celsius 1.8 + 32"/>
 		</Champs>
 		<Parametres>
 			<Sortie SQL="True" />
-			<Nbligne valeur="40"/>
+			<Nbligne valeur="10"/>
 			<NomTable nom="temperatures"/>
 			<Seed valeur="12"/>
 		</Parametres>
