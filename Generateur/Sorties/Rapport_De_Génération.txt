@@ -1,0 +1,99 @@
+La génération du lundi 04 novembre 2019 a durée : 0.03 secondes
+==============================================
+Table n°1
+==================================================
+Données Générales : 
+La seed de génération est : 1234 
+==================================================
+Nom de la commune : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+CodePostale : 
+==================================================
+Type de train : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Nom : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Prénom : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Sexe : 
+==================================================
+Acteur : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Producteur : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Réalisateur : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Scénariste : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Titre du film : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Société de production  : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Département : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Entreprise Pharmaceutique : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Événement historique : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Langages informatiques : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Médicament : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Métier : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Molécules : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Nationalité : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Pays : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Personnage historique : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Référence de l article : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Région : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================

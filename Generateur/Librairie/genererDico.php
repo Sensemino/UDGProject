@@ -30,12 +30,18 @@ function genererDico($nbligne, $NomDonnees, $GenererDep){//remplie un tableau en
             if ($nomdico == 'villes') {
                 $mots = preg_split('/[0-9]+/', $fichier[$ligne]);
                 $dicogene[0][$j] = trim(ucfirst($mots[0]));
-                //echo("tableau : \n");
-                //print_r($dicogene);
 
                 preg_match('/[0-9]+/', $fichier[$ligne], $codePostale);
                 $dicogene[1][$j] = $codePostale[0];
             }
+        }
+    }
+    
+    foreach($dicogene as $key1=>$h)
+    {
+        foreach($h as $key2=>$v)
+        {
+            $dicogene[$key1][$key2] = str_replace("\n", "", $dicogene[$key1][$key2]);
         }
     }
     return $dicogene;

@@ -1,0 +1,14 @@
+<Generateur>
+	<Table>
+		<Champs>
+			<Donnee Type="Dictionnaire" NomColonne="Titre du film" NomDictionnaire="titres_films" ModeGeneration="uniforme"/>
+		</Champs>
+
+		<Parametres>
+			<Sortie XML="True" CSV="True"/> 
+			<Nbligne valeur="3"/>
+			<NomTable nom="test_dictionnaire"/>
+			<Seed valeur="666"/>
+		</Parametres>
+	</Table>
+</Generateur>
