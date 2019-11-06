@@ -12,20 +12,21 @@ function genererRapport($listeData,$donnees,&$DonneesRapport,$PremierPassage,$nb
         $SommeDonnee = 0;
         $NombreDonnee = 0;
 
-        switch ($data->getAttribute("Type")) 
-        {        
-            case "Formule":
-            case "IMC" :
-            case 'Numerique':
-                if ($data->hasAttribute("NomPerso")) //récupère le nom de la donnée
-                {
-                    $NomDonnees = $data->getAttribute("NomPerso");
-                }
-                else 
-                {
-                    $NomDonnees = $data->getAttribute("NomColonne");
-                }
-                $lignemat = 0;
+    switch ($data->getAttribute("Type")) 
+    {        
+        case "Formule":
+        case "IMC" :
+        case "Numerique":
+        case "Date" :
+            if ($data->hasAttribute("NomPerso")) //récupère le nom de la donnée
+            {
+                $NomDonnees = $data->getAttribute("NomPerso");
+            }
+            else 
+            {
+                $NomDonnees = $data->getAttribute("NomColonne");
+            }
+            $lignemat = 0;
 
                 while ($DonneesRapport[$lignemat][0] != $NomDonnees) //placement sur la bonne colonne $lignemat de $donnees
                 {

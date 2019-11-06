@@ -20,6 +20,7 @@ require('FoncEcrireJson.php');
 require('genererDico.php');
 require('genererNumerique.php');
 require('genererFormule.php');
+require('genererDateHeure.php');
 require('genererReference.php');
 require('codage.php');
 require('imc.php');

@@ -1,21 +1,11 @@
-La génération du mercredi 06 novembre 2019 à 14:21:28 a durée : 0.00 secondes
+La génération du mercredi 06 novembre 2019 à 14:54:26 a durée : 0.00 secondes
 ==================================================
 Table n°1
 ==================================================
 Données Générales : 
-La seed de génération est : 12 
+La seed de génération est : 666 
 ==================================================
-Celsius : 
-La valeur minimale est de : NULL
-La valeur maximale est de : 83
-La valeur moyenne est de : 39.56
-Le nombre de Valeur null est de : 2 
-Le pourcentage de valeur null est de : 22.222222222222 % 
-==================================================
-fahrenheit : 
-La valeur minimale est de : NULL
-La valeur maximale est de : 181.4
-La valeur moyenne est de : 92.53
-Le nombre de Valeur null est de : 2 
-Le pourcentage de valeur null est de : 22.222222222222 % 
+Titre du film : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
 ==================================================
