@@ -9,12 +9,12 @@ function imc($donnees,$nbligne,$lignemat) //Calcul de l'imc (poids / taille^2)
   $donneesPoids = array();
   $donneesTailles = array();
 
-  // Gestion de l'écriture des nom de tables pour correspondre à "Taille(s)" et "Poids"
+  // Gestion de l'écriture des nom de colonnes pour correspondre à "Taille(s)" et "Poids"
   foreach($donnees as $indicePremiereColonne=>$premiereColonne)
   {
       foreach($premiereColonne as $indiceDeuxiemeColonne=>$deuxiemeColonne2)
       {
-      if (is_string($deuxiemeColonne2) && !preg_match('#^[0-9,\s\.-]+$#', $deuxiemeColonne2))
+      if (is_string($deuxiemeColonne2) && !preg_match('#^[0-9,\s\.-]+$#', $deuxiemeColonne2))     //Permet de vérifier si c'est une chaîne de caractères qui contient des lettres
       {
           $donnees[$indicePremiereColonne][$indiceDeuxiemeColonne] = strtolower($donnees[$indicePremiereColonne][$indiceDeuxiemeColonne]);
           $donnees[$indicePremiereColonne][$indiceDeuxiemeColonne] = ucfirst($donnees[$indicePremiereColonne][$indiceDeuxiemeColonne]);
@@ -40,14 +40,16 @@ function imc($donnees,$nbligne,$lignemat) //Calcul de l'imc (poids / taille^2)
     {
       if($donnees[$i][$indexPoids] == 'Poids' && is_numeric($donnees[$i][$j]))
       {
-        $donneesPoids[$j-2] = $donnees[$i][$j];
+        $donneesPoids[$j-($indexPoids+1)] = $donnees[$i][$j];           //On ajoute 1 à $indexPoids car un tableau commence à l'indice 0 alors que nous on veut le nombre de cases
       }
-      if($donnees[$i][$indexTaille] == 'Taille' || $donnees[$i][$j] == 'Tailles' && is_numeric($donnees[$i][$j]))
+      if($donnees[$i][$indexTaille] == 'Taille' || $donnees[$i][$indexTaille] == 'Tailles' && is_numeric($donnees[$i][$j]))
       {
-        $donneesTailles[$j-2] = $donnees[$i][$j];
+        $donneesTailles[$j-($indexTaille+1)] = $donnees[$i][$j];
       }
     }
   }
+
+
 
   // Remplissage du tableau $resultatIMC
   for($i = 0; $i<$nbligne-1; $i++)
