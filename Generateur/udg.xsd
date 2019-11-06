@@ -46,6 +46,8 @@
       <xs:attribute name="GenererDependance"/>
       <xs:attribute name="TableReference" type="xs:NCName"/>
       <xs:attribute name="ColonneReference" type="xs:NCName"/>
+      <xs:attribute name="DHmin" type="xs:dateTime"/>
+      <xs:attribute name="DHmax" type="xs:dateTime"/>
     </xs:complexType>
   </xs:element>
 

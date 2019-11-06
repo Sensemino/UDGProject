@@ -130,7 +130,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     fclose($fp);
 
     $listeData = $table->getElementsByTagName("Donnee");//récupération des différent champ a générer
-    $n=9; //nombre de lignes max stockées par passage (constante)
+    $n=1000000; //nombre de lignes max stockées par passage (constante)
     $nbligneagenerer = $n; // initialisation du nombre de ligne max a générer par passage qui va
     $nbedepassageInitial = $nbligne / $n; //initialisation du nombre de passage (constante)
     $nbedepassage = $nbedepassageInitial; //on récupère le nombre de passage qui va évoluer avec la génération de donnée
@@ -148,8 +148,6 @@ foreach ($listeTable as $table) {//traitement des différentes tables
         //--------------------------------------------------------------------------------------------
             
         genererDonnees($listeData,$donnees,$DonneesRapport,$PremierPassage,$nbligneagenerer,$lignemat,$nbedepassage,$nbedepassageInitial);
-
-        print_r($donnees[1]);
 
         //--------------------------------------------------------------------------------------------
         //ECRITURE DES DIFFERTENTS FICHIERS EN SORTIE
@@ -169,6 +167,8 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     FoncEcrireRapport($DonneesRapport, $nbligne,$PositionRapport);
         
 }
+
+print_r($donnees);
 
 echo "Génération effectuée\n";
 // timestamp en millisecondes de la fin du script

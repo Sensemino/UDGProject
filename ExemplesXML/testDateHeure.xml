@@ -1,0 +1,16 @@
+<Generateur>
+	<Table>
+		<Champs>
+			<Donnee Type="DateHeure" NomColonne="Date_et_Heure" DHmin="1998-02-15T03:00:00" DHmax="2019-11-06T10:00:00"/>
+			<Donnee Type="Dictionnaire" NomColonne="Nom" NomDictionnaire="noms" ModeGeneration="uniforme"/>
+			<Donnee Type="Dictionnaire" NomColonne="Prénom" NomDictionnaire="prenoms" ModeGeneration="uniforme" GenererDependance="True"/>
+		</Champs>
+
+		<Parametres>
+			<Sortie XML="True" CSV="True" SQL="True"/> 
+			<Nbligne valeur="4"/>
+			<NomTable nom="testDate"/>
+			<Seed valeur="666"/>
+		</Parametres>
+	</Table>
+</Generateur>

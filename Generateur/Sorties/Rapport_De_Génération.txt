@@ -1,11 +1,18 @@
-La génération du mercredi 06 novembre 2019 à 14:54:26 a durée : 0.00 secondes
+La génération du mercredi 06 novembre 2019 à 15:49:13 a durée : 0.00 secondes
 ==================================================
 Table n°1
 ==================================================
 Données Générales : 
 La seed de génération est : 666 
 ==================================================
-Titre du film : 
+==================================================
+Nom : 
 Le nombre de Valeur null est de : 0 
 Le pourcentage de valeur null est de : 0 % 
+==================================================
+Prénom : 
+Le nombre de Valeur null est de : 0 
+Le pourcentage de valeur null est de : 0 % 
+==================================================
+Sexe : 
 ==================================================
