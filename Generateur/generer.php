@@ -36,10 +36,10 @@ $numtable = 1;       //sert pour connaitre la table sur lequel on travail pour l
 $lignemat = 0;      //nombre de colonne de la matrice
 $dom = new DOMDocument();
 $moduloseed=5;
-$sortie = "Sorties/";
 
-//Test du premier parametre en ligne de commande
-if(isset($argv[1]))
+//Fichier XML sur le premier parmètre
+
+if(isset($argv[1])) //Test de l'existance du premier paramètre en ligne de commande
 {
     $fichier = $argv[1];        //récupération du fichier XML
 }
@@ -49,10 +49,27 @@ else
     echo "Il faut ajouter le nom du fichier XML après le generer.php\n";
     exit(1);
 }
+if(!file_exists($fichier)) //Test pour verifier l'accès au premier paramètre en ligne de commande
+{
+    echo "Mauvais nom de fichier\n";   
+    exit(1);
+}
 
-//Sortie sur le second paramètre
-if(isset($argv[2]))
-    $sortie = $argv[2]."/";
+//Sortie sur le second paramètre 
+
+$sortie = "Sorties/"; //dossier de sortie par défaut
+
+if(isset($argv[2])) //Test de l'existance du second paramètre en ligne de commande
+{
+    if(!file_exists($argv[2])) //Test pour verifier l'accès au second paramètre en ligne de commande
+    {
+        echo "Dossier intouvable pour le second paramètre\n";
+        echo "Il faut ajouter un nom de dossier valable pour la sortie ou ne pas en mettre pour qu'elle soit automatiquement à Generateur/Sorties\n";
+        exit(1);
+    }
+    else
+        $sortie = $argv[2]."/"; //recupération du dossier
+}
 
 $PositionRapport = $sortie."Rapport_De_Génération.txt";
 // timestamp en millisecondes du début du script (en PHP 5)
@@ -113,81 +130,50 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     fclose($fp);
 
     $listeData = $table->getElementsByTagName("Donnee");//récupération des différent champ a générer
-    $n=100000;
-    $nbligneagenerer = 100000;// initialisation du nombre de ligne a généré par passage
-    $nbedepassage = $nbligne / 100000;//initialisation du nombre de passage
+    $n=100000; //nombre de lignes max stockées par passage (constante)
+    $nbligneagenerer = $n; // initialisation du nombre de ligne max a générer par passage qui va
+    $nbedepassageInitial = $nbligne / $n; //initialisation du nombre de passage (constante)
+    $nbedepassage = $nbedepassageInitial; //on récupère le nombre de passage qui va évoluer avec la génération de donnée
     $PremierPassage = 0;
+
     while ($nbedepassage > 0) {
         $donnees = NULL;
         $lignemat = 0;
         if ($nbedepassage < 1) {//si il reste moins d'un passage (- de 100 000 lignes) on met le nombre de ligne a généré restante
-            $nbligneagenerer = $nbedepassage * 100000;
+            $nbligneagenerer = $nbedepassage * $n;
         }
 
         //--------------------------------------------------------------------------------------------
         //RECUPERATION DES DONNEES
         //--------------------------------------------------------------------------------------------
             
-        genererDonnees($listeData,$donnees,$DonneesRapport,$PremierPassage,$nbligneagenerer,$lignemat,$nbedepassage,$nbligne);
+        genererDonnees($listeData,$donnees,$DonneesRapport,$PremierPassage,$nbligneagenerer,$lignemat,$nbedepassage,$nbedepassageInitial);
 
         //--------------------------------------------------------------------------------------------
         //ECRITURE DES DIFFERTENTS FICHIERS EN SORTIE
         //--------------------------------------------------------------------------------------------
             
-        
-        $listesortie = $table->getElementsByTagName("Sortie");
-        foreach ($listesortie as $valsortie) {//foreach appellant les fonctions d'écriture en sortie
-            $ini = 0;
-            if ($valsortie->hasAttribute("CSV")) {
-                if ($valsortie->getAttribute("CSV") == "True") {
-                    FoncEcrireCsv($donnees, $nomfic, $nbligneagenerer,$sortie);
-                    $ini++;
-                }
-            }
-            if ($valsortie->hasAttribute("JSON")) {
-                if ($valsortie->getAttribute("JSON") == "True") {
-                    FoncEcrireJson($donnees, $nomfic, $nbligneagenerer,$sortie);
-                    $ini++;
-                }
-            }
-            if ($valsortie->hasAttribute("XML")) {
-                if ($valsortie->getAttribute("XML") == "True") {
-                    FoncEcrireXml($donnees, $nomfic, $nbligneagenerer,$sortie);
-                    $ini++;
-                }
-            }
-            if ($valsortie->hasAttribute("SQL")) {
-                if ($valsortie->getAttribute("SQL") == "True") {
-                    FoncEcrireSql($donnees, $nomfic, $nbligneagenerer, $PremierPassage,$sortie);
-                    $ini++;
-                }
-            }
-
-            // La table est sortie, on l'ajoute à notre tableau de données
-            array_unshift($donnees, $nomfic); // On ajoute le nom de notre table au tableau de données
-            array_push($TablesSorties, $donnees);
-
-            if ($ini == 0)
-                echo "Aucun format de sortie choisi pour cette table \n";
-        }
+        ecrireFichiers($table,$TablesSorties,$donnees,$nbligneagenerer,$sortie,$PremierPassage,$nomfic);
 
         //--------------------------------------------------------------------------------------------
         //GENERATION DU RAPPORT A PARTIR DES DONNEES
         //--------------------------------------------------------------------------------------------
         genererRapport($listeData,$donnees,$DonneesRapport,$PremierPassage,$nbligneagenerer);
+        
+        $PremierPassage = 1;//on indique qu'il y a eu au moins un passage
     }
 
     FoncEcrireRapport($DonneesRapport, $nbligne,$PositionRapport);
         
 }
 
-echo "\n";
+echo "Génération effectuée\n";
 // timestamp en millisecondes de la fin du script
 $timestamp_fin = microtime(true);
 $difference_ms = $timestamp_fin - $timestamp_debut;
 date_default_timezone_set('Europe/Paris');
 setlocale(LC_TIME, 'fr_FR.utf8','fra');
-$nouvellesLigne = "La génération du ".strftime("%A %d %B %Y")." a durée : ".number_format($difference_ms,2)." secondes\n"."==============================================\n";
+$nouvellesLigne = "La génération du ".strftime("%A %d %B %Y")." à ".strftime("%H:%M:%S")." a durée : ".number_format($difference_ms,2)." secondes\n"."==============================================\n";
 $AncienContenu = file($PositionRapport);
 array_unshift($AncienContenu,$nouvellesLigne);
 $new_content = join('',$AncienContenu);

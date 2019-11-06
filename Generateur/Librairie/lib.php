@@ -24,6 +24,8 @@ require('genererReference.php');
 require('codage.php');
 require('imc.php');
 
+require('ecrireFichiers.php');
+
 require('FoncEcrireRapport.php');
 
 require('genererRapport.php');

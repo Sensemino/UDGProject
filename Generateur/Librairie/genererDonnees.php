@@ -4,7 +4,7 @@
 //Recuperation des donnees
 //--------------------------------------------------------------------------------------------
 
-function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$nbligneagenerer,&$lignemat,&$nbedepassage,$nbligne){
+function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$nbligneagenerer,&$lignemat,&$nbedepassage,$nbedepassageInitial){
 
 foreach ($listeData as $data) {
     $nbdecimal = 0;
@@ -216,7 +216,7 @@ foreach ($listeData as $data) {
 
     }
     if ($nbnull > 0) {//rentre dans le if si un nombre de null a été spécifié
-        $nbnullParpassage = $nbnull / ($nbligne / 100000);//calcul le nombre de null a entrer par passage
+        $nbnullParpassage = $nbnull / $nbedepassageInitial;//calcul le nombre de null a entrer par passage
         if ($nbedepassage > 1) {//rentre si il reste plus d'un passage
             while ($nbnullParpassage > 0) {
                 $i = MDGAleatoire(0, $nbligneagenerer, 0);//tire une ligne aléatoirement entre 0 et le nb de ligne a générer lors de ce passage
