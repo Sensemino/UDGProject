@@ -68,7 +68,7 @@ if(isset($argv[2])) //Test de l'existance du second paramètre en ligne de comma
         exit(1);
     }
     else
-        $sortie = $argv[2]."/"; //recupération du dossier
+        $sortie = $argv[2]."/"; //récupération du dossier
 }
 
 $PositionRapport = $sortie."Rapport_De_Génération.txt";
@@ -130,7 +130,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     fclose($fp);
 
     $listeData = $table->getElementsByTagName("Donnee");//récupération des différent champ a générer
-    $n=100000; //nombre de lignes max stockées par passage (constante)
+    $n=9; //nombre de lignes max stockées par passage (constante)
     $nbligneagenerer = $n; // initialisation du nombre de ligne max a générer par passage qui va
     $nbedepassageInitial = $nbligne / $n; //initialisation du nombre de passage (constante)
     $nbedepassage = $nbedepassageInitial; //on récupère le nombre de passage qui va évoluer avec la génération de donnée
@@ -149,6 +149,8 @@ foreach ($listeTable as $table) {//traitement des différentes tables
             
         genererDonnees($listeData,$donnees,$DonneesRapport,$PremierPassage,$nbligneagenerer,$lignemat,$nbedepassage,$nbedepassageInitial);
 
+        print_r($donnees[1]);
+
         //--------------------------------------------------------------------------------------------
         //ECRITURE DES DIFFERTENTS FICHIERS EN SORTIE
         //--------------------------------------------------------------------------------------------
@@ -158,6 +160,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
         //--------------------------------------------------------------------------------------------
         //GENERATION DU RAPPORT A PARTIR DES DONNEES
         //--------------------------------------------------------------------------------------------
+
         genererRapport($listeData,$donnees,$DonneesRapport,$PremierPassage,$nbligneagenerer);
         
         $PremierPassage = 1;//on indique qu'il y a eu au moins un passage
@@ -173,7 +176,7 @@ $timestamp_fin = microtime(true);
 $difference_ms = $timestamp_fin - $timestamp_debut;
 date_default_timezone_set('Europe/Paris');
 setlocale(LC_TIME, 'fr_FR.utf8','fra');
-$nouvellesLigne = "La génération du ".strftime("%A %d %B %Y")." à ".strftime("%H:%M:%S")." a durée : ".number_format($difference_ms,2)." secondes\n"."==============================================\n";
+$nouvellesLigne = "La génération du ".strftime("%A %d %B %Y")." à ".strftime("%H:%M:%S")." a durée : ".number_format($difference_ms,2)." secondes\n"."==================================================\n";
 $AncienContenu = file($PositionRapport);
 array_unshift($AncienContenu,$nouvellesLigne);
 $new_content = join('',$AncienContenu);
