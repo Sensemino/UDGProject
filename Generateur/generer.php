@@ -71,7 +71,7 @@ if(isset($argv[2])) //Test de l'existance du second paramètre en ligne de comma
         $sortie = $argv[2]."/"; //récupération du dossier
 }
 
-$PositionRapport = $sortie."Rapport_De_Génération.txt";
+$PositionRapport = $sortie."Rapport_De_Generation.txt";
 // timestamp en millisecondes du début du script (en PHP 5)
 $timestamp_debut = microtime(true);
 if (!$dom->load($fichier) ||( !$dom->schemaValidate("udg.xsd"))) // validation du fichier XML
