@@ -214,6 +214,38 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
                 }
                 $lignemat++;
                 break;
+            case "DateHeure" ://Génère une date aléatoire de 0001-01-01 à 9999-12-31
+            
+            //$dhmin = '2019-11-06 10:00:00';
+            //$dhmax = '2019-11-07 10:00:00';
+            if ($data->hasAttribute("NomPerso")) {
+                $NomDonnees = $data->getAttribute("NomPerso");
+            } else {
+                $NomDonnees = $data->getAttribute("NomColonne");
+            }
+            if ($data->hasAttribute("DHmin")) {
+                $dhmin = $data->getAttribute("DHmin");}
+            if ($data->hasAttribute("DHmax")) {
+                $dhmax = $data->getAttribute("DHmax");}
+            $nbdecimal = 0;
+
+            $donnees[$lignemat] = array();//déclaration d'une nouvelle colonne dans la matrice
+            $donnees[$lignemat] = genererDateHeure($nbligneagenerer, $dhmin, $dhmax);
+            
+            
+            //$donnees[$lignemat] = genererNumerique($nbligneagenerer, $min, $max, $nbdecimal); //appel d'une fonction qui créera la date aléatoirement
+
+            if ($PremierPassage == 0) {
+                array_unshift($donnees[$lignemat], $NomDonnees);//ajout du nom de la données en entête de la colonne
+                $DonneesRapport[$lignemat] = array();
+                $DonneesRapport[$lignemat][0] = $NomDonnees;
+                $DonneesRapport[$lignemat][1] = $data->getAttribute("Type");//Type de données
+
+                array_unshift($donnees[$lignemat], array('reference' => false));
+            }
+            $lignemat++;
+
+            break;
 
         }
         if ($nbnull > 0) {//rentre dans le if si un nombre de null a été spécifié
