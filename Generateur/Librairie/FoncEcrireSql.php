@@ -9,7 +9,7 @@ function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie){//ec
 
   $fp = fopen($sortie.$nomfic.".sql", "w+");
 
-  if($PremierPassage == 0) 
+  if($PremierPassage == 0)
   {
     fputs($fp, "DROP TABLE IF EXISTS " . $nomfic . ";\n");
     fputs($fp, "CREATE TABLE " . $nomfic . " (\n");
