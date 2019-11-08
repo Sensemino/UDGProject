@@ -3,7 +3,7 @@
 		<Champs>
 			<Donnee Type="Dictionnaire" NomColonne="Type de train" NomDictionnaire="types_trains" ModeGeneration="uniforme"/>
 			<Donnee Type="Numerique" NomColonne="temperature" NomPerso="Celsius" Min="0" Max="100" Null="2" ModeGeneration="uniforme"/>
-			<Donnee Type="Formule" NomColonne="Fahrenheit" Formule="Celsius 1.8 + 32"/>
+			<Donnee Type="Formule" NomColonne="Fahrenheit" Formule="Celsius * 1.8 + 32"/>
 		</Champs>
 
 		<Parametres>
