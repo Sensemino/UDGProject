@@ -8,7 +8,7 @@
 
 		<Parametres>
 			<Sortie SQL="True" XML="True" CSV="True"/>
-			<Nbligne valeur="15"/>
+			<Nbligne valeur="18"/>
 			<NomTable nom="Temperatures"/>
 			<Seed valeur="12"/>
 		</Parametres>

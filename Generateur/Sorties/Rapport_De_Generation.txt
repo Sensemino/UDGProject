@@ -1,4 +1,4 @@
-La génération du vendredi 08 novembre 2019 à 10:08:08 a durée : 0.00 secondes
+La génération du vendredi 08 novembre 2019 à 11:00:19 a durée : 0.01 secondes
 ==================================================
 Table n°1
 ==================================================
@@ -6,17 +6,22 @@ Données Générales :
 La seed de génération est : 12 
 ==================================================
 ==================================================
-Celsius : 
-La valeur minimale est de : 1
-La valeur maximale est de : 100
-La valeur moyenne est de : 37.31
-Le nombre de Valeurs null est de : 20 
-Le pourcentage de valeurs null est de : 20 % 
 ==================================================
-fahrenheit : 
-La valeur minimale est de : 33.8
-La valeur maximale est de : 212
-La valeur moyenne est de : 92.44
-Le nombre de Valeurs null est de : 20 
-Le pourcentage de valeurs null est de : 20 % 
+Prénom : 
+Le nombre de Valeurs null est de : 0 
+Le pourcentage de valeurs null est de : 0 % 
+==================================================
+Celsius : 
+La valeur minimale est de : 0
+La valeur maximale est de : 0
+La valeur moyenne est de : nan
+Le nombre de Valeurs null est de : 4 
+Le pourcentage de valeurs null est de : 60 % 
+==================================================
+Fahrenheit : 
+La valeur minimale est de : 0
+La valeur maximale est de : 0
+La valeur moyenne est de : nan
+Le nombre de Valeurs null est de : 4 
+Le pourcentage de valeurs null est de : 60 % 
 ==================================================

@@ -27,7 +27,7 @@ function ecrireFichiers($table,&$TablesSorties,&$donnees,$nbligneagenerer,$sorti
         {
             if ($valsortie->getAttribute("XML") == "True") 
             {
-                FoncEcrireXml($donnees, $nomfic, $nbligneagenerer,$sortie);
+                FoncEcrireXml($donnees, $nomfic, $nbligneagenerer,$sortie, $PremierPassage);
                 $ini++;
             }
         }
