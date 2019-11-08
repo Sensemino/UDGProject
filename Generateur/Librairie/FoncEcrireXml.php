@@ -10,21 +10,23 @@ function FoncEcrireXml($donnees, $nomfic, $nbligne,$sortie)//ecriture de la sort
     $xml = new DOMDocument('1.0', 'utf-8');
     $fichier = $sortie.$nomfic.".xml";
     if (!file_exists($fichier)) {
-      $gen = $xml->createElement("Generation");
+      $gen = $xml->createElement("Generation"); //crée un élément "Generation"   -->   <Generation> </generation>
       $nomgen = $xml->createTextNode(" ");
-      $gen->appendChild($nomgen);
-      $xml->appendChild($gen);
-      $xml->save($fichier);
+      $gen->appendChild($nomgen); //ajoute un noeud fils à $gen appelé $nomgen
+      $xml->appendChild($gen);    //ajoute un noeud fils à $xml appelé $gen
+      $xml->save($fichier);  //sauvregarde et ferme le fichier
     }
     $xml->load($fichier);
     $table = $xml->createElement($nomfic);
-    $gene = $xml->getElementsByTagName("Generation")->item(0);
-    $gene->appendChild($table);
+    $gene = $xml->getElementsByTagName("Generation")->item(0); //retourne le noeud à l'index 0 (je pense comme un tableau $xml["Generation"][0])
+    $gene->appendChild($table);                                //et on lui rajoute un fils appelé $table
     for ($i = 1; $i < $nbligne; $i++) {
       $j=0;
-      $row = $xml->createElement("ligne");
+      $row = $xml->createElement("ligne"); //normalement pour chaque ligne on crée l'élément "ligne"   -->   <ligne> </ligne>
+      //print_r($donnees);
       while ($j < count($donnees)) {
         $tmp = str_replace(' ', '', $donnees[$j][0]);
+        //echo($donnees[$j][0]);
         $tmp = "_".$tmp;
         $tuple = $xml->createElement($tmp);
         $nomtuple = $xml->createTextNode($donnees[$j][$i]);

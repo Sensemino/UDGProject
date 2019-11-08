@@ -1,0 +1,15 @@
+<Generateur>
+	<Table>
+		<Champs>
+            <Donnee Type="Numerique" NomColonne="temperature" NomPerso="Celsius" Min="0" Max="100" Null="1" ModeGeneration="uniforme"/>
+			<Donnee Type="DateHeure" NomColonne="Date_et_Heure" DHmin="1998-02-15T03:00:00" DHmax="2019-11-06T10:00:00"/>
+		</Champs>
+
+		<Parametres>
+			<Sortie SQL="True" XML="True" CSV="True"/>
+			<Nbligne valeur="6"/>
+			<NomTable nom="DateHeure"/>
+			<Seed valeur="66"/>
+		</Parametres>
+	</Table>
+</Generateur>

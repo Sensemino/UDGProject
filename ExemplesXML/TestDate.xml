@@ -3,14 +3,14 @@
 		<Champs>
 			<Donnee Type="DateHeure" NomColonne="Date_et_Heure" DHmin="1998-02-15T03:00:00" DHmax="2019-11-06T10:00:00"/>
 			<Donnee Type="Dictionnaire" NomColonne="Nom" NomDictionnaire="noms" ModeGeneration="uniforme"/>
-			<Donnee Type="Dictionnaire" NomColonne="Prénom" NomDictionnaire="prenoms" ModeGeneration="uniforme" GenererDependance="True"/>
+			<Donnee Type="Dictionnaire" NomColonne="Prénom" NomDictionnaire="prenoms" ModeGeneration="uniforme" GenererDependance="False"/>
 		</Champs>
 
 		<Parametres>
-			<Sortie XML="True" CSV="True" SQL="True"/> 
-			<Nbligne valeur="4"/>
-			<NomTable nom="testDate"/>
-			<Seed valeur="666"/>
+			<Sortie SQL="True" XML="True" CSV="True"/>
+			<Nbligne valeur="15"/>
+			<NomTable nom="Table_Test"/>
+			<Seed valeur="12"/>
 		</Parametres>
 	</Table>
 </Generateur>

@@ -1,28 +1,25 @@
-La génération du mercredi 06 novembre 2019 à 17:29:15 a durée : 0.00 secondes
+La génération du vendredi 08 novembre 2019 à 09:11:47 a durée : 0.01 secondes
 ==================================================
 Table n°1
 ==================================================
 Données Générales : 
 La seed de génération est : 12 
 ==================================================
+Type de train : 
+Le nombre de Valeurs null est de : 0 
+Le pourcentage de valeurs null est de : 0 % 
+==================================================
 Celsius : 
-La valeur minimale est de : 13
-La valeur maximale est de : 83
-La valeur moyenne est de : 44.00
-Le nombre de Valeur null est de : 2 
-Le pourcentage de valeur null est de : 20 % 
+La valeur minimale est de : 0
+La valeur maximale est de : 0
+La valeur moyenne est de : nan
+Le nombre de Valeurs null est de : 4 
+Le pourcentage de valeurs null est de : 80 % 
 ==================================================
-fahrenheit : 
-La valeur minimale est de : 55.4
-La valeur maximale est de : 181.4
-La valeur moyenne est de : 101.60
-Le nombre de Valeur null est de : 2 
-Le pourcentage de valeur null est de : 20 % 
-==================================================
-fahrenheit2 : 
-La valeur minimale est de : 55.4
-La valeur maximale est de : 181.4
-La valeur moyenne est de : 101.60
-Le nombre de Valeur null est de : 2 
-Le pourcentage de valeur null est de : 20 % 
+Fahrenheit : 
+La valeur minimale est de : 0
+La valeur maximale est de : 0
+La valeur moyenne est de : nan
+Le nombre de Valeurs null est de : 4 
+Le pourcentage de valeurs null est de : 80 % 
 ==================================================

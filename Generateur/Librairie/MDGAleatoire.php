@@ -1,5 +1,5 @@
 <?php
-function MDGAleatoire($min, $max, $nbdecimal){//retourne un numbre aléatoire
+function MDGAleatoire($min, $max, $nbdecimal){//retourne un nombre aléatoire
   if ($nbdecimal > 0) {
     $val = $min + mt_rand() / mt_getrandmax() * ($max - $min);
 

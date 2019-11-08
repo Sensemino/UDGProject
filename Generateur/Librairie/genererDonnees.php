@@ -32,10 +32,13 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
                 
                 $donnees[$lignemat] = genererNumerique($nbligneagenerer, $min, $max, $nbdecimal);//appelle de la fonction de génération
 
+                array_unshift($donnees[$lignemat], $NomDonnees);//ajout du nom de la données en entête de la colonne
+
                 if ($data->hasAttribute("codage")) {//ajout d'une colonne au cas ou l'utilisateur souhaite appliquer un codage (ex 1=homme ...)
                     $lignemat++;
                     $donnees[$lignemat] = array();//création d'une colonne pour le résultat du codage
                     $donnees[$lignemat] = codage($data->getAttribute("codage"), $donnees[$lignemat - 1], $nbligneagenerer);
+
                     if ($PremierPassage == 0) {
                         array_unshift($donnees[$lignemat - 1], $NomDonnees);
                         array_unshift($donnees[$lignemat], "codage de " .$NomDonnees);
@@ -49,7 +52,6 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
                     $lignemat++;//on avance dans la matrice
                 } else {
                     if ($PremierPassage == 0) {
-                        array_unshift($donnees[$lignemat], $NomDonnees);//ajout du nom de la données en entête de la colonne
                         $DonneesRapport[$lignemat] = array();
                         $DonneesRapport[$lignemat][0] = $NomDonnees;
                         $DonneesRapport[$lignemat][1] = $data->getAttribute("Type");//Type de données
@@ -87,9 +89,9 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
                 $donnees[$lignemat] = array();
                 $dicos = genererDico($nbligneagenerer, $NomDico, $GenererDep);//appel de la fonction de génération
                 $donnees[$lignemat] = $dicos[0];
+                array_unshift($donnees[$lignemat], $NomDonnees);
 
                 if ($PremierPassage == 0) {
-                    array_unshift($donnees[$lignemat], $NomDonnees);
                     $DonneesRapport[$lignemat] = array();
                     $DonneesRapport[$lignemat][0] = $NomDonnees;
                     $DonneesRapport[$lignemat][1] = $data->getAttribute("Type");//Type de données
@@ -148,9 +150,9 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
 
                 $donnees[$lignemat] = array();
                 $donnees[$lignemat] = genererReference($TablesSorties, $nbligneagenerer + 1, $TableReference, $ColonneReference);
+                array_unshift($donnees[$lignemat], $NomDonnees);
 
                 if ($PremierPassage == 0) {
-                    array_unshift($donnees[$lignemat], $NomDonnees);
                     $DonneesRapport[$lignemat] = array();
                     $DonneesRapport[$lignemat][0] = $NomDonnees;
                     $DonneesRapport[$lignemat][1] = $data->getAttribute("Type");//Type de données
@@ -178,8 +180,9 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
                     $formule = $data->getAttribute("Formule");
                     $donnees[$lignemat] = array();
                     $donnees[$lignemat] = genererFormule($formule, $donnees);//appelle de la fonction de génération
+                    array_unshift($donnees[$lignemat], $NomDonnees);
+
                     if ($PremierPassage == 0) {
-                        array_unshift($donnees[$lignemat], $NomDonnees);
                         $DonneesRapport[$lignemat] = array();
                         $DonneesRapport[$lignemat][0] = $NomDonnees;
                         $DonneesRapport[$lignemat][1] = $data->getAttribute("Type");//Type de données
@@ -204,8 +207,9 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
                 }
                 $donnees[$lignemat] = array();
                 $donnees[$lignemat] = imc($donnees, $nbligneagenerer + 1, $lignemat);//appelle d'une fonction permettant le calcul de l'IMC
+                array_unshift($donnees[$lignemat], $NomDonnees);
+
                 if ($PremierPassage == 0) {
-                    array_unshift($donnees[$lignemat], $NomDonnees);
                     $DonneesRapport[$lignemat] = array();
                     $DonneesRapport[$lignemat][0] = $NomDonnees;
                     $DonneesRapport[$lignemat][1] = $data->getAttribute("Type");//Type de données
@@ -231,12 +235,11 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
 
             $donnees[$lignemat] = array();//déclaration d'une nouvelle colonne dans la matrice
             $donnees[$lignemat] = genererDateHeure($nbligneagenerer, $dhmin, $dhmax);
-            
+            array_unshift($donnees[$lignemat], $NomDonnees);//ajout du nom de la données en entête de la colonne
             
             //$donnees[$lignemat] = genererNumerique($nbligneagenerer, $min, $max, $nbdecimal); //appel d'une fonction qui créera la date aléatoirement
 
             if ($PremierPassage == 0) {
-                array_unshift($donnees[$lignemat], $NomDonnees);//ajout du nom de la données en entête de la colonne
                 $DonneesRapport[$lignemat] = array();
                 $DonneesRapport[$lignemat][0] = $NomDonnees;
                 $DonneesRapport[$lignemat][1] = $data->getAttribute("Type");//Type de données
@@ -286,7 +289,7 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
                 }
             }
         }
-        $nbedepassage--;
+        
     }
 }
 ?>

@@ -10,7 +10,7 @@ function FoncEcrireRapport($DonneesRapport, $nbligne,$PositionRapport)
             case 'Numerique':
                 fputs($fp, $DonneesRapport[$i][0] . " : \n");//on entre le nom de la colonne
                 if(isset($DonneesRapport[$i][8])){
-                    fputs($fp, "Les données sont exprimer en " . $DonneesRapport[$i][8]."\n");
+                    fputs($fp, "Les données sont exprimées en " . $DonneesRapport[$i][8]."\n");
                 }
                 if(isset($DonneesRapport[$i][9])){
 //                    if(!(isset($DonneesRapport[$i][5]))){
@@ -35,8 +35,8 @@ function FoncEcrireRapport($DonneesRapport, $nbligne,$PositionRapport)
                 break;
         }
         if(isset($DonneesRapport[$i][3]) and isset($DonneesRapport[$i][2])){
-            fputs($fp, "Le nombre de Valeur null est de : " . $DonneesRapport[$i][2]  . " \n");
-            fputs($fp, "Le pourcentage de valeur null est de : " . $DonneesRapport[$i][3] . " % \n");
+            fputs($fp, "Le nombre de Valeurs null est de : " . $DonneesRapport[$i][2]  . " \n");
+            fputs($fp, "Le pourcentage de valeurs null est de : " . $DonneesRapport[$i][3] . " % \n");
         }
         fputs($fp, "==================================================\n");
         $i++;

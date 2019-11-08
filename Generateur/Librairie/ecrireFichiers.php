@@ -5,6 +5,7 @@ function ecrireFichiers($table,&$TablesSorties,&$donnees,$nbligneagenerer,$sorti
 
     foreach ($listesortie as $valsortie) {//foreach appellant les fonctions d'écriture en sortie
         $ini = 0;
+        //print_r($donnees);
 
         if ($valsortie->hasAttribute("CSV"))
         {

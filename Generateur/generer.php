@@ -130,18 +130,23 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     fclose($fp);
 
     $listeData = $table->getElementsByTagName("Donnee");//récupération des différent champ a générer
-    $n=1000000; //nombre de lignes max stockées par passage (constante)
+    $n=5; //nombre de lignes max stockées par passage (constante)
     $nbligneagenerer = $n; // initialisation du nombre de ligne max a générer par passage qui va
     $nbedepassageInitial = $nbligne / $n; //initialisation du nombre de passage (constante)
+    echo("Nombre de lignes en tout= ".$nbligne."\n");
+    echo("Nombre de lignes à générer en une fois = ".$n."\n");
+    echo("Nombre de passages Initial = ".$nbedepassageInitial."\n");
     $nbedepassage = $nbedepassageInitial; //on récupère le nombre de passage qui va évoluer avec la génération de donnée
     $PremierPassage = 0;
 
     while ($nbedepassage > 0) {
         $donnees = NULL;
         $lignemat = 0;
-        if ($nbedepassage < 1) {//si il reste moins d'un passage (- de 100 000 lignes) on met le nombre de ligne a généré restante
-            $nbligneagenerer = $nbedepassage * $n;
+        if ($nbedepassage < 1) {//si il reste moins d'un passage (- de 100 000 lignes) on met le nombre de ligne a générer restante
+            $nbligneagenerer = $nbligne % $n;
+            echo("Dernier passage, il y aura ".$nbligne % $n." lignes à générer.\n");
         }
+        echo("Je passe une fois ici, et je prends ".$nbligneagenerer." valeurs !\n");
 
         //--------------------------------------------------------------------------------------------
         //RECUPERATION DES DONNEES
@@ -162,13 +167,16 @@ foreach ($listeTable as $table) {//traitement des différentes tables
         genererRapport($listeData,$donnees,$DonneesRapport,$PremierPassage,$nbligneagenerer);
         
         $PremierPassage = 1;//on indique qu'il y a eu au moins un passage
-    }
 
-    FoncEcrireRapport($DonneesRapport, $nbligne,$PositionRapport);
+        $nbedepassage--;
+        //print_r($donnees);
         
+    }
+    FoncEcrireRapport($DonneesRapport, $nbligne,$PositionRapport); 
+       
 }
 
-print_r($donnees);
+
 
 echo "Génération effectuée\n";
 // timestamp en millisecondes de la fin du script
