@@ -8,8 +8,6 @@ function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie,$nomC
       array_push($reference, array_shift($donnees[$i]));
   }
 
-  print_r($donnees);
-
   $fp = fopen($sortie.$nomfic.".sql", "a+");
 
   if($PremierPassage == 0)

@@ -1,7 +1,7 @@
 <Generateur>
 	<Table>
 		<Champs>
-            <Donnee Type="IDS" NomColonne="reference" NomPerso="referenceTemp" Prefixe="REF" Suffixe="500"/>
+            <Donnee Type="IDS" NomColonne="reference" NomPerso="referenceTemp" Prefixe="REF" Suffixe="0"/>
 			<Donnee Type="DateHeure" NomColonne="Date_et_Heure" DHmin="1998-02-15T03:00:00" DHmax="2019-11-06T10:00:00"/>
 			<Donnee Type="Dictionnaire" NomColonne="Prénom" NomDictionnaire="prenoms" ModeGeneration="uniforme" GenererDependance="False"/>
             <Donnee Type="Numerique" NomColonne="temperature" NomPerso="Celsius" Min="0" Max="100" Null="2" ModeGeneration="uniforme"/>

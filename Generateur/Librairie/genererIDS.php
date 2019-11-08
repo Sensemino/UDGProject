@@ -4,9 +4,8 @@ function genererIDS($nbligneagenerer, $nbligne, $Prefixe,$Suffixe,&$compteurPass
 
   $tailleSuffixeMax = strlen($nbligne+$Suffixe);
 
-  $suffixeModifie=str_pad(strval($suffixe),$tailleSuffixeMax,0,STR_PAD_LEFT);
+  $suffixeModifie=str_pad(strval($Suffixe),$tailleSuffixeMax,0,STR_PAD_LEFT);
 
-  print($suffixeModifie);
   for ($j = 0; $j < $nbligneagenerer; $j++) {
     
     $IDSGene[$j] = $Prefixe.($suffixeModifie+$compteurPassage);
