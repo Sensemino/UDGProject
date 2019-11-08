@@ -189,7 +189,6 @@ foreach ($listeTable as $table) {//traitement des différentes tables
         $PremierPassage = 1;//on indique qu'il y a eu au moins un passage
 
         $nbedepassage--;
-        print_r($donnees);
         
     }
     FoncEcrireRapport($DonneesRapport, $nbligne,$PositionRapport);

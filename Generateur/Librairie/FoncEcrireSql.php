@@ -4,10 +4,13 @@ function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie,$nomC
   $reference = array();
   for ($i=0; $i < count($donnees); $i++) 
   { 
-    array_push($reference, array_shift($donnees[$i]));
+    if($PremierPassage == 0)
+      array_push($reference, array_shift($donnees[$i]));
   }
 
-  $fp = fopen($sortie.$nomfic.".sql", "w+");
+  print_r($donnees);
+
+  $fp = fopen($sortie.$nomfic.".sql", "a+");
 
   if($PremierPassage == 0)
   {
@@ -73,8 +76,10 @@ function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie,$nomC
   while ($i < $nbligne + 1) 
   {
     $datafin[$i] = "INSERT INTO ".$nomfic." (";
+
     for($champs=0;$champs<count($donnees);$champs++) 
     {
+      //print_r($donnees[$champs][0]);
       if($champs!=count($donnees)-1)
         $datafin[$i] .=$donnees[$champs][0].",";
       else 
@@ -83,7 +88,6 @@ function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie,$nomC
     $datafin[$i] .=" VALUES (";
     for ($j = 0; $j < count($donnees); $j++) 
     {
-
       if(isset($donnees[$j][$i])) 
       {
         $temp = $donnees[$j][$i];
@@ -117,7 +121,7 @@ function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie,$nomC
 
     fputs($fp, $datafin[$i]);
     fputs($fp, "\n");
-    
+
     $i++;
   }
   fclose($fp);
