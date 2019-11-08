@@ -137,7 +137,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
 
     foreach ($listesortie as $valsortie) {//foreach appellant les fonctions d'écriture en sortie
         if (file_exists($sortie.$nomfic.".csv") && ($valsortie->hasAttribute("CSV")) && ($valsortie->getAttribute("CSV") == "True"))
-            unlink($sortie.$nomfic."csv");
+            unlink($sortie.$nomfic.".csv");
         if (file_exists($sortie.$nomfic.".xml") && ($valsortie->hasAttribute("XML")) && ($valsortie->getAttribute("XML") == "True"))
             unlink($sortie.$nomfic.".xml");
         if (file_exists($sortie.$nomfic.".sql") && ($valsortie->hasAttribute("SQL")) && ($valsortie->getAttribute("SQL") == "True"))
