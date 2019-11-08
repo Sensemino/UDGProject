@@ -1,5 +1,5 @@
 <?php
-function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie){//ecriture de la sortie au format SQL
+function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie,$nomClee){//ecriture de la sortie au format SQL
 
   $reference = array();
   for ($i=0; $i < count($donnees); $i++) 
@@ -13,7 +13,12 @@ function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie){//ec
   {
     fputs($fp, "DROP TABLE IF EXISTS " . $nomfic . ";\n");
     fputs($fp, "CREATE TABLE " . $nomfic . " (\n");
-    fputs($fp, "id".ucfirst($nomfic)." mediumint(8) unsigned NOT NULL auto_increment,\n");
+
+    if(empty($nomClee)) //on verifie si le nom de la clé est vide = entier auto incrementé par defaut
+    {
+      fputs($fp, "id".ucfirst($nomfic)." mediumint(8) unsigned PRIMARY KEY NOT NULL auto_increment,\n"); //identifiant par défaut
+    }
+
     for ($i = 0; $i < count($donnees); $i++) 
     {
       $deterddt = 1;
@@ -50,8 +55,17 @@ function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie){//ec
         }
       }
     }
-    fputs($fp, "PRIMARY KEY (`id`)\n");
-    fputs($fp, ") AUTO_INCREMENT=1;\n\n\n\n");
+    
+    if(!empty($nomClee)) //on verifie si le nom de la clé n'est pas vide
+    {
+      fputs($fp, "PRIMARY KEY (`".$nomClee."`)\n");
+      fputs($fp, ");\n\n\n\n");
+    }
+    else
+    {
+      fputs($fp, "PRIMARY KEY (`id".ucfirst($nomfic)."`)\n");
+      fputs($fp, ") AUTO_INCREMENT=1;\n\n\n\n");
+    }
   }
   //les insert
   $i = 1;
@@ -69,18 +83,19 @@ function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie){//ec
     $datafin[$i] .=" VALUES (";
     for ($j = 0; $j < count($donnees); $j++) 
     {
-      $PasDeDonnee = False;
+
       if(isset($donnees[$j][$i])) 
       {
         $temp = $donnees[$j][$i];
-        if ($temp != 'NULL') 
+        if ($temp != NULL) 
         {
           $typetemp = gettype($donnees[$j][$i]);
         }
       }
       else 
-      {
-        $PasDeDonnee = True;
+      { 
+        $temp = "NULL";
+        $typetemp = gettype($donnees[$j][$i]);
       }
 
       if($j!=count($donnees)-1)
@@ -99,11 +114,10 @@ function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie){//ec
       }
     }
     $datafin[$i] .=");";
-    if($PasDeDonnee != True)
-    {
-      fputs($fp, $datafin[$i]);
-      fputs($fp, "\n");
-    }
+
+    fputs($fp, $datafin[$i]);
+    fputs($fp, "\n");
+    
     $i++;
   }
   fclose($fp);

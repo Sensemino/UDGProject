@@ -48,6 +48,8 @@
       <xs:attribute name="ColonneReference" type="xs:NCName"/>
       <xs:attribute name="DHmin" type="xs:dateTime"/>
       <xs:attribute name="DHmax" type="xs:dateTime"/>
+      <xs:attribute name="Prefixe" type="xs:string"/>
+      <xs:attribute name="Suffixe" type="xs:integer"/>
     </xs:complexType>
   </xs:element>
 

@@ -41,9 +41,9 @@ function genererFormule($formule,$donnees){//calcul le résulat d'une formule ax
             $NombreDonnee++;
             $indiceDeuxiemeColonne++;
           }
-          elseif($a == "NULL")
+          elseif($a == NULL)
           {
-            $TableauResultatFormule[$indiceDeuxiemeColonne] = "NULL";
+            $TableauResultatFormule[$indiceDeuxiemeColonne] = NULL;
             $indiceDeuxiemeColonne++;
             $NombreDonnee++;
           }
@@ -57,12 +57,12 @@ function genererFormule($formule,$donnees){//calcul le résulat d'une formule ax
     for($i=1;$i<$NombreDonnee;$i++){
       switch ($operateur){
         case '*' :
-        if($b != "NULL" && $TableauResultatFormule[$i] != "NULL"){
+        if($b != NULL && $TableauResultatFormule[$i] != NULL){
           $TableauResultatFormule[$i]*=$b;
         }
         break;
         case '/' :
-        if($b != "NULL" && $b>0 && $TableauResultatFormule[$i] != "NULL"){
+        if($b != NULL && $b>0 && $TableauResultatFormule[$i] != NULL){
           $TableauResultatFormule[$i]/=$b;
         }
         else {
@@ -70,17 +70,17 @@ function genererFormule($formule,$donnees){//calcul le résulat d'une formule ax
         }
         break;
         case '%' :
-        if($b != "NULL" && $TableauResultatFormule[$i] != "NULL"){
+        if($b != NULL && $TableauResultatFormule[$i] != NULL){
           $TableauResultatFormule[$i]%=$b;
         }
         break;
         case '-' :
-        if($b != "NULL" && $TableauResultatFormule[$i] != "NULL"){
+        if($b != NULL && $TableauResultatFormule[$i] != NULL){
           $TableauResultatFormule[$i]-=$b;
         }
         break;
         case '+' :
-        if($b != "NULL" && $TableauResultatFormule[$i] != "NULL"){
+        if($b != NULL && $TableauResultatFormule[$i] != NULL){
           $TableauResultatFormule[$i]+=$b;
         }
         break;

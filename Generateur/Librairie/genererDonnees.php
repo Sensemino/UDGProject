@@ -250,6 +250,34 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
 
             break;
 
+            case "IDS" : //Génère un identifiant avec une chaine de carctère en préfixe et un entier incrémenté en suffixe
+            
+            if ($data->hasAttribute("NomPerso")) {
+                $NomDonnees = $data->getAttribute("NomPerso");
+            } else {
+                $NomDonnees = $data->getAttribute("NomColonne");
+            }
+            if ($data->hasAttribute("Prefixe")) {
+                $Prefixe = $data->getAttribute("Prefixe");}
+            if ($data->hasAttribute("Suffixe")) {
+                $Suffixe = $data->getAttribute("Suffixe");}
+
+            $donnees[$lignemat] = array();//déclaration d'une nouvelle colonne dans la matrice
+            $donnees[$lignemat] = genererIDS($nbligneagenerer,$Prefixe,$Suffixe,$compteurPassage);
+
+            if($PremierPassage == 0){ //Au premier passage
+                array_unshift($donnees[$lignemat], $NomDonnees); //ajout du nom de la données en entête de la colonne
+                $DonneesRapport[$lignemat] = array();
+                $DonneesRapport[$lignemat][0] = $NomDonnees;
+                $DonneesRapport[$lignemat][1] = $data->getAttribute("Type");//Type de données
+
+                array_unshift($donnees[$lignemat], array('reference' => false));
+            }
+                
+            $lignemat++;
+
+            break;
+
         }
         if ($nbnull > 0) {//rentre dans le if si un nombre de null a été spécifié
             $nbnullParpassage = $nbnull / $nbedepassageInitial;//calcul le nombre de null a entrer par passage
@@ -258,14 +286,14 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
                     $i = MDGAleatoire(0, $nbligneagenerer, 0);//tire une ligne aléatoirement entre 0 et le nb de ligne a générer lors de ce passage
                     $nullExist = TestNull($donnees, $i);//test la présence d'autre valeur null sur la ligne
                     if ($nullExist == "False" && $i > 0) {//si pas premier champs et et qu'il y a pas de null sur la ligne rentre une valeur null
-                        $donnees[$lignemat - 1][$i] = "NULL";
+                        $donnees[$lignemat - 1][$i] = NULL;
 
 
                         if($GenererDep == 1 ){
-                            $donnees[$lignemat - 2][$i] = "NULL";
+                            $donnees[$lignemat - 2][$i] = NULL;
                         }
                         if($data->hasAttribute("codage")){
-                            $donnees[$lignemat - 2][$i] = "NULL";
+                            $donnees[$lignemat - 2][$i] = NULL;
                         }
                         $nbnull--;
                         $nbnullParpassage--;
@@ -276,13 +304,13 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
                     $i = MDGAleatoire(0, $nbligneagenerer, 0);
                     $nullExist = TestNull($donnees, $i);
                     if ($nullExist == "False" && $i > 0) {
-                        $donnees[$lignemat - 1][$i] = "NULL";
+                        $donnees[$lignemat - 1][$i] = NULL;
 
                         if($GenererDep == 1){
-                            $donnees[$lignemat - 2][$i] = "NULL";
+                            $donnees[$lignemat - 2][$i] = NULL;
                         }
                         if($data->hasAttribute("codage")){
-                            $donnees[$lignemat - 2][$i] = "NULL";
+                            $donnees[$lignemat - 2][$i] = NULL;
                         }
                         $nbnull -= 1;
                     }

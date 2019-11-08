@@ -1,0 +1,502 @@
+[
+    {
+        "referenceTemp": "REF500",
+        "Celsius": 79,
+        "fahrenheit": 174.2
+    },
+    {
+        "referenceTemp": "REF501",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF502",
+        "Celsius": 11,
+        "fahrenheit": 51.8
+    },
+    {
+        "referenceTemp": "REF503",
+        "Celsius": 83,
+        "fahrenheit": 181.4
+    },
+    {
+        "referenceTemp": "REF504",
+        "Celsius": 69,
+        "fahrenheit": 156.2
+    },
+    {
+        "referenceTemp": "REF505",
+        "Celsius": 13,
+        "fahrenheit": 55.4
+    },
+    {
+        "referenceTemp": "REF506",
+        "Celsius": 31,
+        "fahrenheit": 87.8
+    },
+    {
+        "referenceTemp": "REF507",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF508",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF509",
+        "Celsius": 49,
+        "fahrenheit": 120.2
+    },
+    {
+        "referenceTemp": "REF510",
+        "Celsius": 8,
+        "fahrenheit": 46.4
+    },
+    {
+        "referenceTemp": "REF511",
+        "Celsius": 41,
+        "fahrenheit": 105.8
+    },
+    {
+        "referenceTemp": "REF512",
+        "Celsius": 28,
+        "fahrenheit": 82.4
+    },
+    {
+        "referenceTemp": "REF513",
+        "Celsius": 8,
+        "fahrenheit": 46.4
+    },
+    {
+        "referenceTemp": "REF514",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF515",
+        "Celsius": 48,
+        "fahrenheit": 118.4
+    },
+    {
+        "referenceTemp": "REF516",
+        "Celsius": 64,
+        "fahrenheit": 147.2
+    },
+    {
+        "referenceTemp": "REF517",
+        "Celsius": 13,
+        "fahrenheit": 55.4
+    },
+    {
+        "referenceTemp": "REF518",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF519",
+        "Celsius": 90,
+        "fahrenheit": 194
+    },
+    {
+        "referenceTemp": "REF520",
+        "Celsius": 82,
+        "fahrenheit": 179.6
+    },
+    {
+        "referenceTemp": "REF521",
+        "Celsius": 60,
+        "fahrenheit": 140
+    },
+    {
+        "referenceTemp": "REF522",
+        "Celsius": 38,
+        "fahrenheit": 100.4
+    },
+    {
+        "referenceTemp": "REF523",
+        "Celsius": 90,
+        "fahrenheit": 194
+    },
+    {
+        "referenceTemp": "REF524",
+        "Celsius": 19,
+        "fahrenheit": 66.2
+    },
+    {
+        "referenceTemp": "REF525",
+        "Celsius": 18,
+        "fahrenheit": 64.4
+    },
+    {
+        "referenceTemp": "REF526",
+        "Celsius": 95,
+        "fahrenheit": 203
+    },
+    {
+        "referenceTemp": "REF527",
+        "Celsius": 78,
+        "fahrenheit": 172.4
+    },
+    {
+        "referenceTemp": "REF528",
+        "Celsius": 3,
+        "fahrenheit": 37.4
+    },
+    {
+        "referenceTemp": "REF529",
+        "Celsius": 68,
+        "fahrenheit": 154.4
+    },
+    {
+        "referenceTemp": "REF530",
+        "Celsius": 81,
+        "fahrenheit": 177.8
+    },
+    {
+        "referenceTemp": "REF531",
+        "Celsius": 82,
+        "fahrenheit": 179.6
+    },
+    {
+        "referenceTemp": "REF532",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF533",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF534",
+        "Celsius": 64,
+        "fahrenheit": 147.2
+    },
+    {
+        "referenceTemp": "REF535",
+        "Celsius": 81,
+        "fahrenheit": 177.8
+    },
+    {
+        "referenceTemp": "REF536",
+        "Celsius": 5,
+        "fahrenheit": 41
+    },
+    {
+        "referenceTemp": "REF537",
+        "Celsius": 96,
+        "fahrenheit": 204.8
+    },
+    {
+        "referenceTemp": "REF538",
+        "Celsius": 32,
+        "fahrenheit": 89.6
+    },
+    {
+        "referenceTemp": "REF539",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF540",
+        "Celsius": 44,
+        "fahrenheit": 111.2
+    },
+    {
+        "referenceTemp": "REF541",
+        "Celsius": 41,
+        "fahrenheit": 105.8
+    },
+    {
+        "referenceTemp": "REF542",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF543",
+        "Celsius": 73,
+        "fahrenheit": 163.4
+    },
+    {
+        "referenceTemp": "REF544",
+        "Celsius": 50,
+        "fahrenheit": 122
+    },
+    {
+        "referenceTemp": "REF545",
+        "Celsius": 48,
+        "fahrenheit": 118.4
+    },
+    {
+        "referenceTemp": "REF546",
+        "Celsius": 21,
+        "fahrenheit": 69.8
+    },
+    {
+        "referenceTemp": "REF547",
+        "Celsius": 14,
+        "fahrenheit": 57.2
+    },
+    {
+        "referenceTemp": "REF548",
+        "Celsius": 61,
+        "fahrenheit": 141.8
+    },
+    {
+        "referenceTemp": "REF549",
+        "Celsius": 99,
+        "fahrenheit": 210.2
+    },
+    {
+        "referenceTemp": "REF550",
+        "Celsius": 3,
+        "fahrenheit": 37.4
+    },
+    {
+        "referenceTemp": "REF551",
+        "Celsius": 42,
+        "fahrenheit": 107.6
+    },
+    {
+        "referenceTemp": "REF552",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF553",
+        "Celsius": 41,
+        "fahrenheit": 105.8
+    },
+    {
+        "referenceTemp": "REF554",
+        "Celsius": 32,
+        "fahrenheit": 89.6
+    },
+    {
+        "referenceTemp": "REF555",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF556",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF557",
+        "Celsius": 26,
+        "fahrenheit": 78.8
+    },
+    {
+        "referenceTemp": "REF558",
+        "Celsius": 56,
+        "fahrenheit": 132.8
+    },
+    {
+        "referenceTemp": "REF559",
+        "Celsius": 63,
+        "fahrenheit": 145.4
+    },
+    {
+        "referenceTemp": "REF560",
+        "Celsius": 95,
+        "fahrenheit": 203
+    },
+    {
+        "referenceTemp": "REF561",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF562",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF563",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF564",
+        "Celsius": 29,
+        "fahrenheit": 84.2
+    },
+    {
+        "referenceTemp": "REF565",
+        "Celsius": 8,
+        "fahrenheit": 46.4
+    },
+    {
+        "referenceTemp": "REF566",
+        "Celsius": 88,
+        "fahrenheit": 190.4
+    },
+    {
+        "referenceTemp": "REF567",
+        "Celsius": 35,
+        "fahrenheit": 95
+    },
+    {
+        "referenceTemp": "REF568",
+        "Celsius": 4,
+        "fahrenheit": 39.2
+    },
+    {
+        "referenceTemp": "REF569",
+        "Celsius": 20,
+        "fahrenheit": 68
+    },
+    {
+        "referenceTemp": "REF570",
+        "Celsius": 4,
+        "fahrenheit": 39.2
+    },
+    {
+        "referenceTemp": "REF571",
+        "Celsius": 48,
+        "fahrenheit": 118.4
+    },
+    {
+        "referenceTemp": "REF572",
+        "Celsius": 62,
+        "fahrenheit": 143.6
+    },
+    {
+        "referenceTemp": "REF573",
+        "Celsius": 15,
+        "fahrenheit": 59
+    },
+    {
+        "referenceTemp": "REF574",
+        "Celsius": 21,
+        "fahrenheit": 69.8
+    },
+    {
+        "referenceTemp": "REF575",
+        "Celsius": 11,
+        "fahrenheit": 51.8
+    },
+    {
+        "referenceTemp": "REF576",
+        "Celsius": 63,
+        "fahrenheit": 145.4
+    },
+    {
+        "referenceTemp": "REF577",
+        "Celsius": 42,
+        "fahrenheit": 107.6
+    },
+    {
+        "referenceTemp": "REF578",
+        "Celsius": 26,
+        "fahrenheit": 78.8
+    },
+    {
+        "referenceTemp": "REF579",
+        "Celsius": 24,
+        "fahrenheit": 75.2
+    },
+    {
+        "referenceTemp": "REF580",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF581",
+        "Celsius": 29,
+        "fahrenheit": 84.2
+    },
+    {
+        "referenceTemp": "REF582",
+        "Celsius": 67,
+        "fahrenheit": 152.6
+    },
+    {
+        "referenceTemp": "REF583",
+        "Celsius": 100,
+        "fahrenheit": 212
+    },
+    {
+        "referenceTemp": "REF584",
+        "Celsius": 71,
+        "fahrenheit": 159.8
+    },
+    {
+        "referenceTemp": "REF585",
+        "Celsius": 99,
+        "fahrenheit": 210.2
+    },
+    {
+        "referenceTemp": "REF586",
+        "Celsius": 79,
+        "fahrenheit": 174.2
+    },
+    {
+        "referenceTemp": "REF587",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF588",
+        "Celsius": 25,
+        "fahrenheit": 77
+    },
+    {
+        "referenceTemp": "REF589",
+        "Celsius": 34,
+        "fahrenheit": 93.2
+    },
+    {
+        "referenceTemp": "REF590",
+        "Celsius": 94,
+        "fahrenheit": 201.2
+    },
+    {
+        "referenceTemp": "REF591",
+        "Celsius": 20,
+        "fahrenheit": 68
+    },
+    {
+        "referenceTemp": "REF592",
+        "Celsius": 72,
+        "fahrenheit": 161.6
+    },
+    {
+        "referenceTemp": "REF593",
+        "Celsius": 38,
+        "fahrenheit": 100.4
+    },
+    {
+        "referenceTemp": "REF594",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF595",
+        "Celsius": 1,
+        "fahrenheit": 33.8
+    },
+    {
+        "referenceTemp": "REF596",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF597",
+        "Celsius": 15,
+        "fahrenheit": 59
+    },
+    {
+        "referenceTemp": "REF598",
+        "Celsius": null,
+        "fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF599",
+        "Celsius": 51,
+        "fahrenheit": 91.8
+    }
+]

@@ -1,5 +1,5 @@
 <?php
-function ecrireFichiers($table,&$TablesSorties,&$donnees,$nbligneagenerer,$sortie,$PremierPassage,$nomfic)
+function ecrireFichiers($table,&$TablesSorties,&$donnees,$nbligneagenerer,$sortie,$PremierPassage,$nomfic,$nomClee)
 {
     $listesortie = $table->getElementsByTagName("Sortie");
 
@@ -35,7 +35,7 @@ function ecrireFichiers($table,&$TablesSorties,&$donnees,$nbligneagenerer,$sorti
         {
             if ($valsortie->getAttribute("SQL") == "True") 
             {
-                FoncEcrireSql($donnees, $nomfic, $nbligneagenerer, $PremierPassage,$sortie);
+                FoncEcrireSql($donnees, $nomfic, $nbligneagenerer, $PremierPassage,$sortie,$nomClee);
                 $ini++;
             }
         }

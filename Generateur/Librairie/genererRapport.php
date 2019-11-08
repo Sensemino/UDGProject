@@ -115,12 +115,12 @@ function genererRapport($listeData,$donnees,&$DonneesRapport,$PremierPassage,$nb
                         $i = 0;
                     }
                     while ($i < $nbligneagenerer) {
-                        if ($donnees[$lignemat][$i] == "NULL") {
+                        if ($donnees[$lignemat][$i] == NULL) {
                             $NbNullPostGene++;
                         }
                         $i++;
                     }
-                    if ($PremierPassage == 0 and $donnees[$lignemat][$i] == "NULL") {
+                    if ($PremierPassage == 0 and $donnees[$lignemat][$i] == NULL) {
                         $NbNullPostGene++;
                     }
                     if ($PremierPassage == 0) {
@@ -128,6 +128,8 @@ function genererRapport($listeData,$donnees,&$DonneesRapport,$PremierPassage,$nb
                         $DonneesRapport[$lignemat][3] = ($NbNullPostGene / $nbligneagenerer) * 100;
                     }
                 }
+            break;
+            case "IDS":
             break;
         }
     }

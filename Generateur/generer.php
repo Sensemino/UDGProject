@@ -130,7 +130,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     fclose($fp);
 
     $listeData = $table->getElementsByTagName("Donnee");//récupération des différent champ a générer
-    $n=5; //nombre de lignes max stockées par passage (constante)
+    $n=100000; //nombre de lignes max stockées par passage (constante)
     $nbligneagenerer = $n; // initialisation du nombre de ligne max a générer par passage qui va
     $nbedepassageInitial = $nbligne / $n; //initialisation du nombre de passage (constante)
     echo("Nombre de lignes en tout= ".$nbligne."\n");
@@ -138,6 +138,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     echo("Nombre de passages Initial = ".$nbedepassageInitial."\n");
     $nbedepassage = $nbedepassageInitial; //on récupère le nombre de passage qui va évoluer avec la génération de donnée
     $PremierPassage = 0;
+    $compteurPassage = 0; //variable incrementée permettant l'identification pour IDS (genererIDS.php)
 
     while ($nbedepassage > 0) {
         $donnees = NULL;
@@ -152,13 +153,15 @@ foreach ($listeTable as $table) {//traitement des différentes tables
         //RECUPERATION DES DONNEES
         //--------------------------------------------------------------------------------------------
             
-        genererDonnees($listeData,$donnees,$DonneesRapport,$PremierPassage,$nbligneagenerer,$lignemat,$nbedepassage,$nbedepassageInitial);
+        genererDonnees($listeData,$donnees,$DonneesRapport,$PremierPassage,$nbligneagenerer,$lignemat,$nbedepassage,$nbedepassageInitial,$compteurPassage);
 
         //--------------------------------------------------------------------------------------------
         //ECRITURE DES DIFFERTENTS FICHIERS EN SORTIE
         //--------------------------------------------------------------------------------------------
-            
-        ecrireFichiers($table,$TablesSorties,$donnees,$nbligneagenerer,$sortie,$PremierPassage,$nomfic);
+        
+        $nomClee = nomClePerso($listeData); //on teste l'existance d'une clee personnalisé ex : IDS
+        
+        ecrireFichiers($table,$TablesSorties,$donnees,$nbligneagenerer,$sortie,$PremierPassage,$nomfic,$nomClee);
 
         //--------------------------------------------------------------------------------------------
         //GENERATION DU RAPPORT A PARTIR DES DONNEES

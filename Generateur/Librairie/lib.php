@@ -11,6 +11,7 @@ require('minimum.php');
 require('somme.php');
 require('make_seed.php');
 require('MDGAleatoire.php');
+require('nomClePerso.php');
 
 require('FoncEcrireSql.php');
 require('FoncEcrireCsv.php');
@@ -24,6 +25,7 @@ require('genererDateHeure.php');
 require('genererReference.php');
 require('codage.php');
 require('imc.php');
+require('genererIDS.php');
 
 require('ecrireFichiers.php');
 
