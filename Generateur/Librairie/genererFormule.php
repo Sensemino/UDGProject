@@ -63,29 +63,37 @@ function genererFormule($formule,$donnees,$NombreDonnee){     //calcul le résul
             {
               $TableauResultatFormule[$i] = $donneesColonne[$i+1];          //Enregistre les données
             }
+
+            if(is_null($donneesColonne[$i+1]))
+            {
+              $TableauResultatFormule[$i] = Null;
+            }
           }
         }
         elseif(isset($TableauFormule[$indiceTableauFormule+1]))             //Vérifie si il reste un opérateur
         {
           $TableauResultatFormule[$i] = $TableauFormule[$indiceTableauFormule];       //Si ce n'est pas une chaine de caractère, enregistre simplement la constante
         }
+        
       }
       //On doit savoir si c'est un opérateur car le nombre de calcul est effectué en fonction du nombre d'opérateur
 
       $operateur = connaitreOperateur($valeur);                     //Permet de savoir si c'est un opérateur
       
-      if($operateur != Null && is_numeric($TableauFormule[$indiceTableauFormule+1]) && !is_null($TableauResultatFormule[$i]))   //Vérifie si c'est un opérateur et si la case suivante est une constante
+      if($TableauResultatFormule[$i] != Null)
       {
-        $TableauResultatFormule[$i] = calculOperation($TableauFormule[$indiceTableauFormule],$TableauResultatFormule[$i],$TableauFormule[$indiceTableauFormule+1]);
-      }
-      elseif($operateur != Null && !is_null($TableauFormule[$indiceTableauFormule+1]))      //Si la case suivante n'est pas une constante alors cherche la donnée de la colonne correspondante
-      {
-        foreach($tableauDonneesTables as $donneesColonne)
+        if($operateur != Null && !is_null($TableauResultatFormule[$i]) && is_numeric($TableauFormule[$indiceTableauFormule+1]) )   //Vérifie si c'est un opérateur et si la case suivante est une constante
         {
-          if(isset($TableauFormule[$indiceTableauFormule+1]) && $TableauFormule[$indiceTableauFormule+1] == $donneesColonne[0] && $donneesColonne[$i+1] != Null)
+          $TableauResultatFormule[$i] = calculOperation($TableauFormule[$indiceTableauFormule],$TableauResultatFormule[$i],$TableauFormule[$indiceTableauFormule+1]);
+        }
+        elseif($operateur != Null && !is_null($TableauFormule[$indiceTableauFormule+1]))      //Si la case suivante n'est pas une constante alors cherche la donnée de la colonne correspondante
+        {
+          foreach($tableauDonneesTables as $donneesColonne)
           {
-            $TableauResultatFormule[$i] = calculOperation($TableauFormule[$indiceTableauFormule],$TableauResultatFormule[$i],$donneesColonne[$i+1]);
-            
+            if(isset($TableauFormule[$indiceTableauFormule+1]) && $TableauFormule[$indiceTableauFormule+1] == $donneesColonne[0] && $donneesColonne[$i+1] != Null)
+            {
+              $TableauResultatFormule[$i] = calculOperation($TableauFormule[$indiceTableauFormule],$TableauResultatFormule[$i],$donneesColonne[$i+1]);
+            }
           }
         }
       }
@@ -93,6 +101,7 @@ function genererFormule($formule,$donnees,$NombreDonnee){     //calcul le résul
     }
     $premierPassage = 1;
   }
+  print_r($donnees);
   return $TableauResultatFormule;
 }
 ?>
