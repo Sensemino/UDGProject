@@ -1,7 +1,7 @@
 <?php
-function ecrireFichiers($table,&$TablesSorties,&$donnees,$nbligneagenerer,$sortie,$PremierPassage,$nomfic,$nomClee)
+function ecrireFichiers($table,&$TablesSorties,&$donnees,$nbligneagenerer,$sortie,$PremierPassage,$nomfic,$nomClee, $listesortie)
 {
-    $listesortie = $table->getElementsByTagName("Sortie");
+    
 
     foreach ($listesortie as $valsortie) {//foreach appellant les fonctions d'écriture en sortie
         $ini = 0;

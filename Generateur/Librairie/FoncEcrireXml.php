@@ -17,7 +17,7 @@ function FoncEcrireXml($donnees, $nomfic, $nbligne, $sortie, $premierpassage)//e
     $nomgen = $xml->createTextNode(" ");
     $gen->appendChild($nomgen); //ajoute un noeud fils à $gen appelé $nomgen
     $xml->appendChild($gen);    //ajoute un noeud fils à $xml appelé $gen
-    $gene = $xml->getElementsByTagName("Generation")->item(0); //retourne le noeud à l'index 0 (je pense comme un tableau $xml["Generation"][0])
+    $gene = $xml->getElementsByTagName("Generation")->item(0); //retourne le noeud à l'index 0
     $table = $xml->createElement($nomfic);                     //et on lui rajoute un fils appelé $table
     $gene->appendChild($table);
     $xml->save($fichier);  //sauvregarde et ferme le fichier

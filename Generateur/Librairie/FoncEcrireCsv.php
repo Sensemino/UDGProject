@@ -9,7 +9,7 @@ function FoncEcrireCsv($donnees, $nomfic, $nbligne,$sortie)//ecriture de la sort
 
     $i = 0;
     $datafin = array();
-    $fp = fopen($sortie.$nomfic.".csv", "w+");
+    $fp = fopen($sortie.$nomfic.".csv", "a+");
     while ($i < $nbligne + 1) {
         $datafin[$i] = "";
         for ($j = 0; $j < count($donnees); $j++) {

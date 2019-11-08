@@ -133,12 +133,19 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     //Vérification et suppression des fichiers de sorties existants
     //-------------------------------------------------------------
 
-    if (file_exists($sortie.$nomfic.".csv") && ($valsortie->hasAttribute("CSV")) && ($valsortie->getAttribute("CSV") == "True"))
-        unlink($sortie.$nomfic."csv");
-    if (file_exists($sortie.$nomfic.".xml") && ($valsortie->hasAttribute("XML")) && ($valsortie->getAttribute("XML") == "True"))
-        unlink($sortie.$nomfic.".xml");
-    if (file_exists($sortie.$nomfic.".sql") && ($valsortie->hasAttribute("SQL")) && ($valsortie->getAttribute("SQL") == "True"))
-        unlink($sortie.$nomfic.".sql");
+    $listesortie = $table->getElementsByTagName("Sortie");
+
+    foreach ($listesortie as $valsortie) {//foreach appellant les fonctions d'écriture en sortie
+        if (file_exists($sortie.$nomfic.".csv") && ($valsortie->hasAttribute("CSV")) && ($valsortie->getAttribute("CSV") == "True"))
+            unlink($sortie.$nomfic."csv");
+        if (file_exists($sortie.$nomfic.".xml") && ($valsortie->hasAttribute("XML")) && ($valsortie->getAttribute("XML") == "True"))
+            unlink($sortie.$nomfic.".xml");
+        if (file_exists($sortie.$nomfic.".sql") && ($valsortie->hasAttribute("SQL")) && ($valsortie->getAttribute("SQL") == "True"))
+            unlink($sortie.$nomfic.".sql");
+        if (file_exists($sortie.$nomfic.".json") && ($valsortie->hasAttribute("JSON")) && ($valsortie->getAttribute("JSON") == "True"))
+            unlink($sortie.$nomfic.".json");
+    }
+    
     $listeData = $table->getElementsByTagName("Donnee");//récupération des différent champ a générer
     $n=10; //nombre de lignes max stockées par passage (constante)
     $nbligneagenerer = $n; // initialisation du nombre de ligne max a générer par passage qui va être modifié
@@ -163,7 +170,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
         //RECUPERATION DES DONNEES
         //--------------------------------------------------------------------------------------------
             
-        genererDonnees($listeData,$donnees,$DonneesRapport,$PremierPassage,$nbligneagenerer,$lignemat,$nbedepassage,$nbedepassageInitial,$compteurPassage);
+        genererDonnees($listeData, $donnees, $DonneesRapport, $PremierPassage, $nbligneagenerer, $lignemat, $nbedepassage, $nbedepassageInitial, $compteurPassage);
 
         //--------------------------------------------------------------------------------------------
         //ECRITURE DES DIFFERTENTS FICHIERS EN SORTIE
@@ -171,22 +178,21 @@ foreach ($listeTable as $table) {//traitement des différentes tables
         
         $nomClee = nomClePerso($listeData); //on teste l'existance d'une clee personnalisé ex : IDS
         
-        ecrireFichiers($table,$TablesSorties,$donnees,$nbligneagenerer,$sortie,$PremierPassage,$nomfic,$nomClee);
+        ecrireFichiers($table, $TablesSorties, $donnees, $nbligneagenerer, $sortie, $PremierPassage, $nomfic, $nomClee, $listesortie);
 
         //--------------------------------------------------------------------------------------------
         //GENERATION DU RAPPORT A PARTIR DES DONNEES
         //--------------------------------------------------------------------------------------------
 
-        genererRapport($listeData,$donnees,$DonneesRapport,$PremierPassage,$nbligneagenerer);
+        genererRapport($listeData, $donnees, $DonneesRapport, $PremierPassage, $nbligneagenerer);
         
         $PremierPassage = 1;//on indique qu'il y a eu au moins un passage
 
         $nbedepassage--;
-        //print_r($donnees);
+        print_r($donnees);
         
     }
     FoncEcrireRapport($DonneesRapport, $nbligne,$PositionRapport);
-    print_r($donnees);
        
 }
 
