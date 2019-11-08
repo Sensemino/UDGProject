@@ -17,7 +17,7 @@ function FoncEcrireSql($donnees, $nomfic, $nbligne,$PremierPassage,$sortie,$nomC
 
     if(empty($nomClee)) //on verifie si le nom de la clé est vide = entier auto incrementé par defaut
     {
-      fputs($fp, "id".ucfirst($nomfic)." mediumint(8) unsigned PRIMARY KEY NOT NULL auto_increment,\n"); //identifiant par défaut
+      fputs($fp, "id".ucfirst($nomfic)." mediumint(8) unsigned NOT NULL auto_increment,\n"); //identifiant par défaut
     }
 
     for ($i = 0; $i < count($donnees); $i++) 

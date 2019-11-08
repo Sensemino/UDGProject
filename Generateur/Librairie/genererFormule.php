@@ -101,7 +101,6 @@ function genererFormule($formule,$donnees,$NombreDonnee){     //calcul le résul
     }
     $premierPassage = 1;
   }
-  print_r($donnees);
   return $TableauResultatFormule;
 }
 ?>
