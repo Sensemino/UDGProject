@@ -1,11 +1,14 @@
 <?php
    	
-function FoncEcrireJson($donnees, $nomfic, $nbligne,$sortie){ //ecriture de la sortie au format JSON
+function FoncEcrireJson($donnees, $nomfic, $nbligne, $sortie, $premierpassage){ //ecriture de la sortie au format JSON
 
-   $reference = array();
-    for ($i=0; $i < count($donnees); $i++) { 
-        array_push($reference, array_shift($donnees[$i]));
-    }
+   //$reference = array();
+   for ($i=0; $i < count($donnees); $i++) { 
+      //array_push($reference, array_shift($donnees[$i]));
+      if($premierpassage == 0) {
+        array_shift($donnees[$i]);
+      }
+   }
 
    $myFile = $sortie.$nomfic.".json";
 
@@ -33,12 +36,20 @@ function FoncEcrireJson($donnees, $nomfic, $nbligne,$sortie){ //ecriture de la s
       $datafin[$i] = $row;
 
    }
+   echo("Tableau datafin : ");
+   print_r($datafin);
+   echo("\n");
+   echo("Tableau en_tetes : ");
+   print_r($en_tetes);
+   echo("\n");
 
    //Convert updated array to JSON
    $jsondata = json_encode($datafin, JSON_PRETTY_PRINT);
 
+   print_r($jsondata);
+
    //write json data into data.json file
-   file_put_contents($myFile, $jsondata);   
+   file_put_contents($myFile, $jsondata, FILE_APPEND);   
 }
 
 

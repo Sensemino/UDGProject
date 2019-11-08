@@ -1,7 +1,6 @@
 <?php
 function FoncEcrireXml($donnees, $nomfic, $nbligne, $sortie, $premierpassage)//ecriture de la sortie au format xml
 {
-
   //$reference = array();
   for ($i=0; $i < count($donnees); $i++) { 
       //array_push($reference, array_shift($donnees[$i]));
