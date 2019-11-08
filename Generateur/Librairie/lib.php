@@ -12,6 +12,8 @@ require('somme.php');
 require('make_seed.php');
 require('MDGAleatoire.php');
 require('nomClePerso.php');
+require('connaitreOperateur.php');
+require('calculOperation.php');
 
 require('FoncEcrireSql.php');
 require('FoncEcrireCsv.php');
