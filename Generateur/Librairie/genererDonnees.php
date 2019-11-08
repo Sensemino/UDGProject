@@ -4,7 +4,7 @@
 //Recuperation des donnees
 //--------------------------------------------------------------------------------------------
 
-function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$nbligneagenerer,&$lignemat,&$nbedepassage,$nbedepassageInitial)
+function genererDonnees($listeData, &$donnees, &$DonneesRapport, $PremierPassage, $nbligneagenerer, $nbligne, &$lignemat, &$nbedepassage, $nbedepassageInitial, &$compteurPassage)
 {
     foreach ($listeData as $data) 
     {
@@ -263,7 +263,7 @@ function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$n
                 $Suffixe = $data->getAttribute("Suffixe");}
 
             $donnees[$lignemat] = array();//déclaration d'une nouvelle colonne dans la matrice
-            $donnees[$lignemat] = genererIDS($nbligneagenerer,$Prefixe,$Suffixe,$compteurPassage);
+            $donnees[$lignemat] = genererIDS($nbligneagenerer, $nbligne, $Prefixe, $Suffixe, $compteurPassage);
             array_unshift($donnees[$lignemat], $NomDonnees); //ajout du nom de la données en entête de la colonne
 
             if($PremierPassage == 0){ //Au premier passage
