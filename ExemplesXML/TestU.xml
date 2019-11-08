@@ -10,7 +10,7 @@
 
 		<Parametres>
 			<Sortie SQL="True" XML="True" CSV="True" JSON="True"/>
-			<Nbligne valeur="15"/>
+			<Nbligne valeur="100"/>
 			<NomTable nom="Table_Test_Ultime"/>
 			<Seed valeur="12"/>
 		</Parametres>
