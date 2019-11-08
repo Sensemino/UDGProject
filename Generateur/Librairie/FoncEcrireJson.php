@@ -36,17 +36,9 @@ function FoncEcrireJson($donnees, $nomfic, $nbligne, $sortie, $premierpassage){ 
       $datafin[$i] = $row;
 
    }
-   echo("Tableau datafin : ");
-   print_r($datafin);
-   echo("\n");
-   echo("Tableau en_tetes : ");
-   print_r($en_tetes);
-   echo("\n");
 
    //Convert updated array to JSON
    $jsondata = json_encode($datafin, JSON_PRETTY_PRINT);
-
-   print_r($jsondata);
 
    //write json data into data.json file
    file_put_contents($myFile, $jsondata, FILE_APPEND);   

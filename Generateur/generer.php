@@ -97,7 +97,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     $listeRows = $table->getElementsByTagName("Nbligne");//récupération du nombre de ligne pour la table en cours
 
     $compteurPassage = 0; //variable incrementée permettant l'identification pour IDS (genererIDS.php) pour chaque table
-    
+
     foreach ($listeRows as $rows) {
 
         if ($rows->hasAttribute("valeur")) {
@@ -173,7 +173,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
         //RECUPERATION DES DONNEES
         //--------------------------------------------------------------------------------------------
             
-        genererDonnees($listeData, $donnees, $DonneesRapport, $PremierPassage, $nbligneagenerer, $lignemat, $nbedepassage, $nbedepassageInitial, $compteurPassage);
+        genererDonnees($listeData, $donnees, $DonneesRapport, $PremierPassage, $nbligneagenerer, $nbligne, $lignemat, $nbedepassage, $nbedepassageInitial, $compteurPassage);
 
         //--------------------------------------------------------------------------------------------
         //ECRITURE DES DIFFERTENTS FICHIERS EN SORTIE
