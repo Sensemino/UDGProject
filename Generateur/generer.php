@@ -131,7 +131,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
 
     $listeData = $table->getElementsByTagName("Donnee");//récupération des différent champ a générer
     $n=10; //nombre de lignes max stockées par passage (constante)
-    $nbligneagenerer = $n; // initialisation du nombre de ligne max a générer par passage qui va
+    $nbligneagenerer = $n; // initialisation du nombre de ligne max a générer par passage qui va être modifié
     $nbedepassageInitial = $nbligne / $n; //initialisation du nombre de passage (constante)
     echo("Nombre de lignes en tout= ".$nbligne."\n");
     echo("Nombre de lignes à générer en une fois = ".$n."\n");
