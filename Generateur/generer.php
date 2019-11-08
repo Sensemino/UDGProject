@@ -174,7 +174,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
         //--------------------------------------------------------------------------------------------
             
         genererDonnees($listeData, $donnees, $DonneesRapport, $PremierPassage, $nbligneagenerer, $nbligne, $lignemat, $nbedepassage, $nbedepassageInitial, $compteurPassage);
-
+        print_r($donnees);
         //--------------------------------------------------------------------------------------------
         //ECRITURE DES DIFFERTENTS FICHIERS EN SORTIE
         //--------------------------------------------------------------------------------------------

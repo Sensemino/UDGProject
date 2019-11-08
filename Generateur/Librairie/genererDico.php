@@ -5,7 +5,7 @@ function genererDico($nbligne, $NomDonnees, $GenererDep){//remplie un tableau en
     $fichier = file("Dictionnaires/Dico_" . $nomdico . ".txt");
     $lignefichier = count($fichier);
     for ($j = 0; $j < $nbligne; $j++) {
-        $ligne = rand(1, $lignefichier - 1);
+        $ligne = rand(0, $lignefichier - 1);
 
         $mots = preg_split('/\t+/', $fichier[$ligne]);
         $dicogene[0][$j] = ucfirst($mots[0]);
