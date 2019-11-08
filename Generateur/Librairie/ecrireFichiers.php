@@ -35,7 +35,7 @@ function ecrireFichiers($table,&$TablesSorties,&$donnees,$nbligneagenerer,$sorti
         {
             if ($valsortie->getAttribute("SQL") == "True") 
             {
-                FoncEcrireSql($donnees, $nomfic, $nbligneagenerer, $PremierPassage,$sortie,$nomClee);
+                FoncEcrireSql($donnees, $nomfic, $nbligneagenerer, $PremierPassage, $sortie, $nomClee);
                 $ini++;
             }
         }
