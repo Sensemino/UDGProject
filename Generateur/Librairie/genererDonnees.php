@@ -4,7 +4,7 @@
 //Recuperation des donnees
 //--------------------------------------------------------------------------------------------
 
-function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$nbligneagenerer,&$lignemat,&$nbedepassage,$nbedepassageInitial)
+function genererDonnees($listeData,&$donnees,&$DonneesRapport,$PremierPassage,$nbligneagenerer,&$lignemat,&$nbedepassage,$nbedepassageInitial,&$compteurPassage)
 {
     foreach ($listeData as $data) 
     {

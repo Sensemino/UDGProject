@@ -83,6 +83,7 @@ if (!$dom->load($fichier) ||( !$dom->schemaValidate("udg.xsd"))) // validation d
 $fp = fopen($PositionRapport, "w+");//création ou suppression du contenu du fichier contenant le rapport
 fclose($fp);
 $listeTable = $dom->getElementsByTagName("Table");//récupération des tables
+
 foreach ($listeTable as $table) {//traitement des différentes tables
     $seed = null;//mise à zéro de la seed de génération
     $moduloseed = $moduloseed * $moduloseed;//sert a générer une seed unique
@@ -93,8 +94,10 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     //remise a 0 des données du rapport
     $DonneesRapport = null;
     $lignemat = 0;
-    $listeRows = $table->getElementsByTagName("Nbligne");//récupération du nombre de ligne pour la table en cour
+    $listeRows = $table->getElementsByTagName("Nbligne");//récupération du nombre de ligne pour la table en cours
 
+    $compteurPassage = 0; //variable incrementée permettant l'identification pour IDS (genererIDS.php) pour chaque table
+    
     foreach ($listeRows as $rows) {
 
         if ($rows->hasAttribute("valeur")) {
@@ -155,7 +158,7 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     echo("Nombre de passages Initial = ".$nbedepassageInitial."\n");
     $nbedepassage = $nbedepassageInitial; //on récupère le nombre de passage qui va évoluer avec la génération de donnée
     $PremierPassage = 0;
-    $compteurPassage = 0; //variable incrementée permettant l'identification pour IDS (genererIDS.php)
+    
 
     while ($nbedepassage > 0) {
         $donnees = NULL;

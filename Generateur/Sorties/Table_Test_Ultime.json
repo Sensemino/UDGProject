@@ -1,0 +1,108 @@
+[
+    {
+        "referenceTemp": "REF500",
+        "Date_et_Heure": "2015-02-26 19:26:00",
+        "Pr\u00e9nom": "Alfred",
+        "Celsius": 95,
+        "Fahrenheit": 203
+    },
+    {
+        "referenceTemp": "REF501",
+        "Date_et_Heure": "2007-05-19 19:24:00",
+        "Pr\u00e9nom": "Ghislaine",
+        "Celsius": 37,
+        "Fahrenheit": 98.6
+    },
+    {
+        "referenceTemp": "REF502",
+        "Date_et_Heure": "2000-04-12 02:06:00",
+        "Pr\u00e9nom": "L\u00e9opold",
+        "Celsius": 45,
+        "Fahrenheit": 113
+    },
+    {
+        "referenceTemp": "REF503",
+        "Date_et_Heure": "2016-02-28 22:43:00",
+        "Pr\u00e9nom": "G\u00e9rard",
+        "Celsius": null,
+        "Fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF504",
+        "Date_et_Heure": "2013-05-07 15:29:00",
+        "Pr\u00e9nom": "Ermenegilde",
+        "Celsius": null,
+        "Fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF505",
+        "Date_et_Heure": "2000-06-06 19:28:00",
+        "Pr\u00e9nom": "Perrine",
+        "Celsius": 8,
+        "Fahrenheit": 46.4
+    },
+    {
+        "referenceTemp": "REF506",
+        "Date_et_Heure": "2004-08-30 01:12:00",
+        "Pr\u00e9nom": "Lothaire",
+        "Celsius": 88,
+        "Fahrenheit": 190.4
+    },
+    {
+        "referenceTemp": "REF507",
+        "Date_et_Heure": "2009-02-25 22:08:00",
+        "Pr\u00e9nom": "Dieudonn\u00e9e",
+        "Celsius": 35,
+        "Fahrenheit": 95
+    },
+    {
+        "referenceTemp": "REF508",
+        "Date_et_Heure": "2012-10-01 07:36:00",
+        "Pr\u00e9nom": "Lambert",
+        "Celsius": 4,
+        "Fahrenheit": 39.2
+    },
+    {
+        "referenceTemp": "REF509",
+        "Date_et_Heure": "2008-11-22 16:59:00",
+        "Pr\u00e9nom": "Manon",
+        "Celsius": 20,
+        "Fahrenheit": 36
+    }
+][
+    {
+        "referenceTemp": "REF510",
+        "Date_et_Heure": "2001-04-31 06:22:00",
+        "Pr\u00e9nom": "Fifi",
+        "Celsius": 98,
+        "Fahrenheit": 208.4
+    },
+    {
+        "referenceTemp": "REF511",
+        "Date_et_Heure": "2002-03-22 08:16:00",
+        "Pr\u00e9nom": "Jean-baptiste",
+        "Celsius": null,
+        "Fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF512",
+        "Date_et_Heure": "2000-05-31 22:00:00",
+        "Pr\u00e9nom": "Felicienne",
+        "Celsius": null,
+        "Fahrenheit": null
+    },
+    {
+        "referenceTemp": "REF513",
+        "Date_et_Heure": "2011-04-25 04:28:00",
+        "Pr\u00e9nom": "G\u00e9rard",
+        "Celsius": 9,
+        "Fahrenheit": 48.2
+    },
+    {
+        "referenceTemp": "REF514",
+        "Date_et_Heure": "2007-08-10 17:08:00",
+        "Pr\u00e9nom": "Yvette",
+        "Celsius": 20,
+        "Fahrenheit": 36
+    }
+]
