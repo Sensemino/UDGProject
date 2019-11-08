@@ -129,6 +129,16 @@ foreach ($listeTable as $table) {//traitement des différentes tables
     fputs($fp, "==================================================\n");
     fclose($fp);
 
+    //-------------------------------------------------------------
+    //Vérification et suppression des fichiers de sorties existants
+    //-------------------------------------------------------------
+
+    if (file_exists($sortie.$nomfic.".csv") && ($valsortie->hasAttribute("CSV")) && ($valsortie->getAttribute("CSV") == "True"))
+        unlink($sortie.$nomfic."csv");
+    if (file_exists($sortie.$nomfic.".xml") && ($valsortie->hasAttribute("XML")) && ($valsortie->getAttribute("XML") == "True"))
+        unlink($sortie.$nomfic.".xml");
+    if (file_exists($sortie.$nomfic.".sql") && ($valsortie->hasAttribute("SQL")) && ($valsortie->getAttribute("SQL") == "True"))
+        unlink($sortie.$nomfic.".sql");
     $listeData = $table->getElementsByTagName("Donnee");//récupération des différent champ a générer
     $n=10; //nombre de lignes max stockées par passage (constante)
     $nbligneagenerer = $n; // initialisation du nombre de ligne max a générer par passage qui va être modifié
@@ -175,7 +185,8 @@ foreach ($listeTable as $table) {//traitement des différentes tables
         //print_r($donnees);
         
     }
-    FoncEcrireRapport($DonneesRapport, $nbligne,$PositionRapport); 
+    FoncEcrireRapport($DonneesRapport, $nbligne,$PositionRapport);
+    print_r($donnees);
        
 }
 

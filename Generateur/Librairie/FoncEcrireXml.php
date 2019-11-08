@@ -9,7 +9,6 @@ function FoncEcrireXml($donnees, $nomfic, $nbligne, $sortie, $premierpassage)//e
         array_shift($donnees[$i]);
       }
   }
-  print_r($donnees);
 
   $xml = new DOMDocument('1.0', 'utf-8');
   $fichier = $sortie.$nomfic.".xml";
