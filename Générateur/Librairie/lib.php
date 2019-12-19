@@ -21,6 +21,7 @@ require('genererFormule.php');
 require('genererDateHeure.php');
 require('genererReference.php');
 require('genererCodeArticle.php');
+require('genererIdentifiant.php');
 require('codage.php');
 require('imc.php');
 require('genererIDS.php');

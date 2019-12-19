@@ -116,6 +116,12 @@ function genererDonnees($listeData, &$donnees, &$DonneesRapport, $PremierPassage
                  $nouveauTableau = genererDateHeure($nbligneagenerer, $dhmin, $dhmax);
 
                  $typeOk = 1 ; break ;
+            case "Identifiant" :    //Création d'un identifiant avec le Nom et le Prenom
+
+
+                $nouveauTableau = genererIdentifiant($donnees); //appelle d'une fonction permettant le calcul de l'IMC
+   
+                $typeOk = 1 ; break ;
 
         } # fin de switch
 

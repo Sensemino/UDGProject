@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+    <Table>
+        <Champs>
+            <Donnee NomColonne="Prenom"  Type="Dictionnaire" NomDictionnaire="prenoms"/>
+            <Donnee NomColonne="Nom"  Type="Dictionnaire" NomDictionnaire="noms"/>
+            <Donnee NomColonne="identifiant" Type="Identifiant"/>
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="identifiant"/>
+            <Sortie   CSV="oui"/>
+            <NbLigne  valeur="10"/>
+            <Graine   valeur="123" />
+        </Parametres>
+    </Table>
+</Generateur>

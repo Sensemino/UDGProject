@@ -76,6 +76,7 @@
        <xsd:enumeration value="CodeArticle"   />
        <xsd:enumeration value="Reference"     />
        <xsd:enumeration value="Formule"       />
+       <xsd:enumeration value="Identifiant"   />
     </xsd:restriction>
   </xsd:simpleType>
 
