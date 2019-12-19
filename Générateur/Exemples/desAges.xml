@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+
+    <Table>
+
+        <Champs>
+            <Donnee NomColonne="id"    Type="id"                      />
+            <Donnee NomColonne="ids"   Type="IDS"       Prefixe="MAT" />
+            <Donnee NomColonne="Age"   Type="Numerique" Min="20" Max="50" ModeGeneration="uniforme" Null="0%" Unite="ans"/>
+            <Donnee NomColonne="Poids" Type="Numerique" Min="51" Max="130" ModeGeneration="uniforme" Unite="kilos"/>
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="ghAGES"/>
+            <Sortie   XML="oui" CSV="oui" SQL="oui" JSON="oui" />
+            <NbLigne  valeur="6"/>
+            <Graine   valeur="123" />
+        </Parametres>
+
+    </Table>
+
+</Generateur>

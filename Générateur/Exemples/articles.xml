@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+
+    <Table> <!-- 1 / 3 Articles -->
+        <Champs>
+            <Donnee NomColonne="id"         Type="id" />
+            <Donnee NomColonne="refArticle" Type="CodeArticle"  Masque="XXXyy-991" />
+        </Champs>
+        <Parametres>
+            <NomTable nom="articles"/>
+            <Sortie SQL="oui"/>
+            <NbLigne valeur="10"/>
+            <Graine valeur="11276666" />
+        </Parametres>
+    </Table>
+
+   <Table> <!-- 2 / 3 Vendeurs -->
+        <Champs>
+            <Donnee NomColonne="id"         Type="id" />
+            <Donnee NomColonne="vendeur"    Type="Dictionnaire" NomDictionnaire="prenoms" />
+            <Donnee NomColonne="refVendeur" Type="Numerique"    Null="0" Min="1" Max="10000" ModeGeneration="aleatoire"/>
+        </Champs>
+        <Parametres>
+            <NomTable nom="vendeurs"/>
+            <Sortie SQL="oui"/>
+            <NbLigne valeur="3"/>
+            <Graine valeur="10276663" />
+        </Parametres>
+    </Table>
+
+    <Table> <!-- 3 / 3 Ventes -->
+        <Champs>
+            <Donnee NomColonne="id"          Type="id" />
+            <Donnee NomColonne="codeArticle" Type="Reference"  TableReference="articles" ColonneReference="refArticle" />
+            <Donnee NomColonne="mois"        Type="Numerique"  Null="0" Min="1" Max="12" ModeGeneration="aleatoire"/>
+            <Donnee NomColonne="annee"       Type="Numerique"  Null="0" Min="2010" Max="2018" ModeGeneration="aleatoire"/>
+            <Donnee NomColonne="refVendeur"  Type="Reference"  TableReference="vendeurs" ColonneReference="refVendeur" />
+        </Champs>
+        <Parametres>
+            <NomTable nom="ventes"/>
+            <Sortie SQL="oui"/>
+            <NbLigne valeur="15"/>
+            <Graine valeur="102766666" />
+        </Parametres>
+    </Table>
+
+</Generateur>

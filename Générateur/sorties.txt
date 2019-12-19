@@ -1,0 +1,56 @@
+==> Sorties/minimal_formule.csv <==
+id;double;triPlusUn;cinqPlus7;longueur;largeur;aire;
+1;2;4;12;3;2;6;
+2;4;7;17;5;3;15;
+3;6;10;22;3;5;15;
+4;8;13;27;1;5;5;
+5;10;16;32;1;2;2;
+6;12;19;37;3;2;6;
+
+==> Sorties/minimal_horairesDepart.csv <==
+NomTrain;villeDepart;horaireDepart;TypeTrain;villeArrivee;horaireArrivee;
+SNCF-000001;Minsk;2019-11-06 11:00:00;TRAIN CHARBON;Lisbonne;2019-11-06 16:04:00;
+SNCF-000002;Bratislava;2019-11-06 13:02:00;TRAIN CHARBON;Vatican;2019-11-06 18:16:00;
+SNCF-000003;Prague;2019-11-06 10:09:00;TGV;Sofia;2019-11-06 17:22:00;
+
+==> Sorties/minimal_id_age.csv <==
+id;age;
+1;83;
+2;90;
+3;3;
+4;11;
+5;81;
+6;43;
+
+==> Sorties/minimal_id_article.csv <==
+id;article;
+1;GBU-22;
+2;WNP-91;
+3;YTu-11;
+4;JUO-87;
+5;ZKR-66;
+6;GDx-46;
+7;XYs-61;
+8;WHd-22;
+9;CEh-76;
+
+==> Sorties/minimal_id_poids.csv <==
+id;poids;
+MAT0001;62;
+MAT0002;174;
+MAT0003;232;
+MAT0004;93;
+MAT0005;225;
+MAT0006;210;
+MAT0007;52;
+MAT0008;  ; 
+MAT0009;136;
+
+==> Sorties/minimal_imc.csv <==
+id;age;poids;taille;imc;
+1;36;94;181;28.7;
+2;60;105;150;46.7;
+3;32;90;192;24.4;
+4;98;83;184;24.5;
+5;28;93;142;46.1;
+6;89;65;150;28.9;

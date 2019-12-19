@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+    <Table>
+        <Champs>
+            <Donnee NomColonne="id"         Type="id"           />
+            <Donnee NomColonne="poids"      Type="Numerique"    />
+            <Donnee NomColonne="refArticle" Type="CodeArticle"  Masque="XXXyy-991" />
+            <Donnee NomColonne="age"        Type="Numerique"    />
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="mini"/>
+            <Sortie   CSV="oui" SQL="oui" />
+            <NbLigne  valeur="1"/>
+            <Graine   valeur="123" />
+        </Parametres>
+    </Table>
+</Generateur>

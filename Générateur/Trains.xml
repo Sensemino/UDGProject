@@ -1,0 +1,19 @@
+<Generateur>
+   <Table>
+      <Champs>
+         <Donnee Type="IDS"          NomColonne="NomTrain"       NomPerso="referenceTemp" Prefixe="SNCF-" Suffixe="0" NbChiffres="6" />
+         <Donnee Type="Dictionnaire" NomColonne="villeDepart"    NomDictionnaire="capitales_europeennes" ModeGeneration="uniforme"/>
+         <Donnee Type="DateHeure"    NomColonne="horaireDepart"  DateHeureMin="2019-11-06T10:00:00" DateHeureMax="2019-11-06T14:00:00"/>
+         <Donnee Type="Dictionnaire" NomColonne="TypeTrain"      NomDictionnaire="types_trains" ModeGeneration="uniforme"/>
+         <Donnee Type="Dictionnaire" NomColonne="villeArrivee"   NomDictionnaire="capitales_europeennes" ModeGeneration="uniforme"/>
+         <Donnee Type="DateHeure"    NomColonne="horaireArrivee" DateHeureMin="2019-11-06T16:00:00" DateHeureMax="2019-11-06T18:00:00"/>
+      </Champs>
+
+      <Parametres>
+         <Sortie SQL="True" XML="True" CSV="True" JSON="True"/>
+         <Nbligne  valeur="3"/>
+         <NomTable nom="horairesDepart"/>
+         <Graine   valeur="666"/>
+      </Parametres>
+   </Table>
+</Generateur>

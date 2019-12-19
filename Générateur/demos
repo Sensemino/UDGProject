@@ -1,0 +1,3 @@
+#sh demos.sh
+bash -e demos.sh
+

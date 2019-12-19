@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "age": 36,
+        "poids": 94,
+        "taille": 181,
+        "imc": 28.7
+    },
+    {
+        "id": 2,
+        "age": 60,
+        "poids": 105,
+        "taille": 150,
+        "imc": 46.7
+    },
+    {
+        "id": 3,
+        "age": 32,
+        "poids": 90,
+        "taille": 192,
+        "imc": 24.4
+    },
+    {
+        "id": 4,
+        "age": 98,
+        "poids": 83,
+        "taille": 184,
+        "imc": 24.5
+    },
+    {
+        "id": 5,
+        "age": 28,
+        "poids": 93,
+        "taille": 142,
+        "imc": 46.1
+    },
+    {
+        "id": 6,
+        "age": 89,
+        "poids": 65,
+        "taille": 150,
+        "imc": 28.9
+    }
+]

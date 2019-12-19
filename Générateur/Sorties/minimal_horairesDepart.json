@@ -1,0 +1,26 @@
+[
+    {
+        "NomTrain": "SNCF-000001",
+        "villeDepart": "Minsk",
+        "horaireDepart": "2019-11-06 11:00:00",
+        "TypeTrain": "TRAIN CHARBON",
+        "villeArrivee": "Lisbonne",
+        "horaireArrivee": "2019-11-06 16:04:00"
+    },
+    {
+        "NomTrain": "SNCF-000002",
+        "villeDepart": "Bratislava",
+        "horaireDepart": "2019-11-06 13:02:00",
+        "TypeTrain": "TRAIN CHARBON",
+        "villeArrivee": "Vatican",
+        "horaireArrivee": "2019-11-06 18:16:00"
+    },
+    {
+        "NomTrain": "SNCF-000003",
+        "villeDepart": "Prague",
+        "horaireDepart": "2019-11-06 10:09:00",
+        "TypeTrain": "TGV",
+        "villeArrivee": "Sofia",
+        "horaireArrivee": "2019-11-06 17:22:00"
+    }
+]

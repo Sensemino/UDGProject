@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+    <Table>
+        <Champs>
+            <Donnee NomColonne="Age" Type="Numerique" Min="1" Max="100" Codage="&#60;20;jeune;&#60;50;adulte;&#60;100;vieux"      />
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="testIntervalle"/>
+            <Sortie   CSV="oui" SQL="oui" />
+            <NbLigne  valeur="10"/>
+            <Graine   valeur="123" />
+        </Parametres>
+    </Table>
+</Generateur>

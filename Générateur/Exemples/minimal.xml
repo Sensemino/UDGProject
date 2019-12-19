@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+
+    <Table> <!-- table 1 -->
+        <Champs>
+            <Donnee NomColonne="id"    Type="id"           />
+            <Donnee NomColonne="age"   Type="Numerique"    />
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="minimal_id_age01"/>
+            <Sortie   XML="oui" CSV="oui" SQL="oui" />
+            <NbLigne  valeur="1"/>
+            <Graine   valeur="123" />
+        </Parametres>
+    </Table>
+
+    <Table> <!-- table 2 -->
+        <Champs>
+            <Donnee NomColonne="id"    Type="id"           />
+            <Donnee NomColonne="age"   Type="Numerique"    />
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="minimal_id_age02"/>
+            <Sortie   XML="oui" CSV="oui" SQL="oui" />
+            <NbLigne  valeur="6"/>
+            <Graine   valeur="123" />
+        </Parametres>
+    </Table>
+
+
+    <Table> <!-- table 3 -->
+        <Champs>
+            <Donnee NomColonne="id"     Type="IDS"       Prefixe="MAT" NbChiffres="4"     />
+            <Donnee NomColonne="poids"  Type="Numerique" Min="30" Max="250" Null="1"  />
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="minimal_id_poids"/>
+            <Sortie   XML="oui" CSV="oui" SQL="oui" />
+            <NbLigne  valeur="10"/>
+            <Graine   valeur="123" />
+        </Parametres>
+    </Table>
+
+    <Table> <!-- table 4 -->
+        <Champs>
+            <Donnee NomColonne="id"       Type="id"   />
+            <Donnee NomColonne="article"  Type="CodeArticle" />
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="minimal_id_article"/>
+            <Sortie   XML="oui" CSV="oui" SQL="oui" />
+            <NbLigne  valeur="14"/>
+            <Graine   valeur="123" />
+        </Parametres>
+    </Table>
+
+    <Table> <!-- table 5 -->
+      <Champs>
+         <Donnee NomColonne="NomTrain"       Type="IDS"          NomPerso="referenceTemp" Prefixe="SNCF-" Suffixe="0" NbChiffres="6" />
+         <Donnee NomColonne="villeDepart"    Type="Dictionnaire" NomDictionnaire="capitales_europeennes" ModeGeneration="uniforme"/>
+         <Donnee NomColonne="horaireDepart"  Type="DateHeure"    DateHeureMin="2019-11-06T10:00:00" DateHeureMax="2019-11-06T14:00:00"/>
+         <Donnee NomColonne="TypeTrain"      Type="Dictionnaire" NomDictionnaire="types_trains" ModeGeneration="uniforme"/>
+         <Donnee NomColonne="villeArrivee"   Type="Dictionnaire" NomDictionnaire="capitales_europeennes" ModeGeneration="uniforme"/>
+         <Donnee NomColonne="horaireArrivee" Type="DateHeure"    DateHeureMin="2019-11-06T16:00:00" DateHeureMax="2019-11-06T18:00:00"/>
+      </Champs>
+
+      <Parametres>
+         <NomTable nom="minimal_horairesDepart"/>
+         <Sortie SQL="oui" XML="oui" CSV="oui" JSON="oui"/>
+         <NbLigne  valeur="3"/>
+         <Graine   valeur="666"/>
+      </Parametres>
+    </Table>
+
+    <Table> <!-- table 6 -->
+        <Champs>
+            <Donnee NomColonne="id"     Type="id"           />
+            <Donnee NomColonne="age"    Type="Numerique" Min="18"   />
+            <Donnee NomColonne="poids"  Type="Numerique" Min="40"  Max="120" Unite="kg"  />
+            <Donnee NomColonne="taille" Type="Numerique" Min="140" Max="210" Unite="cm"  Null="2" />
+            <Donnee NomColonne="imc"    Type="IMC"   />
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="minimal_imc"/>
+            <Sortie   XML="oui" CSV="oui" SQL="oui" JSON="oui" />
+            <NbLigne  valeur="6"/>
+            <Graine   valeur="123" />
+        </Parametres>
+    </Table>
+
+    <Table> <!-- table 7 -->
+        <Champs>
+            <Donnee NomColonne="id"         Type="id"           />
+            <Donnee NomColonne="double"     Type="Formule" Formule="id * 2"  />
+            <Donnee NomColonne="triPlusUn"  Type="Formule" Formule="id * 3 + 1"  />
+            <Donnee NomColonne="cinqPlus7"  Type="Formule" Formule="5 * id + 7"  />
+            <Donnee NomColonne="longueur"   Type="Numerique" Min="1" Max="5"  />
+            <Donnee NomColonne="largeur"    Type="Numerique" Min="1" Max="5"  Null="10%"/>
+            <Donnee NomColonne="aire"       Type="Formule"   Formule="longueur * largeur"  />
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="minimal_formule"/>
+            <Sortie   XML="oui" CSV="oui" SQL="oui" JSON="oui" />
+            <NbLigne  valeur="10"/>
+            <Graine   valeur="123" />
+        </Parametres>
+    </Table>
+
+    <Table> <!-- table 8 -->
+
+        <Champs>
+            <Donnee NomColonne="id"      Type="id"                         />
+            <Donnee NomColonne="idEcole" Type="Numerique"    Min="100" Max="110"  />
+            <Donnee NomColonne="Enfant"  Type="Dictionnaire" NomDictionnaire="noms"    EnMajuscules="oui" />
+            <Donnee NomColonne="Prenom"  Type="Dictionnaire" NomDictionnaire="prenoms" EnMajuscules="non" />
+            <Donnee NomColonne="Classe"  Type="Numerique"    Min="1" Max="3" Codage="1;CE1;2;CE2;3;CE1-CE2" />
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="lesCE1"/>
+            <Sortie   XML="oui" CSV="oui" SQL="oui" JSON="oui" />
+            <NbLigne  valeur="12"/>
+            <Graine   valeur="123" />
+        </Parametres>
+
+    </Table>
+
+    <Table><!-- table 9 -->
+       <Champs>
+          <Donnee NomColonne="NomTrain"       Type="IDS"          NomPerso="referenceTemp" Prefixe="SNCF-" Suffixe="0" NbChiffres="6" />
+          <Donnee NomColonne="villeDepart"    Type="Dictionnaire" NomDictionnaire="capitales_europeennes" ModeGeneration="uniforme"/>
+          <Donnee NomColonne="horaireDepart"  Type="DateHeure"    DateHeureMin="2019-11-06T10:00:00" DateHeureMax="2019-11-06T14:00:00"/>
+          <Donnee NomColonne="TypeTrain"      Type="Dictionnaire" NomDictionnaire="types_trains" ModeGeneration="uniforme"/>
+          <Donnee NomColonne="villeArrivee"   Type="Dictionnaire" NomDictionnaire="capitales_europeennes" ModeGeneration="uniforme"/>
+          <Donnee NomColonne="horaireArrivee" Type="DateHeure"    DateHeureMin="2019-11-06T16:00:00" DateHeureMax="2019-11-06T18:00:00"/>
+       </Champs>
+
+       <Parametres>
+          <NomTable nom="horairesDepart"/>
+          <Sortie SQL="oui" XML="oui" CSV="oui" JSON="oui"/>
+          <NbLigne  valeur="3"/>
+          <Graine   valeur="666"/>
+       </Parametres>
+    </Table>
+
+</Generateur>

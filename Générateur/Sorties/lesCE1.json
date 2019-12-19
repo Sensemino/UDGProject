@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "idEcole": 103,
+        "Enfant": "RHEAUME",
+        "Prenom": "Cosette",
+        "codeClasse": 3,
+        "Classe": "CE1-CE2"
+    },
+    {
+        "id": 2,
+        "idEcole": 103,
+        "Enfant": "GOULET",
+        "Prenom": "Julienne",
+        "codeClasse": 1,
+        "Classe": "CE1"
+    },
+    {
+        "id": 3,
+        "idEcole": 108,
+        "Enfant": "DANDONNEAU",
+        "Prenom": "Brice",
+        "codeClasse": 2,
+        "Classe": "CE2"
+    },
+    {
+        "id": 4,
+        "idEcole": 104,
+        "Enfant": "JODOIN",
+        "Prenom": "Hugues",
+        "codeClasse": 3,
+        "Classe": "CE1-CE2"
+    },
+    {
+        "id": 5,
+        "idEcole": 103,
+        "Enfant": "LEMAITRE",
+        "Prenom": "Marceline",
+        "codeClasse": 3,
+        "Classe": "CE1-CE2"
+    },
+    {
+        "id": 6,
+        "idEcole": 106,
+        "Enfant": "LAFORGE",
+        "Prenom": "G\u00e9raud",
+        "codeClasse": 1,
+        "Classe": "CE1"
+    },
+    {
+        "id": 7,
+        "idEcole": 110,
+        "Enfant": "BILODEAU",
+        "Prenom": "Geoffroi",
+        "codeClasse": 2,
+        "Classe": "CE2"
+    },
+    {
+        "id": 8,
+        "idEcole": 109,
+        "Enfant": "CHOUINARD",
+        "Prenom": "Esther",
+        "codeClasse": 2,
+        "Classe": "CE2"
+    },
+    {
+        "id": 9,
+        "idEcole": 109,
+        "Enfant": "PELLERIN",
+        "Prenom": "Elisabeth",
+        "codeClasse": 3,
+        "Classe": "CE1-CE2"
+    },
+    {
+        "id": 10,
+        "idEcole": 105,
+        "Enfant": "PELLERIN",
+        "Prenom": "Ozanne",
+        "codeClasse": 2,
+        "Classe": "CE2"
+    },
+    {
+        "id": 11,
+        "idEcole": 109,
+        "Enfant": "SAUCIER",
+        "Prenom": "Joachim",
+        "codeClasse": 2,
+        "Classe": "CE2"
+    },
+    {
+        "id": 12,
+        "idEcole": 106,
+        "Enfant": "TESSIER",
+        "Prenom": "Colette",
+        "codeClasse": 3,
+        "Classe": "CE1-CE2"
+    }
+]

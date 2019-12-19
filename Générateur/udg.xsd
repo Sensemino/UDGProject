@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- # (gH)   -_-  udg.xsd  ;  TimeStamp (unix) : 12 Novembre 2019 vers 11:24 -->
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<!--
+#############################################################################################
+#                                                                                           #
+#   Le fichier de configuration de la génération comporte un élément racine <Generateur>    #
+#   qui contient des rubriques (éléments) <Table>                                           #
+#                                                                                           #
+#############################################################################################
+-->
+
+  <xsd:element name="Generateur">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element maxOccurs="unbounded" ref="Table"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+<!--
+#################################################################################################
+#                                                                                               #
+#   Un élément <Table> a deux parties : un élément <Champs> qui décrit les colonnes à générer   #
+#   et un élément <Parametres> qui définit le nombre de lignes et les contraintes               #
+#                                                                                               #
+#################################################################################################
+-->
+
+  <xsd:element name="Table">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="Champs"/>
+        <xsd:element ref="Parametres"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+<!--
+#############################################################################################
+#                                                                                           #
+#   Un élément <Champ> ne contient que des éléments <Donnee>                                #
+#                                                                                           #
+#############################################################################################
+-->
+
+  <xsd:element name="Champs">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element maxOccurs="unbounded" ref="Donnee"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+<!--
+#############################################################################################
+#                                                                                           #
+#   Un élément <Donnee>                                                                     #
+#                                                                                           #
+#   - contient deux attributs obligatoires : NomColonne et Type                             #
+#   - les autres attributs sont liés au type utilisé                                        #
+#                                                                                           #
+#############################################################################################
+-->
+
+ <xsd:simpleType name="colonne">
+    <xsd:restriction base="xsd:string">
+       <xsd:enumeration value="id"            />
+       <xsd:enumeration value="IDS"           />
+       <xsd:enumeration value="IMC"           />
+       <xsd:enumeration value="Numerique"     />
+       <xsd:enumeration value="Dictionnaire"  />
+       <xsd:enumeration value="Codage"        />
+       <xsd:enumeration value="DateHeure"     />
+       <xsd:enumeration value="CodeArticle"   />
+       <xsd:enumeration value="Reference"     />
+       <xsd:enumeration value="Formule"       />
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:element name="Donnee">
+    <xsd:complexType>
+      <xsd:attribute name="NomColonne" use="required" type="xsd:NCName" />
+      <xsd:attribute name="Type"       use="required" type="colonne"/>
+      <xsd:attribute name="Formule"/>
+      <xsd:attribute name="Max" type="xsd:decimal"/>
+      <xsd:attribute name="Min" type="xsd:decimal"/>
+      <xsd:attribute name="NomDictionnaire" type="xsd:NCName"/>
+      <xsd:attribute name="ModeGeneration" type="xsd:NCName"/>
+      <xsd:attribute name="NbDecimale" type="xsd:integer"/>
+      <xsd:attribute name="NomPerso" type="xsd:NCName"/>
+      <xsd:attribute name="Null"/>
+      <xsd:attribute name="Unite" type="xsd:NCName"/>
+      <xsd:attribute name="Calcul"/>
+      <xsd:attribute name="Codage"/>
+      <xsd:attribute name="GenererDependance"/>
+      <xsd:attribute name="TableReference" type="xsd:NCName"/>
+      <xsd:attribute name="ColonneReference" type="xsd:NCName"/>
+      <xsd:attribute name="DateHeureMin" type="xsd:dateTime"/>
+      <xsd:attribute name="DateHeureMax" type="xsd:dateTime"/>
+      <xsd:attribute name="Prefixe" type="xsd:string"/>
+      <xsd:attribute name="Suffixe" type="xsd:integer"/>
+      <xsd:attribute name="EnMajuscules" type="xsd:string"/>
+      <xsd:attribute name="NbChiffres" type="xsd:integer"/>
+      <xsd:attribute name="Masque" type="xsd:string"/>
+    </xsd:complexType>
+  </xsd:element>
+
+<!--
+#############################################################################################
+#                                                                                           #
+#   Un élément <Parametres> contient 4 éléments obligatoires :                              #
+#                                                                                           #
+#       <NomTable> <Sortie> <Nbligne> <Seed>                                                #
+#                                                                                           #
+#############################################################################################
+-->
+
+  <xsd:element name="Parametres">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="NomTable"/>
+        <xsd:element ref="Sortie"/>
+        <xsd:element ref="NbLigne"/>
+        <xsd:element ref="Graine" minOccurs="0"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+<!--
+#############################################################################################
+#                                                                                           #
+#   Un élément <Sorties> contient 4 éléments vides (mais qui ont des attributs) :           #
+#                                                                                           #
+#       <Sortie> <NbLigne> <NomTable> <Seed>                                                #
+#                                                                                           #
+#############################################################################################
+-->
+
+ <xsd:simpleType name="OuiNon">
+    <xsd:restriction base="xsd:string">
+       <xsd:enumeration value="oui"            />
+       <xsd:enumeration value="non"           />
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:element name="Sortie">
+    <xsd:complexType>
+      <xsd:attribute name="CSV"  type="OuiNon"/>
+      <xsd:attribute name="XML"  type="OuiNon"/>
+      <xsd:attribute name="SQL"  type="OuiNon"/>
+      <xsd:attribute name="JSON" type="OuiNon"/>
+    </xsd:complexType>
+  </xsd:element>
+
+  <xsd:element name="NbLigne">
+    <xsd:complexType>
+      <xsd:attribute name="valeur" use="required" type="xsd:integer"/>
+    </xsd:complexType>
+  </xsd:element>
+
+  <xsd:element name="NomTable">
+    <xsd:complexType>
+      <xsd:attribute name="nom" use="required" type="xsd:NCName"/>
+    </xsd:complexType>
+  </xsd:element>
+
+  <xsd:element name="Graine">
+    <xsd:complexType>
+      <xsd:attribute name="valeur" type="xsd:integer"/>
+    </xsd:complexType>
+
+  </xsd:element>
+
+</xsd:schema>

@@ -1,0 +1,5134 @@
+﻿A 313 200 000 UI/100 g pom
+A 313 50 000 UI caps molle
+ABASAGLAR 100 U/ml sol inj en stylo prérempli
+ABASAGLAR 100 UI/ml sol inj en cartouche
+ABBE CHAUPITRE N° 6 sol buv
+ABBE CHAUPITRE N° 7 sol buv
+ABBOTICINE 200 mg/5 ml glé p susp buv
+ABELCET 5 mg/ml susp diluer p perf
+ABILIFY 1 mg/ml sol buv
+ABILIFY 10 mg cp
+ABILIFY 10 mg cp orodispers
+ABILIFY 10 mg cp [ADP]
+ABILIFY 15 mg cp
+ABILIFY 15 mg cp orodispers
+ABILIFY 15 mg cp [ADP]
+ABILIFY 5 mg cp
+ABILIFY 5 mg cp [ADP]
+ABILIFY 7,5 mg/ml sol inj
+ABILIFY MAINTENA 300 mg pdre/solv p susp inj à libération prolongée
+ABILIFY MAINTENA 400 mg pdre/solv p susp inj à libération prolongée
+ABILIFY MAINTENA 400 mg pdre/solv p susp inj LP en seringue préremplie
+ABRAXANE 5 mg/ml pdre p susp inj p perf
+ABSTRAL 100 µg cp subling
+ABSTRAL 200 µg cp subling
+ABSTRAL 300 µg cp subling
+ABSTRAL 400 µg cp subling
+ABSTRAL 600 µg cp subling
+ABSTRAL 800 µg cp subling
+ABUFENE 400 mg cp
+ACADIONE 250 mg cp enr
+ACAMPROSATE BIOGARAN 333 mg cp pellic gastrorésis
+ACARBOSE ARROW 100 mg cp
+ACARBOSE ARROW 50 mg cp
+ACARBOSE BIOGARAN 100 mg cp séc
+ACARBOSE BIOGARAN 50 mg cp
+ACARBOSE EG 100 mg cp
+ACARBOSE EG 50 mg cp
+ACARBOSE MYLAN 100 mg cp séc
+ACARBOSE MYLAN 50 mg cp
+ACARBOSE SANDOZ 100 mg cp
+ACARBOSE SANDOZ 50 mg cp
+ACARBOSE ZENTIVA 100 mg cp séc
+ACARBOSE ZENTIVA 50 mg cp
+ACCOFIL 30 MU/0,5 ml sol inj/p perf en seringue préremplie
+ACCOFIL 48 MU/0,5 ml sol inj/p perf en seringue préremplie
+ACCUSOL 35 POTASSIUM 2 mmol/l sol p hémofiltr
+ACCUSOL 35 POTASSIUM 4 mmol/l sol p hémofiltr
+ACCUSOL 35 sol p hémofiltr/hémodial/hémodiafiltr
+ACEBUTOLOL ALMUS 200 mg cp pellic
+ACEBUTOLOL ALMUS 400 mg cp pellic
+ACEBUTOLOL ARROW 200 mg cp pellic
+ACEBUTOLOL ARROW 400 mg cp pellic séc
+ACEBUTOLOL BIOGARAN 200 mg cp pellic
+ACEBUTOLOL BIOGARAN 400 mg cp pellic
+ACEBUTOLOL CRISTERS 200 mg cp pellic
+ACEBUTOLOL CRISTERS 400 mg cp pellic
+ACEBUTOLOL EG 200 mg cp pellic
+ACEBUTOLOL EG 400 mg cp pellic
+ACEBUTOLOL MYLAN 200 mg cp pellic
+ACEBUTOLOL MYLAN 400 mg cp pellic
+ACEBUTOLOL QUALIMED 200 mg cp pellic
+ACEBUTOLOL QUALIMED 400 mg cp pellic
+ACEBUTOLOL RANBAXY 200 mg cp pellic
+ACEBUTOLOL RANBAXY 400 mg cp pellic
+ACEBUTOLOL RATIOPHARM 200 mg cp enr
+ACEBUTOLOL RATIOPHARM 400 mg cp enr
+ACEBUTOLOL SANDOZ 200 mg cp enr
+ACEBUTOLOL SANDOZ 400 mg cp enr
+ACEBUTOLOL TEVA 200 mg cp pellic
+ACEBUTOLOL TEVA 400 mg cp pellic séc
+ACEBUTOLOL ZENTIVA 200 mg cp pellic
+ACEBUTOLOL ZENTIVA 400 mg cp pellic
+ACEBUTOLOL ZYDUS 200 mg cp pellic
+ACEBUTOLOL ZYDUS 400 mg cp pellic
+ACECLOFENAC ACCORD 100 mg cp pellic
+ACECLOFENAC EG 100 mg cp pellic
+ACECLOFENAC MYLAN 100 mg cp pellic
+ACECLOFENAC QUALIMED 100 mg cp pellic
+ACETATE DE CYPROTERONE ARROW 100 mg cp séc
+ACETATE DE CYPROTERONE ARROW 50 mg cp séc
+ACETATE DE CYPROTERONE EG 100 mg cp séc
+ACETATE DE CYPROTERONE EG 50 mg cp séc
+ACETATE DE CYPROTERONE SANDOZ 100 mg cp séc
+ACETATE DE CYPROTERONE SANDOZ 50 mg cp séc
+ACETATE DE CYPROTERONE TEVA 100 mg cp séc
+ACETATE DE CYPROTERONE TEVA 50 mg cp
+ACETYLCYSTEINE ARROW 200 mg cp efferv
+ACETYLCYSTEINE BIOGARAN CONSEIL 200 mg cp efferv
+ACETYLCYSTEINE BIOGARAN CONSEIL 200 mg pdre p sol buv en sachet
+ACETYLCYSTEINE EG 200 mg pdre p sol buv en sachet-dose
+ACETYLCYSTEINE EG LABO CONSEIL sans sucre 200 mg pdre p sol buv sachet-dose
+ACETYLCYSTEINE MYLAN 200 mg cp efferv séc
+ACETYLCYSTEINE MYLAN 200 mg pdre p sol buv en sachet-dose
+ACETYLCYSTEINE RATIOPHARM CONSEIL 200 mg pdre p sol buv
+ACETYLCYSTEINE SANDOZ CONSEIL 200 mg glé p sol buv en sachet-dose
+ACETYLCYSTEINE TEVA 200 mg glé p sol buv en sachet-dose
+ACETYLCYSTEINE TEVA CONSEIL 200 mg pdre p sol buv en sachet-dose sans sucre
+ACETYLLEUCINE BIOGARAN 500 mg cp
+ACETYLLEUCINE MYLAN 500 mg cp
+ACETYLLEUCINE TEVA 500 mg cp
+ACETYLLEUCINE ZENTIVA 500 mg cp
+ACICLOVIR AGUETTANT 250 mg pdre p sol p perf
+ACICLOVIR ALMUS 200 mg cp
+ACICLOVIR ALMUS 5 % crème
+ACICLOVIR ARROW 200 mg cp
+ACICLOVIR ARROW 5 % crème
+ACICLOVIR ARROW 800 mg cp
+ACICLOVIR ARROW CONSEIL 5 % crème
+ACICLOVIR ARROW LAB 200 mg cp
+ACICLOVIR ARROW LAB 800 mg cp
+ACICLOVIR BGR 200 mg cp
+ACICLOVIR BGR 800 mg cp
+ACICLOVIR BIOGARAN 200 mg cp
+ACICLOVIR BIOGARAN 5 % crème
+ACICLOVIR BIOGARAN 800 mg cp
+ACICLOVIR BIOGARAN CONSEIL 5 % crème
+ACICLOVIR CRISTERS 200 mg cp
+ACICLOVIR CRISTERS 5 % crème
+ACICLOVIR CRISTERS 800 mg cp
+ACICLOVIR CRISTERS CONSEIL 5 % crème
+ACICLOVIR DAKOTA PHARM 500 mg pdre p sol p perf
+ACICLOVIR EG 200 mg cp
+ACICLOVIR EG 5 % crème
+ACICLOVIR EG 800 mg cp
+ACICLOVIR EG LABO 5 % crème
+ACICLOVIR EVOLUGEN 200 mg cp
+ACICLOVIR MYLAN 200 mg cp
+ACICLOVIR MYLAN 250 mg pdre p sol inj IV
+ACICLOVIR MYLAN 5 % crème
+ACICLOVIR MYLAN 500 mg pdre p sol inj IV
+ACICLOVIR MYLAN 800 mg cp
+ACICLOVIR MYLAN PHARMA 5 % crème
+ACICLOVIR QUALIMED 200 mg cp
+ACICLOVIR QUALIMED 5 % crème
+ACICLOVIR QUALIMED 800 mg cp
+ACICLOVIR RANBAXY 200 mg cp
+ACICLOVIR RANBAXY 800 mg cp
+ACICLOVIR RATIOPHARM 200 mg cp
+ACICLOVIR RATIOPHARM 5 % crème
+ACICLOVIR RATIOPHARM 800 mg cp
+ACICLOVIR RATIOPHARM CONSEIL 5 % crème
+ACICLOVIR RPG 5 % crème
+ACICLOVIR SANDOZ 200 mg cp
+ACICLOVIR SANDOZ 5 % crème
+ACICLOVIR SANDOZ CONSEIL 5 % crème
+ACICLOVIR TEVA 200 mg cp
+ACICLOVIR TEVA 5 % crème
+ACICLOVIR TEVA 800 mg cp
+ACICLOVIR TEVA CONSEIL 5 % crème
+ACICLOVIR ZENTIVA 200 mg cp
+ACICLOVIR ZENTIVA 5 % crème
+ACICLOVIR ZENTIVA 800 mg cp
+ACICLOVIR ZYDUS 200 mg cp
+ACICLOVIR ZYDUS 5 % crème
+ACIDE ALENDRONIQUE ACTAVIS 70 mg cp
+ACIDE ALENDRONIQUE ALMUS 70 mg cp
+ACIDE ALENDRONIQUE ALTER 70 mg cp pellic
+ACIDE ALENDRONIQUE ARROW 10 mg cp
+ACIDE ALENDRONIQUE ARROW 70 mg cp
+ACIDE ALENDRONIQUE BIOGARAN 70 mg cp
+ACIDE ALENDRONIQUE CRISTERS 70 mg cp
+ACIDE ALENDRONIQUE EG 70 mg cp
+ACIDE ALENDRONIQUE EVOLUGEN 70 mg cp
+ACIDE ALENDRONIQUE MYLAN 70 mg cp
+ACIDE ALENDRONIQUE PHR LAB 70 mg cp
+ACIDE ALENDRONIQUE QUALIMED 70 mg cp
+ACIDE ALENDRONIQUE RANBAXY 70 mg cp
+ACIDE ALENDRONIQUE RATIOPHARM 70 mg cp
+ACIDE ALENDRONIQUE SANDOZ 70 mg cp
+ACIDE ALENDRONIQUE TEVA 70 mg cp
+ACIDE ALENDRONIQUE TEVA SANTE 70 mg cp
+ACIDE ALENDRONIQUE ZYDUS 70 mg cp
+ACIDE FOLIQUE ARROW 5 mg cp
+ACIDE FOLIQUE CCD 0,4 mg cp
+ACIDE FOLIQUE CCD 5 mg cp
+ACIDE FUSIDIQUE ARROW 2 % crème
+ACIDE FUSIDIQUE BGR 2 % crème
+ACIDE FUSIDIQUE BIOGARAN 2 % crème
+ACIDE FUSIDIQUE EG 2 % crème
+ACIDE FUSIDIQUE MYLAN 2 % crème
+ACIDE FUSIDIQUE RATIOPHARM 2 % crème
+ACIDE FUSIDIQUE SANDOZ 2 % crème
+ACIDE IBANDRONIQUE TEVA 150 mg cp pellic
+ACIDE TIAPROFENIQUE ARROW 100 mg cp séc
+ACIDE TIAPROFENIQUE EG 100 mg cp séc
+ACIDE TIAPROFENIQUE TEVA 100 mg cp séc
+ACIDE TIAPROFENIQUE ZENTIVA 100 mg cp séc
+ACIDE URSODESOXYCHOLIQUE BIOGARAN 250 mg cp pellic
+ACIDE URSODESOXYCHOLIQUE MYLAN 250 mg cp pellic
+ACIDE URSODESOXYCHOLIQUE TEVA 250 mg cp pellic
+ACIDE ZOLEDRONIQUE BIOGARAN 4 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE BIOGARAN 5 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE FRESENIUS KABI 4 mg/5 ml sol diluer p perf
+ACIDE ZOLEDRONIQUE HOSPIRA 4 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE MEDAC 4 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE MYLAN 4 mg/5 ml sol diluer p perf
+ACIDE ZOLEDRONIQUE SANDOZ 4 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE SANDOZ 5 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE TEVA PHARMA 5 mg sol p perf en flacon
+ACIDE ZOLEDRONIQUE ZENTIVA LAB 4 mg/100 ml sol p perf
+ACIDRINE cp à croquer
+ACIDUM PHOSPHORICUM COMPOSE cp
+ACIDUM PHOSPHORICUM COMPOSE gle
+ACIDUM PHOSPHORICUM COMPOSE sol buv
+ACLASTA 5 mg sol p perf
+ACLOTINE 100 UI/ml pdre/solv p sol inj
+ACNETRAIT 10 mg caps molle
+ACNETRAIT 20 mg caps molle
+ACNETRAIT 40 mg caps molle
+ACNETRAIT 5 mg caps molle
+ACONITUM COMPOSE cp
+ACONITUM COMPOSE gle
+ACONITUM COMPOSE sol buv
+ACORSPRAY 200µg/dose sol p inhal en fl press
+ACT-HIB 10 µg/0,5 ml pdre/solv p sol inj seringue préremplie
+ACTAPULGITE 3 g pdre p susp buv en sachet enfant adulte
+ACTHEANE cp
+ACTI 5 sol buv
+ACTICARBINE 70 mg cp enr
+ACTICARBINE cp enr
+ACTIFED ALLERGIE CETIRIZINE 10 mg cp pellic séc
+ACTIFED ETATS GRIPPAUX pdre p sol buv
+ACTIFED LP RHINITE ALLERGIQUE cp pellic LP
+ACTIFED RHUME cp
+ACTIFED RHUME JOUR & NUIT cp
+ACTIFEDSIGN gél
+ACTILYSE 10 mg pdre/solv p sol inj
+ACTILYSE 2 mg pdre p sol inj/p perf
+ACTILYSE 20 mg pdre/solv p sol inj
+ACTILYSE 50 mg pdre/solv p sol inj
+ACTIQ 1200 µg cp avec applicateur buccal
+ACTIQ 1600 µg cp avec applicateur buccal
+ACTIQ 200 µg cp avec applicateur buccal
+ACTIQ 400 µg cp avec applicateur buccal
+ACTIQ 600 µg cp avec applicateur buccal
+ACTIQ 800 µg cp avec applicateur buccal
+ACTISKENAN 10 mg gél
+ACTISKENAN 20 mg gél
+ACTISKENAN 30 mg gél
+ACTISKENAN 5 mg gél
+ACTISOUFRE 4 mg/50 mg par 10 ml susp buv/nasal
+ACTISOUFRE sol p pulv bucc/nasal
+ACTIVELLE cp pellic
+ACTIVIR 5 % crème
+ACTIVOX ERYSIMUM MATRICAIRE past sans sucre arôme miel citron maux de gorge
+ACTIVOX ERYSIMUM MATRICAIRE past sans sucre menthe eucalyptus maux de gorge
+ACTIVOX Lierre sirop
+ACTIVOX past expectorant Lierre sans sucre
+ACTIVOX PELARGONIUM sol buv rhume
+ACTIVOX pom
+ACTONEL 30 mg cp pellic
+ACTONEL 35 mg cp pellic
+ACTONEL 35 mg cp pellic [IT1]
+ACTONEL 35 mg cp pellic [IT2]
+ACTONEL 5 mg cp pellic
+ACTONEL 75 mg cp pellic
+ACTONEL 75 mg cp pellic [IT1]
+ACTONEL 75 mg cp pellic [IT2]
+ACTONELCOMBI 35 mg + 1000 mg/880 UI cp pellic/glé efferv
+ACTOS 15 mg cp
+ACTOS 30 mg cp
+ACTOSOLV 100 000 UI pdre p sol inj
+ACTOSOLV 600 000 UI pdre p sol inj
+ACTRAPID 100 UI/ml sol inj en flacon
+ACTRAPID Penfill 100 UI/ml sol inj en cartouche
+ACTRON cp efferv
+ACUILIX 20 mg/12,5 mg cp pellic séc
+ACUITEL 20 mg cp enr séc
+ACUITEL 5 mg cp enr séc
+ACULAR 0,5 % collyre
+ACUPAN sol inj
+ADALATE 10 mg caps
+ADALATE LP 20 mg cp LP
+ADANCOR 10 mg cp séc
+ADANCOR 20 mg cp
+ADAPALENE TEVA 0,1 % crème
+ADAPALENE TEVA 0,1 % gel
+ADAPALENE ZENTIVA 0,1 % crème
+ADAPALENE ZENTIVA 0,1 % gel
+ADARTREL 0,25 mg cp pellic
+ADARTREL 0,50 mg cp pellic
+ADARTREL 2 mg cp pellic
+ADASUVE 9,1 mg pdre p inhal en récipient unidose
+ADCETRIS 50 mg pdre p sol diluer p perf
+ADCIRCA 20 mg cp pellic
+ADEMPAS 0,5 mg cp pellic
+ADEMPAS 1 mg cp pellic
+ADEMPAS 1,5 mg cp pellic
+ADEMPAS 2 mg cp pellic
+ADEMPAS 2,5 mg cp pellic
+ADENOSCAN 30 mg/10 ml sol p perf IV
+ADENOSINE MEDAC 6 mg/2 ml sol inj
+ADENURIC 120 mg cp pellic
+ADENURIC 80 mg cp pellic
+ADENYL 60 mg cp
+ADEPAL cp enr
+ADIAZINE 500 mg cp
+ADIXON 50 µg cp séc
+ADOPORT 0,5 mg gél
+ADOPORT 1 mg gél
+ADOPORT 2 mg gél
+ADOPORT 5 mg gél
+ADRENALINE AGUETTANT 0,25 mg/ml sol inj en ampoule
+ADRENALINE AGUETTANT 0,5 mg/1 ml sol inj en ampoule
+ADRENALINE AGUETTANT 1 mg/1 ml sol inj en ampoule
+ADRENALINE AGUETTANT 1 mg/ml sol inj sans sulfite
+ADRENALINE AGUETTANT sans sulfite 0,1 mg/ml sol inj en seringue préremplie
+ADRENALINE RENAUDIN 0,25 mg/ml sol inj en ampoule
+ADRENALINE RENAUDIN 0,50 mg/ml sol inj
+ADRENALINE RENAUDIN 1 mg/ml sol inj
+ADRENALINE RENAUDIN 1 mg/ml sol inj en ampoule
+ADREVIEW (123I) sol inj
+ADRIBLASTINE 10 mg lyoph p sol inj
+ADRIBLASTINE 10 mg/5 ml sol p perf
+ADRIBLASTINE 200 mg/100 ml sol inj p perf
+ADRIBLASTINE 50 mg lyoph p sol inj
+ADRIBLASTINE 50 mg/25 ml sol p perf
+ADRIGYL 10 000 UI/ml sol buv en gte
+ADROVANCE 70 mg/2800 UI cp
+ADROVANCE 70 mg/5600 UI cp
+ADVAGRAF 0,5 mg gél LP
+ADVAGRAF 1 mg gél LP
+ADVAGRAF 3 mg gél LP
+ADVAGRAF 5 mg gél LP
+ADVATE 1000 UI/2 ml pdre/solv p sol inj
+ADVATE 1000 UI/5 ml pdre/solv p sol inj
+ADVATE 1500 UI/2 ml pdre/solv p sol inj
+ADVATE 1500 UI/5 ml pdre/solv p sol inj
+ADVATE 2000 UI/5 ml pdre/solv p sol inj
+ADVATE 250 UI/2 ml pdre/solv p sol inj
+ADVATE 250 UI/5 ml pdre/solv p sol inj
+ADVATE 3000 UI/5 ml pdre/solv p sol inj
+ADVATE 500 UI/2 ml pdre/solv p sol inj
+ADVATE 500 UI/5 ml pdre/solv p sol inj
+ADVIL 200 mg cp enr
+ADVIL 400 mg cpr enr
+ADVILCAPS 200 mg caps molle
+ADVILCAPS 400 mg caps molle
+ADVILEFF 200 mg cp efferv
+ADVILGEL 5 % gel
+ADVILMED 100 mg cp enr
+ADVILMED 20 mg/1 ml susp buv en flacon
+ADVILMED 400 mg cp enr
+ADVILMED 5 % gel
+ADVILTAB 200 mg cp enr
+AERIUS 0,5 mg/ml sol buv
+AERIUS 5 mg cp pellic
+AERIUS 5 mg cp pellic [ADP]
+AERRANE sol p inhal
+AESCULUS COMPLEXE N°103 sol buv en gte
+AESCULUS COMPOSE BOIRON pom
+AESCULUS COMPOSE cp
+AESCULUS COMPOSE gle
+AESCULUS COMPOSE sol buv
+AESCULUS COMPOSE suppos
+AETOXISCLEROL TAMPONNE 0,25 % (5 mg/2 ml) sol inj en ampoule IV
+AETOXISCLEROL TAMPONNE 0,5 % (10 mg/2 ml) sol inj en ampoule IV
+AETOXISCLEROL TAMPONNE 2 % (40 mg/2 ml) sol inj en ampoule IV
+AETOXISCLEROL TAMPONNE 3 % (60 mg/2 ml) sol inj en ampoule IV
+AFINITOR 10 mg cp
+AFINITOR 2,5 mg cp
+AFINITOR 5 mg cp
+AFTAGEL gel bucc
+AFTOSIUM cp subling
+AGATHOL BAUME pom
+AGIOLAX glé
+AGRASTAT 250 µg/ml sol diluer p perf
+AGRASTAT 50 µg/ml sol p perf
+AGRIPPAL susp inj en seringue préremplie
+AGYRAX cp séc
+AIROMIR AUTOHALER 100 µg susp p inhal
+AKINETON LP 4 mg cp enr LP
+ALAIRGIX ALLERGIE CETIRIZINE 10 mg cp à sucer séc
+ALAIRGIX RHINITE ALLERGIQUE CROMOGLICATE DE SODIUM 2 % sol p pulv nasal
+ALBEY VENIN ABEILLE 120 µg pdre/solv p sol inj
+ALBEY VENIN ABEILLE 550 µg pdre/solv p sol inj
+ALBEY VENIN GUEPE VESPULA 120 µg pdre/solv p sol inj
+ALBEY VENIN GUEPE VESPULA 550 µg pdre/solv p sol inj
+ALBUMINE HUMAINE BAXTER 200 g/l sol p perf
+ALBUMINE HUMAINE BAXTER BIOSCIENCE 200 g/l sol p perf
+ALBUMINE HUMAINE IODEE 125I CIS BIO INTERNATIONAL sol inj
+ALBUNORM 20 %, 200 g/l sol p perf
+ALBUNORM 4 %, 40 g/l sol p perf
+ALBUNORM 5 %, 50 g/l sol p perf
+ALCAPHOR sol buv
+ALCOOL A USAGE MEDICAL GILBERT 0,5 ml compres imprég
+ALCOOL A USAGE MEDICAL GILBERT 2,5 ml compres imprég
+ALCOOL A USAGE MEDICAL GILBERT sol p appl loc
+ALCOOL MODIFIE COOPER sol p appl cut
+ALCOOL MODIFIE EVOLUPHARM sol p appl cut
+ALCOOL MODIFIE GIFRER sol p appl cut
+ALDACTAZINE cp séc
+ALDACTONE 25 mg cp séc
+ALDACTONE 50 mg cp séc
+ALDACTONE 75 mg cp séc
+ALDALIX 50 mg/20 mg gél
+ALDARA 5 % crème
+ALDARA 5 % crème [ADP1]
+ALDIREK 10 mg cp pellic séc
+ALDOMET 250 mg cp enr
+ALDOMET 500 mg cp enr
+ALDURAZYME 100 UI/ml sol diluer p perf
+ALDYZINE sol dent
+ALENDRONATE TEVA 10 mg cp
+ALEPSAL 100 mg cp
+ALEPSAL 15 mg cp
+ALEPSAL 150 mg cp
+ALEPSAL 50 mg cp
+ALEVETABS 220 mg cp pellic
+ALFA-AMYLASE BIOGARAN 3000 UCEIP cp enr
+ALFA-AMYLASE BIOGARAN CONSEIL 200 U.CEIP/ml sirop
+ALFA-AMYLASE BIOGARAN CONSEIL 3000 U CEIP cp enr
+ALFACALCIDOL TEVA 0,25 µg caps molle
+ALFACALCIDOL TEVA 1 µg caps molle
+ALFALASTIN 33,33 mg/ml pdre/solv p sol inj
+ALFATIL 125 mg/5 ml pdre p susp buv
+ALFATIL 250 mg gél
+ALFATIL 250 mg/5 ml pdre p susp buv
+ALFATIL LP 375 mg cp pellic LP
+ALFATIL LP 500 mg cp pellic LP
+ALFUZOSINE BIOGARAN LP 10 mg cp pellic LP
+ALFUZOSINE CRISTERS LP 10 mg cp LP
+ALFUZOSINE EG LP 10 mg cp LP
+ALFUZOSINE EVOLUGEN LP 10 mg cp pellic LP
+ALFUZOSINE MYLAN LP 10 mg cp LP
+ALFUZOSINE QUALIMED LP 10 mg cp LP
+ALFUZOSINE RANBAXY LP 10 mg cp LP
+ALFUZOSINE RPG LP 10 mg cp LP
+ALFUZOSINE SANDOZ LP 10 mg cp LP
+ALFUZOSINE TEVA LP 10 mg cp LP
+ALFUZOSINE TEVA SANTE LP 10 mg cp LP
+ALFUZOSINE ZENTIVA LP 10 mg cp LP
+ALFUZOSINE ZYDUS LP 10 mg cp LP
+ALGESAL BAUME crème
+ALGESAL SURACTIVE crème
+ALGICALM 400 mg/25 mg cp
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM BIOGARAN 0,5 g/0,267 g susp buv en sachet-dose
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM BIOGARAN 250 mg/133,5 mg p 5 ml susp buv en flacon
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM EG 250 mg/133,5 mg p 5 ml susp buv en flacon
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM MYLAN CONSEIL sans sucre 500 mg/267 mg susp buv en sachet menthe édulcoré à la sacchar
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM MYLAN susp buv en sachet
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM SANDOZ 250 mg/133,5 mg p 5 ml susp buv en flacon
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM SANDOZ 500 mg/267 mg susp buv en sachet
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM SANDOZ CONSEIL 500 mg/267 mg susp buv en sachet menthe sans sucre édulcorée à la sacch
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM TEVA 250 mg/133,5 mg p 5 ml susp buv en flacon
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM ZENTIVA 500 mg/267 mg susp buv en sachet
+ALGISEDAL cp
+ALGODOL 500 mg cp
+ALGODOL CAFEINE cp
+ALGOTROPYL suppos
+ALGUES FUCUS BOIRON gél
+ALIMTA 100 mg pdre p sol diluer p perf
+ALIMTA 500 mg pdre p sol diluer p perf
+ALKA SELTZER cp efferv
+ALKERAN 2 mg cp pellic
+ALKERAN 50 mg/10 ml lyoph/sol p us parentér
+ALKOCORTENBIOFORM crème
+ALKONATREM 150 mg gél
+ALKOSALEN pom
+ALKOTAR pom
+ALLERGENES ALK-ABELLO sol pour tests cutanés
+ALLERGENES ALK-ABELLO sol subling
+ALLERGENES ALK-ABELLO susp inj
+ALLERGENES STALLERGENES pdre/solv p sol p test de provocation conjonctivale
+ALLERGENES STALLERGENES pdre/solv p sol p test de provocation nasale
+ALLERGENES STALLERGENES pdre/solv p sol p test intradermique
+ALLERGENES STALLERGENES sol inj
+ALLERGENES STALLERGENES sol pour tests cutanés
+ALLERGENES STALLERGENES sol subling
+ALLERGENES STALLERGENES susp inj
+ALLERGIFLASH 0,05 % collyre sol en récipient unidose
+ALLERGOCOMOD collyre sol
+ALLERGODIL 0,05 % collyre
+ALLERGODIL 0,127 mg sol p pulv nasal
+ALLI 60 mg gél
+ALLIUM CEPA COMPOSE BOIRON cp
+ALLIUM CEPA COMPOSE BOIRON gle
+ALLIUM CEPA COMPOSE BOIRON sol buv
+ALLOCHRYSINE 100 mg sol inj IM
+ALLOCHRYSINE 25 mg sol inj IM
+ALLOCHRYSINE 50 mg sol inj IM
+ALLOPURINOL ARROW 100 mg cp
+ALLOPURINOL ARROW 200 mg cp
+ALLOPURINOL ARROW 300 mg cp
+ALLOPURINOL BIOGARAN 100 mg cp
+ALLOPURINOL BIOGARAN 100 mg cp
+ALLOPURINOL BIOGARAN 200 mg cp
+ALLOPURINOL BIOGARAN 200 mg cp
+ALLOPURINOL BIOGARAN 300 mg cp
+ALLOPURINOL BIOGARAN 300 mg cp
+ALLOPURINOL CRISTERS 100 mg cp
+ALLOPURINOL CRISTERS 200 mg cp
+ALLOPURINOL CRISTERS 300 mg cp
+ALLOPURINOL EG 100 mg cp
+ALLOPURINOL EG 200 mg cp
+ALLOPURINOL EG 300 mg cp
+ALLOPURINOL ISOMED 100 mg cp
+ALLOPURINOL ISOMED 200 mg cp
+ALLOPURINOL ISOMED 300 mg cp
+ALLOPURINOL MYLAN 100 mg cp
+ALLOPURINOL MYLAN 200 mg cp
+ALLOPURINOL MYLAN 300 mg cp
+ALLOPURINOL PHR LAB 100 mg cp
+ALLOPURINOL PHR LAB 200 mg cp
+ALLOPURINOL PHR LAB 300 mg cp
+ALLOPURINOL RANBAXY 100 mg cp
+ALLOPURINOL RANBAXY 200 mg cp
+ALLOPURINOL RANBAXY 300 mg cp
+ALLOPURINOL RATIOPHARM 100 mg caps
+ALLOPURINOL RATIOPHARM 200 mg caps
+ALLOPURINOL RATIOPHARM 300 mg caps
+ALLOPURINOL SANDOZ 100 mg cp
+ALLOPURINOL SANDOZ 200 mg cp
+ALLOPURINOL SANDOZ 300 mg cp
+ALLOPURINOL TEVA 100 mg caps molle
+ALLOPURINOL TEVA 100 mg cp
+ALLOPURINOL TEVA 200 mg caps molle
+ALLOPURINOL TEVA 200 mg cp
+ALLOPURINOL TEVA 300 mg caps molle
+ALLOPURINOL TEVA 300 mg cp
+ALLOPURINOL ZENTIVA 100 mg cp
+ALLOPURINOL ZENTIVA 200 mg cp
+ALLOPURINOL ZENTIVA 300 mg cp
+ALLOPURINOL ZYDUS 100 mg cp
+ALLOPURINOL ZYDUS 200 mg cp
+ALLOPURINOL ZYDUS 300 mg cp
+ALMA 2 mg pâte à mâcher
+ALMIDE 0,1 % collyre
+ALMIDE 0,1 % collyre en récipient unidose
+ALMOGRAN 12,5 mg cp pellic
+ALMOTRIPTAN ARROW 12,5 mg cp pellic
+ALMOTRIPTAN BIOGARAN 12,5 mg cp pellic
+ALMOTRIPTAN EG 12,5 mg cp pellic
+ALMOTRIPTAN MYLAN 12,5 mg cp pellic
+ALMOTRIPTAN SANDOZ 12,5 mg cp pellic
+ALMOTRIPTAN TEVA 12,5 mg cp pellic
+ALMOTRIPTAN ZENTIVA 12,5 mg cp pellic
+ALMOTRIPTAN ZYDUS 12,5 mg cp pellic
+ALODONT sol p bain bouch
+ALOE COMPOSE BOIRON cp
+ALOE COMPOSE BOIRON gle
+ALOE COMPOSE BOIRON sol buv
+ALOPEXY 2 % sol p appl cut
+ALOPEXY 5 % sol p appl cut
+ALOPLASTINE pâte p appl loc
+ALOSTIL 2 % sol p appl cut
+ALOSTIL 5 % mousse p appl cut en flacon pressurisé
+ALOSTIL 5 % sol p appl cut
+ALOXI 250 µg sol inj
+ALPAGELLE crème
+ALPHA RENOL sol buv
+ALPHACAINE-N sol inj p us dent
+ALPHACAINE-SP sol inj p us dent
+ALPHAGAN 0,2 % (2 mg/ml) collyre sol
+ALPRAZOLAM ALTER 0,25 mg cp séc
+ALPRAZOLAM ALTER 0,50 mg cp séc
+ALPRAZOLAM ARROW 0,25 mg cp séc
+ALPRAZOLAM ARROW 0,50 mg cp séc
+ALPRAZOLAM BIOGARAN 0,25 mg cp séc
+ALPRAZOLAM BIOGARAN 0,50 mg cp séc
+ALPRAZOLAM CRISTERS 0,25 mg cp séc
+ALPRAZOLAM CRISTERS 0,50 mg cp séc
+ALPRAZOLAM EG 0,25 mg cp séc
+ALPRAZOLAM EG 0,50 mg cp séc
+ALPRAZOLAM EVOLUGEN 0,25 mg cp séc
+ALPRAZOLAM EVOLUGEN 0,50 mg cp séc
+ALPRAZOLAM ISOMED 0,25 mg cp séc
+ALPRAZOLAM ISOMED 0,50 mg cp séc
+ALPRAZOLAM MYLAN 0,25 mg cp séc
+ALPRAZOLAM MYLAN 0,50 mg cp séc
+ALPRAZOLAM MYLAN 1 mg cp séc
+ALPRAZOLAM RPG 0,25 mg cp séc
+ALPRAZOLAM RPG 0,50 mg cp séc
+ALPRAZOLAM SANDOZ 0,25 mg cp séc
+ALPRAZOLAM SANDOZ 0,50 mg cp séc
+ALPRAZOLAM TEVA 0,25 mg cp séc
+ALPRAZOLAM TEVA 0,50 mg cp séc
+ALPRAZOLAM WINTHROP 0,25 mg cp séc
+ALPRAZOLAM WINTHROP 0,50 mg cp séc
+ALPRAZOLAM ZENTIVA 0,25 mg cp séc
+ALPRAZOLAM ZENTIVA 0,50 mg cp séc
+ALPRAZOLAM ZYDUS 0,25 mg cp séc
+ALPRAZOLAM ZYDUS 0,50 mg cp séc
+ALPRESS LP 2,5 mg cp osmot LP
+ALPRESS LP 5 mg cp osmot LP
+ALPROSTADIL INTSEL CHIMOS 0,5 mg/ml sol inj
+ALPROSTADIL PANPHARMA 0,5 mg/ml sol inj
+ALTEIS 10 mg cp pellic
+ALTEIS 20 mg cp pellic
+ALTEIS 40 mg cp pellic
+ALTEISDUO 20 mg/12,5 mg cp pellic
+ALTEISDUO 20 mg/25 mg cp pellic
+ALTEISDUO 40 mg/12,5 mg cp pellic
+ALTEISDUO 40 mg/25 mg cp pellic
+ALTIM 3,75 mg/1,5 ml susp inj
+ALTIZIDE SPIRONOLACTONE RPG cp
+ALVESCO 160 µg/dose sol p inhal en flacon pressurisé
+ALVESCO 80 µg/dose sol p inhal en flacon pressurisé
+ALVOGYL pâte p us dent
+ALYOSTAL PRICK CONTROLE NEGATIF sol p prick-test
+ALYOSTAL PRICK CONTROLE POSITIF 10 mg/ml sol p prick-test cut
+ALYOSTAL VENIN ABEILLE A. MEL 110 µg pdre/solv p sol inj
+ALYOSTAL VENIN ABEILLE A. MEL 550 µg pdre/solv p sol inj
+ALYOSTAL VENIN GUEPE POLISTES 110 µg pdre/solv p sol inj
+ALYOSTAL VENIN GUEPE POLISTES 550 µg pdre/solv p sol inj
+ALYOSTAL VENIN GUEPE VESPULA 110 µg pdre/solv p sol inj
+ALYOSTAL VENIN GUEPE VESPULA 550 µg pdre/solv p sol inj
+AMANTADIN AL 100 mg cp pellic (remplace MANTADIX 100 mg caps)
+AMANTADINE HYDROCHLORIDE 100 mg gél [AIT]
+AMARANCE cp enr
+AMAREL 1 mg cp
+AMAREL 2 mg cp
+AMAREL 3 mg cp
+AMAREL 4 mg cp
+AMBISOME 50 mg pdre p susp de lipos p perf
+AMBROXOL ARROW 0,6 % sol buv
+AMBROXOL ARROW 30 mg cp
+AMBROXOL BIOGARAN CONSEIL 0,6 % sol buv sans sucre édulcorée au sorbitol
+AMBROXOL BIOGARAN CONSEIL 30 mg cp séc
+AMBROXOL EG 3 mg/ml sol buv sans sucre édulcorée au cyclamate de sodium et sorbitol
+AMBROXOL EG LABO CONSEIL 0,6 % sol buv
+AMBROXOL EG LABO CONSEIL 30 mg cp séc
+AMBROXOL MYLAN 0,6 % sol buv
+AMBROXOL MYLAN 30 mg cp
+AMBROXOL SANDOZ CONSEIL 0,6 % sol buv sans sucre édulcorée à la saccharine sodique
+AMBROXOL TEVA CONSEIL 0,3 % sol buv
+AMBROXOL TEVA CONSEIL 0,6 % sol buv
+AMBROXOL TEVA CONSEIL 30 mg cp
+AMERSCAN MEDRONATE II pdre p sol inj
+AMETYCINE 10 mg pdre p sol inj
+AMETYCINE 20 mg pdre p sol inj
+AMETYCINE 40 mg pdre p sol p irrig vésic
+AMIKACINE B. BRAUN 10 mg/ml sol p perf
+AMIKACINE B. BRAUN 2,5 mg/ml sol p perf
+AMIKACINE B. BRAUN 5 mg/ml sol p perf
+AMIKACINE MYLAN 1 g pdre p sol inj
+AMIKACINE MYLAN 250 mg pdre p sol inj
+AMIKACINE MYLAN 50 mg/1 ml sol inj enfant nourrisson
+AMIKACINE MYLAN 500 mg pdre p sol inj
+AMIKACINE WINTHROP 250 mg lyoph p us parentér
+AMILORIDE HYDROCHLOROTHIAZIDE TEVA 5 mg/50 mg cp
+AMINOMIX 500 E sol p perf
+AMINOMIX 500 sol p perf
+AMINOMIX 800 E sol p perf
+AMINOPHYLLINE RENAUDIN 250 mg/10 ml sol p perf
+AMINOPLASMAL 12 sol p perf
+AMINOPLASMAL 8 sol p perf
+AMINOVEN 10 % sol p perf
+AMINOVEN 5 % sol p perf
+AMIODARONE ACTAVIS 200 mg cp séc
+AMIODARONE AGUETTANT 50 mg/ml sol inj
+AMIODARONE ALMUS 200 mg cp séc
+AMIODARONE ALTER 200 mg cp séc
+AMIODARONE ARROW 200 mg cp séc
+AMIODARONE BIOGARAN 200 mg cp séc
+AMIODARONE CRISTERS 200 mg cp séc
+AMIODARONE EG 200 mg cp séc
+AMIODARONE ISOMED 200 mg cp séc
+AMIODARONE MYLAN 200 mg cp séc
+AMIODARONE QUALIMED 200 mg cp séc
+AMIODARONE RANBAXY 200 mg cp séc
+AMIODARONE RATIOPHARM 200 mg cp séc
+AMIODARONE SANDOZ 200 mg cp séc
+AMIODARONE TEVA 200 mg cp séc
+AMIODARONE ZENTIVA 200 mg cp séc
+AMIODARONE ZYDUS 200 mg cp séc
+AMISULPRIDE ACTAVIS 100 mg cp séc
+AMISULPRIDE ACTAVIS 200 mg cp séc
+AMISULPRIDE ACTAVIS 400 mg cp pellic séc
+AMISULPRIDE ARROW 100 mg cp séc
+AMISULPRIDE ARROW 200 mg cp séc
+AMISULPRIDE ARROW 400 mg cp pellic séc
+AMISULPRIDE BIOGARAN 100 mg cp séc
+AMISULPRIDE BIOGARAN 200 mg cp séc
+AMISULPRIDE BIOGARAN 400 mg cp pellic séc
+AMISULPRIDE CRISTERS 100 mg cp séc
+AMISULPRIDE CRISTERS 200 mg cp séc
+AMISULPRIDE CRISTERS 400 mg cp pellic séc
+AMISULPRIDE EG 100 mg cp séc
+AMISULPRIDE EG 200 mg cp séc
+AMISULPRIDE EG 400 mg cp pellic séc
+AMISULPRIDE MYLAN 100 mg cp séc
+AMISULPRIDE MYLAN 200 mg cp séc
+AMISULPRIDE MYLAN 400 mg cp pellic séc
+AMISULPRIDE QUALIMED 100 mg cp séc
+AMISULPRIDE QUALIMED 200 mg cp séc
+AMISULPRIDE QUALIMED 400 mg cp pellic séc
+AMISULPRIDE RATIOPHARM 100 mg cp séc
+AMISULPRIDE RATIOPHARM 200 mg cp séc
+AMISULPRIDE RATIOPHARM 400 mg cp pellic séc
+AMISULPRIDE RPG 100 mg cp séc
+AMISULPRIDE RPG 200 mg cp séc
+AMISULPRIDE SANDOZ 100 mg cp séc
+AMISULPRIDE SANDOZ 200 mg cp séc
+AMISULPRIDE SANDOZ 400 mg cpr pellic séc
+AMISULPRIDE TEVA 100 mg cp séc
+AMISULPRIDE TEVA 200 mg cp séc
+AMISULPRIDE TEVA 400 mg cp pellic séc
+AMISULPRIDE ZENTIVA 100 mg cp séc
+AMISULPRIDE ZENTIVA 200 mg cp séc
+AMISULPRIDE ZENTIVA 400 mg cp pellic séc
+AMISULPRIDE ZYDUS 200 mg cp séc
+AMISULPRIDE ZYDUS 400 mg cp pellic séc
+AMLODIPINE ACTAVIS 10 mg gél
+AMLODIPINE ACTAVIS 5 mg gél
+AMLODIPINE ALMUS 10 mg gél
+AMLODIPINE ALMUS 5 mg gél
+AMLODIPINE ALTER 10 mg gél
+AMLODIPINE ALTER 5 mg gél
+AMLODIPINE ARROW 10 mg gél
+AMLODIPINE ARROW 5 mg gél
+AMLODIPINE ARROW GENERIQUES 10 mg gél
+AMLODIPINE ARROW GENERIQUES 5 mg gél
+AMLODIPINE BIOGARAN 10 mg gél
+AMLODIPINE BIOGARAN 5 mg gél
+AMLODIPINE BOUCHARA-RECORDATI 10 mg gél
+AMLODIPINE BOUCHARA-RECORDATI 5 mg gél
+AMLODIPINE CRISTERS 10 mg gél
+AMLODIPINE CRISTERS 5 mg gél
+AMLODIPINE EG 10 mg gél
+AMLODIPINE EG 5 mg gél
+AMLODIPINE EVOLUGEN 10 mg gél
+AMLODIPINE EVOLUGEN 5 mg gél
+AMLODIPINE ISOMED 10 mg gél
+AMLODIPINE ISOMED 5 mg gél
+AMLODIPINE MYLAN 10 mg gél
+AMLODIPINE MYLAN 5 mg gél
+AMLODIPINE PFIZER 10 mg gél
+AMLODIPINE PFIZER 5 mg gél
+AMLODIPINE PHR LAB 10 mg gél
+AMLODIPINE PHR LAB 5 mg gél
+AMLODIPINE QUALIMED 10 mg gél
+AMLODIPINE QUALIMED 5 mg gél
+AMLODIPINE RANBAXY 10 mg gél
+AMLODIPINE RANBAXY 5 mg gél
+AMLODIPINE RATIO 10 mg gél
+AMLODIPINE RATIO 5 mg gél
+AMLODIPINE RATIOPHARM 10 mg gél
+AMLODIPINE RATIOPHARM 5 mg gél
+AMLODIPINE SANDOZ 10 mg gél
+AMLODIPINE SANDOZ 5 mg gél
+AMLODIPINE TEVA 10 mg gél
+AMLODIPINE TEVA 5 mg gél
+AMLODIPINE ZENTIVA 10 mg gél
+AMLODIPINE ZENTIVA 5 mg gél
+AMLODIPINE ZYDUS 10 mg gél
+AMLODIPINE ZYDUS 5 mg gél
+AMLOR 10 mg gél
+AMLOR 5 mg gél
+AMLOR 5 mg gél [LT1]
+AMMONAPS 500 mg cp
+AMMONAPS 940 mg/g glé
+AMODEX 1 g cp dispers
+AMODEX 250 mg/5 ml pdre p susp buv
+AMODEX 500 mg gél
+AMODEX 500 mg/5 ml pdre p susp buv
+AMOROLFINE ARROW 5 % vernis ongl médicamenteux
+AMOROLFINE BGR 5 % vernis ongl médic
+AMOROLFINE BIOGARAN 5 % vernis ongl médicamenteux
+AMOROLFINE BIOGARAN CONSEIL 5 % vernis ongl médicamenteux
+AMOROLFINE CRISTERS 5 % vernis ongl médicamenteux
+AMOROLFINE EG 5 % vernis ongl médicamenteux
+AMOROLFINE ISOMED 5 % vernis ongl médicamenteux
+AMOROLFINE MYLAN 5 % vernis ongl médicamenteux
+AMOROLFINE MYLAN CONSEIL 5 % vernis ongl médicamenteux
+AMOROLFINE PIERRE FABRE 5 % vernis ongl médicamenteux
+AMOROLFINE RANBAXY 5 % vernis ongl médicamenteux
+AMOROLFINE RATIOPHARM 5 % vernis ongl médicamenteux
+AMOROLFINE SANDOZ 5 % vernis ongl médicamenteux
+AMOROLFINE SANDOZ CONSEIL 5 % vernis ongl médicamenteux
+AMOROLFINE TEVA 5 % vernis ongl médicamenteux
+AMOROLFINE URGO 5 % vernis ongl médicamenteux
+AMOROLFINE ZENTIVA 5 % vernis ongl médicamenteux
+AMOROLFINE ZYDUS 5 % vernis ongl médicamenteux
+AMOXICILLINE ACIDE CLAVULANIQUE ZYDUS FRANCE 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE ACIDE CLAVULANIQUE ZYDUS FRANCE 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE ALMUS 1 g cp pellic dispers
+AMOXICILLINE ALMUS 250 mg/5 ml pdre p susp buv
+AMOXICILLINE ALMUS 500 mg gél
+AMOXICILLINE ALMUS 500 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE ARROW 1 g cp pellic dispers
+AMOXICILLINE ARROW 125 mg/5 ml pdre p susp buv
+AMOXICILLINE ARROW 250 mg/5 ml pdre p susp buv
+AMOXICILLINE ARROW 500 mg gél
+AMOXICILLINE ARROW 500 mg/5 ml pdre p susp buv
+AMOXICILLINE ARROW LAB 500 mg gél
+AMOXICILLINE BIOGARAN 1 g cp dispers
+AMOXICILLINE BIOGARAN 125 mg/5 ml pdre p susp buv
+AMOXICILLINE BIOGARAN 250 mg/5 ml pdre p susp buv
+AMOXICILLINE BIOGARAN 500 mg gél
+AMOXICILLINE BIOGARAN 500 mg/5 ml pdre p susp buv
+AMOXICILLINE CRISTERS 125 mg/5 ml pdre p susp buv
+AMOXICILLINE CRISTERS 250 mg/5 ml pdre p susp buv
+AMOXICILLINE CRISTERS 500 mg gél
+AMOXICILLINE CRISTERS 500 mg/5 ml pdre p susp buv
+AMOXICILLINE EG 125 mg/5 ml pdre p susp buv
+AMOXICILLINE EG 250 mg/5 ml pdre p susp buv
+AMOXICILLINE EG 500 mg gél
+AMOXICILLINE EG 500 mg/5 ml pdre p susp buv
+AMOXICILLINE EG LABO 1 g cp dispers
+AMOXICILLINE MYLAN 1 g cp dispers
+AMOXICILLINE MYLAN 125 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE MYLAN 250 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE MYLAN 500 mg gél
+AMOXICILLINE MYLAN 500 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE MYLAN PHARMA 125 mg/5 ml pdre p susp buv
+AMOXICILLINE MYLAN PHARMA 250 mg/5 ml pdre p susp buv
+AMOXICILLINE MYLAN PHARMA 500 mg gél
+AMOXICILLINE MYLAN PHARMA 500 mg/5 ml pdre p susp buv
+AMOXICILLINE PANPHARMA 1 g pdre p sol inj
+AMOXICILLINE PANPHARMA 1 g pdre p sol inj IV
+AMOXICILLINE PANPHARMA 1 g/5 ml pdre/solv p sol inj IM
+AMOXICILLINE PANPHARMA 2 g pdre p sol inj
+AMOXICILLINE QUALIMED 1 g cp dispers
+AMOXICILLINE RANBAXY 1 g cp dispers
+AMOXICILLINE RANBAXY 500 mg gél
+AMOXICILLINE RATIOPHARM 500 mg gél
+AMOXICILLINE RPG 250 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE RPG 500 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE SANDOZ 1 g cp dispers
+AMOXICILLINE SANDOZ 125 mg/5 ml pdre p susp buv
+AMOXICILLINE SANDOZ 250 mg/5 ml pdre p susp buv
+AMOXICILLINE SANDOZ 500 mg gél
+AMOXICILLINE SANDOZ 500 mg/5 ml pdre p susp buv
+AMOXICILLINE TEVA 1 g cp dispers
+AMOXICILLINE TEVA 1000 mg pdre p susp buv en sachet
+AMOXICILLINE TEVA 125 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE TEVA 250 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE TEVA 500 mg gél
+AMOXICILLINE TEVA 500 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE TEVA SANTE 1 g cp dispers
+AMOXICILLINE TEVA SANTE 125 mg/5 ml pdre p susp buv
+AMOXICILLINE TEVA SANTE 250 mg/5 ml pdre p susp buv
+AMOXICILLINE TEVA SANTE 500 mg/5 ml pdre p susp buv
+AMOXICILLINE ZENTIVA 1 g cp pellic dispers
+AMOXICILLINE ZENTIVA 250 mg/5 ml pdre p susp buv
+AMOXICILLINE ZENTIVA 500 mg gél
+AMOXICILLINE ZENTIVA 500 mg/5 ml pdre p susp buv
+AMOXICILLINE ZENTIVA LAB 1 g cp dispers
+AMOXICILLINE ZENTIVA LAB 125 mg/5 ml pdre p susp buv
+AMOXICILLINE ZENTIVA LAB 250 mg/5 ml pdre p susp buv
+AMOXICILLINE ZENTIVA LAB 500 mg gél
+AMOXICILLINE ZENTIVA LAB 500 mg/5 ml pdre p susp buv
+AMOXICILLINE ZYDUS 125 mg/5 ml pdre p susp buv
+AMOXICILLINE ZYDUS 250 mg/5 ml pdre p susp buv
+AMOXICILLINE ZYDUS 500 mg gél
+AMOXICILLINE ZYDUS 500 mg/5 ml pdre p susp buv
+AMOXICILLINE ZYDUS FRANCE 1 g cp dispers
+AMOXICILLINE/ACIDE CLAVULANIQUE ACTAVIS 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ACTAVIS 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ALMUS 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ALMUS 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ALMUS 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ALTER 1 g/125 mg pdre p susp buv en sachet adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ALTER 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ALTER 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ALTER 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 1 g/125 mg pdre p susp buv adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 100 mg/12,5 mg/ml pdre pr susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 500 mg/62,5 mg cp pellicul adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE EG 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE EG 100 mg/12,5 mg/ml pdre susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE EG 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE EG LABO 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE EG LABO 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 1 g/100 mg pdre p sol inj/p perf IV
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 1 g/200 mg pdre p sol inj/p perf IV adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 2 g/200 mg pdre p sol p perf adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 500 mg/50 mg pdre p sol inj/p perf IV
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 1 g/100 mg pdre p sol inj IV enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 1 g/200 mg pdre p sol inj IV adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 2 g/200 mg pdre p sol inj IV adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 500 mg/50 mg pdre p sol inj IV enfant nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE QUALIMED 1 g/125 mg pdre p susp buv adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE QUALIMED 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE QUALIMED 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE QUALIMED 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE RANBAXY 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE RANBAXY 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE RANBAXY 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE RANBAXY 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE RANBAXY 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE RATIO 1 g/125 mg pdre p susp buv en sachet adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE RATIO 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 1 g/125 mg pdre p sol buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 1 g/200 mg pdre p sol inj adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 2 g/200 mg pdre p sol p perf adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 500 mg/50 mg pdre p sol inj enfant nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA SANTE 1 g/125 mg pdre p susp buv sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA SANTE 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA SANTE 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA SANTE 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS FRANCE 500 mg/62,5 mg cp pellic adulte
+AMPECYCLAL 300 mg gél
+AMPHOSCA ORCHITYN cp à croquer
+AMPHOSCA OVARYN cp à croquer
+AMPICILLINE PANPHARMA 1 g pdre/sol p prép inj
+AMPICILLINE PANPHARMA 2 g pdre/sol p prép inj
+AMPICILLINE PANPHARMA 500 mg pdre/sol p prép inj
+AMSALYO 75 mg pdre p sol p perf
+AMUKINE 0,06 % sol p appl loc
+AMYCOR 1 % crème
+AMYCOR 1 % pdre p appl loc
+AMYCOR 1 % sol p appl loc
+AMYCOR ONYCHOSET pom
+AMYLODIASTASE cp à croquer
+ANAFRANIL 10 mg cp enr
+ANAFRANIL 25 mg cp enr
+ANAFRANIL 25 mg/2 ml sol inj
+ANAFRANIL 75 mg cp pellic séc
+ANANDRON 150 mg cp
+ANANDRON 50 mg cp
+ANAPEN 150 µg/0,3 ml sol inj en seringue préremplie
+ANAPEN 300 µg/0,3 ml sol inj en seringue préremplie
+ANASTROZOLE ACCORD 1 mg cp pellic
+ANASTROZOLE ALMUS 1 mg cp pellic
+ANASTROZOLE ALTER 1 mg cp pellic
+ANASTROZOLE ARROW 1 mg cp pellic
+ANASTROZOLE BIOGARAN 1 mg cp pellic
+ANASTROZOLE BLUEFISH 1 mg cp pellic
+ANASTROZOLE CRISTERS 1 mg cp pellic
+ANASTROZOLE EG 1 mg cp pellic
+ANASTROZOLE EVOLUGEN 1 mg cp pellic
+ANASTROZOLE GERDA 1 mg cp pellic
+ANASTROZOLE ISOMED 1 mg cp pellic
+ANASTROZOLE MYLAN 1 mg cp pellic
+ANASTROZOLE PHR LAB 1 mg cp pellic
+ANASTROZOLE RANBAXY 1 mg cp pellic
+ANASTROZOLE RATIOPHARM 1 mg cp pellic
+ANASTROZOLE SANDOZ 1 mg cp pellic
+ANASTROZOLE TEVA 1 mg cp pellic
+ANASTROZOLE ZENTIVA 1 mg cp pellic
+ANASTROZOLE ZYDUS 1 mg cp pellic
+ANAUSIN METOCLOPRAMIDE 15 mg cp LP
+ANCOTIL 1 % sol p perf
+ANCOTIL 500 mg cp
+ANDRACTIM gel p appl loc
+ANDROCUR 100 mg cp séc
+ANDROCUR 50 mg cp
+ANDROGEL 25 mg gel en sachet-dose
+ANDROGEL 50 mg gel en sachet-dose
+ANDROTARDYL 250 mg/1 ml sol inj
+ANESDERM 5 % crème
+ANEXATE 0,5 mg/5 ml sol inj IV
+ANEXATE 1 mg/10 ml sol inj IV
+ANGELIQ 1 mg/2 mg cp pellic
+ANGI-SPRAY MAL DE GORGE CHLORHEXIDINE/LIDOCAÏNE collut
+ANGI-SPRAY MAL DE GORGE HEXAMIDINE/TETRACAINE collut en flacon pressurisé
+ANGIOCIS trousse p prép pyrophos étain
+ANGIOX 250 mg pdre p sol diluer p sol inj p perf
+ANGIPAX cp orodispers
+ANGISPRAY collut
+ANORO 55 µg/22 µg pdre p inhal en récipient unidose
+ANSATIPINE 150 mg gél
+ANTADYS 100 mg cp pellic
+ANTALCALM 140 mg emplâtre médicamenteux
+ANTALNOX 550 mg cp pellic séc
+ANTALYRE collyre sol en récipient unidose
+ANTARENE 100 mg cp pellic
+ANTARENE 20 mg/ml susp buv enfant nourrisson
+ANTARENE 200 mg cp pellic
+ANTARENE 400 mg cp pellic
+ANTARENE 5 % gel
+ANTARENE CODEINE 200 mg/30 mg cp pellic
+ANTARENE CODEINE 400 mg/60 mg cp pellic
+ANTASOL 135 gaz p inhal
+ANTASOL 180 gaz p inhal en bouteille
+ANTHYLLINE tisane en sach
+ANTIBIO SYNALAR sol p instil auric
+ANTIBIOTREX gel p appl cutanée
+ANTIGONE 75 µg cp pellic
+ANTIGRIPPINE A L'ASPIRINE ETAT GRIPPAL cp
+ANTINERVEUX LESOURD sol buv
+ANTISCABIOSUM 10 % émuls de benzoate de benzyle enfant [AIT]
+ANTISTAX 360 mg cp enr
+ANXEMIL 200 mg cp enr
+ANXIETUM cp subling
+ANY 8 % pom
+AOTAL 333 mg cp enr gastrorésis
+APAISYLGEL 0,75 % gel p appl loc
+APAROXAL 100 mg cp séc
+APHILAN DEMANGEAISONS 0,5 % crème
+APHLOINE P sol buv
+APHTORAL cp à sucer
+APIDRA 100 U/ml sol inj en cartouche
+APIDRA 100 U/ml sol inj en flacon
+APIDRA 100 U/ml sol inj en stylo prérempli Solostar
+APILAXE sol buv
+APOKINON 10 mg/ml sol inj SC
+APOKINON 30 mg/3 ml (1 %) sol inj en stylo prérempli
+APOKINON 5 mg/ml sol inj
+APRANAX 250 mg glé p susp buv
+APRANAX 275 mg cp pellic
+APRANAX 500 mg glé p susp buv
+APRANAX 550 mg cp pellic séc
+APRANAX 750 mg cp
+APROKAM 50 mg pdre p sol inj
+APROKAM 50 mg pdre p sol inj [ATUc]
+APROVEL 150 mg cp pellic
+APROVEL 300 mg cp pellic
+APROVEL 75 mg cp pellic
+APSOR 4 µg/g émuls p appl cut
+APSOR 4 µg/g pom
+APTIVUS 100 mg/ml sol buv
+APTIVUS 250 mg caps molle
+APURONE cp
+AQUAREST 0,2 % gel ophtalm en récipient unidose
+ARACYTINE 1 g lyoph p us parentér
+ARACYTINE 100 mg pdre/solv p sol inj
+ARACYTINE 2 g lyoph p us parentér
+ARACYTINE 500 mg lyoph p us parentér
+ARANESP 10 µg sol inj en seringue préremplie
+ARANESP 100 µg sol inj en seringue préremplie
+ARANESP 100 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 130 µg sol inj en seringue préremplie
+ARANESP 150 µg sol inj en seringue préremplie
+ARANESP 150 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 20 µg sol inj en seringue préremplie
+ARANESP 20 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 30 µg sol inj en seringue préremplie
+ARANESP 300 µg sol inj en seringue préremplie
+ARANESP 300 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 40 µg sol inj en seringue préremplie
+ARANESP 40 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 50 µg sol inj en seringue préremplie
+ARANESP 500 µg sol inj en seringue préremplie
+ARANESP 500 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 60 µg sol inj en seringue préremplie
+ARANESP 60 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 80 µg sol inj en seringue préremplie
+ARANESP 80 µg sol inj en stylo prérempli (Sureclick)
+ARAVA 10 mg cp pellic
+ARAVA 10 mg cp pellic [ADP1]
+ARAVA 10 mg cp pellic [ADP2]
+ARAVA 100 mg cp pellic
+ARAVA 20 mg cp pellic
+ARAVA 20 mg cp pellic [ADP1]
+ARAVA 20 mg cp pellic [ADP2]
+ARAVA 20 mg cp pellic [ADP3]
+ARCALION 200 mg cp enr
+ARCALION 200 mg cp enr [ES1]
+ARCOXIA 30 mg cp pellic
+ARCOXIA 60 mg cp pellic
+ARESTAL 1 mg cp
+ARGANOVA 100 mg/ml sol diluer p perf
+ARGENTUM COMPLEXE N°98 cp subling
+ARGININE VEYRON sol buv en ampoule
+ARGININE VEYRON sol buv en flacon
+ARGINOTRI-B cp pellic
+ARICEPT 10 mg cp orodispers
+ARICEPT 10 mg cp pellic
+ARICEPT 5 mg cp orodispers
+ARICEPT 5 mg cp pellic
+ARICEPT 5 mg cp pellic [IT1]
+ARIDOL pdre p inhal
+ARIMIDEX 1 mg cp pellic
+ARIMIDEX 1 mg cp pellic [BE1]
+ARIMIDEX 1 mg cp pellic [ES1]
+ARIMIDEX 1 mg cp pellic [ES2]
+ARIMIDEX 1 mg cp pellic [GB1]
+ARIMIDEX 1 mg cp pellic [GB2]
+ARIMIDEX 1 mg cp pellic [IT1]
+ARIMIDEX 1 mg cp pellic [PL1]
+ARIPIPRAZOLE BGR 10 mg cp
+ARIPIPRAZOLE BGR 10 mg cp orodispers
+ARIPIPRAZOLE BGR 15 mg cp
+ARIPIPRAZOLE BGR 15 mg cp orodispers
+ARIPIPRAZOLE BGR 5 mg cp
+ARIPIPRAZOLE EG 10 mg cp orodispers
+ARIPIPRAZOLE EG 15 mg cp orodispers
+ARIPIPRAZOLE FOCUS 10 mg cp
+ARIPIPRAZOLE FOCUS 15 mg cp
+ARIPIPRAZOLE FOCUS 5 mg cp
+ARIPIPRAZOLE MYLAN PHARMA 10 mg cp
+ARIPIPRAZOLE MYLAN PHARMA 15 mg cp
+ARIPIPRAZOLE MYLAN PHARMA 5 mg cp
+ARIPIPRAZOLE SANDOZ 10 mg cp
+ARIPIPRAZOLE SANDOZ 10 mg cp orodispers
+ARIPIPRAZOLE SANDOZ 15 mg cp
+ARIPIPRAZOLE SANDOZ 15 mg cp orodispers
+ARIPIPRAZOLE SANDOZ 5 mg cp
+ARIPIPRAZOLE TEVA 10 mg cp
+ARIPIPRAZOLE TEVA 15 mg cp
+ARIPIPRAZOLE TEVA 5 mg cp
+ARIPIPRAZOLE ZENTIVA 10 mg cp
+ARIPIPRAZOLE ZENTIVA 15 mg cp
+ARIPIPRAZOLE ZENTIVA 5 mg cp
+ARIXTRA 10 mg/0,8 ml sol inj en seringue préremplie
+ARIXTRA 2,5 mg/0,5 ml sol inj en seringue préremplie
+ARIXTRA 5 mg/0,4 ml sol inj en seringue préremplie
+ARIXTRA 7,5 mg/0,6 ml sol inj en seringue préremplie
+ARKOGELULES Artichaut gél
+ARKOGELULES Aubéline gél
+ARKOGELULES Bardane gél
+ARKOGELULES Boldo gél
+ARKOGELULES Bruyère gél
+ARKOGELULES Busserole 270 mg gél
+ARKOGELULES Camiline gél
+ARKOGELULES Cassis 250 mg gél
+ARKOGELULES Charbon végétal gél
+ARKOGELULES Chardon marie 300 mg gél
+ARKOGELULES Cupaline gél
+ARKOGELULES Eleuthérocoque 250 mg gél
+ARKOGELULES Escholtzia 240 mg gél
+ARKOGELULES Fragon 270 mg gél
+ARKOGELULES Fucus 400 mg gél
+ARKOGELULES Fumeterre gél
+ARKOGELULES Ginseng gél
+ARKOGELULES Hamamélis 220 mg gél
+ARKOGELULES Houblon 150 mg gél
+ARKOGELULES Huile de foie de morue 400 mg gél
+ARKOGELULES Marronnier d'Inde gél
+ARKOGELULES Mate 220 mg gél
+ARKOGELULES Mélisse gél
+ARKOGELULES Millepertuis gél
+ARKOGELULES Olivier gél
+ARKOGELULES Orthosiphon gél
+ARKOGELULES Ortie gél
+ARKOGELULES Partenelle gél
+ARKOGELULES Passiflore gél
+ARKOGELULES Piloselle 200 mg gél
+ARKOGELULES Prêle des champs gél
+ARKOGELULES Racine d'ortie gél
+ARKOGELULES Reine des prés gél
+ARKOGELULES Sauge d'Espagne gél
+ARKOGELULES Séné gél
+ARKOGELULES Valériane gél
+ARNICA BOIRON pom
+ARNICA COMPLEXE N° 1 sol buv en gte
+ARNICA MEDIFLOR gel
+ARNICA MONTANA TEINTURE MERE BOIRON liq p appl cut
+ARNICA MONTANA TEINTURE MERE WELEDA sol p appl cut
+ARNICAGEL gel
+ARNICALME cp orodispers
+ARNICAN 4 % crème
+ARNIGEL gel
+AROLAC 0,2 mg cp séc
+AROMASINE 25 mg cp enr
+AROMASINE 25 mg cp enr [AIP]
+AROMASINE 25 mg cp enr [IT1]
+AROMASINE 25 mg cp enr [IT2]
+AROMASOL sol p inhal p fumig
+ARPHOS sol buv
+ART 50 mg gél
+ARTANE 0,4 % sol buv
+ARTANE 10 mg/5 ml sol inj
+ARTANE 2 mg cp
+ARTANE 5 mg cp
+ARTELAC 1,6 mg/0,5 ml collyre
+ARTEX 5 mg cp enr séc
+ARTHRITISANE tis en sach-dose
+ARTHRO-DRAINOL sol buv en gte
+ARTHROCINE 100 mg cp
+ARTHROCINE 200 mg cp séc
+ARTHRODONT 1 % pâte gingiv
+ARTHROFLORINE tis en sach-dose
+ARTICADENT 1/100 000 sol inj p us dent
+ARTICADENT 1/200 000 sol inj p us dent
+ARTICHAUT BOIRON gél
+ARTINIBSA 40 mg/ml ADRENALINE 1/100 000 sol inj p us dent
+ARTINIBSA 40 mg/ml ADRENALINE 1/200 000 sol inj p us dent
+ARTIREM 0,0025 mmol/ml sol inj
+ARTISIAL sol p pulv endobucc
+ARTISS sol p colle congel
+ARTOTEC 50 mg/0,2 mg cp gastrorésis
+ARTOTEC 75 mg/0,2 mg cp gastrorésis
+ARUM TRIPHYLLUM COMPOSE BOIRON cp
+ARUM TRIPHYLLUM COMPOSE BOIRON gle
+ARUM TRIPHYLLUM COMPOSE BOIRON sol buv
+ARZERRA 100 mg sol diluer p perf
+ARZERRA 1000 mg sol diluer p perf
+ASASANTINE LP 200 mg/25 mg gél LP
+ASCABIOL 10 % émuls cut
+ASCABIOL lotion
+ASCOFER 33 mg gél
+ASCORBATE DE CALCIUM RICHARD 100 mg pdre p sol buv enfant
+ASCORBATE DE CALCIUM RICHARD glé adulte
+ASMABEC CLICKHALER 100 µg/dose pdre p inhal
+ASMABEC CLICKHALER 250 µg/dose pdre p inhal
+ASMANEX TWISTHALER 200 µg/dose pdre p inhal
+ASMANEX TWISTHALER 400 µg/dose pdre p inhal
+ASMASAL CLICKHALER 90 µg/dose pdre p inhal
+ASMELOR NOVOLIZER 12 µg/dose pdre p inhal
+ASPEGIC 100 mg pdre p sol buv en sachet-dose nourrisson
+ASPEGIC 1000 mg pdre p sol buv en sachet-dose adulte
+ASPEGIC 250 mg pdre p sol buv
+ASPEGIC 500 mg pdre p sol buv en sachet-dose
+ASPEGIC INJECTABLE 1 g pdre/solv p sol inj
+ASPEGIC INJECTABLE 500 mg/5 ml pdre/solv p sol inj
+ASPIRINE DU RHONE 500 mg cp
+ASPIRINE DU RHONE 500 mg cp à croquer
+ASPIRINE MERCK MEDICATION FAMILIALE 500 mg cp à croquer
+ASPIRINE PH 8 500 mg cp gastrorésis
+ASPIRINE PROTECT 100 mg cp gastrorésis
+ASPIRINE PROTECT 300 mg cp gastrorésis
+ASPIRINE RICHARD 500 mg cp
+ASPIRINE UPSA 325 mg gél
+ASPIRINE UPSA 500 mg cp efferv
+ASPIRINE UPSA TAMPONNEE EFFERVESCENTE 1000 mg cp efferv
+ASPIRINE UPSA VITAMINE C cp efferv tamponnée effervescente
+ASPIRINE VITAMINE C ARROW CONSEIL 500 mg/200 mg cp efferv
+ASPIRINE VITAMINE C OBERLIN cp efferv séc
+ASPIRISUCRE 400 mg cp à croquer
+ASPRO 320 mg cp
+ASPRO 500 mg cp
+ASPRO 500 mg cp efferv
+ASPRO ACCEL cp efferv séc
+ASPRO ACCEL cp séc
+ASPRO VITAMINE C cp efferv
+ASPROFLASH 500 mg cp enr
+ATACAND 16 mg cp séc
+ATACAND 32 mg cp séc
+ATACAND 4 mg cp séc
+ATACAND 8 mg cp séc
+ATARAX 100 mg cp pellic séc
+ATARAX 100 mg/2 ml sol inj
+ATARAX 25 mg cp pellic séc
+ATARAX sirop
+ATEBEMYXINE collyre sol
+ATEBEMYXINE pom ophtalm
+ATENOLOL ACCORD HEALTHCARE 100 mg cp séc
+ATENOLOL ACCORD HEALTHCARE 50 mg cp séc
+ATENOLOL ACTAVIS 100 mg cp séc
+ATENOLOL ACTAVIS 50 mg cp
+ATENOLOL ARROW 100 mg cp pellic séc
+ATENOLOL ARROW 50 mg cp pellic séc
+ATENOLOL BIOGARAN 100 mg cp séc
+ATENOLOL BIOGARAN 50 mg cp séc
+ATENOLOL EG 100 mg cp séc
+ATENOLOL EG 50 mg cp séc
+ATENOLOL EVOLUGEN 100 mg cp pellic séc
+ATENOLOL EVOLUGEN 50 mg cp pellic séc
+ATENOLOL MYLAN 100 mg cp pellic séc
+ATENOLOL MYLAN 50 mg cp pellic séc
+ATENOLOL QUALIMED 100 mg cp pellic séc
+ATENOLOL QUALIMED 50 mg cp pellic séc
+ATENOLOL RPG 100 mg cp séc
+ATENOLOL RPG 50 mg cp séc
+ATENOLOL SANDOZ 100 mg cp pellic séc
+ATENOLOL SANDOZ 50 mg cp pellic séc
+ATENOLOL SFDB 100 mg cp séc
+ATENOLOL TEVA 100 mg cp pellic séc
+ATENOLOL TEVA 50 mg cp pellic séc
+ATENOLOL WINTHROP 100 mg cp séc
+ATENOLOL WINTHROP 50 mg cp séc
+ATENOLOL ZENTIVA 100 mg cp séc
+ATENOLOL ZENTIVA 50 mg cp séc
+ATENOLOL ZYDUS 100 mg cp pellic séc
+ATENOLOL ZYDUS 50 mg cp pellic séc
+ATEPADENE 30 mg gél
+ATHYMIL 10 mg cp pellic
+ATHYMIL 30 mg cp pellic
+ATHYMIL 60 mg cp pellic séc
+ATIMOS 12 µg/dose sol p inhal en fl press
+ATORVASTATINE ACCORD 10 mg cp pellic
+ATORVASTATINE ACCORD 20 mg cp pellic
+ATORVASTATINE ACCORD 40 mg cp pellic
+ATORVASTATINE ACCORD 80 mg cp pellic
+ATORVASTATINE ACTAVIS 10 mg cp pellic
+ATORVASTATINE ALMUS 10 mg cp pellic
+ATORVASTATINE ALMUS 20 mg cp pellic
+ATORVASTATINE ALMUS 40 mg cp pellic
+ATORVASTATINE ALMUS 80 mg cp pellic
+ATORVASTATINE ALTER 10 mg cp pellic
+ATORVASTATINE ALTER 20 mg cp pellic
+ATORVASTATINE ALTER 40 mg cp pellic
+ATORVASTATINE ARROW 10 mg cp pellic
+ATORVASTATINE ARROW 20 mg cp pellic
+ATORVASTATINE ARROW 40 mg cp pellic
+ATORVASTATINE ARROW 80 mg cp pellic
+ATORVASTATINE ARROW GENERIQUES 10 mg cp pellic
+ATORVASTATINE ARROW GENERIQUES 20 mg cp pellic
+ATORVASTATINE ARROW GENERIQUES 40 mg cp pellic
+ATORVASTATINE ARROW GENERIQUES 80 mg cp pellic
+ATORVASTATINE ARROW LAB 10 mg cp pellic
+ATORVASTATINE ARROW LAB 20 mg cp pellic
+ATORVASTATINE ARROW LAB 40 mg cp pellic
+ATORVASTATINE BGR 10 mg cp pellic
+ATORVASTATINE BGR 20 mg cp pellic
+ATORVASTATINE BGR 40 mg cp pellic
+ATORVASTATINE BGR 80 mg cp pellic
+ATORVASTATINE BLUEFISH 10 mg cp pellic
+ATORVASTATINE BLUEFISH 20 mg cp pellic
+ATORVASTATINE BLUEFISH 40 mg cp pellic
+ATORVASTATINE BLUEFISH 80 mg cp pellic
+ATORVASTATINE CRISTERS 10 mg cp pellic
+ATORVASTATINE CRISTERS 20 mg cp pellic
+ATORVASTATINE CRISTERS 40 mg cp pellic
+ATORVASTATINE CRISTERS 80 mg cp pellic
+ATORVASTATINE EG 10 mg cp pellic
+ATORVASTATINE EG 20 mg cp pellic
+ATORVASTATINE EG 40 mg cp pellic
+ATORVASTATINE EG 80 mg cp pellic
+ATORVASTATINE EVOLUGEN 10 mg cp pellic
+ATORVASTATINE EVOLUGEN 20 mg cp pellic
+ATORVASTATINE EVOLUGEN 40 mg cp pellic
+ATORVASTATINE EVOLUGEN 80 mg cp pellic
+ATORVASTATINE GNR 10 mg cp pellic
+ATORVASTATINE GNR 20 mg cp pellic
+ATORVASTATINE GNR 40 mg cp pellic
+ATORVASTATINE ISOMED 10 mg cp pellic
+ATORVASTATINE ISOMED 20 mg cp pellic
+ATORVASTATINE ISOMED 40 mg cp pellic
+ATORVASTATINE ISOMED 80 mg cp pellic
+ATORVASTATINE KRKA 10 mg cp pellic
+ATORVASTATINE KRKA 20 mg cp pellic
+ATORVASTATINE KRKA 40 mg cp pellic
+ATORVASTATINE KRKA 80 mg cp pellic
+ATORVASTATINE MYLAN 10 mg cp pellic
+ATORVASTATINE MYLAN 20 mg cp pellic
+ATORVASTATINE MYLAN 40 mg cp pellic
+ATORVASTATINE MYLAN 80 mg cp pellic
+ATORVASTATINE MYLAN PHARMA 10 mg cp pellic
+ATORVASTATINE MYLAN PHARMA 20 mg cp pellic
+ATORVASTATINE MYLAN PHARMA 40 mg cp pellic
+ATORVASTATINE MYLAN PHARMA 80 mg cp pellic
+ATORVASTATINE PFIZER 10 mg cp pellic
+ATORVASTATINE PFIZER 10 mg cp pellic
+ATORVASTATINE PFIZER 20 mg cp pellic
+ATORVASTATINE PFIZER 20 mg cp pellic
+ATORVASTATINE PFIZER 40 mg cp pellic
+ATORVASTATINE PFIZER 40 mg cp pellic
+ATORVASTATINE PFIZER 80 mg cp pellic
+ATORVASTATINE PFIZER 80 mg cp pellic
+ATORVASTATINE PHR LAB 10 mg cp pellic
+ATORVASTATINE PHR LAB 20 mg cp pellic
+ATORVASTATINE PHR LAB 40 mg cp pellic
+ATORVASTATINE PHR LAB 80 mg cp pellic
+ATORVASTATINE RANBAXY 10 mg cp pellic
+ATORVASTATINE RANBAXY 20 mg cp pellic
+ATORVASTATINE RANBAXY 40 mg cp pellic
+ATORVASTATINE RANBAXY 80 mg cp pellic
+ATORVASTATINE RANBAXY PHARMACIE GENERIQUES 80 mg cp pellic
+ATORVASTATINE RATIO 10 mg cp pellic
+ATORVASTATINE RATIO 20 mg cp pellic
+ATORVASTATINE RATIO 40 mg cp pellic
+ATORVASTATINE RATIO 80 mg cp pellic
+ATORVASTATINE RPG 10 mg cp pellic
+ATORVASTATINE RPG 20 mg cp pellic
+ATORVASTATINE RPG 40 mg cp pellic
+ATORVASTATINE SANDOZ 10 mg cp pellic
+ATORVASTATINE SANDOZ 20 mg cp pellic séc
+ATORVASTATINE SANDOZ 40 mg cp pellic quadriséc
+ATORVASTATINE SANDOZ 80 mg cp pellic
+ATORVASTATINE TEVA SANTE 10 mg cp pellic
+ATORVASTATINE TEVA SANTE 20 mg cp pellic
+ATORVASTATINE TEVA SANTE 40 mg cp pellic
+ATORVASTATINE TEVA SANTE 80 mg cp pellic
+ATORVASTATINE ZENTIVA LAB 10 mg cp pellic
+ATORVASTATINE ZENTIVA LAB 20 mg cp pellic
+ATORVASTATINE ZENTIVA LAB 40 mg cp pellic
+ATORVASTATINE ZENTIVA LAB 80 mg cp pellic
+ATORVASTATINE ZYDUS FRANCE 10 mg cp pellic
+ATORVASTATINE ZYDUS FRANCE 20 mg cp pellic
+ATORVASTATINE ZYDUS FRANCE 40 mg cp pellic
+ATORVASTATINE ZYDUS FRANCE 80 mg cp pellic
+ATOSIBAN PANPHARMA 37,5 mg/5 ml sol diluer p perf
+ATOSIBAN PANPHARMA 6,75 mg/0,9 ml sol inj
+ATOSIBAN SUN 37,5 mg/5 ml sol diluer p perf
+ATOSIBAN SUN 6,75 mg/0,9 ml sol inj
+ATOVAQUONE/PROGUANIL BIOGARAN 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL BIOGARAN 62,5 mg/25 mg cp pellic enfant
+ATOVAQUONE/PROGUANIL EG 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL MYLAN 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL SANDOZ 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL SANDOZ 62,5 mg/25 mg cp pellic enfant
+ATOVAQUONE/PROGUANIL SIGMA-TAU 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL TEVA 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL TEVA 62,5 mg/25 mg cp pellic enfant
+ATOVAQUONE/PROGUANIL ZENTIVA 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL ZENTIVA 62,5 mg/25 mg cp pellic enfant
+ATRACURIUM HOSPIRA 10 mg/ml sol inj
+ATRIANCE 5 mg/ml sol p perf
+ATRICAN 250 mg caps gastrorésis
+ATRIPLA 600 mg/200 mg/245 mg cp pellic
+ATROPINE ALCON 0,3 % collyre
+ATROPINE ALCON 0,5 % collyre
+ATROPINE ALCON 1 % collyre
+ATROPINE FAURE 1 % collyre
+ATROPINE SULFATE AGUETTANT 0,1 mg/ml sol inj en seringue préremplie
+ATROPINE SULFATE AGUETTANT 0,25 mg/ml sol inj
+ATROPINE SULFATE AGUETTANT 0,5 mg/1 ml sol inj
+ATROPINE SULFATE AGUETTANT 1 mg/1 ml sol inj
+ATROPINE SULFATE AGUETTANT 1 mg/5 ml sol inj en seringue préremplie
+ATROPINE SULFATE LAVOISIER 0,25 mg/1 ml sol inj
+ATROPINE SULFATE LAVOISIER 0,5 mg/1 ml sol inj
+ATROPINE SULFATE LAVOISIER 1 mg/1 ml sol inj
+ATROPINE SULFATE RENAUDIN 0,25 mg/ml sol inj en ampoule
+ATROPINE SULFATE RENAUDIN 0,5 mg/ml sol inj en ampoule
+ATROPINE SULFATE RENAUDIN 1 mg/ml sol inj en ampoule
+ATROVENT 0,03 % sol nasal en flacon pulvérisateur
+ATROVENT 0,25 mg/1 ml sol p inhal p nébulis en récipient unidose enfant
+ATROVENT 0,25 mg/2 ml sol p inhal p nébulis en récipient unidose enfant
+ATROVENT 0,5 mg/1 ml sol p inhal p nébulis en récipient unidose adulte
+ATROVENT 0,5 mg/2 ml sol p inhal p nébulis en récipient unidose adulte
+ATROVENT 20 µg/dose sol p inhal en flacon pressurisé
+ATURGYL 0,05 % sol p pulv nasal
+ATUXANE sirop
+AUBAGIO 14 mg cp pellic
+AUGMENTIN 1 g/125 mg pdre p susp buv Ad
+AUGMENTIN 1 g/200 mg pdre p sol inj/p perf IV
+AUGMENTIN 1 g/200 mg pdre/sol p sol inj ou p per (IV)
+AUGMENTIN 100 mg/12,5 mg p ml pdre p susp buv Enf
+AUGMENTIN 100 mg/12,5 mg p ml pdre p susp buv Nour
+AUGMENTIN 2 g/200 mg pdre p sol p perf adulte
+AUGMENTIN 250 mg/31,25 mg pdre p susp buv
+AUGMENTIN 500 mg/50 mg pdre p sol inj/p perf IV
+AUGMENTIN 500 mg/62,5 mg cp pellic adulte
+AUGMENTIN 500 mg/62,5 mg pdre p susp buv
+AUREOMYCINE EVANS 1 % pom ophtalm
+AUREOMYCINE EVANS 3 % pom
+AUREOMYCINE MONOT 3 % pom
+AURICULARUM pdre/sol p instil auric
+AURIGOUTTE gte auric
+AUTOPLASME VAILLANT cataplasme
+AUXITRANS 5 g pdre p sol buv sachet-dose
+AVADENE 1 mg/0,025 mg cp pellic
+AVAMYS 27,5 µg/pulverisation susp p pulv nasal
+AVASTIN 25 mg/ml sol diluer p perf
+AVAXIM 160 U susp inj en seringue préremplie vaccin de l'hépatite A (inactivé, adsorbé)
+AVAXIM 80 U susp inj en seringue préremplie pédiatrique
+AVENA SATIVA TEINTURE MERE BOIRON liq oral
+AVENA SATIVA TEINTURE MERE WELEDA sol buv en gte
+AVENOC pom
+AVENOC suppos
+AVIBON 1 000 000 UI POUR CENT pom
+AVLOCARDYL 40 mg cp séc
+AVLOCARDYL LP 160 mg gél LP
+AVODART 0,5 mg caps molle
+AVODART 0,5 mg caps molle [BG1]
+AVODART 0,5 mg caps molle [CZ1]
+AVONEX 30 µg/0,5 ml sol inj
+AVONEX 30 µg/0,5 ml sol inj en stylo prérempli
+AXELER 20 mg/5 mg cp pellic
+AXELER 40 mg/10 mg cp pellic
+AXELER 40 mg/5 mg cp pellic
+AXEPIM 1 g pdre p us parentér
+AXEPIM 2 g pdre p us parentér
+AXEPIM 500 mg pdre p us parentér
+AZACTAM 1 g pdre/sol p us parentér
+AZADOSE 600 mg cp pellic
+AZANTAC 150 mg cp efferv
+AZANTAC 150 mg cp pellic
+AZANTAC 300 mg cp efferv
+AZANTAC 300 mg cp pellic
+AZANTAC 50 mg/2 ml sol inj en ampoule injectable
+AZANTAC 75 mg cp efferv
+AZARGA 10 mg/ml + 5 mg/ml collyre susp
+AZARGA 10 mg/ml + 5 mg/ml collyre susp [ADP1]
+AZATHIOPRINE EG 50 mg cp pellic
+AZATHIOPRINE MYLAN 50 mg cp pellic séc
+AZATHIOPRINE TEVA 50 mg cp pellic
+AZD9291 40 mg cp pellic [ATUc]
+AZD9291 80 mg cp pellic [ATUc]
+AZILECT 1 mg cp
+AZITHROMYCINE ARROW 250 mg cp pellic
+AZITHROMYCINE BIOGARAN 250 mg cp pellic
+A 313 200 000 UI/100 g pom
+A 313 50 000 UI caps molle
+ABASAGLAR 100 U/ml sol inj en stylo prérempli
+ABASAGLAR 100 UI/ml sol inj en cartouche
+ABBE CHAUPITRE N° 6 sol buv
+ABBE CHAUPITRE N° 7 sol buv
+ABBOTICINE 200 mg/5 ml glé p susp buv
+ABELCET 5 mg/ml susp diluer p perf
+ABILIFY 1 mg/ml sol buv
+ABILIFY 10 mg cp
+ABILIFY 10 mg cp orodispers
+ABILIFY 10 mg cp [ADP]
+ABILIFY 15 mg cp
+ABILIFY 15 mg cp orodispers
+ABILIFY 15 mg cp [ADP]
+ABILIFY 5 mg cp
+ABILIFY 5 mg cp [ADP]
+ABILIFY 7,5 mg/ml sol inj
+ABILIFY MAINTENA 300 mg pdre/solv p susp inj à libération prolongée
+ABILIFY MAINTENA 400 mg pdre/solv p susp inj à libération prolongée
+ABILIFY MAINTENA 400 mg pdre/solv p susp inj LP en seringue préremplie
+ABRAXANE 5 mg/ml pdre p susp inj p perf
+ABSTRAL 100 µg cp subling
+ABSTRAL 200 µg cp subling
+ABSTRAL 300 µg cp subling
+ABSTRAL 400 µg cp subling
+ABSTRAL 600 µg cp subling
+ABSTRAL 800 µg cp subling
+ABUFENE 400 mg cp
+ACADIONE 250 mg cp enr
+ACAMPROSATE BIOGARAN 333 mg cp pellic gastrorésis
+ACARBOSE ARROW 100 mg cp
+ACARBOSE ARROW 50 mg cp
+ACARBOSE BIOGARAN 100 mg cp séc
+ACARBOSE BIOGARAN 50 mg cp
+ACARBOSE EG 100 mg cp
+ACARBOSE EG 50 mg cp
+ACARBOSE MYLAN 100 mg cp séc
+ACARBOSE MYLAN 50 mg cp
+ACARBOSE SANDOZ 100 mg cp
+ACARBOSE SANDOZ 50 mg cp
+ACARBOSE ZENTIVA 100 mg cp séc
+ACARBOSE ZENTIVA 50 mg cp
+ACCOFIL 30 MU/0,5 ml sol inj/p perf en seringue préremplie
+ACCOFIL 48 MU/0,5 ml sol inj/p perf en seringue préremplie
+ACCUSOL 35 POTASSIUM 2 mmol/l sol p hémofiltr
+ACCUSOL 35 POTASSIUM 4 mmol/l sol p hémofiltr
+ACCUSOL 35 sol p hémofiltr/hémodial/hémodiafiltr
+ACEBUTOLOL ALMUS 200 mg cp pellic
+ACEBUTOLOL ALMUS 400 mg cp pellic
+ACEBUTOLOL ARROW 200 mg cp pellic
+ACEBUTOLOL ARROW 400 mg cp pellic séc
+ACEBUTOLOL BIOGARAN 200 mg cp pellic
+ACEBUTOLOL BIOGARAN 400 mg cp pellic
+ACEBUTOLOL CRISTERS 200 mg cp pellic
+ACEBUTOLOL CRISTERS 400 mg cp pellic
+ACEBUTOLOL EG 200 mg cp pellic
+ACEBUTOLOL EG 400 mg cp pellic
+ACEBUTOLOL MYLAN 200 mg cp pellic
+ACEBUTOLOL MYLAN 400 mg cp pellic
+ACEBUTOLOL QUALIMED 200 mg cp pellic
+ACEBUTOLOL QUALIMED 400 mg cp pellic
+ACEBUTOLOL RANBAXY 200 mg cp pellic
+ACEBUTOLOL RANBAXY 400 mg cp pellic
+ACEBUTOLOL RATIOPHARM 200 mg cp enr
+ACEBUTOLOL RATIOPHARM 400 mg cp enr
+ACEBUTOLOL SANDOZ 200 mg cp enr
+ACEBUTOLOL SANDOZ 400 mg cp enr
+ACEBUTOLOL TEVA 200 mg cp pellic
+ACEBUTOLOL TEVA 400 mg cp pellic séc
+ACEBUTOLOL ZENTIVA 200 mg cp pellic
+ACEBUTOLOL ZENTIVA 400 mg cp pellic
+ACEBUTOLOL ZYDUS 200 mg cp pellic
+ACEBUTOLOL ZYDUS 400 mg cp pellic
+ACECLOFENAC ACCORD 100 mg cp pellic
+ACECLOFENAC EG 100 mg cp pellic
+ACECLOFENAC MYLAN 100 mg cp pellic
+ACECLOFENAC QUALIMED 100 mg cp pellic
+ACETATE DE CYPROTERONE ARROW 100 mg cp séc
+ACETATE DE CYPROTERONE ARROW 50 mg cp séc
+ACETATE DE CYPROTERONE EG 100 mg cp séc
+ACETATE DE CYPROTERONE EG 50 mg cp séc
+ACETATE DE CYPROTERONE SANDOZ 100 mg cp séc
+ACETATE DE CYPROTERONE SANDOZ 50 mg cp séc
+ACETATE DE CYPROTERONE TEVA 100 mg cp séc
+ACETATE DE CYPROTERONE TEVA 50 mg cp
+ACETYLCYSTEINE ARROW 200 mg cp efferv
+ACETYLCYSTEINE BIOGARAN CONSEIL 200 mg cp efferv
+ACETYLCYSTEINE BIOGARAN CONSEIL 200 mg pdre p sol buv en sachet
+ACETYLCYSTEINE EG 200 mg pdre p sol buv en sachet-dose
+ACETYLCYSTEINE EG LABO CONSEIL sans sucre 200 mg pdre p sol buv sachet-dose
+ACETYLCYSTEINE MYLAN 200 mg cp efferv séc
+ACETYLCYSTEINE MYLAN 200 mg pdre p sol buv en sachet-dose
+ACETYLCYSTEINE RATIOPHARM CONSEIL 200 mg pdre p sol buv
+ACETYLCYSTEINE SANDOZ CONSEIL 200 mg glé p sol buv en sachet-dose
+ACETYLCYSTEINE TEVA 200 mg glé p sol buv en sachet-dose
+ACETYLCYSTEINE TEVA CONSEIL 200 mg pdre p sol buv en sachet-dose sans sucre
+ACETYLLEUCINE BIOGARAN 500 mg cp
+ACETYLLEUCINE MYLAN 500 mg cp
+ACETYLLEUCINE TEVA 500 mg cp
+ACETYLLEUCINE ZENTIVA 500 mg cp
+ACICLOVIR AGUETTANT 250 mg pdre p sol p perf
+ACICLOVIR ALMUS 200 mg cp
+ACICLOVIR ALMUS 5 % crème
+ACICLOVIR ARROW 200 mg cp
+ACICLOVIR ARROW 5 % crème
+ACICLOVIR ARROW 800 mg cp
+ACICLOVIR ARROW CONSEIL 5 % crème
+ACICLOVIR ARROW LAB 200 mg cp
+ACICLOVIR ARROW LAB 800 mg cp
+ACICLOVIR BGR 200 mg cp
+ACICLOVIR BGR 800 mg cp
+ACICLOVIR BIOGARAN 200 mg cp
+ACICLOVIR BIOGARAN 5 % crème
+ACICLOVIR BIOGARAN 800 mg cp
+ACICLOVIR BIOGARAN CONSEIL 5 % crème
+ACICLOVIR CRISTERS 200 mg cp
+ACICLOVIR CRISTERS 5 % crème
+ACICLOVIR CRISTERS 800 mg cp
+ACICLOVIR CRISTERS CONSEIL 5 % crème
+ACICLOVIR DAKOTA PHARM 500 mg pdre p sol p perf
+ACICLOVIR EG 200 mg cp
+ACICLOVIR EG 5 % crème
+ACICLOVIR EG 800 mg cp
+ACICLOVIR EG LABO 5 % crème
+ACICLOVIR EVOLUGEN 200 mg cp
+ACICLOVIR MYLAN 200 mg cp
+ACICLOVIR MYLAN 250 mg pdre p sol inj IV
+ACICLOVIR MYLAN 5 % crème
+ACICLOVIR MYLAN 500 mg pdre p sol inj IV
+ACICLOVIR MYLAN 800 mg cp
+ACICLOVIR MYLAN PHARMA 5 % crème
+ACICLOVIR QUALIMED 200 mg cp
+ACICLOVIR QUALIMED 5 % crème
+ACICLOVIR QUALIMED 800 mg cp
+ACICLOVIR RANBAXY 200 mg cp
+ACICLOVIR RANBAXY 800 mg cp
+ACICLOVIR RATIOPHARM 200 mg cp
+ACICLOVIR RATIOPHARM 5 % crème
+ACICLOVIR RATIOPHARM 800 mg cp
+ACICLOVIR RATIOPHARM CONSEIL 5 % crème
+ACICLOVIR RPG 5 % crème
+ACICLOVIR SANDOZ 200 mg cp
+ACICLOVIR SANDOZ 5 % crème
+ACICLOVIR SANDOZ CONSEIL 5 % crème
+ACICLOVIR TEVA 200 mg cp
+ACICLOVIR TEVA 5 % crème
+ACICLOVIR TEVA 800 mg cp
+ACICLOVIR TEVA CONSEIL 5 % crème
+ACICLOVIR ZENTIVA 200 mg cp
+ACICLOVIR ZENTIVA 5 % crème
+ACICLOVIR ZENTIVA 800 mg cp
+ACICLOVIR ZYDUS 200 mg cp
+ACICLOVIR ZYDUS 5 % crème
+ACIDE ALENDRONIQUE ACTAVIS 70 mg cp
+ACIDE ALENDRONIQUE ALMUS 70 mg cp
+ACIDE ALENDRONIQUE ALTER 70 mg cp pellic
+ACIDE ALENDRONIQUE ARROW 10 mg cp
+ACIDE ALENDRONIQUE ARROW 70 mg cp
+ACIDE ALENDRONIQUE BIOGARAN 70 mg cp
+ACIDE ALENDRONIQUE CRISTERS 70 mg cp
+ACIDE ALENDRONIQUE EG 70 mg cp
+ACIDE ALENDRONIQUE EVOLUGEN 70 mg cp
+ACIDE ALENDRONIQUE MYLAN 70 mg cp
+ACIDE ALENDRONIQUE PHR LAB 70 mg cp
+ACIDE ALENDRONIQUE QUALIMED 70 mg cp
+ACIDE ALENDRONIQUE RANBAXY 70 mg cp
+ACIDE ALENDRONIQUE RATIOPHARM 70 mg cp
+ACIDE ALENDRONIQUE SANDOZ 70 mg cp
+ACIDE ALENDRONIQUE TEVA 70 mg cp
+ACIDE ALENDRONIQUE TEVA SANTE 70 mg cp
+ACIDE ALENDRONIQUE ZYDUS 70 mg cp
+ACIDE FOLIQUE ARROW 5 mg cp
+ACIDE FOLIQUE CCD 0,4 mg cp
+ACIDE FOLIQUE CCD 5 mg cp
+ACIDE FUSIDIQUE ARROW 2 % crème
+ACIDE FUSIDIQUE BGR 2 % crème
+ACIDE FUSIDIQUE BIOGARAN 2 % crème
+ACIDE FUSIDIQUE EG 2 % crème
+ACIDE FUSIDIQUE MYLAN 2 % crème
+ACIDE FUSIDIQUE RATIOPHARM 2 % crème
+ACIDE FUSIDIQUE SANDOZ 2 % crème
+ACIDE IBANDRONIQUE TEVA 150 mg cp pellic
+ACIDE TIAPROFENIQUE ARROW 100 mg cp séc
+ACIDE TIAPROFENIQUE EG 100 mg cp séc
+ACIDE TIAPROFENIQUE TEVA 100 mg cp séc
+ACIDE TIAPROFENIQUE ZENTIVA 100 mg cp séc
+ACIDE URSODESOXYCHOLIQUE BIOGARAN 250 mg cp pellic
+ACIDE URSODESOXYCHOLIQUE MYLAN 250 mg cp pellic
+ACIDE URSODESOXYCHOLIQUE TEVA 250 mg cp pellic
+ACIDE ZOLEDRONIQUE BIOGARAN 4 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE BIOGARAN 5 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE FRESENIUS KABI 4 mg/5 ml sol diluer p perf
+ACIDE ZOLEDRONIQUE HOSPIRA 4 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE MEDAC 4 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE MYLAN 4 mg/5 ml sol diluer p perf
+ACIDE ZOLEDRONIQUE SANDOZ 4 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE SANDOZ 5 mg/100 ml sol p perf
+ACIDE ZOLEDRONIQUE TEVA PHARMA 5 mg sol p perf en flacon
+ACIDE ZOLEDRONIQUE ZENTIVA LAB 4 mg/100 ml sol p perf
+ACIDRINE cp à croquer
+ACIDUM PHOSPHORICUM COMPOSE cp
+ACIDUM PHOSPHORICUM COMPOSE gle
+ACIDUM PHOSPHORICUM COMPOSE sol buv
+ACLASTA 5 mg sol p perf
+ACLOTINE 100 UI/ml pdre/solv p sol inj
+ACNETRAIT 10 mg caps molle
+ACNETRAIT 20 mg caps molle
+ACNETRAIT 40 mg caps molle
+ACNETRAIT 5 mg caps molle
+ACONITUM COMPOSE cp
+ACONITUM COMPOSE gle
+ACONITUM COMPOSE sol buv
+ACORSPRAY 200µg/dose sol p inhal en fl press
+ACT-HIB 10 µg/0,5 ml pdre/solv p sol inj seringue préremplie
+ACTAPULGITE 3 g pdre p susp buv en sachet enfant adulte
+ACTHEANE cp
+ACTI 5 sol buv
+ACTICARBINE 70 mg cp enr
+ACTICARBINE cp enr
+ACTIFED ALLERGIE CETIRIZINE 10 mg cp pellic séc
+ACTIFED ETATS GRIPPAUX pdre p sol buv
+ACTIFED LP RHINITE ALLERGIQUE cp pellic LP
+ACTIFED RHUME cp
+ACTIFED RHUME JOUR & NUIT cp
+ACTIFEDSIGN gél
+ACTILYSE 10 mg pdre/solv p sol inj
+ACTILYSE 2 mg pdre p sol inj/p perf
+ACTILYSE 20 mg pdre/solv p sol inj
+ACTILYSE 50 mg pdre/solv p sol inj
+ACTIQ 1200 µg cp avec applicateur buccal
+ACTIQ 1600 µg cp avec applicateur buccal
+ACTIQ 200 µg cp avec applicateur buccal
+ACTIQ 400 µg cp avec applicateur buccal
+ACTIQ 600 µg cp avec applicateur buccal
+ACTIQ 800 µg cp avec applicateur buccal
+ACTISKENAN 10 mg gél
+ACTISKENAN 20 mg gél
+ACTISKENAN 30 mg gél
+ACTISKENAN 5 mg gél
+ACTISOUFRE 4 mg/50 mg par 10 ml susp buv/nasal
+ACTISOUFRE sol p pulv bucc/nasal
+ACTIVELLE cp pellic
+ACTIVIR 5 % crème
+ACTIVOX ERYSIMUM MATRICAIRE past sans sucre arôme miel citron maux de gorge
+ACTIVOX ERYSIMUM MATRICAIRE past sans sucre menthe eucalyptus maux de gorge
+ACTIVOX Lierre sirop
+ACTIVOX past expectorant Lierre sans sucre
+ACTIVOX PELARGONIUM sol buv rhume
+ACTIVOX pom
+ACTONEL 30 mg cp pellic
+ACTONEL 35 mg cp pellic
+ACTONEL 35 mg cp pellic [IT1]
+ACTONEL 35 mg cp pellic [IT2]
+ACTONEL 5 mg cp pellic
+ACTONEL 75 mg cp pellic
+ACTONEL 75 mg cp pellic [IT1]
+ACTONEL 75 mg cp pellic [IT2]
+ACTONELCOMBI 35 mg + 1000 mg/880 UI cp pellic/glé efferv
+ACTOS 15 mg cp
+ACTOS 30 mg cp
+ACTOSOLV 100 000 UI pdre p sol inj
+ACTOSOLV 600 000 UI pdre p sol inj
+ACTRAPID 100 UI/ml sol inj en flacon
+ACTRAPID Penfill 100 UI/ml sol inj en cartouche
+ACTRON cp efferv
+ACUILIX 20 mg/12,5 mg cp pellic séc
+ACUITEL 20 mg cp enr séc
+ACUITEL 5 mg cp enr séc
+ACULAR 0,5 % collyre
+ACUPAN sol inj
+ADALATE 10 mg caps
+ADALATE LP 20 mg cp LP
+ADANCOR 10 mg cp séc
+ADANCOR 20 mg cp
+ADAPALENE TEVA 0,1 % crème
+ADAPALENE TEVA 0,1 % gel
+ADAPALENE ZENTIVA 0,1 % crème
+ADAPALENE ZENTIVA 0,1 % gel
+ADARTREL 0,25 mg cp pellic
+ADARTREL 0,50 mg cp pellic
+ADARTREL 2 mg cp pellic
+ADASUVE 9,1 mg pdre p inhal en récipient unidose
+ADCETRIS 50 mg pdre p sol diluer p perf
+ADCIRCA 20 mg cp pellic
+ADEMPAS 0,5 mg cp pellic
+ADEMPAS 1 mg cp pellic
+ADEMPAS 1,5 mg cp pellic
+ADEMPAS 2 mg cp pellic
+ADEMPAS 2,5 mg cp pellic
+ADENOSCAN 30 mg/10 ml sol p perf IV
+ADENOSINE MEDAC 6 mg/2 ml sol inj
+ADENURIC 120 mg cp pellic
+ADENURIC 80 mg cp pellic
+ADENYL 60 mg cp
+ADEPAL cp enr
+ADIAZINE 500 mg cp
+ADIXON 50 µg cp séc
+ADOPORT 0,5 mg gél
+ADOPORT 1 mg gél
+ADOPORT 2 mg gél
+ADOPORT 5 mg gél
+ADRENALINE AGUETTANT 0,25 mg/ml sol inj en ampoule
+ADRENALINE AGUETTANT 0,5 mg/1 ml sol inj en ampoule
+ADRENALINE AGUETTANT 1 mg/1 ml sol inj en ampoule
+ADRENALINE AGUETTANT 1 mg/ml sol inj sans sulfite
+ADRENALINE AGUETTANT sans sulfite 0,1 mg/ml sol inj en seringue préremplie
+ADRENALINE RENAUDIN 0,25 mg/ml sol inj en ampoule
+ADRENALINE RENAUDIN 0,50 mg/ml sol inj
+ADRENALINE RENAUDIN 1 mg/ml sol inj
+ADRENALINE RENAUDIN 1 mg/ml sol inj en ampoule
+ADREVIEW (123I) sol inj
+ADRIBLASTINE 10 mg lyoph p sol inj
+ADRIBLASTINE 10 mg/5 ml sol p perf
+ADRIBLASTINE 200 mg/100 ml sol inj p perf
+ADRIBLASTINE 50 mg lyoph p sol inj
+ADRIBLASTINE 50 mg/25 ml sol p perf
+ADRIGYL 10 000 UI/ml sol buv en gte
+ADROVANCE 70 mg/2800 UI cp
+ADROVANCE 70 mg/5600 UI cp
+ADVAGRAF 0,5 mg gél LP
+ADVAGRAF 1 mg gél LP
+ADVAGRAF 3 mg gél LP
+ADVAGRAF 5 mg gél LP
+ADVATE 1000 UI/2 ml pdre/solv p sol inj
+ADVATE 1000 UI/5 ml pdre/solv p sol inj
+ADVATE 1500 UI/2 ml pdre/solv p sol inj
+ADVATE 1500 UI/5 ml pdre/solv p sol inj
+ADVATE 2000 UI/5 ml pdre/solv p sol inj
+ADVATE 250 UI/2 ml pdre/solv p sol inj
+ADVATE 250 UI/5 ml pdre/solv p sol inj
+ADVATE 3000 UI/5 ml pdre/solv p sol inj
+ADVATE 500 UI/2 ml pdre/solv p sol inj
+ADVATE 500 UI/5 ml pdre/solv p sol inj
+ADVIL 200 mg cp enr
+ADVIL 400 mg cpr enr
+ADVILCAPS 200 mg caps molle
+ADVILCAPS 400 mg caps molle
+ADVILEFF 200 mg cp efferv
+ADVILGEL 5 % gel
+ADVILMED 100 mg cp enr
+ADVILMED 20 mg/1 ml susp buv en flacon
+ADVILMED 400 mg cp enr
+ADVILMED 5 % gel
+ADVILTAB 200 mg cp enr
+AERIUS 0,5 mg/ml sol buv
+AERIUS 5 mg cp pellic
+AERIUS 5 mg cp pellic [ADP]
+AERRANE sol p inhal
+AESCULUS COMPLEXE N°103 sol buv en gte
+AESCULUS COMPOSE BOIRON pom
+AESCULUS COMPOSE cp
+AESCULUS COMPOSE gle
+AESCULUS COMPOSE sol buv
+AESCULUS COMPOSE suppos
+AETOXISCLEROL TAMPONNE 0,25 % (5 mg/2 ml) sol inj en ampoule IV
+AETOXISCLEROL TAMPONNE 0,5 % (10 mg/2 ml) sol inj en ampoule IV
+AETOXISCLEROL TAMPONNE 2 % (40 mg/2 ml) sol inj en ampoule IV
+AETOXISCLEROL TAMPONNE 3 % (60 mg/2 ml) sol inj en ampoule IV
+AFINITOR 10 mg cp
+AFINITOR 2,5 mg cp
+AFINITOR 5 mg cp
+AFTAGEL gel bucc
+AFTOSIUM cp subling
+AGATHOL BAUME pom
+AGIOLAX glé
+AGRASTAT 250 µg/ml sol diluer p perf
+AGRASTAT 50 µg/ml sol p perf
+AGRIPPAL susp inj en seringue préremplie
+AGYRAX cp séc
+AIROMIR AUTOHALER 100 µg susp p inhal
+AKINETON LP 4 mg cp enr LP
+ALAIRGIX ALLERGIE CETIRIZINE 10 mg cp à sucer séc
+ALAIRGIX RHINITE ALLERGIQUE CROMOGLICATE DE SODIUM 2 % sol p pulv nasal
+ALBEY VENIN ABEILLE 120 µg pdre/solv p sol inj
+ALBEY VENIN ABEILLE 550 µg pdre/solv p sol inj
+ALBEY VENIN GUEPE VESPULA 120 µg pdre/solv p sol inj
+ALBEY VENIN GUEPE VESPULA 550 µg pdre/solv p sol inj
+ALBUMINE HUMAINE BAXTER 200 g/l sol p perf
+ALBUMINE HUMAINE BAXTER BIOSCIENCE 200 g/l sol p perf
+ALBUMINE HUMAINE IODEE 125I CIS BIO INTERNATIONAL sol inj
+ALBUNORM 20 %, 200 g/l sol p perf
+ALBUNORM 4 %, 40 g/l sol p perf
+ALBUNORM 5 %, 50 g/l sol p perf
+ALCAPHOR sol buv
+ALCOOL A USAGE MEDICAL GILBERT 0,5 ml compres imprég
+ALCOOL A USAGE MEDICAL GILBERT 2,5 ml compres imprég
+ALCOOL A USAGE MEDICAL GILBERT sol p appl loc
+ALCOOL MODIFIE COOPER sol p appl cut
+ALCOOL MODIFIE EVOLUPHARM sol p appl cut
+ALCOOL MODIFIE GIFRER sol p appl cut
+ALDACTAZINE cp séc
+ALDACTONE 25 mg cp séc
+ALDACTONE 50 mg cp séc
+ALDACTONE 75 mg cp séc
+ALDALIX 50 mg/20 mg gél
+ALDARA 5 % crème
+ALDARA 5 % crème [ADP1]
+ALDIREK 10 mg cp pellic séc
+ALDOMET 250 mg cp enr
+ALDOMET 500 mg cp enr
+ALDURAZYME 100 UI/ml sol diluer p perf
+ALDYZINE sol dent
+ALENDRONATE TEVA 10 mg cp
+ALEPSAL 100 mg cp
+ALEPSAL 15 mg cp
+ALEPSAL 150 mg cp
+ALEPSAL 50 mg cp
+ALEVETABS 220 mg cp pellic
+ALFA-AMYLASE BIOGARAN 3000 UCEIP cp enr
+ALFA-AMYLASE BIOGARAN CONSEIL 200 U.CEIP/ml sirop
+ALFA-AMYLASE BIOGARAN CONSEIL 3000 U CEIP cp enr
+ALFACALCIDOL TEVA 0,25 µg caps molle
+ALFACALCIDOL TEVA 1 µg caps molle
+ALFALASTIN 33,33 mg/ml pdre/solv p sol inj
+ALFATIL 125 mg/5 ml pdre p susp buv
+ALFATIL 250 mg gél
+ALFATIL 250 mg/5 ml pdre p susp buv
+ALFATIL LP 375 mg cp pellic LP
+ALFATIL LP 500 mg cp pellic LP
+ALFUZOSINE BIOGARAN LP 10 mg cp pellic LP
+ALFUZOSINE CRISTERS LP 10 mg cp LP
+ALFUZOSINE EG LP 10 mg cp LP
+ALFUZOSINE EVOLUGEN LP 10 mg cp pellic LP
+ALFUZOSINE MYLAN LP 10 mg cp LP
+ALFUZOSINE QUALIMED LP 10 mg cp LP
+ALFUZOSINE RANBAXY LP 10 mg cp LP
+ALFUZOSINE RPG LP 10 mg cp LP
+ALFUZOSINE SANDOZ LP 10 mg cp LP
+ALFUZOSINE TEVA LP 10 mg cp LP
+ALFUZOSINE TEVA SANTE LP 10 mg cp LP
+ALFUZOSINE ZENTIVA LP 10 mg cp LP
+ALFUZOSINE ZYDUS LP 10 mg cp LP
+ALGESAL BAUME crème
+ALGESAL SURACTIVE crème
+ALGICALM 400 mg/25 mg cp
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM BIOGARAN 0,5 g/0,267 g susp buv en sachet-dose
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM BIOGARAN 250 mg/133,5 mg p 5 ml susp buv en flacon
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM EG 250 mg/133,5 mg p 5 ml susp buv en flacon
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM MYLAN CONSEIL sans sucre 500 mg/267 mg susp buv en sachet menthe édulcoré à la sacchar
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM MYLAN susp buv en sachet
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM SANDOZ 250 mg/133,5 mg p 5 ml susp buv en flacon
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM SANDOZ 500 mg/267 mg susp buv en sachet
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM SANDOZ CONSEIL 500 mg/267 mg susp buv en sachet menthe sans sucre édulcorée à la sacch
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM TEVA 250 mg/133,5 mg p 5 ml susp buv en flacon
+ALGINATE DE SODIUM/BICARBONATE DE SODIUM ZENTIVA 500 mg/267 mg susp buv en sachet
+ALGISEDAL cp
+ALGODOL 500 mg cp
+ALGODOL CAFEINE cp
+ALGOTROPYL suppos
+ALGUES FUCUS BOIRON gél
+ALIMTA 100 mg pdre p sol diluer p perf
+ALIMTA 500 mg pdre p sol diluer p perf
+ALKA SELTZER cp efferv
+ALKERAN 2 mg cp pellic
+ALKERAN 50 mg/10 ml lyoph/sol p us parentér
+ALKOCORTENBIOFORM crème
+ALKONATREM 150 mg gél
+ALKOSALEN pom
+ALKOTAR pom
+ALLERGENES ALK-ABELLO sol pour tests cutanés
+ALLERGENES ALK-ABELLO sol subling
+ALLERGENES ALK-ABELLO susp inj
+ALLERGENES STALLERGENES pdre/solv p sol p test de provocation conjonctivale
+ALLERGENES STALLERGENES pdre/solv p sol p test de provocation nasale
+ALLERGENES STALLERGENES pdre/solv p sol p test intradermique
+ALLERGENES STALLERGENES sol inj
+ALLERGENES STALLERGENES sol pour tests cutanés
+ALLERGENES STALLERGENES sol subling
+ALLERGENES STALLERGENES susp inj
+ALLERGIFLASH 0,05 % collyre sol en récipient unidose
+ALLERGOCOMOD collyre sol
+ALLERGODIL 0,05 % collyre
+ALLERGODIL 0,127 mg sol p pulv nasal
+ALLI 60 mg gél
+ALLIUM CEPA COMPOSE BOIRON cp
+ALLIUM CEPA COMPOSE BOIRON gle
+ALLIUM CEPA COMPOSE BOIRON sol buv
+ALLOCHRYSINE 100 mg sol inj IM
+ALLOCHRYSINE 25 mg sol inj IM
+ALLOCHRYSINE 50 mg sol inj IM
+ALLOPURINOL ARROW 100 mg cp
+ALLOPURINOL ARROW 200 mg cp
+ALLOPURINOL ARROW 300 mg cp
+ALLOPURINOL BIOGARAN 100 mg cp
+ALLOPURINOL BIOGARAN 100 mg cp
+ALLOPURINOL BIOGARAN 200 mg cp
+ALLOPURINOL BIOGARAN 200 mg cp
+ALLOPURINOL BIOGARAN 300 mg cp
+ALLOPURINOL BIOGARAN 300 mg cp
+ALLOPURINOL CRISTERS 100 mg cp
+ALLOPURINOL CRISTERS 200 mg cp
+ALLOPURINOL CRISTERS 300 mg cp
+ALLOPURINOL EG 100 mg cp
+ALLOPURINOL EG 200 mg cp
+ALLOPURINOL EG 300 mg cp
+ALLOPURINOL ISOMED 100 mg cp
+ALLOPURINOL ISOMED 200 mg cp
+ALLOPURINOL ISOMED 300 mg cp
+ALLOPURINOL MYLAN 100 mg cp
+ALLOPURINOL MYLAN 200 mg cp
+ALLOPURINOL MYLAN 300 mg cp
+ALLOPURINOL PHR LAB 100 mg cp
+ALLOPURINOL PHR LAB 200 mg cp
+ALLOPURINOL PHR LAB 300 mg cp
+ALLOPURINOL RANBAXY 100 mg cp
+ALLOPURINOL RANBAXY 200 mg cp
+ALLOPURINOL RANBAXY 300 mg cp
+ALLOPURINOL RATIOPHARM 100 mg caps
+ALLOPURINOL RATIOPHARM 200 mg caps
+ALLOPURINOL RATIOPHARM 300 mg caps
+ALLOPURINOL SANDOZ 100 mg cp
+ALLOPURINOL SANDOZ 200 mg cp
+ALLOPURINOL SANDOZ 300 mg cp
+ALLOPURINOL TEVA 100 mg caps molle
+ALLOPURINOL TEVA 100 mg cp
+ALLOPURINOL TEVA 200 mg caps molle
+ALLOPURINOL TEVA 200 mg cp
+ALLOPURINOL TEVA 300 mg caps molle
+ALLOPURINOL TEVA 300 mg cp
+ALLOPURINOL ZENTIVA 100 mg cp
+ALLOPURINOL ZENTIVA 200 mg cp
+ALLOPURINOL ZENTIVA 300 mg cp
+ALLOPURINOL ZYDUS 100 mg cp
+ALLOPURINOL ZYDUS 200 mg cp
+ALLOPURINOL ZYDUS 300 mg cp
+ALMA 2 mg pâte à mâcher
+ALMIDE 0,1 % collyre
+ALMIDE 0,1 % collyre en récipient unidose
+ALMOGRAN 12,5 mg cp pellic
+ALMOTRIPTAN ARROW 12,5 mg cp pellic
+ALMOTRIPTAN BIOGARAN 12,5 mg cp pellic
+ALMOTRIPTAN EG 12,5 mg cp pellic
+ALMOTRIPTAN MYLAN 12,5 mg cp pellic
+ALMOTRIPTAN SANDOZ 12,5 mg cp pellic
+ALMOTRIPTAN TEVA 12,5 mg cp pellic
+ALMOTRIPTAN ZENTIVA 12,5 mg cp pellic
+ALMOTRIPTAN ZYDUS 12,5 mg cp pellic
+ALODONT sol p bain bouch
+ALOE COMPOSE BOIRON cp
+ALOE COMPOSE BOIRON gle
+ALOE COMPOSE BOIRON sol buv
+ALOPEXY 2 % sol p appl cut
+ALOPEXY 5 % sol p appl cut
+ALOPLASTINE pâte p appl loc
+ALOSTIL 2 % sol p appl cut
+ALOSTIL 5 % mousse p appl cut en flacon pressurisé
+ALOSTIL 5 % sol p appl cut
+ALOXI 250 µg sol inj
+ALPAGELLE crème
+ALPHA RENOL sol buv
+ALPHACAINE-N sol inj p us dent
+ALPHACAINE-SP sol inj p us dent
+ALPHAGAN 0,2 % (2 mg/ml) collyre sol
+ALPRAZOLAM ALTER 0,25 mg cp séc
+ALPRAZOLAM ALTER 0,50 mg cp séc
+ALPRAZOLAM ARROW 0,25 mg cp séc
+ALPRAZOLAM ARROW 0,50 mg cp séc
+ALPRAZOLAM BIOGARAN 0,25 mg cp séc
+ALPRAZOLAM BIOGARAN 0,50 mg cp séc
+ALPRAZOLAM CRISTERS 0,25 mg cp séc
+ALPRAZOLAM CRISTERS 0,50 mg cp séc
+ALPRAZOLAM EG 0,25 mg cp séc
+ALPRAZOLAM EG 0,50 mg cp séc
+ALPRAZOLAM EVOLUGEN 0,25 mg cp séc
+ALPRAZOLAM EVOLUGEN 0,50 mg cp séc
+ALPRAZOLAM ISOMED 0,25 mg cp séc
+ALPRAZOLAM ISOMED 0,50 mg cp séc
+ALPRAZOLAM MYLAN 0,25 mg cp séc
+ALPRAZOLAM MYLAN 0,50 mg cp séc
+ALPRAZOLAM MYLAN 1 mg cp séc
+ALPRAZOLAM RPG 0,25 mg cp séc
+ALPRAZOLAM RPG 0,50 mg cp séc
+ALPRAZOLAM SANDOZ 0,25 mg cp séc
+ALPRAZOLAM SANDOZ 0,50 mg cp séc
+ALPRAZOLAM TEVA 0,25 mg cp séc
+ALPRAZOLAM TEVA 0,50 mg cp séc
+ALPRAZOLAM WINTHROP 0,25 mg cp séc
+ALPRAZOLAM WINTHROP 0,50 mg cp séc
+ALPRAZOLAM ZENTIVA 0,25 mg cp séc
+ALPRAZOLAM ZENTIVA 0,50 mg cp séc
+ALPRAZOLAM ZYDUS 0,25 mg cp séc
+ALPRAZOLAM ZYDUS 0,50 mg cp séc
+ALPRESS LP 2,5 mg cp osmot LP
+ALPRESS LP 5 mg cp osmot LP
+ALPROSTADIL INTSEL CHIMOS 0,5 mg/ml sol inj
+ALPROSTADIL PANPHARMA 0,5 mg/ml sol inj
+ALTEIS 10 mg cp pellic
+ALTEIS 20 mg cp pellic
+ALTEIS 40 mg cp pellic
+ALTEISDUO 20 mg/12,5 mg cp pellic
+ALTEISDUO 20 mg/25 mg cp pellic
+ALTEISDUO 40 mg/12,5 mg cp pellic
+ALTEISDUO 40 mg/25 mg cp pellic
+ALTIM 3,75 mg/1,5 ml susp inj
+ALTIZIDE SPIRONOLACTONE RPG cp
+ALVESCO 160 µg/dose sol p inhal en flacon pressurisé
+ALVESCO 80 µg/dose sol p inhal en flacon pressurisé
+ALVOGYL pâte p us dent
+ALYOSTAL PRICK CONTROLE NEGATIF sol p prick-test
+ALYOSTAL PRICK CONTROLE POSITIF 10 mg/ml sol p prick-test cut
+ALYOSTAL VENIN ABEILLE A. MEL 110 µg pdre/solv p sol inj
+ALYOSTAL VENIN ABEILLE A. MEL 550 µg pdre/solv p sol inj
+ALYOSTAL VENIN GUEPE POLISTES 110 µg pdre/solv p sol inj
+ALYOSTAL VENIN GUEPE POLISTES 550 µg pdre/solv p sol inj
+ALYOSTAL VENIN GUEPE VESPULA 110 µg pdre/solv p sol inj
+ALYOSTAL VENIN GUEPE VESPULA 550 µg pdre/solv p sol inj
+AMANTADIN AL 100 mg cp pellic (remplace MANTADIX 100 mg caps, en rupture de stock)
+AMANTADINE HYDROCHLORIDE 100 mg gél [AIT]
+AMARANCE cp enr
+AMAREL 1 mg cp
+AMAREL 2 mg cp
+AMAREL 3 mg cp
+AMAREL 4 mg cp
+AMBISOME 50 mg pdre p susp de lipos p perf
+AMBROXOL ARROW 0,6 % sol buv
+AMBROXOL ARROW 30 mg cp
+AMBROXOL BIOGARAN CONSEIL 0,6 % sol buv sans sucre édulcorée au sorbitol
+AMBROXOL BIOGARAN CONSEIL 30 mg cp séc
+AMBROXOL EG 3 mg/ml sol buv sans sucre édulcorée au cyclamate de sodium et sorbitol
+AMBROXOL EG LABO CONSEIL 0,6 % sol buv
+AMBROXOL EG LABO CONSEIL 30 mg cp séc
+AMBROXOL MYLAN 0,6 % sol buv
+AMBROXOL MYLAN 30 mg cp
+AMBROXOL SANDOZ CONSEIL 0,6 % sol buv sans sucre édulcorée à la saccharine sodique
+AMBROXOL TEVA CONSEIL 0,3 % sol buv
+AMBROXOL TEVA CONSEIL 0,6 % sol buv
+AMBROXOL TEVA CONSEIL 30 mg cp
+AMERSCAN MEDRONATE II pdre p sol inj
+AMETYCINE 10 mg pdre p sol inj
+AMETYCINE 20 mg pdre p sol inj
+AMETYCINE 40 mg pdre p sol p irrig vésic
+AMIKACINE B. BRAUN 10 mg/ml sol p perf
+AMIKACINE B. BRAUN 2,5 mg/ml sol p perf
+AMIKACINE B. BRAUN 5 mg/ml sol p perf
+AMIKACINE MYLAN 1 g pdre p sol inj
+AMIKACINE MYLAN 250 mg pdre p sol inj
+AMIKACINE MYLAN 50 mg/1 ml sol inj enfant nourrisson
+AMIKACINE MYLAN 500 mg pdre p sol inj
+AMIKACINE WINTHROP 250 mg lyoph p us parentér
+AMILORIDE HYDROCHLOROTHIAZIDE TEVA 5 mg/50 mg cp
+AMINOMIX 500 E sol p perf
+AMINOMIX 500 sol p perf
+AMINOMIX 800 E sol p perf
+AMINOPHYLLINE RENAUDIN 250 mg/10 ml sol p perf
+AMINOPLASMAL 12 sol p perf
+AMINOPLASMAL 8 sol p perf
+AMINOVEN 10 % sol p perf
+AMINOVEN 5 % sol p perf
+AMIODARONE ACTAVIS 200 mg cp séc
+AMIODARONE AGUETTANT 50 mg/ml sol inj
+AMIODARONE ALMUS 200 mg cp séc
+AMIODARONE ALTER 200 mg cp séc
+AMIODARONE ARROW 200 mg cp séc
+AMIODARONE BIOGARAN 200 mg cp séc
+AMIODARONE CRISTERS 200 mg cp séc
+AMIODARONE EG 200 mg cp séc
+AMIODARONE ISOMED 200 mg cp séc
+AMIODARONE MYLAN 200 mg cp séc
+AMIODARONE QUALIMED 200 mg cp séc
+AMIODARONE RANBAXY 200 mg cp séc
+AMIODARONE RATIOPHARM 200 mg cp séc
+AMIODARONE SANDOZ 200 mg cp séc
+AMIODARONE TEVA 200 mg cp séc
+AMIODARONE ZENTIVA 200 mg cp séc
+AMIODARONE ZYDUS 200 mg cp séc
+AMISULPRIDE ACTAVIS 100 mg cp séc
+AMISULPRIDE ACTAVIS 200 mg cp séc
+AMISULPRIDE ACTAVIS 400 mg cp pellic séc
+AMISULPRIDE ARROW 100 mg cp séc
+AMISULPRIDE ARROW 200 mg cp séc
+AMISULPRIDE ARROW 400 mg cp pellic séc
+AMISULPRIDE BIOGARAN 100 mg cp séc
+AMISULPRIDE BIOGARAN 200 mg cp séc
+AMISULPRIDE BIOGARAN 400 mg cp pellic séc
+AMISULPRIDE CRISTERS 100 mg cp séc
+AMISULPRIDE CRISTERS 200 mg cp séc
+AMISULPRIDE CRISTERS 400 mg cp pellic séc
+AMISULPRIDE EG 100 mg cp séc
+AMISULPRIDE EG 200 mg cp séc
+AMISULPRIDE EG 400 mg cp pellic séc
+AMISULPRIDE MYLAN 100 mg cp séc
+AMISULPRIDE MYLAN 200 mg cp séc
+AMISULPRIDE MYLAN 400 mg cp pellic séc
+AMISULPRIDE QUALIMED 100 mg cp séc
+AMISULPRIDE QUALIMED 200 mg cp séc
+AMISULPRIDE QUALIMED 400 mg cp pellic séc
+AMISULPRIDE RATIOPHARM 100 mg cp séc
+AMISULPRIDE RATIOPHARM 200 mg cp séc
+AMISULPRIDE RATIOPHARM 400 mg cp pellic séc
+AMISULPRIDE RPG 100 mg cp séc
+AMISULPRIDE RPG 200 mg cp séc
+AMISULPRIDE SANDOZ 100 mg cp séc
+AMISULPRIDE SANDOZ 200 mg cp séc
+AMISULPRIDE SANDOZ 400 mg cpr pellic séc
+AMISULPRIDE TEVA 100 mg cp séc
+AMISULPRIDE TEVA 200 mg cp séc
+AMISULPRIDE TEVA 400 mg cp pellic séc
+AMISULPRIDE ZENTIVA 100 mg cp séc
+AMISULPRIDE ZENTIVA 200 mg cp séc
+AMISULPRIDE ZENTIVA 400 mg cp pellic séc
+AMISULPRIDE ZYDUS 200 mg cp séc
+AMISULPRIDE ZYDUS 400 mg cp pellic séc
+AMLODIPINE ACTAVIS 10 mg gél
+AMLODIPINE ACTAVIS 5 mg gél
+AMLODIPINE ALMUS 10 mg gél
+AMLODIPINE ALMUS 5 mg gél
+AMLODIPINE ALTER 10 mg gél
+AMLODIPINE ALTER 5 mg gél
+AMLODIPINE ARROW 10 mg gél
+AMLODIPINE ARROW 5 mg gél
+AMLODIPINE ARROW GENERIQUES 10 mg gél
+AMLODIPINE ARROW GENERIQUES 5 mg gél
+AMLODIPINE BIOGARAN 10 mg gél
+AMLODIPINE BIOGARAN 5 mg gél
+AMLODIPINE BOUCHARA-RECORDATI 10 mg gél
+AMLODIPINE BOUCHARA-RECORDATI 5 mg gél
+AMLODIPINE CRISTERS 10 mg gél
+AMLODIPINE CRISTERS 5 mg gél
+AMLODIPINE EG 10 mg gél
+AMLODIPINE EG 5 mg gél
+AMLODIPINE EVOLUGEN 10 mg gél
+AMLODIPINE EVOLUGEN 5 mg gél
+AMLODIPINE ISOMED 10 mg gél
+AMLODIPINE ISOMED 5 mg gél
+AMLODIPINE MYLAN 10 mg gél
+AMLODIPINE MYLAN 5 mg gél
+AMLODIPINE PFIZER 10 mg gél
+AMLODIPINE PFIZER 5 mg gél
+AMLODIPINE PHR LAB 10 mg gél
+AMLODIPINE PHR LAB 5 mg gél
+AMLODIPINE QUALIMED 10 mg gél
+AMLODIPINE QUALIMED 5 mg gél
+AMLODIPINE RANBAXY 10 mg gél
+AMLODIPINE RANBAXY 5 mg gél
+AMLODIPINE RATIO 10 mg gél
+AMLODIPINE RATIO 5 mg gél
+AMLODIPINE RATIOPHARM 10 mg gél
+AMLODIPINE RATIOPHARM 5 mg gél
+AMLODIPINE SANDOZ 10 mg gél
+AMLODIPINE SANDOZ 5 mg gél
+AMLODIPINE TEVA 10 mg gél
+AMLODIPINE TEVA 5 mg gél
+AMLODIPINE ZENTIVA 10 mg gél
+AMLODIPINE ZENTIVA 5 mg gél
+AMLODIPINE ZYDUS 10 mg gél
+AMLODIPINE ZYDUS 5 mg gél
+AMLOR 10 mg gél
+AMLOR 5 mg gél
+AMLOR 5 mg gél [LT1]
+AMMONAPS 500 mg cp
+AMMONAPS 940 mg/g glé
+AMODEX 1 g cp dispers
+AMODEX 250 mg/5 ml pdre p susp buv
+AMODEX 500 mg gél
+AMODEX 500 mg/5 ml pdre p susp buv
+AMOROLFINE ARROW 5 % vernis ongl médicamenteux
+AMOROLFINE BGR 5 % vernis ongl médic
+AMOROLFINE BIOGARAN 5 % vernis ongl médicamenteux
+AMOROLFINE BIOGARAN CONSEIL 5 % vernis ongl médicamenteux
+AMOROLFINE CRISTERS 5 % vernis ongl médicamenteux
+AMOROLFINE EG 5 % vernis ongl médicamenteux
+AMOROLFINE ISOMED 5 % vernis ongl médicamenteux
+AMOROLFINE MYLAN 5 % vernis ongl médicamenteux
+AMOROLFINE MYLAN CONSEIL 5 % vernis ongl médicamenteux
+AMOROLFINE PIERRE FABRE 5 % vernis ongl médicamenteux
+AMOROLFINE RANBAXY 5 % vernis ongl médicamenteux
+AMOROLFINE RATIOPHARM 5 % vernis ongl médicamenteux
+AMOROLFINE SANDOZ 5 % vernis ongl médicamenteux
+AMOROLFINE SANDOZ CONSEIL 5 % vernis ongl médicamenteux
+AMOROLFINE TEVA 5 % vernis ongl médicamenteux
+AMOROLFINE URGO 5 % vernis ongl médicamenteux
+AMOROLFINE ZENTIVA 5 % vernis ongl médicamenteux
+AMOROLFINE ZYDUS 5 % vernis ongl médicamenteux
+AMOXICILLINE ACIDE CLAVULANIQUE ZYDUS FRANCE 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE ACIDE CLAVULANIQUE ZYDUS FRANCE 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE ALMUS 1 g cp pellic dispers
+AMOXICILLINE ALMUS 250 mg/5 ml pdre p susp buv
+AMOXICILLINE ALMUS 500 mg gél
+AMOXICILLINE ALMUS 500 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE ARROW 1 g cp pellic dispers
+AMOXICILLINE ARROW 125 mg/5 ml pdre p susp buv
+AMOXICILLINE ARROW 250 mg/5 ml pdre p susp buv
+AMOXICILLINE ARROW 500 mg gél
+AMOXICILLINE ARROW 500 mg/5 ml pdre p susp buv
+AMOXICILLINE ARROW LAB 500 mg gél
+AMOXICILLINE BIOGARAN 1 g cp dispers
+AMOXICILLINE BIOGARAN 125 mg/5 ml pdre p susp buv
+AMOXICILLINE BIOGARAN 250 mg/5 ml pdre p susp buv
+AMOXICILLINE BIOGARAN 500 mg gél
+AMOXICILLINE BIOGARAN 500 mg/5 ml pdre p susp buv
+AMOXICILLINE CRISTERS 125 mg/5 ml pdre p susp buv
+AMOXICILLINE CRISTERS 250 mg/5 ml pdre p susp buv
+AMOXICILLINE CRISTERS 500 mg gél
+AMOXICILLINE CRISTERS 500 mg/5 ml pdre p susp buv
+AMOXICILLINE EG 125 mg/5 ml pdre p susp buv
+AMOXICILLINE EG 250 mg/5 ml pdre p susp buv
+AMOXICILLINE EG 500 mg gél
+AMOXICILLINE EG 500 mg/5 ml pdre p susp buv
+AMOXICILLINE EG LABO 1 g cp dispers
+AMOXICILLINE MYLAN 1 g cp dispers
+AMOXICILLINE MYLAN 125 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE MYLAN 250 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE MYLAN 500 mg gél
+AMOXICILLINE MYLAN 500 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE MYLAN PHARMA 125 mg/5 ml pdre p susp buv
+AMOXICILLINE MYLAN PHARMA 250 mg/5 ml pdre p susp buv
+AMOXICILLINE MYLAN PHARMA 500 mg gél
+AMOXICILLINE MYLAN PHARMA 500 mg/5 ml pdre p susp buv
+AMOXICILLINE PANPHARMA 1 g pdre p sol inj
+AMOXICILLINE PANPHARMA 1 g pdre p sol inj IV
+AMOXICILLINE PANPHARMA 1 g/5 ml pdre/solv p sol inj IM
+AMOXICILLINE PANPHARMA 2 g pdre p sol inj
+AMOXICILLINE QUALIMED 1 g cp dispers
+AMOXICILLINE RANBAXY 1 g cp dispers
+AMOXICILLINE RANBAXY 500 mg gél
+AMOXICILLINE RATIOPHARM 500 mg gél
+AMOXICILLINE RPG 250 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE RPG 500 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE SANDOZ 1 g cp dispers
+AMOXICILLINE SANDOZ 125 mg/5 ml pdre p susp buv
+AMOXICILLINE SANDOZ 250 mg/5 ml pdre p susp buv
+AMOXICILLINE SANDOZ 500 mg gél
+AMOXICILLINE SANDOZ 500 mg/5 ml pdre p susp buv
+AMOXICILLINE TEVA 1 g cp dispers
+AMOXICILLINE TEVA 1000 mg pdre p susp buv en sachet
+AMOXICILLINE TEVA 125 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE TEVA 250 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE TEVA 500 mg gél
+AMOXICILLINE TEVA 500 mg/5 ml pdre p susp buv en flacon
+AMOXICILLINE TEVA SANTE 1 g cp dispers
+AMOXICILLINE TEVA SANTE 125 mg/5 ml pdre p susp buv
+AMOXICILLINE TEVA SANTE 250 mg/5 ml pdre p susp buv
+AMOXICILLINE TEVA SANTE 500 mg/5 ml pdre p susp buv
+AMOXICILLINE ZENTIVA 1 g cp pellic dispers
+AMOXICILLINE ZENTIVA 250 mg/5 ml pdre p susp buv
+AMOXICILLINE ZENTIVA 500 mg gél
+AMOXICILLINE ZENTIVA 500 mg/5 ml pdre p susp buv
+AMOXICILLINE ZENTIVA LAB 1 g cp dispers
+AMOXICILLINE ZENTIVA LAB 125 mg/5 ml pdre p susp buv
+AMOXICILLINE ZENTIVA LAB 250 mg/5 ml pdre p susp buv
+AMOXICILLINE ZENTIVA LAB 500 mg gél
+AMOXICILLINE ZENTIVA LAB 500 mg/5 ml pdre p susp buv
+AMOXICILLINE ZYDUS 125 mg/5 ml pdre p susp buv
+AMOXICILLINE ZYDUS 250 mg/5 ml pdre p susp buv
+AMOXICILLINE ZYDUS 500 mg gél
+AMOXICILLINE ZYDUS 500 mg/5 ml pdre p susp buv
+AMOXICILLINE ZYDUS FRANCE 1 g cp dispers
+AMOXICILLINE/ACIDE CLAVULANIQUE ACTAVIS 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ACTAVIS 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ALMUS 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ALMUS 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ALMUS 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ALTER 1 g/125 mg pdre p susp buv en sachet adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ALTER 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ALTER 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ALTER 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ARROW 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 1 g/125 mg pdre p susp buv adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE BIOGARAN 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 100 mg/12,5 mg/ml pdre pr susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE CRISTERS 500 mg/62,5 mg cp pellicul adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE EG 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE EG 100 mg/12,5 mg/ml pdre susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE EG 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE EG LABO 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE EG LABO 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 1 g/100 mg pdre p sol inj/p perf IV
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 1 g/200 mg pdre p sol inj/p perf IV adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 2 g/200 mg pdre p sol p perf adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 500 mg/50 mg pdre p sol inj/p perf IV
+AMOXICILLINE/ACIDE CLAVULANIQUE MYLAN 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 1 g/100 mg pdre p sol inj IV enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 1 g/200 mg pdre p sol inj IV adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 2 g/200 mg pdre p sol inj IV adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE PANPHARMA 500 mg/50 mg pdre p sol inj IV enfant nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE QUALIMED 1 g/125 mg pdre p susp buv adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE QUALIMED 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE QUALIMED 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE QUALIMED 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE RANBAXY 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE RANBAXY 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE RANBAXY 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE RANBAXY 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE RANBAXY 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE RATIO 1 g/125 mg pdre p susp buv en sachet adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE RATIO 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 1 g/125 mg pdre p sol buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 1 g/200 mg pdre p sol inj adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 2 g/200 mg pdre p sol p perf adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 500 mg/50 mg pdre p sol inj enfant nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE SANDOZ 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA SANTE 1 g/125 mg pdre p susp buv sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA SANTE 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA SANTE 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE TEVA SANTE 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA 100 mg/12,5 mg/ml pdre p susp buv en flacon enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA 100 mg/12,5 mg/ml pdre p susp buv en flacon nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ZENTIVA LAB 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS 1 g/125 mg pdre p susp buv en sachet-dose adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS 100 mg/12,5 mg/ml pdre p susp buv enfant
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS 100 mg/12,5 mg/ml pdre p susp buv nourrisson
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS 500 mg/62,5 mg cp pellic adulte
+AMOXICILLINE/ACIDE CLAVULANIQUE ZYDUS FRANCE 500 mg/62,5 mg cp pellic adulte
+AMPECYCLAL 300 mg gél
+AMPHOSCA ORCHITYN cp à croquer
+AMPHOSCA OVARYN cp à croquer
+AMPICILLINE PANPHARMA 1 g pdre/sol p prép inj
+AMPICILLINE PANPHARMA 2 g pdre/sol p prép inj
+AMPICILLINE PANPHARMA 500 mg pdre/sol p prép inj
+AMSALYO 75 mg pdre p sol p perf
+AMUKINE 0,06 % sol p appl loc
+AMYCOR 1 % crème
+AMYCOR 1 % pdre p appl loc
+AMYCOR 1 % sol p appl loc
+AMYCOR ONYCHOSET pom
+AMYLODIASTASE cp à croquer
+ANAFRANIL 10 mg cp enr
+ANAFRANIL 25 mg cp enr
+ANAFRANIL 25 mg/2 ml sol inj
+ANAFRANIL 75 mg cp pellic séc
+ANANDRON 150 mg cp
+ANANDRON 50 mg cp
+ANAPEN 150 µg/0,3 ml sol inj en seringue préremplie
+ANAPEN 300 µg/0,3 ml sol inj en seringue préremplie
+ANASTROZOLE ACCORD 1 mg cp pellic
+ANASTROZOLE ALMUS 1 mg cp pellic
+ANASTROZOLE ALTER 1 mg cp pellic
+ANASTROZOLE ARROW 1 mg cp pellic
+ANASTROZOLE BIOGARAN 1 mg cp pellic
+ANASTROZOLE BLUEFISH 1 mg cp pellic
+ANASTROZOLE CRISTERS 1 mg cp pellic
+ANASTROZOLE EG 1 mg cp pellic
+ANASTROZOLE EVOLUGEN 1 mg cp pellic
+ANASTROZOLE GERDA 1 mg cp pellic
+ANASTROZOLE ISOMED 1 mg cp pellic
+ANASTROZOLE MYLAN 1 mg cp pellic
+ANASTROZOLE PHR LAB 1 mg cp pellic
+ANASTROZOLE RANBAXY 1 mg cp pellic
+ANASTROZOLE RATIOPHARM 1 mg cp pellic
+ANASTROZOLE SANDOZ 1 mg cp pellic
+ANASTROZOLE TEVA 1 mg cp pellic
+ANASTROZOLE ZENTIVA 1 mg cp pellic
+ANASTROZOLE ZYDUS 1 mg cp pellic
+ANAUSIN METOCLOPRAMIDE 15 mg cp LP
+ANCOTIL 1 % sol p perf
+ANCOTIL 500 mg cp
+ANDRACTIM gel p appl loc
+ANDROCUR 100 mg cp séc
+ANDROCUR 50 mg cp
+ANDROGEL 25 mg gel en sachet-dose
+ANDROGEL 50 mg gel en sachet-dose
+ANDROTARDYL 250 mg/1 ml sol inj
+ANESDERM 5 % crème
+ANEXATE 0,5 mg/5 ml sol inj IV
+ANEXATE 1 mg/10 ml sol inj IV
+ANGELIQ 1 mg/2 mg cp pellic
+ANGI-SPRAY MAL DE GORGE CHLORHEXIDINE/LIDOCAÏNE collut
+ANGI-SPRAY MAL DE GORGE HEXAMIDINE/TETRACAINE collut en flacon pressurisé
+ANGIOCIS trousse p prép pyrophos étain
+ANGIOX 250 mg pdre p sol diluer p sol inj p perf
+ANGIPAX cp orodispers
+ANGISPRAY collut
+ANORO 55 µg/22 µg pdre p inhal en récipient unidose
+ANSATIPINE 150 mg gél
+ANTADYS 100 mg cp pellic
+ANTALCALM 140 mg emplâtre médicamenteux
+ANTALNOX 550 mg cp pellic séc
+ANTALYRE collyre sol en récipient unidose
+ANTARENE 100 mg cp pellic
+ANTARENE 20 mg/ml susp buv enfant nourrisson
+ANTARENE 200 mg cp pellic
+ANTARENE 400 mg cp pellic
+ANTARENE 5 % gel
+ANTARENE CODEINE 200 mg/30 mg cp pellic
+ANTARENE CODEINE 400 mg/60 mg cp pellic
+ANTASOL 135 gaz p inhal
+ANTASOL 180 gaz p inhal en bouteille
+ANTHYLLINE tisane en sach
+ANTIBIO SYNALAR sol p instil auric
+ANTIBIOTREX gel p appl cutanée
+ANTIGONE 75 µg cp pellic
+ANTIGRIPPINE A L'ASPIRINE ETAT GRIPPAL cp
+ANTINERVEUX LESOURD sol buv
+ANTISCABIOSUM 10 % émuls de benzoate de benzyle enfant [AIT]
+ANTISTAX 360 mg cp enr
+ANXEMIL 200 mg cp enr
+ANXIETUM cp subling
+ANY 8 % pom
+AOTAL 333 mg cp enr gastrorésis
+APAISYLGEL 0,75 % gel p appl loc
+APAROXAL 100 mg cp séc
+APHILAN DEMANGEAISONS 0,5 % crème
+APHLOINE P sol buv
+APHTORAL cp à sucer
+APIDRA 100 U/ml sol inj en cartouche
+APIDRA 100 U/ml sol inj en flacon
+APIDRA 100 U/ml sol inj en stylo prérempli Solostar
+APILAXE sol buv
+APOKINON 10 mg/ml sol inj SC
+APOKINON 30 mg/3 ml (1 %) sol inj en stylo prérempli
+APOKINON 5 mg/ml sol inj
+APRANAX 250 mg glé p susp buv
+APRANAX 275 mg cp pellic
+APRANAX 500 mg glé p susp buv
+APRANAX 550 mg cp pellic séc
+APRANAX 750 mg cp
+APROKAM 50 mg pdre p sol inj
+APROKAM 50 mg pdre p sol inj [ATUc]
+APROVEL 150 mg cp pellic
+APROVEL 300 mg cp pellic
+APROVEL 75 mg cp pellic
+APSOR 4 µg/g émuls p appl cut
+APSOR 4 µg/g pom
+APTIVUS 100 mg/ml sol buv
+APTIVUS 250 mg caps molle
+APURONE cp
+AQUAREST 0,2 % gel ophtalm en récipient unidose
+ARACYTINE 1 g lyoph p us parentér
+ARACYTINE 100 mg pdre/solv p sol inj
+ARACYTINE 2 g lyoph p us parentér
+ARACYTINE 500 mg lyoph p us parentér
+ARANESP 10 µg sol inj en seringue préremplie
+ARANESP 100 µg sol inj en seringue préremplie
+ARANESP 100 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 130 µg sol inj en seringue préremplie
+ARANESP 150 µg sol inj en seringue préremplie
+ARANESP 150 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 20 µg sol inj en seringue préremplie
+ARANESP 20 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 30 µg sol inj en seringue préremplie
+ARANESP 300 µg sol inj en seringue préremplie
+ARANESP 300 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 40 µg sol inj en seringue préremplie
+ARANESP 40 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 50 µg sol inj en seringue préremplie
+ARANESP 500 µg sol inj en seringue préremplie
+ARANESP 500 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 60 µg sol inj en seringue préremplie
+ARANESP 60 µg sol inj en stylo prérempli (Sureclick)
+ARANESP 80 µg sol inj en seringue préremplie
+ARANESP 80 µg sol inj en stylo prérempli (Sureclick)
+ARAVA 10 mg cp pellic
+ARAVA 10 mg cp pellic [ADP1]
+ARAVA 10 mg cp pellic [ADP2]
+ARAVA 100 mg cp pellic
+ARAVA 20 mg cp pellic
+ARAVA 20 mg cp pellic [ADP1]
+ARAVA 20 mg cp pellic [ADP2]
+ARAVA 20 mg cp pellic [ADP3]
+ARCALION 200 mg cp enr
+ARCALION 200 mg cp enr [ES1]
+ARCOXIA 30 mg cp pellic
+ARCOXIA 60 mg cp pellic
+ARESTAL 1 mg cp
+ARGANOVA 100 mg/ml sol diluer p perf
+ARGENTUM COMPLEXE N°98 cp subling
+ARGININE VEYRON sol buv en ampoule
+ARGININE VEYRON sol buv en flacon
+ARGINOTRI-B cp pellic
+ARICEPT 10 mg cp orodispers
+ARICEPT 10 mg cp pellic
+ARICEPT 5 mg cp orodispers
+ARICEPT 5 mg cp pellic
+ARICEPT 5 mg cp pellic [IT1]
+ARIDOL pdre p inhal
+ARIMIDEX 1 mg cp pellic
+ARIMIDEX 1 mg cp pellic [BE1]
+ARIMIDEX 1 mg cp pellic [ES1]
+ARIMIDEX 1 mg cp pellic [ES2]
+ARIMIDEX 1 mg cp pellic [GB1]
+ARIMIDEX 1 mg cp pellic [GB2]
+ARIMIDEX 1 mg cp pellic [IT1]
+ARIMIDEX 1 mg cp pellic [PL1]
+ARIPIPRAZOLE BGR 10 mg cp
+ARIPIPRAZOLE BGR 10 mg cp orodispers
+ARIPIPRAZOLE BGR 15 mg cp
+ARIPIPRAZOLE BGR 15 mg cp orodispers
+ARIPIPRAZOLE BGR 5 mg cp
+ARIPIPRAZOLE EG 10 mg cp orodispers
+ARIPIPRAZOLE EG 15 mg cp orodispers
+ARIPIPRAZOLE FOCUS 10 mg cp
+ARIPIPRAZOLE FOCUS 15 mg cp
+ARIPIPRAZOLE FOCUS 5 mg cp
+ARIPIPRAZOLE MYLAN PHARMA 10 mg cp
+ARIPIPRAZOLE MYLAN PHARMA 15 mg cp
+ARIPIPRAZOLE MYLAN PHARMA 5 mg cp
+ARIPIPRAZOLE SANDOZ 10 mg cp
+ARIPIPRAZOLE SANDOZ 10 mg cp orodispers
+ARIPIPRAZOLE SANDOZ 15 mg cp
+ARIPIPRAZOLE SANDOZ 15 mg cp orodispers
+ARIPIPRAZOLE SANDOZ 5 mg cp
+ARIPIPRAZOLE TEVA 10 mg cp
+ARIPIPRAZOLE TEVA 15 mg cp
+ARIPIPRAZOLE TEVA 5 mg cp
+ARIPIPRAZOLE ZENTIVA 10 mg cp
+ARIPIPRAZOLE ZENTIVA 15 mg cp
+ARIPIPRAZOLE ZENTIVA 5 mg cp
+ARIXTRA 10 mg/0,8 ml sol inj en seringue préremplie
+ARIXTRA 2,5 mg/0,5 ml sol inj en seringue préremplie
+ARIXTRA 5 mg/0,4 ml sol inj en seringue préremplie
+ARIXTRA 7,5 mg/0,6 ml sol inj en seringue préremplie
+ARKOGELULES Artichaut gél
+ARKOGELULES Aubéline gél
+ARKOGELULES Bardane gél
+ARKOGELULES Boldo gél
+ARKOGELULES Bruyère gél
+ARKOGELULES Busserole 270 mg gél
+ARKOGELULES Camiline gél
+ARKOGELULES Cassis 250 mg gél
+ARKOGELULES Charbon végétal gél
+ARKOGELULES Chardon marie 300 mg gél
+ARKOGELULES Cupaline gél
+ARKOGELULES Eleuthérocoque 250 mg gél
+ARKOGELULES Escholtzia 240 mg gél
+ARKOGELULES Fragon 270 mg gél
+ARKOGELULES Fucus 400 mg gél
+ARKOGELULES Fumeterre gél
+ARKOGELULES Ginseng gél
+ARKOGELULES Hamamélis 220 mg gél
+ARKOGELULES Houblon 150 mg gél
+ARKOGELULES Huile de foie de morue 400 mg gél
+ARKOGELULES Marronnier d'Inde gél
+ARKOGELULES Mate 220 mg gél
+ARKOGELULES Mélisse gél
+ARKOGELULES Millepertuis gél
+ARKOGELULES Olivier gél
+ARKOGELULES Orthosiphon gél
+ARKOGELULES Ortie gél
+ARKOGELULES Partenelle gél
+ARKOGELULES Passiflore gél
+ARKOGELULES Piloselle 200 mg gél
+ARKOGELULES Prêle des champs gél
+ARKOGELULES Racine d'ortie gél
+ARKOGELULES Reine des prés gél
+ARKOGELULES Sauge d'Espagne gél
+ARKOGELULES Séné gél
+ARKOGELULES Valériane gél
+ARNICA BOIRON pom
+ARNICA COMPLEXE N° 1 sol buv en gte
+ARNICA MEDIFLOR gel
+ARNICA MONTANA TEINTURE MERE BOIRON liq p appl cut
+ARNICA MONTANA TEINTURE MERE WELEDA sol p appl cut
+ARNICAGEL gel
+ARNICALME cp orodispers
+ARNICAN 4 % crème
+ARNIGEL gel
+AROLAC 0,2 mg cp séc
+AROMASINE 25 mg cp enr
+AROMASINE 25 mg cp enr [AIP]
+AROMASINE 25 mg cp enr [IT1]
+AROMASINE 25 mg cp enr [IT2]
+AROMASOL sol p inhal p fumig
+ARPHOS sol buv
+ART 50 mg gél
+ARTANE 0,4 % sol buv
+ARTANE 10 mg/5 ml sol inj
+ARTANE 2 mg cp
+ARTANE 5 mg cp
+ARTELAC 1,6 mg/0,5 ml collyre
+ARTEX 5 mg cp enr séc
+ARTHRITISANE tis en sach-dose
+ARTHRO-DRAINOL sol buv en gte
+ARTHROCINE 100 mg cp
+ARTHROCINE 200 mg cp séc
+ARTHRODONT 1 % pâte gingiv
+ARTHROFLORINE tis en sach-dose
+ARTICADENT 1/100 000 sol inj p us dent
+ARTICADENT 1/200 000 sol inj p us dent
+ARTICHAUT BOIRON gél
+ARTINIBSA 40 mg/ml ADRENALINE 1/100 000 sol inj p us dent
+ARTINIBSA 40 mg/ml ADRENALINE 1/200 000 sol inj p us dent
+ARTIREM 0,0025 mmol/ml sol inj
+ARTISIAL sol p pulv endobucc
+ARTISS sol p colle congel
+ARTOTEC 50 mg/0,2 mg cp gastrorésis
+ARTOTEC 75 mg/0,2 mg cp gastrorésis
+ARUM TRIPHYLLUM COMPOSE BOIRON cp
+ARUM TRIPHYLLUM COMPOSE BOIRON gle
+ARUM TRIPHYLLUM COMPOSE BOIRON sol buv
+ARZERRA 100 mg sol diluer p perf
+ARZERRA 1000 mg sol diluer p perf
+ASASANTINE LP 200 mg/25 mg gél LP
+ASCABIOL 10 % émuls cut
+ASCABIOL lotion
+ASCOFER 33 mg gél
+ASCORBATE DE CALCIUM RICHARD 100 mg pdre p sol buv enfant
+ASCORBATE DE CALCIUM RICHARD glé adulte
+ASMABEC CLICKHALER 100 µg/dose pdre p inhal
+ASMABEC CLICKHALER 250 µg/dose pdre p inhal
+ASMANEX TWISTHALER 200 µg/dose pdre p inhal
+ASMANEX TWISTHALER 400 µg/dose pdre p inhal
+ASMASAL CLICKHALER 90 µg/dose pdre p inhal
+ASMELOR NOVOLIZER 12 µg/dose pdre p inhal
+ASPEGIC 100 mg pdre p sol buv en sachet-dose nourrisson
+ASPEGIC 1000 mg pdre p sol buv en sachet-dose adulte
+ASPEGIC 250 mg pdre p sol buv
+ASPEGIC 500 mg pdre p sol buv en sachet-dose
+ASPEGIC INJECTABLE 1 g pdre/solv p sol inj
+ASPEGIC INJECTABLE 500 mg/5 ml pdre/solv p sol inj
+ASPIRINE DU RHONE 500 mg cp
+ASPIRINE DU RHONE 500 mg cp à croquer
+ASPIRINE MERCK MEDICATION FAMILIALE 500 mg cp à croquer
+ASPIRINE PH 8 500 mg cp gastrorésis
+ASPIRINE PROTECT 100 mg cp gastrorésis
+ASPIRINE PROTECT 300 mg cp gastrorésis
+ASPIRINE RICHARD 500 mg cp
+ASPIRINE UPSA 325 mg gél
+ASPIRINE UPSA 500 mg cp efferv
+ASPIRINE UPSA TAMPONNEE EFFERVESCENTE 1000 mg cp efferv
+ASPIRINE UPSA VITAMINE C cp efferv tamponnée effervescente
+ASPIRINE VITAMINE C ARROW CONSEIL 500 mg/200 mg cp efferv
+ASPIRINE VITAMINE C OBERLIN cp efferv séc
+ASPIRISUCRE 400 mg cp à croquer
+ASPRO 320 mg cp
+ASPRO 500 mg cp
+ASPRO 500 mg cp efferv
+ASPRO ACCEL cp efferv séc
+ASPRO ACCEL cp séc
+ASPRO VITAMINE C cp efferv
+ASPROFLASH 500 mg cp enr
+ATACAND 16 mg cp séc
+ATACAND 32 mg cp séc
+ATACAND 4 mg cp séc
+ATACAND 8 mg cp séc
+ATARAX 100 mg cp pellic séc
+ATARAX 100 mg/2 ml sol inj
+ATARAX 25 mg cp pellic séc
+ATARAX sirop
+ATEBEMYXINE collyre sol
+ATEBEMYXINE pom ophtalm
+ATENOLOL ACCORD HEALTHCARE 100 mg cp séc
+ATENOLOL ACCORD HEALTHCARE 50 mg cp séc
+ATENOLOL ACTAVIS 100 mg cp séc
+ATENOLOL ACTAVIS 50 mg cp
+ATENOLOL ARROW 100 mg cp pellic séc
+ATENOLOL ARROW 50 mg cp pellic séc
+ATENOLOL BIOGARAN 100 mg cp séc
+ATENOLOL BIOGARAN 50 mg cp séc
+ATENOLOL EG 100 mg cp séc
+ATENOLOL EG 50 mg cp séc
+ATENOLOL EVOLUGEN 100 mg cp pellic séc
+ATENOLOL EVOLUGEN 50 mg cp pellic séc
+ATENOLOL MYLAN 100 mg cp pellic séc
+ATENOLOL MYLAN 50 mg cp pellic séc
+ATENOLOL QUALIMED 100 mg cp pellic séc
+ATENOLOL QUALIMED 50 mg cp pellic séc
+ATENOLOL RPG 100 mg cp séc
+ATENOLOL RPG 50 mg cp séc
+ATENOLOL SANDOZ 100 mg cp pellic séc
+ATENOLOL SANDOZ 50 mg cp pellic séc
+ATENOLOL SFDB 100 mg cp séc
+ATENOLOL TEVA 100 mg cp pellic séc
+ATENOLOL TEVA 50 mg cp pellic séc
+ATENOLOL WINTHROP 100 mg cp séc
+ATENOLOL WINTHROP 50 mg cp séc
+ATENOLOL ZENTIVA 100 mg cp séc
+ATENOLOL ZENTIVA 50 mg cp séc
+ATENOLOL ZYDUS 100 mg cp pellic séc
+ATENOLOL ZYDUS 50 mg cp pellic séc
+ATEPADENE 30 mg gél
+ATHYMIL 10 mg cp pellic
+ATHYMIL 30 mg cp pellic
+ATHYMIL 60 mg cp pellic séc
+ATIMOS 12 µg/dose sol p inhal en fl press
+ATORVASTATINE ACCORD 10 mg cp pellic
+ATORVASTATINE ACCORD 20 mg cp pellic
+ATORVASTATINE ACCORD 40 mg cp pellic
+ATORVASTATINE ACCORD 80 mg cp pellic
+ATORVASTATINE ACTAVIS 10 mg cp pellic
+ATORVASTATINE ALMUS 10 mg cp pellic
+ATORVASTATINE ALMUS 20 mg cp pellic
+ATORVASTATINE ALMUS 40 mg cp pellic
+ATORVASTATINE ALMUS 80 mg cp pellic
+ATORVASTATINE ALTER 10 mg cp pellic
+ATORVASTATINE ALTER 20 mg cp pellic
+ATORVASTATINE ALTER 40 mg cp pellic
+ATORVASTATINE ARROW 10 mg cp pellic
+ATORVASTATINE ARROW 20 mg cp pellic
+ATORVASTATINE ARROW 40 mg cp pellic
+ATORVASTATINE ARROW 80 mg cp pellic
+ATORVASTATINE ARROW GENERIQUES 10 mg cp pellic
+ATORVASTATINE ARROW GENERIQUES 20 mg cp pellic
+ATORVASTATINE ARROW GENERIQUES 40 mg cp pellic
+ATORVASTATINE ARROW GENERIQUES 80 mg cp pellic
+ATORVASTATINE ARROW LAB 10 mg cp pellic
+ATORVASTATINE ARROW LAB 20 mg cp pellic
+ATORVASTATINE ARROW LAB 40 mg cp pellic
+ATORVASTATINE BGR 10 mg cp pellic
+ATORVASTATINE BGR 20 mg cp pellic
+ATORVASTATINE BGR 40 mg cp pellic
+ATORVASTATINE BGR 80 mg cp pellic
+ATORVASTATINE BLUEFISH 10 mg cp pellic
+ATORVASTATINE BLUEFISH 20 mg cp pellic
+ATORVASTATINE BLUEFISH 40 mg cp pellic
+ATORVASTATINE BLUEFISH 80 mg cp pellic
+ATORVASTATINE CRISTERS 10 mg cp pellic
+ATORVASTATINE CRISTERS 20 mg cp pellic
+ATORVASTATINE CRISTERS 40 mg cp pellic
+ATORVASTATINE CRISTERS 80 mg cp pellic
+ATORVASTATINE EG 10 mg cp pellic
+ATORVASTATINE EG 20 mg cp pellic
+ATORVASTATINE EG 40 mg cp pellic
+ATORVASTATINE EG 80 mg cp pellic
+ATORVASTATINE EVOLUGEN 10 mg cp pellic
+ATORVASTATINE EVOLUGEN 20 mg cp pellic
+ATORVASTATINE EVOLUGEN 40 mg cp pellic
+ATORVASTATINE EVOLUGEN 80 mg cp pellic
+ATORVASTATINE GNR 10 mg cp pellic
+ATORVASTATINE GNR 20 mg cp pellic
+ATORVASTATINE GNR 40 mg cp pellic
+ATORVASTATINE ISOMED 10 mg cp pellic
+ATORVASTATINE ISOMED 20 mg cp pellic
+ATORVASTATINE ISOMED 40 mg cp pellic
+ATORVASTATINE ISOMED 80 mg cp pellic
+ATORVASTATINE KRKA 10 mg cp pellic
+ATORVASTATINE KRKA 20 mg cp pellic
+ATORVASTATINE KRKA 40 mg cp pellic
+ATORVASTATINE KRKA 80 mg cp pellic
+ATORVASTATINE MYLAN 10 mg cp pellic
+ATORVASTATINE MYLAN 20 mg cp pellic
+ATORVASTATINE MYLAN 40 mg cp pellic
+ATORVASTATINE MYLAN 80 mg cp pellic
+ATORVASTATINE MYLAN PHARMA 10 mg cp pellic
+ATORVASTATINE MYLAN PHARMA 20 mg cp pellic
+ATORVASTATINE MYLAN PHARMA 40 mg cp pellic
+ATORVASTATINE MYLAN PHARMA 80 mg cp pellic
+ATORVASTATINE PFIZER 10 mg cp pellic
+ATORVASTATINE PFIZER 10 mg cp pellic
+ATORVASTATINE PFIZER 20 mg cp pellic
+ATORVASTATINE PFIZER 20 mg cp pellic
+ATORVASTATINE PFIZER 40 mg cp pellic
+ATORVASTATINE PFIZER 40 mg cp pellic
+ATORVASTATINE PFIZER 80 mg cp pellic
+ATORVASTATINE PFIZER 80 mg cp pellic
+ATORVASTATINE PHR LAB 10 mg cp pellic
+ATORVASTATINE PHR LAB 20 mg cp pellic
+ATORVASTATINE PHR LAB 40 mg cp pellic
+ATORVASTATINE PHR LAB 80 mg cp pellic
+ATORVASTATINE RANBAXY 10 mg cp pellic
+ATORVASTATINE RANBAXY 20 mg cp pellic
+ATORVASTATINE RANBAXY 40 mg cp pellic
+ATORVASTATINE RANBAXY 80 mg cp pellic
+ATORVASTATINE RANBAXY PHARMACIE GENERIQUES 80 mg cp pellic
+ATORVASTATINE RATIO 10 mg cp pellic
+ATORVASTATINE RATIO 20 mg cp pellic
+ATORVASTATINE RATIO 40 mg cp pellic
+ATORVASTATINE RATIO 80 mg cp pellic
+ATORVASTATINE RPG 10 mg cp pellic
+ATORVASTATINE RPG 20 mg cp pellic
+ATORVASTATINE RPG 40 mg cp pellic
+ATORVASTATINE SANDOZ 10 mg cp pellic
+ATORVASTATINE SANDOZ 20 mg cp pellic séc
+ATORVASTATINE SANDOZ 40 mg cp pellic quadriséc
+ATORVASTATINE SANDOZ 80 mg cp pellic
+ATORVASTATINE TEVA SANTE 10 mg cp pellic
+ATORVASTATINE TEVA SANTE 20 mg cp pellic
+ATORVASTATINE TEVA SANTE 40 mg cp pellic
+ATORVASTATINE TEVA SANTE 80 mg cp pellic
+ATORVASTATINE ZENTIVA LAB 10 mg cp pellic
+ATORVASTATINE ZENTIVA LAB 20 mg cp pellic
+ATORVASTATINE ZENTIVA LAB 40 mg cp pellic
+ATORVASTATINE ZENTIVA LAB 80 mg cp pellic
+ATORVASTATINE ZYDUS FRANCE 10 mg cp pellic
+ATORVASTATINE ZYDUS FRANCE 20 mg cp pellic
+ATORVASTATINE ZYDUS FRANCE 40 mg cp pellic
+ATORVASTATINE ZYDUS FRANCE 80 mg cp pellic
+ATOSIBAN PANPHARMA 37,5 mg/5 ml sol diluer p perf
+ATOSIBAN PANPHARMA 6,75 mg/0,9 ml sol inj
+ATOSIBAN SUN 37,5 mg/5 ml sol diluer p perf
+ATOSIBAN SUN 6,75 mg/0,9 ml sol inj
+ATOVAQUONE/PROGUANIL BIOGARAN 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL BIOGARAN 62,5 mg/25 mg cp pellic enfant
+ATOVAQUONE/PROGUANIL EG 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL MYLAN 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL SANDOZ 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL SANDOZ 62,5 mg/25 mg cp pellic enfant
+ATOVAQUONE/PROGUANIL SIGMA-TAU 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL TEVA 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL TEVA 62,5 mg/25 mg cp pellic enfant
+ATOVAQUONE/PROGUANIL ZENTIVA 250 mg/100 mg cp pellic
+ATOVAQUONE/PROGUANIL ZENTIVA 62,5 mg/25 mg cp pellic enfant
+ATRACURIUM HOSPIRA 10 mg/ml sol inj
+ATRIANCE 5 mg/ml sol p perf
+ATRICAN 250 mg caps gastrorésis
+ATRIPLA 600 mg/200 mg/245 mg cp pellic
+ATROPINE ALCON 0,3 % collyre
+ATROPINE ALCON 0,5 % collyre
+ATROPINE ALCON 1 % collyre
+ATROPINE FAURE 1 % collyre
+ATROPINE SULFATE AGUETTANT 0,1 mg/ml sol inj en seringue préremplie
+ATROPINE SULFATE AGUETTANT 0,25 mg/ml sol inj
+ATROPINE SULFATE AGUETTANT 0,5 mg/1 ml sol inj
+ATROPINE SULFATE AGUETTANT 1 mg/1 ml sol inj
+ATROPINE SULFATE AGUETTANT 1 mg/5 ml sol inj en seringue préremplie
+ATROPINE SULFATE LAVOISIER 0,25 mg/1 ml sol inj
+ATROPINE SULFATE LAVOISIER 0,5 mg/1 ml sol inj
+ATROPINE SULFATE LAVOISIER 1 mg/1 ml sol inj
+ATROPINE SULFATE RENAUDIN 0,25 mg/ml sol inj en ampoule
+ATROPINE SULFATE RENAUDIN 0,5 mg/ml sol inj en ampoule
+ATROPINE SULFATE RENAUDIN 1 mg/ml sol inj en ampoule
+ATROVENT 0,03 % sol nasal en flacon pulvérisateur
+ATROVENT 0,25 mg/1 ml sol p inhal p nébulis en récipient unidose enfant
+ATROVENT 0,25 mg/2 ml sol p inhal p nébulis en récipient unidose enfant
+ATROVENT 0,5 mg/1 ml sol p inhal p nébulis en récipient unidose adulte
+ATROVENT 0,5 mg/2 ml sol p inhal p nébulis en récipient unidose adulte
+ATROVENT 20 µg/dose sol p inhal en flacon pressurisé
+ATURGYL 0,05 % sol p pulv nasal
+ATUXANE sirop
+AUBAGIO 14 mg cp pellic
+AUGMENTIN 1 g/125 mg pdre p susp buv Ad
+AUGMENTIN 1 g/200 mg pdre p sol inj/p perf IV
+AUGMENTIN 1 g/200 mg pdre/sol p sol inj ou p per (IV)
+AUGMENTIN 100 mg/12,5 mg p ml pdre p susp buv Enf
+AUGMENTIN 100 mg/12,5 mg p ml pdre p susp buv Nour
+AUGMENTIN 2 g/200 mg pdre p sol p perf adulte
+AUGMENTIN 250 mg/31,25 mg pdre p susp buv
+AUGMENTIN 500 mg/50 mg pdre p sol inj/p perf IV
+AUGMENTIN 500 mg/62,5 mg cp pellic adulte
+AUGMENTIN 500 mg/62,5 mg pdre p susp buv
+AUREOMYCINE EVANS 1 % pom ophtalm
+AUREOMYCINE EVANS 3 % pom
+AUREOMYCINE MONOT 3 % pom
+AURICULARUM pdre/sol p instil auric
+AURIGOUTTE gte auric
+AUTOPLASME VAILLANT cataplasme
+AUXITRANS 5 g pdre p sol buv sachet-dose
+AVADENE 1 mg/0,025 mg cp pellic
+AVAMYS 27,5 µg/pulverisation susp p pulv nasal
+AVASTIN 25 mg/ml sol diluer p perf
+AVAXIM 160 U susp inj en seringue préremplie vaccin de l'hépatite A (inactivé, adsorbé)
+AVAXIM 80 U susp inj en seringue préremplie pédiatrique
+AVENA SATIVA TEINTURE MERE BOIRON liq oral
+AVENA SATIVA TEINTURE MERE WELEDA sol buv en gte
+AVENOC pom
+AVENOC suppos
+AVIBON 1 000 000 UI POUR CENT pom
+AVLOCARDYL 40 mg cp séc
+AVLOCARDYL LP 160 mg gél LP
+AVODART 0,5 mg caps molle
+AVODART 0,5 mg caps molle [BG1]
+AVODART 0,5 mg caps molle [CZ1]
+AVONEX 30 µg/0,5 ml sol inj
+AVONEX 30 µg/0,5 ml sol inj en stylo prérempli
+AXELER 20 mg/5 mg cp pellic
+AXELER 40 mg/10 mg cp pellic
+AXELER 40 mg/5 mg cp pellic
+AXEPIM 1 g pdre p us parentér
+AXEPIM 2 g pdre p us parentér
+AXEPIM 500 mg pdre p us parentér
+AZACTAM 1 g pdre/sol p us parentér
+AZADOSE 600 mg cp pellic
+AZANTAC 150 mg cp efferv
+AZANTAC 150 mg cp pellic
+AZANTAC 300 mg cp efferv
+AZANTAC 300 mg cp pellic
+AZANTAC 50 mg/2 ml sol inj en ampoule injectable
+AZANTAC 75 mg cp efferv
+AZARGA 10 mg/ml + 5 mg/ml collyre susp
+AZARGA 10 mg/ml + 5 mg/ml collyre susp [ADP1]
+AZATHIOPRINE EG 50 mg cp pellic
+AZATHIOPRINE MYLAN 50 mg cp pellic séc
+AZATHIOPRINE TEVA 50 mg cp pellic
+AZD9291 40 mg cp pellic [ATUc]
+AZD9291 80 mg cp pellic [ATUc]
+AZILECT 1 mg cp
+AZITHROMYCINE ARROW 250 mg cp pellic
+AZITHROMYCINE BIOGARAN 250 mg cp pellic
+AZITHROMYCINE CRISTERS 250 mg cp pellic
+AZITHROMYCINE EG 250 mg cp pellic
+AZITHROMYCINE EVOLUGEN 250 mg cp pellic
+AZITHROMYCINE KRKA 250 mg cp pellic
+AZITHROMYCINE MONODOSE SANDOZ 250 mg cp pellic
+AZITHROMYCINE MYLAN 250 mg cp pellic
+AZITHROMYCINE PFIZER 250 mg cp pellic
+AZITHROMYCINE PHR LAB 250 mg cp pellic
+AZITHROMYCINE QUALIMED 250 mg cp pellic
+AZITHROMYCINE RANBAXY 250 mg cp pellic
+AZITHROMYCINE RATIOPHARM 250 mg cp pellic
+AZITHROMYCINE SANDOZ 250 mg cp pellic
+AZITHROMYCINE TEVA 250 mg cp pellic
+AZITHROMYCINE ZENTIVA 250 mg cp pellic
+AZITHROMYCINE ZYDUS 250 mg cp pellic
+AZOPT 10 mg/ml collyre en suspension
+AZOPT 10 mg/ml collyre en suspension [ADP1]
+AZOPT 10 mg/ml collyre en suspension [ADP2]
+AZYTER 15 mg/g collyre sol en récipient unidose
+AZZALURE 10 U Speywood/0,05 ml pdre p sol inj
+
+
+
+
+AZITHROMYCINE CRISTERS 250 mg cp pellic
+AZITHROMYCINE EG 250 mg cp pellic
+AZITHROMYCINE EVOLUGEN 250 mg cp pellic
+AZITHROMYCINE KRKA 250 mg cp pellic
+AZITHROMYCINE MONODOSE SANDOZ 250 mg cp pellic
+AZITHROMYCINE MYLAN 250 mg cp pellic
+AZITHROMYCINE PFIZER 250 mg cp pellic
+AZITHROMYCINE PHR LAB 250 mg cp pellic
+AZITHROMYCINE QUALIMED 250 mg cp pellic
+AZITHROMYCINE RANBAXY 250 mg cp pellic
+AZITHROMYCINE RATIOPHARM 250 mg cp pellic
+AZITHROMYCINE SANDOZ 250 mg cp pellic
+AZITHROMYCINE TEVA 250 mg cp pellic
+AZITHROMYCINE ZENTIVA 250 mg cp pellic
+AZITHROMYCINE ZYDUS 250 mg cp pellic
+AZOPT 10 mg/ml collyre en suspension
+AZOPT 10 mg/ml collyre en suspension [ADP1]
+AZOPT 10 mg/ml collyre en suspension [ADP2]
+AZYTER 15 mg/g collyre sol en récipient unidose
+AZZALURE 10 U Speywood/0,05 ml pdre p sol inj
+
+
+
+
+B CHABRE cp enr
+BACICOLINE A LA BACITRACINE pdre/solv p collyre
+BACILOR gél
+BACILOR pdre p susp buv sachet-dose
+BACLOFENE AGUETTANT 0,05 mg/ml sol inj pour voie intrathécale en ampoule
+BACLOFENE AGUETTANT 0,5 mg/ml sol p perf pour voie intrathécale en ampoule
+BACLOFENE AGUETTANT 2 mg/ml sol p perf pour voie intrathécale en ampoule
+BACLOFENE SUN 0,05 mg/ml sol inj
+BACLOFENE SUN 10 mg/20 ml sol p perf
+BACLOFENE SUN 10 mg/5 ml sol p perf
+BACLOFENE ZENTIVA 10 mg cp séc
+BACTERIX 200 mg gél
+BACTOX 1 g pdre/solv p sol inj IM, IV
+BACTOX 125 mg/5 ml pdre p susp buv en flacon
+BACTOX 250 mg/5 ml pdre p susp buv
+BACTOX 500 mg gél
+BACTOX 500 mg pdre/solv p sol inj IM
+BACTOX 500 mg/5 ml pdre p susp buv en flacon
+BACTRIM cp adulte
+BACTRIM FORTE cp
+BACTRIM sol inj p perf IV
+BACTRIM susp buv pédiatrique
+BACTROBAN 2 % pom nasal
+BADIAGA COMPLEXE N°47 cp subling
+BAIN de BOUCHE LIPHA sol p bain bouch
+BAL sol inj
+BALSAMORHINOL sol p instil nasal
+BALSOFUMINE 1 % sol p inhal p fumig mentholée
+BALSOFUMINE SIMPLE sol p inhal
+BALSOLENE sol p inhal p fumig
+BARACLUDE 0,05 mg/ml sol buv
+BARACLUDE 0,5 mg cp pellic
+BARACLUDE 1 mg cp pellic
+BARITEKAL 20 mg/ml sol inj
+BASDENE 25 mg cp
+BASEAL 5 mg/g gel
+BAUDRY PATE PECTORALE pâte à sucer
+BAUME AROMA crème
+BAUME DES PYRENEES pom
+BAUME SAINT BERNARD crème
+BAYPRESS 10 mg cp
+BAYPRESS 20 mg cp
+BCG-MEDAC pdre/solv p susp intravésic
+BEAGYNE 150 mg gél
+BEBEGEL gel rectal
+BECILAN 250 mg cp séc
+BECILAN 250 mg/5 ml sol inj
+BECLO RHINO 50 µg susp p pulv nasal en flacon
+BECLOJET 250 µg/dose sol p inhal en flacon pressurisé
+BECLOMETASONE TEVA 250 µg/dose sol p inhal en flacon pressurisé
+BECLOMETASONE TEVA 50 µg/dose sol p inhal en flacon pressurisé
+BECLONE 250 µg/dose susp p inhal
+BECLOSPIN 400 µg/1 ml susp p inhal p nébulis en récipient unidose
+BECLOSPIN 800 µg/2 ml susp p inhal p nébulis en récipient unidose
+BECLOSPRAY 250 µg/dose sol p inhal en flacon pressurisé
+BECLOSPRAY 50 µg/dose sol p inhal en flacon pressurisé
+BECONASE 50 µg susp nasal en flacon pulvérisateur
+BECOTIDE 250 µg sol p inhal en flacon pressurisé
+BECOZYME cp enr
+BECOZYME sol inj en ampoule
+BEDELIX 3 g pdre p susp buv
+BEFIZAL 200 mg cp pellic
+BEFIZAL LP 400 mg cp enr LP
+BEFLAVINE 10 mg cp enr
+BELANETTE 0,02 mg/3 mg cp pellic
+BELARA 0,03 mg/2 mg cp pellic
+BELARACONTINU 0,03 mg/2 mg cp pellic
+BELIVAIR RHUME PELARGONIUM cp pellic
+BELUSTINE 40 mg gél
+BEMEDREX EASYHALER 200 µg/dose pdre p inhal
+BEMFOLA 150 UI/0,25 ml sol inj en stylo prérempli
+BEMFOLA 225 UI/0,375 ml sol inj en stylo prérempli
+BEMFOLA 300 UI/0,50 ml sol inj en stylo prérempli
+BEMFOLA 450 UI/0,75 ml sol inj en stylo prérempli
+BEMFOLA 75 UI/0,125 ml sol inj en stylo prérempli
+BENAZEPRIL ARROW 10 mg cp pellic séc
+BENAZEPRIL ARROW 5 mg cp pellic séc
+BENAZEPRIL EG 10 mg cp pellic séc
+BENAZEPRIL EG 5 mg cp pellic séc
+BENAZEPRIL MYLAN 10 mg cp pellic séc
+BENAZEPRIL TEVA SANTE 10 mg cp pellic séc
+BENAZEPRIL TEVA SANTE 5 mg cp pellic séc
+BENAZEPRIL/HYDROCHLOROTHIAZIDE ARROW 10 mg/12,5 mg cp pellic séc
+BENAZEPRIL/HYDROCHLOROTHIAZIDE EG 10 mg/12,5 mg cp pellic séc
+BENAZEPRIL/HYDROCHLOROTHIAZIDE TEVA SANTE 10 mg/12,5 mg cp pellic séc
+BENDAMUSTINE ACCORD 2,5 mg/ml pdre p sol diluer p perf
+BENEFIX 1000 UI pdre/solv p sol inj
+BENEFIX 1000 UI pdre/solv p sol inj (sans Nacl)
+BENEFIX 2000 UI pdre/solv p sol inj
+BENEFIX 250 UI pdre/solv p sol inj
+BENEFIX 250 UI pdre/solv p sol inj (sans Nacl)
+BENEFIX 3000 UI pdre/solv p sol inj
+BENEFIX 500 UI pdre/solv p sol inj
+BENEFIX 500 UI pdre/solv p sol inj (sans Nacl)
+BENEMIDE 500 mg cp séc
+BENEPALI 50 mg sol inj en seringue préremplie
+BENEPALI 50 mg sol inj en stylo prérempli
+BENERVA 100 mg/1 ml sol inj IM en ampoule
+BENERVA 250 mg cp enr
+BENERVA 500 mg/5 ml sol inj IM en ampoule
+BENLYSTA 120 mg pdre p sol diluer p perf
+BENLYSTA 400 mg pdre p sol diluer p perf
+BENZATHINE BENZYLPENICILLINE PANPHARMA 1,2 MUI pdre p sol inj
+BENZATHINE BENZYLPENICILLINE SANDOZ 1,2 MUI pdre/solv p susp inj IM
+BENZATHINE BENZYLPENICILLINE SANDOZ 2,4 MUI pdre/solv p susp inj IM
+BEPANTHEN 5 % crème
+BEPANTHEN 5 % pom
+BEPANTHENE 100 mg cp
+BEPANTHENE 250 mg/ml sol inj
+BERBERIS COMPLEXE N°83 sol buv en gte
+BERINERT 500 UI pdre/solv p sol inj et perf
+BERIPLAST pdre/solv p colle Combi-set
+BEROCCA cp efferv sans sucre
+BEROCCA cp pellic
+BEROMUN 1 mg/5 ml pdre/solv p sol p perf
+BETA ADALATE gél
+BETADINE 10 % gel p appl cutanée
+BETADINE 10 % sol p bain bouch
+BETADINE 10 % sol p bain bouch/garg
+BETADINE 10 % sol vagin
+BETADINE 10 % sol vagin en récipient unidose
+BETADINE 250 mg ovule
+BETADINE 350 mg compres imprég
+BETADINE 5 % sol p irrig oculaire
+BETADINE ALCOOLIQUE 5 % sol p appl cut
+BETADINE ALCOOLIQUE 5 % sol p appl cut en récipient unidose
+BETADINE DERMIQUE 10 % sol p appl cut en récipient unidose
+BETADINE DERMIQUE 10 % sol p appl loc
+BETADINE SCRUB 4 % sol p appl cut en réc unidose
+BETADINE SCRUB 4 % sol p appl cut moussante
+BETADINE TULLE 10 % pans médic
+BETAFACT 100 UI/ml pdre/solv p sol inj
+BETAFACT 50 UI/ml pdre/solv p sol inj
+BETAFERON 250 µg/ml pdre/solv p sol inj solv ser adap fl
+BETAGAN 0,5 % collyre sol
+BETAGAN 0,5 % collyre sol en récipient unidose
+BETAHISTINE ACCORD 8 mg cp
+BETAHISTINE ACTAVIS 24 mg cp
+BETAHISTINE ALMUS 8 mg cp
+BETAHISTINE ARROW 24 mg cp
+BETAHISTINE ARROW 8 mg cp
+BETAHISTINE ARROW 8 mg cpr
+BETAHISTINE BIOGARAN 24 mg cp
+BETAHISTINE BIOGARAN 8 mg cp
+BETAHISTINE BIPHAR 24 mg cp
+BETAHISTINE BIPHAR 8 mg cp
+BETAHISTINE BOUCHARA RECORDATI 8 mg cp
+BETAHISTINE EG 24 mg cp
+BETAHISTINE EG 8 mg cpr
+BETAHISTINE EG LABO 8 mg cp
+BETAHISTINE MYLAN 24 mg cp
+BETAHISTINE MYLAN 8 mg cp
+BETAHISTINE QUALIMED 24 mg cp
+BETAHISTINE QUALIMED 8 mg cp
+BETAHISTINE RANBAXY 24 mg cp
+BETAHISTINE RATIOPHARM 24 mg cp
+BETAHISTINE RATIOPHARM 8 mg cp
+BETAHISTINE RPG 8 mg cp
+BETAHISTINE SANDOZ 24 mg cp
+BETAHISTINE SANDOZ 8 mg cp
+BETAHISTINE TEVA 24 mg cp
+BETAHISTINE TEVA 8 mg cp
+BETAHISTINE ZENTIVA 24 mg cp
+BETAHISTINE ZENTIVA 8 mg cp
+BETAHISTINE ZYDUS 8 mg cp
+BETAHISTINE ZYDUS FRANCE 24 mg cp
+BETAHISTINE ZYDUS FRANCE 8 mg cp
+BETAMETHASONE ARROW 0,05 % sol buv en gte
+BETAMETHASONE ARROW 2 mg cp dispers séc
+BETAMETHASONE BIOGARAN 0,05 % sol buv en gte
+BETAMETHASONE BIOGARAN 2 mg cp dispers séc
+BETAMETHASONE EG 0,05 % sol buv en gte
+BETAMETHASONE EG 2 mg cp dispers séc
+BETAMETHASONE ZENTIVA 0,05 % sol buv en gte
+BETAMETHASONE ZENTIVA 2 mg cp dispers séc
+BETANOL 0,1 % collyre
+BETANOL 0,3 % collyre sol
+BETANOL 0,6 % collyre sol
+BETASELEN gél
+BETASEPTIC 10 % sol vagin
+BETASERC 24 mg cp
+BETATOP 100 mg cp pellic séc
+BETATOP 50 mg cp pellic séc
+BETAXOLOL BIOGARAN 20 mg cp pellic séc
+BETAXOLOL EG 20 mg cp pellic séc
+BETAXOLOL MYLAN 20 mg cp pellic séc
+BETAXOLOL SANDOZ 20 mg cp pellic séc
+BETAXOLOL TEVA SANTE 20 mg cp pellic séc
+BETESIL 2,25 mg emplâtre médicamenteux
+BETMIGA 25 mg cp LP
+BETMIGA 50 mg cp LP
+BETNESOL 0,50 mg cp efferv
+BETNESOL 4 mg/1 ml sol inj
+BETNESOL 5 mg/100 ml sol rect
+BETNEVAL 0,1 % crème
+BETNEVAL 0,1 % pom
+BETNEVAL LOTION 0,1 % émuls p appl cut
+BETOPTIC 0,25 % collyre susp en récipient unidose
+BETOPTIC 0,25 % susp ophtalmique
+BETOPTIC 0,5 % collyre
+BEVITINE 100 mg/2 ml sol inj en ampoule
+BEVITINE 250 mg cp enr
+BEXSERO susp inj en seringue préremplie
+BI CITROL glé
+BI MISSILOR 1,5 MUI/250 mg cp pellic
+BI PROFENID LP 100 mg cp séc LP
+BI-QUI-NOL suppos adulte
+BI-QUI-NOL suppos enfant
+BI-TILDIEM 120 mg cp enr LP
+BI-TILDIEM LP 90 mg cp enr LP
+BIAFINE émuls p appl cut
+BIAFINEACT émuls p appl cut
+BIBAG 650 g pdre p sol p hémodial
+BICALUTAMIDE ACCORD 50 mg cp pellic
+BICALUTAMIDE ALMUS 50 mg cp pellic
+BICALUTAMIDE ALTER 50 mg cp pellic
+BICALUTAMIDE ARROW 50 mg cp pellic
+BICALUTAMIDE ARROW LAB 50 mg cp pellic
+BICALUTAMIDE BIOGARAN 50 mg cp pellic
+BICALUTAMIDE CRISTERS 50 mg cp pellic
+BICALUTAMIDE EG 50 mg cp pellic
+BICALUTAMIDE EVOLUGEN 50 mg cp pellic
+BICALUTAMIDE HEXAL 50 mg cp pellic
+BICALUTAMIDE ISOMED 50 mg cp pellic
+BICALUTAMIDE KABI 50 mg cp pellic
+BICALUTAMIDE MYLAN 50 mg cp pellic
+BICALUTAMIDE MYLAN PHARMA 50 mg cp pellic
+BICALUTAMIDE PHR LAB 50 mg cp pellic
+BICALUTAMIDE QUALIMED 50 mg cp pellic
+BICALUTAMIDE RANBAXY 50 mg cp pellic
+BICALUTAMIDE RATIOPHARM 50 mg cp pellic
+BICALUTAMIDE SANDOZ 50 mg cp pellic
+BICALUTAMIDE TEVA 50 mg cp pellic
+BICALUTAMIDE ZENTIVA 50 mg cp pellic
+BICALUTAMIDE ZYDUS 50 mg cp pellic
+BICALUTAMIDE ZYDUS FRANCE 50 mg cp pellic
+BICARBONATE DE SODIUM AGUETTANT 1,4 % sol p perf
+BICARBONATE DE SODIUM B BRAUN 1,4 % sol p perf
+BICARBONATE DE SODIUM B BRAUN 4,2 % sol p perf
+BICARBONATE DE SODIUM B BRAUN 8,4 % sol p perf
+BICARBONATE DE SODIUM BAXTER 1,4 % sol inj p perf
+BICARBONATE DE SODIUM BIOSEDRA 1,4 % sol inj p perf
+BICARBONATE DE SODIUM COOPER 1,4 % (0,14 g/10 ml) sol p perf en ampoule
+BICARBONATE DE SODIUM COOPER 1,4 % sol p perf en flacon
+BICARBONATE DE SODIUM COOPER 4,2 % sol inj en ampoule IV
+BICARBONATE DE SODIUM LAVOISIER 1,4 % sol p perf
+BICARBONATE DE SODIUM RENAUDIN 1,4 % (0,14 g/10 ml) sol inj en ampoule
+BICARBONATE DE SODIUM RENAUDIN 1,4 % (0,28 g/20 ml) sol inj en ampoule
+BICARBONATE DE SODIUM RENAUDIN 4,2 % (0,42 g/10 ml) sol inj en ampoule
+BICARBONATE DE SODIUM RENAUDIN 4,2 % (0,84 g/20 ml) sol inj en ampoule
+BICARBONATE DE SODIUM RENAUDIN 8,4 % (84 mg/ml) sol inj en ampoule
+BICARBONATE DE SODIUM VIAFLO 1,4 % sol p perf
+BICAVERA 1,5 % GLUCOSE, 1,75 mmol/l calcium sol p dial périt
+BICAVERA 2,3 % GLUCOSE, 1,75 mmol/l calcium sol p dial périt
+BICAVERA 4,25% GLUCOSE, 1,75 mmol/l calcium sol p dial périt
+BICIRKAN cp pellic
+BICNU pdre/solv p sol p perf
+BIFLUORID susp p us dent
+BIGONIST 6,3 mg implant inj SC
+BILASKA 20 mg cp
+BILLEROL cp à croquer
+BILTRICIDE 600 mg cp pellic quadriséc
+BINOCRIT 10 000 UI/1 ml sol inj en seringue préremplie
+BINOCRIT 1000 UI/0,5 ml sol inj en seringue préremplie
+BINOCRIT 20 000 UI/0,5 ml sol inj en seringue préremplie
+BINOCRIT 2000 UI/1 ml sol inj en seringue préremplie
+BINOCRIT 30 000 UI/0,75 ml sol inj en seringue préremplie
+BINOCRIT 3000 UI/0,3 ml sol inj en seringue préremplie
+BINOCRIT 40 000 UI/1 ml sol inj en seringue préremplie
+BINOCRIT 4000 UI/0,4 ml sol inj en seringue préremplie
+BINOCRIT 5000 UI/0,5 ml sol inj en seringue préremplie
+BINOCRIT 6000 UI/0,6 ml sol inj en seringue préremplie
+BINOCRIT 8000 UI/0,8 ml sol inj en seringue préremplie
+BIOCADEXTRO 1 mg/ml sirop sans sucre enfant
+BIOCALYPTOL 6,55 mg/5 ml sirop sans sucre édulcoré à la saccharine sodique et maltitol
+BIOCALYPTOL sirop
+BIOCARDE sol buv
+BIOCIDAN 0,1 mg/0,4 ml collyre
+BIOCIDAN 0,25 o/oo collyre
+BIOCIDAN sol p pulv nasal
+BIODALGIC 50 mg cp efferv
+BIOGAZE compres imprég
+BIOMAG cp à croquer agrumes
+BIONOLYTE G 10 sol p perf en poche
+BIONOLYTE G 5 sol p perf
+BIONOLYTE G 5 sol p perf en poche
+BIOPEG sol buv
+BIORGASEPT 0,5 % sol p appl cut
+BIOTINE BAYER 0,5 % sol inj IM
+BIOTINE BAYER 5 mg cp
+BIOTONE sol buv en ampoule
+BIOXYOL pâte p appl cutanée
+BIPERIDYS 20 mg cp pellic séc
+BIPERIDYSFLASH 20 mg cp orodispers
+BIPRETERAX 10 mg/2,5 mg cp pellic
+BIPRETERAX 5 mg/1,25 mg cp pellic
+BIRODOGYL cp pellic
+BISEPTINE sol p appl loc
+BISEPTINESCRUB sol p appl cut
+BISEPTINESPRAID sol p appl cut
+BISOCE 1,25 mg cp pellic
+BISOCE 10 mg cp pellic séc
+BISOCE 2,5 mg cp pellic séc
+BISOCE 3,75 mg cp pellic séc
+BISOCE 5 mg cp pellic séc
+BISOCE 7,5 mg cp pellic séc
+BISOLVON 8 mg cp
+BISOPROLOL ACCORD HEALTHCARE 10 mg cp pellic séc
+BISOPROLOL ACCORD HEALTHCARE 2,5 mg cp pellic séc
+BISOPROLOL ACCORD HEALTHCARE 5 mg cp pellic séc
+BISOPROLOL ACTAVIS 10 mg cp pellic séc
+BISOPROLOL ACTAVIS 2,5 mg cp séc
+BISOPROLOL ACTAVIS 5 mg cp séc
+BISOPROLOL ACTAVIS FRANCE 10 mg cp séc
+BISOPROLOL ALMUS 10 mg cp séc
+BISOPROLOL ARROW 10 mg cp pellic séc
+BISOPROLOL BGR 1,25 mg cp pellic
+BISOPROLOL BGR 10 mg cp pellic séc
+BISOPROLOL BGR 2,5 mg cp pellic séc
+BISOPROLOL BGR 3,75 mg cp pellic séc
+BISOPROLOL BGR 5 mg cp pellic séc
+BISOPROLOL BGR 7,5 mg cp pellic séc
+BISOPROLOL BIOGARAN 10 mg cp pellic séc
+BISOPROLOL CRISTERS 1,25 mg cp
+BISOPROLOL CRISTERS 10 mg cp séc
+BISOPROLOL CRISTERS 2,5 mg cp séc
+BISOPROLOL CRISTERS 3,75 mg cp
+BISOPROLOL CRISTERS 5 mg cp séc
+BISOPROLOL CRISTERS 7,5 mg cp séc
+BISOPROLOL EG 1,25 mg cp pellic
+BISOPROLOL EG 10 mg cp pellic séc
+BISOPROLOL EG 2,5 mg cp pellic séc
+BISOPROLOL EG 3,75 mg cp pellic
+BISOPROLOL HYDROCHLOROTHIAZIDE CRISTERS 10 mg/6,25 mg cp pellic
+BISOPROLOL HYDROCHLOROTHIAZIDE CRISTERS 2,5 mg/6,25 mg cp pellic
+BISOPROLOL HYDROCHLOROTHIAZIDE CRISTERS 5 mg/6,25 mg cp pellic
+BISOPROLOL KRKA 10 mg cp pellic séc
+BISOPROLOL KRKA 2,5 mg cp pellic séc
+BISOPROLOL KRKA 5 mg cp pellic séc
+BISOPROLOL MYLAN 10 mg cp pellic séc
+BISOPROLOL QUALIMED 10 mg cp pellic séc
+BISOPROLOL QUIVER 1,25 mg cp
+BISOPROLOL QUIVER 10 mg cp séc
+BISOPROLOL QUIVER 2,5 mg cp séc
+BISOPROLOL QUIVER 3,75 mg cp
+BISOPROLOL QUIVER 5 mg cp séc
+BISOPROLOL QUIVER 7,5 mg cp séc
+BISOPROLOL RANBAXY 1,25 mg cp
+BISOPROLOL RANBAXY 2,5 mg cp séc
+BISOPROLOL RANBAXY 3,75 mg cp
+BISOPROLOL RANBAXY 7,5 mg cp séc
+BISOPROLOL RATIOPHARM 1,25 mg cp
+BISOPROLOL RATIOPHARM 10 mg cp séc
+BISOPROLOL RATIOPHARM 2,5 mg cp séc
+BISOPROLOL RATIOPHARM 3,75 mg cp
+BISOPROLOL RPG 10 mg cp pellic
+BISOPROLOL RPG 5 mg cp pellic
+BISOPROLOL SANDOZ 1,25 mg cp pellic
+BISOPROLOL SANDOZ 10 mg cp pellic séc
+BISOPROLOL SANDOZ 2,5 mg cp pellic séc
+BISOPROLOL SANDOZ 3,75 mg cp pellic séc
+BISOPROLOL SANDOZ 5 mg cp pellic séc
+BISOPROLOL SANDOZ 7,5 mg cp pellic séc
+BISOPROLOL TEVA 10 mg cp pellic
+BISOPROLOL TEVA 5 mg cp pellic
+BISOPROLOL TEVA SANTE 1,25 mg cp
+BISOPROLOL TEVA SANTE 10 mg cp séc
+BISOPROLOL TEVA SANTE 2,5 mg cp séc
+BISOPROLOL TEVA SANTE 3,75 mg cp
+BISOPROLOL TEVA SANTE 5 mg cp séc
+BISOPROLOL TEVA SANTE 7,5 mg cp séc
+BISOPROLOL ZENTIVA 10 mg cp pellic séc
+BISOPROLOL ZENTIVA LAB 10 mg cp séc
+BISOPROLOL ZENTIVA LAB 2,5 mg cp séc
+BISOPROLOL ZENTIVA LAB 5 mg cp séc
+BISOPROLOL ZYDUS 10 mg cp pellic séc
+BISOPROLOL ZYDUS FRANCE 1,25 mg cp
+BISOPROLOL ZYDUS FRANCE 2,5 mg cp séc
+BISOPROLOL ZYDUS FRANCE 5 mg cp séc
+BISOPROLOL/HYDROCHLOROTHIAZIDE ARROW 10 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE ARROW 2,5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE ARROW 5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE BIOGARAN 10 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE BIOGARAN 2,5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE BIOGARAN 5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE EG 10 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE EG 2,5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE EG 5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE MYLAN 10 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE MYLAN 2,5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE MYLAN 5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE MYLAN PHARMA 10 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE MYLAN PHARMA 2,5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE MYLAN PHARMA 5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE QUALIMED 10 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE QUALIMED 2,5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE QUALIMED 5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE RATIOPHARM 10 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE RATIOPHARM 2,5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE RATIOPHARM 5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE SANDOZ 10 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE SANDOZ 2,5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE SANDOZ 5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE TEVA 10 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE TEVA 2,5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE TEVA 5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE ZENTIVA 10 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE ZENTIVA 2,5 mg/6,25 mg cp pellic
+BISOPROLOL/HYDROCHLOROTHIAZIDE ZENTIVA 5 mg/6,25 mg cp pellic
+BLACKOIDS DU DOCTEUR MEUR past
+BLEOMYCINE BELLON 15 mg pdre p sol inj
+BLEOMYCINE TEVA 15 000 UI pdre p sol inj
+BLEU METHYLENE AGUETTANT 1 % sol inj
+BLEU PATENTE V SODIQUE GUERBET 2,5 % sol inj
+BLINCYTO 38,5 µg pdre p sol diluer et sol p sol p perf
+BLINCYTO 38,5 µg pdre p sol diluer p perf [ATUc]
+BOCEPREVIR SCHERING-PLOUGH 200 mg gél [ATUc]
+BOCOUTURE 50 U pdre p sol inj
+BOLCITOL sol buv
+BOLDOFLORINE cp pellic
+BOLDOFLORINE mélange plantes p tisane en sachet-dose
+BOLINAN 2 g cp
+BONDRONAT 2 mg sol diluer p perf
+BONDRONAT 6 mg sol diluer p perf
+BONVIVA 150 mg cp pellic
+BONVIVA 3 mg sol inj
+BOOSTRIXTETRA susp inj en ser préremplie
+BOP cp enr
+BORAX/ACIDE BORIQUE BIOGARAN 12 mg/18 mg/ml sol p lav opht en récipient unidose
+BORAX/ACIDE BORIQUE BIOGARAN CONSEIL 12 mg/18 mg/ml sol p lav opht en récipient unidose
+BORAX/ACIDE BORIQUE ZENTIVA 12 mg/18 mg/ml sol p lav opht en récipient unidose
+BORIBEL TISANE N° 8 SEDATIVE tis
+BORIBEL TISANE N° 9 MINCEUR tis en sach-dose
+BORIPHARM N°23 gle
+BORIPHARM N°3 gle
+BORIPHARM N°31 gle
+BORIPHARM N°41 gle
+BOROSTYROL sol p appl loc
+BOSULIF 100 mg cp pellic
+BOSULIF 500 mg cp pellic
+BOTOX 100 U ALLERGAN pdre p sol inj
+BOTOX 200 U ALLERGAN pdre p sol inj
+BOTOX 50 U ALLERGAN pdre p sol inj
+BREAKYL 1200 µg film orodispers
+BREAKYL 200 µg film orodispers
+BREAKYL 400 µg film orodispers
+BREAKYL 600 µg film orodispers
+BREAKYL 800 µg film orodispers
+BRENTUXIMAB VEDOTIN 50 mg pdre p sol diluer p perf [ATUc]
+BREVIBLOC 10 mg/ml sol p perf
+BREVIBLOC 100 mg/10 ml sol inj en flacon
+BREVOXYL 4 % crème
+BREXIN 20 mg cp efferv
+BREXIN 20 mg cp séc
+BRIAZIDE 10 mg/12,5 mg cp pellic séc
+BRICANYL 0,5 mg/1 ml sol inj en ampoule
+BRICANYL 5 mg/2 ml sol p inhal p nébulis en récipient unidose
+BRICANYL LP 5 mg cp LP
+BRICANYL TURBUHALER 500 µg/dose pdre p inhal
+BRIDION 100 mg/ml sol inj
+BRIEM 10 mg cp pellic
+BRIEM 5 mg cp pellic séc
+BRILIQUE 90 mg cp pellic
+BRIMONIDINE CHAUVIN 2 mg/ml collyre sol
+BRIMONIDINE EG 0,2 % (2 mg/ml) collyre sol
+BRIMONIDINE MYLAN 0,2 % (2 mg/ml) collyre sol
+BRIMONIDINE RATIOPHARM 0,2 % (2 mg/ml) collyre sol
+BRIMONIDINE SANDOZ 0,2 % (2 mg/ml) collyre sol
+BRIMONIDINE TEVA 2 mg/ml collyre sol
+BRINTELLIX 10 mg cp pellic
+BRINTELLIX 15 mg cp pellic
+BRINTELLIX 20 mg cp pellic
+BRINTELLIX 5 mg cp pellic
+BRINZOLAMIDE CRISTERS 10 mg/ml collyre susp
+BRINZOLAMIDE EG 10 mg/ml collyre susp
+BRINZOLAMIDE MYLAN 10 mg/ml collyre susp
+BRISTOPEN 1 g/5 ml pdre/solv p sol inj IV
+BRISTOPEN 250 mg/5 ml pdre p sirop
+BRISTOPEN 500 mg gél
+BROMAZEPAM ARROW 1,5 mg cp
+BROMAZEPAM ARROW 6 mg cp quadriséc
+BROMAZEPAM BIOGARAN 6 mg cp quadriséc
+BROMAZEPAM CRISTERS 6 mg cp quadriséc
+BROMAZEPAM EG 6 mg cp quadriséc
+BROMAZEPAM ISOMED 6 mg cp quadriséc
+BROMAZEPAM MYLAN 6 mg cp quadriséc
+BROMAZEPAM QUALIMED 6 mg cp quadriséc
+BROMAZEPAM RATIOPHARM 6 mg cp quadriséc
+BROMAZEPAM SANDOZ 6 mg cp quadriséc
+BROMAZEPAM TEVA 6 mg cpr quadriséc
+BROMAZEPAM ZENTIVA 6 mg cp quadriséc
+BROMAZEPAM ZYDUS 6 mg cp quadriséc
+BROMHYDRATE DE SCOPOLAMINE RENAUDIN 0,025 % sol inj
+BROMOCRIPTINE ZENTIVA 10 mg gél
+BROMOCRIPTINE ZENTIVA 2,5 mg cp séc
+BROMOCRIPTINE ZENTIVA 2,5 mg INHIBITION DE LA LACTATION cp séc
+BROMOCRIPTINE ZENTIVA 5 mg gél
+BRONCALENE sirop adulte
+BRONCALENE sirop enfant
+BRONCALENE sirop sans sucre adulte
+BRONCATHIOL sol buv enfant
+BRONCATHIOL sol buv expectorant adulte
+BRONCHODERMINE pom
+BRONCHODERMINE suppos ad
+BRONCHODERMINE suppos enf
+BRONCHODERMINE suppos nour
+BRONCHODUAL 100 µg/40 µg pdre p inhal en gélule
+BRONCHODUAL 50 µg/20 µg/dose sol p inhal
+BRONCHOKOD 2 % sirop enfant
+BRONCHOKOD 2 % sol buv sans sucre enfant
+BRONCHOKOD 5 % sol buv sans sucre adulte
+BRONCHOKOD sans sucre 750 mg/10 ml sol buv en sachet-dose caramel vanille adulte
+BRONCHOKOD sirop adulte
+BRONCHORECTINE AU CITRAL suppos adulte
+BRONCHORECTINE AU CITRAL suppos enfant
+BRONCHORECTINE AU CITRAL suppos nourrisson
+BRONCOCLAR sirop adulte
+BRONCOCLAR sirop enfant
+BRONKIREX 2 % sirop sans sucre enfant
+BRONKIREX 5 % sirop sans sucre adulte
+BRUFEN 400 mg cp pellic
+BRULEX pom
+BRYONIA OPODELDOCH BOIRON liniment
+BSS COMPOSE sol p irrig IO
+BUCCOBET 0,1 mg cp à sucer
+BUCCOLAM 10 mg sol bucc
+BUCCOLAM 2,5 mg sol bucc
+BUCCOLAM 5 mg sol bucc
+BUCCOLAM 7,5 mg sol bucc
+BUCCOSOIN sol p bain bouch en flacon
+BUDESONIDE ARROW 0,5 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE ARROW 1 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE BIOGARAN 0,5 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE BIOGARAN 1 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE CRISTERS 0,5 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE CRISTERS 1 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE EG 0,5 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE EG 1 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE EVOLUGEN 0,5 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE EVOLUGEN 1 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE ISOMED 1 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE MYLAN 0,50 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE MYLAN 1 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE SANDOZ 0,5 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE SANDOZ 1 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE SANDOZ 64 µg/dose susp p pulv nasal
+BUDESONIDE TEVA 0,5 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUDESONIDE TEVA 1 mg/2 ml susp p inhal p nébulis en récipient unidose
+BUFLOMEDIL ACTAVIS 150 mg cp
+BUFLOMEDIL ARROW 150 mg cp
+BUFLOMEDIL BIOGARAN 150 mg cp pellic
+BUFLOMEDIL EG 150 mg cp pellic
+BUFLOMEDIL MYLAN 150 mg cp pellic
+BUFLOMEDIL QUALIMED 150 mg cp pellic
+BUFLOMEDIL RATIOPHARM 150 mg cp pellic
+BUFLOMEDIL RPG 150 mg cp
+BUFLOMEDIL TEVA 150 mg cp pellic
+BUFLOMEDIL ZYDUS 150 mg cp
+BUPIVACAINE AGUETTANT 2,5 mg/ml sol inj
+BUPIVACAINE AGUETTANT 5 mg/ml sol inj
+BUPIVACAINE AGUETTANT 5 mg/ml sol inj rachi-anesthésie
+BUPIVACAINE AGUETTANT ADRENALINE 2,5 mg/ml sol inj en flacon
+BUPIVACAINE AGUETTANT ADRENALINE 5 mg/ml sol inj
+BUPIVACAINE B BRAUN 0,25 % (2,5 mg/ml) sol inj
+BUPIVACAINE B BRAUN 0,5 % (5 mg/ml) sol inj
+BUPIVACAINE MYLAN 2,5 mg/ml sol inj en flacon
+BUPIVACAINE MYLAN 20 mg/4 ml sol inj IR en ampoule
+BUPIVACAINE MYLAN 5 mg/ml sol inj en flacon
+BUPRENORPHINE ARROW 0,4 mg cp subling
+BUPRENORPHINE ARROW 1 mg cp subling
+BUPRENORPHINE ARROW 2 mg cp subling
+BUPRENORPHINE ARROW 4 mg cp subling
+BUPRENORPHINE ARROW 6 mg cp subling
+BUPRENORPHINE ARROW 8 mg cp subling
+BUPRENORPHINE BIOGARAN 0,4 mg cp subling
+BUPRENORPHINE BIOGARAN 2 mg cp subling
+BUPRENORPHINE BIOGARAN 8 mg cp subling
+BUPRENORPHINE EG 0,4 mg cp subling
+BUPRENORPHINE EG 2 mg cp subling
+BUPRENORPHINE EG 8 mg cp subling
+BUPRENORPHINE MYLAN 0,4 mg cp subling
+BUPRENORPHINE MYLAN 1 mg cp subling
+BUPRENORPHINE MYLAN 2 mg cp subling
+BUPRENORPHINE MYLAN 4 mg cp subling
+BUPRENORPHINE MYLAN 6 mg cp subling
+BUPRENORPHINE MYLAN 8 mg cp subling
+BUPRENORPHINE SANDOZ 0,4 mg cp subling
+BUPRENORPHINE SANDOZ 1 mg cp subling
+BUPRENORPHINE SANDOZ 2 mg cp subling
+BUPRENORPHINE SANDOZ 4 mg cp subling
+BUPRENORPHINE SANDOZ 6 mg cp subling
+BUPRENORPHINE SANDOZ 8 mg cp subling
+BUPRENORPHINE TEVA 0,4 mg cp subling
+BUPRENORPHINE TEVA 1 mg cp subling
+BUPRENORPHINE TEVA 2 mg cp subling
+BUPRENORPHINE TEVA 4 mg cp subling
+BUPRENORPHINE TEVA 6 mg cp subling
+BUPRENORPHINE TEVA 8 mg cp subling
+BURINEX 1 mg cp
+BURINEX 2 mg/4 ml sol inj IV
+BURINEX 5 mg cp
+BUSILVEX 6 mg/ml sol diluer p perf
+BUSPIRONE MYLAN 10 mg cp séc
+BUSPIRONE SANDOZ 10 mg cp séc
+BUSULFAN FRESENIUS KABI 6 mg/ml sol diluer p perf
+BUTAZOLIDINE 100 mg cp enr
+BUTIX gel p appl loc
+BYDUREON 2 mg pdre/solv p susp inj LP en stylo prérempli
+BYETTA 10 µg sol inj en stylo prérempli
+BYETTA 5 µg sol inj en stylo prérempli
+
+
+CA-DTPA 250 mg/ml sol inj
+CABERGOLINE SANDOZ 0,5 mg cp séc
+CABERGOLINE TEVA 0,5 mg cp
+CABOMETYX 20 mg cp pellic [ATUc]
+CABOMETYX 40 mg cp pellic [ATUc]
+CABOMETYX 60 mg cp pellic [ATUc]
+CACIT 1000 mg cp efferv
+CACIT 500 mg cp efferv
+CACIT VITAMINE D3 1000 mg/880 UI glé efferv en sachet
+CACIT VITAMINE D3 500 mg/440 UI cp à croquer/sucer
+CADENS 100 UI/1 ml sol inj
+CADITAR 35 g/100 g sol p appl cut à diluer
+CADUET 10 mg/10 mg cp pellic
+CADUET 10 mg/10 mg cp pellic [HR]
+CADUET 5 mg/10 mg cp pellic
+CADUET 5 mg/10 mg cp pellic [CZ1]
+CADUET 5 mg/10 mg cp pellic [HR]
+CAELYX 2 mg/ml sol diluer p perf
+CAFEINE AGUETTANT 250 mg/ml sol inj
+CALCAREA COMPOSE cp
+CALCAREA COMPOSE gle
+CALCAREA COMPOSE pdre
+CALCIBRONAT 2 g cp efferv
+CALCIDIA 1,54 g glé p susp buv
+CALCIDOSE 500 pdre p susp buv
+CALCIDOSE VITAMINE D3 500 mg/400 UI pdre p sol buv en sachet
+CALCIFORTE 500 mg sol buv
+CALCIFORTE VITAMINE D3 cp à croquer/sucer/dispers
+CALCIPARINE 12 500 UI/0,5 ml sol inj sous cutanée
+CALCIPARINE 20 000 UI/0,8 ml sol inj sous cutanée
+CALCIPARINE 25 000 UI/1 ml sol inj sous cutanée
+CALCIPARINE 5000 UI/0,2 ml sol inj sous cutanée en seringue pré-remplie
+CALCIPARINE 7500 UI/0,3 ml sol inj sous cutanée en seringue pré-remplie S.C.
+CALCIPRAT 1000 mg cp à sucer
+CALCIPRAT 500 mg cp à sucer
+CALCIPRAT 750 mg cp à sucer
+CALCIPRAT VITAMINE D3 1000 mg/800 UI cp à sucer
+CALCIPRAT VITAMINE D3 500 mg/400 UI cp à sucer
+CALCITONINE PHARMY II 100 UI/1 ml sol inj
+CALCITONINE PHARMY II 50 UI/ml sol inj
+CALCITONINE SANDOZ 50 UI/1 ml sol inj
+CALCIUM ALKO 0,87 % sol inj IV
+CALCIUM EDETATE DE SODIUM SERB 50 mg/ml sol p perf IV
+CALCIUM MYLAN 500 mg cp à croquer/sucer
+CALCIUM SANDOZ 1000 mg cp efferv
+CALCIUM SANDOZ 500 mg cp efferv
+CALCIUM SANDOZ 500 mg pdre p susp buv en sachet-dose
+CALCIUM SORBISTERIT pdre oral
+CALCIUM TEVA 500 mg cp à sucer
+CALCIUM VITAMINE D3 BIOGARAN 500 mg/400 UI cp à sucer
+CALCIUM VITAMINE D3 EG 500 mg/400 UI cp à croquer/sucer
+CALCIUM VITAMINE D3 MYLAN 500 mg/400 UI cp à croquer/sucer
+CALCIUM VITAMINE D3 RANBAXY 500 mg/400 UI cp à croquer/sucer
+CALCIUM VITAMINE D3 RATIOPHARM 500 mg/400 UI cp à croquer/sucer
+CALCIUM VITAMINE D3 SANDOZ 500 mg/400 UI cp à croquer/sucer
+CALCIUM VITAMINE D3 TEVA 500 mg/400 UI cp à croquer/sucer
+CALCIUM VITAMINE D3 ZYDUS 500 mg/400 UI cp à croquer/sucer
+CALCOS VITAMINE D3 cp à croquer/sucer
+CALDINE 2 mg cp pellic
+CALDINE 4 mg cp pellic séc
+CALENDORON crème
+CALENDULA LHF pom
+CALENDULA OFFICINALIS BOIRON pdre p appl cut
+CALENDULA OFFICINALIS TEINTURE MERE BOIRON liq p appl cut
+CALENDULA OFFICINALIS TEINTURE MERE WELEDA sol p appl cut
+CALMICORT 0,5 % crème
+CALMIXENE sirop
+CALMOTISAN mélange plantes p tisane en sachet-dose
+CALPEROS 500 mg cp à sucer séc
+CALPEROS D3 cp à sucer
+CALPRIMUM 500 mg cp enr croquer
+CALSYN 100 UI/1 ml sol inj
+CALSYN 50 UI/0,5 ml sol inj
+CALTRATE 500 mg cp à sucer
+CALTRATE 600 mg cp pellic
+CALTRATE VITAMINE D3 500 mg/400 UI cp à sucer
+CALTRATE VITAMINE D3 600 mg/400 UI cp pellic
+CALYPTOL INHALANT émuls p inhal p fumig
+CAMILIA sol buv
+CAMPHRICE DU CANADA 4 % bâton p appl loc
+CAMPTO 20 mg/ml sol diluer p perf IV
+CANCIDAS 50 mg pdre p sol diluer p perf
+CANCIDAS 70 mg pdre p sol diluer p perf
+CANDESARTAN ARROW 16 mg cp séc
+CANDESARTAN ARROW 16 mg cp séc
+CANDESARTAN ARROW 32 mg cp séc
+CANDESARTAN ARROW 32 mg cp séc
+CANDESARTAN ARROW 4 mg cp séc
+CANDESARTAN ARROW 4 mg cp séc
+CANDESARTAN ARROW 8 mg cp séc
+CANDESARTAN ARROW 8 mg cp séc
+CANDESARTAN BIOGARAN 16 mg cp séc
+CANDESARTAN BIOGARAN 32 mg cp séc
+CANDESARTAN BIOGARAN 4 mg cp séc
+CANDESARTAN BIOGARAN 8 mg cp séc
+CANDESARTAN CRISTERS 16 mg cp séc
+CANDESARTAN CRISTERS 4 mg cp séc
+CANDESARTAN CRISTERS 8 mg cp séc
+CANDESARTAN EG 16 mg cp séc
+CANDESARTAN EG 32 mg cp séc
+CANDESARTAN EG 4 mg cp séc
+CANDESARTAN EG 8 mg cp séc
+CANDESARTAN EVOLUGEN 16 mg cp séc
+CANDESARTAN EVOLUGEN 32 mg cp séc
+CANDESARTAN EVOLUGEN 4 mg cp séc
+CANDESARTAN EVOLUGEN 8 mg cp séc
+CANDESARTAN KRKA 16 mg cp
+CANDESARTAN KRKA 32 mg cp
+CANDESARTAN KRKA 4 mg cp
+CANDESARTAN KRKA 8 mg cp
+CANDESARTAN MYLAN 16 mg cp séc
+CANDESARTAN MYLAN 32 mg cp séc
+CANDESARTAN MYLAN 4 mg cp séc
+CANDESARTAN MYLAN 8 mg cp séc
+CANDESARTAN MYLAN PHARMA 16 mg cp séc
+CANDESARTAN MYLAN PHARMA 32 mg cp séc
+CANDESARTAN MYLAN PHARMA 4 mg cp séc
+CANDESARTAN MYLAN PHARMA 8 mg cp séc
+CANDESARTAN RANBAXY 16 mg cp séc
+CANDESARTAN RANBAXY 32 mg cp séc
+CANDESARTAN RANBAXY 4 mg cp séc
+CANDESARTAN RANBAXY 8 mg cp séc
+CANDESARTAN SANDOZ 16 mg cp séc
+CANDESARTAN SANDOZ 32 mg cp séc
+CANDESARTAN SANDOZ 4 mg cp séc
+CANDESARTAN SANDOZ 8 mg cp séc
+CANDESARTAN TEVA 16 mg cp séc
+CANDESARTAN TEVA 32 mg cp séc
+CANDESARTAN TEVA 4 mg cp séc
+CANDESARTAN TEVA 8 mg cp séc
+CANDESARTAN TEVA SANTE 16 mg cp séc
+CANDESARTAN TEVA SANTE 32 mg cp séc
+CANDESARTAN TEVA SANTE 4 mg cp séc
+CANDESARTAN TEVA SANTE 8 mg cp séc
+CANDESARTAN ZENTIVA 16 mg cp séc
+CANDESARTAN ZENTIVA 32 mg cp séc
+CANDESARTAN ZENTIVA 4 mg cp séc
+CANDESARTAN ZENTIVA 8 mg cp séc
+CANDESARTAN ZYDUS 16 mg cp séc
+CANDESARTAN ZYDUS 32 mg cp séc
+CANDESARTAN ZYDUS 8 mg cp séc
+CANDESARTAN/HYDROCHLOROTHIAZIDE ARROW 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE ARROW 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE ARROW 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE ARROW 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE BIOGARAN 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE BIOGARAN 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE CRISTERS 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE CRISTERS 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE EG LABO 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE EG LABO 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE EVOLUGEN 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE EVOLUGEN 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE KRKA 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE KRKA 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE MYLAN 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE MYLAN 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE MYLAN PHARMA 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE MYLAN PHARMA 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE RANBAXY 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE RANBAXY 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE SANDOZ 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE SANDOZ 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE TEVA 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE TEVA 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE TEVA SANTE 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE TEVA SANTE 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE ZENTIVA 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE ZENTIVA 8 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE ZYDUS 16 mg/12,5 mg cp
+CANDESARTAN/HYDROCHLOROTHIAZIDE ZYDUS 8 mg/12,5 mg cp
+CANOL cp enr
+CANTABILINE 400 mg cp
+CANTALENE cp à sucer
+CAPECITABINE ACCORD 150 mg cp pellic
+CAPECITABINE ACCORD 500 mg cp pellic
+CAPECITABINE ACTAVIS 150 mg cp pellic
+CAPECITABINE ACTAVIS 500 mg cp pellic
+CAPECITABINE BIOGARAN 150 mg cp pellic
+CAPECITABINE BIOGARAN 500 mg cp pellic
+CAPECITABINE EG 150 mg cp pellic
+CAPECITABINE EG 500 mg cp pellic
+CAPECITABINE MYLAN 150 mg cp pellic
+CAPECITABINE MYLAN 500 mg cp pellic
+CAPECITABINE SANDOZ 150 mg cp pellic
+CAPECITABINE SANDOZ 500 mg cp pellic
+CAPECITABINE TEVA 150 mg cp pellic
+CAPECITABINE TEVA 500 mg cp pellic
+CAPECITABINE ZENTIVA 150 mg cp pellic
+CAPECITABINE ZENTIVA 500 mg cp pellic
+CAPERGYL 4,5 mg caps
+CAPRELSA 100 mg cp pellic
+CAPRELSA 300 mg cp pellic
+CAPSION 50-3700 MBq gél
+CAPTEA cp séc
+CAPTOPRIL ARROW 25 mg cp quadriséc
+CAPTOPRIL ARROW 50 mg cp séc
+CAPTOPRIL BIOGARAN 25 mg cp quadriséc
+CAPTOPRIL BIOGARAN 50 mg cp séc
+CAPTOPRIL BIOSTABILEX 25 mg cp quadriséc
+CAPTOPRIL CRISTERS 25 mg cp séc
+CAPTOPRIL CRISTERS 50 mg cp séc
+CAPTOPRIL EG 25 mg cp quadriséc
+CAPTOPRIL EG 50 mg cp séc
+CAPTOPRIL MYLAN 25 mg cp quadriséc
+CAPTOPRIL MYLAN 50 mg cp séc
+CAPTOPRIL QUALIMED 25 mg cp quadriséc
+CAPTOPRIL QUALIMED 50 mg cp séc
+CAPTOPRIL RATIOPHARM 25 mg cp quadriséc
+CAPTOPRIL RATIOPHARM 50 mg cp séc
+CAPTOPRIL SANDOZ 25 mg cp quadriséc
+CAPTOPRIL SANDOZ 50 mg cp quadriséc
+CAPTOPRIL SANDOZ 50 mg cp séc
+CAPTOPRIL TEVA 25 mg cp quadriséc
+CAPTOPRIL TEVA 50 mg cp séc
+CAPTOPRIL ZENTIVA 12,5 mg cp séc
+CAPTOPRIL ZENTIVA 25 mg cp séc
+CAPTOPRIL ZENTIVA 50 mg cp séc
+CAPTOPRIL ZYDUS 25 mg cp quadriséc
+CAPTOPRIL ZYDUS 50 mg cp séc
+CAPTOPRIL/HYDROCHLOROTHIAZIDE ACTAVIS 50 mg/25 mg cp séc
+CAPTOPRIL/HYDROCHLOROTHIAZIDE ARROW 50 mg/25 mg cp séc
+CAPTOPRIL/HYDROCHLOROTHIAZIDE BIOGARAN 50 mg/25 mg cp séc
+CAPTOPRIL/HYDROCHLOROTHIAZIDE CRISTERS 50 mg/25 mg cp séc
+CAPTOPRIL/HYDROCHLOROTHIAZIDE EG 50 mg/25 mg cp séc
+CAPTOPRIL/HYDROCHLOROTHIAZIDE MYLAN 50 mg/25 mg cp séc
+CAPTOPRIL/HYDROCHLOROTHIAZIDE QUALIMED 50 mg/25 mg cp séc
+CAPTOPRIL/HYDROCHLOROTHIAZIDE RATIOPHARM 50 mg/25 mg cp séc
+CAPTOPRIL/HYDROCHLOROTHIAZIDE SANDOZ 50 mg/25 mg cp séc
+CAPTOPRIL/HYDROCHLOROTHIAZIDE TEVA 50 mg/25 mg cp séc
+CAPTOPRIL/HYDROCHLOROTHIAZIDE ZENTIVA 50 mg/25 mg cp séc
+CARBACTIVE 120 mg gél
+CARBAGLU 200 mg cp dispers séc
+CARBAMAZEPINE MYLAN LP 200 mg cp séc LP
+CARBAMAZEPINE MYLAN LP 400 mg cp séc LP
+CARBAMAZEPINE SANDOZ LP 200 mg cp enr séc LP
+CARBAMAZEPINE SANDOZ LP 400 mg cp enr séc LP
+CARBAMAZEPINE TEVA 200 mg cp séc
+CARBIDOPA LEVODOPA TEVA 10/100 mg cp séc
+CARBIDOPA LEVODOPA TEVA 25/250 mg cp séc
+CARBIDOPA LEVODOPA TEVA LP 25 mg/100 mg cp LP
+CARBIDOPA LEVODOPA TEVA LP 50 mg/200 mg cp LP
+CARBOCAINE 10 mg/ml sol inj
+CARBOCAINE 20 mg/ml sol inj
+CARBOCISTEINE ARROW 5 % sol buv sans sucre adulte
+CARBOCISTEINE BIOGARAN 2 % sol buv sans sucre enfant
+CARBOCISTEINE BIOGARAN CONSEIL 5 % sol buv en flacon sans sucre
+CARBOCISTEINE EG 5 % sol buv sans sucre adulte
+CARBOCISTEINE EG LABO CONSEIL 2 % sirop enfant
+CARBOCISTEINE MYLAN 2 % sirop enfant
+CARBOCISTEINE MYLAN 2 % sol buv sans sucre édulcorée au maltitol liquide et au sorbitol enfant
+CARBOCISTEINE MYLAN 5 % sirop adulte
+CARBOCISTEINE MYLAN 5 % sol buv sans sucre édulcorée au maltitol liquide et au sorbitol adulte
+CARBOCISTEINE RATIOPHARM CONSEIL 2 % sirop enfant
+CARBOCISTEINE RATIOPHARM CONSEIL 5 % sol buv sans sucre édulcorée à la saccharine sodique adulte
+CARBOCISTEINE SANDOZ CONSEIL 2 % sirop enfant
+CARBOCISTEINE SANDOZ CONSEIL 5 % sirop adulte
+CARBOCISTEINE SANDOZ CONSEIL 5 % sol buv sans sucre adulte
+CARBOCISTEINE SANDOZ CONSEIL sans sucre 2 % sol buv enfant
+CARBOCISTEINE TEVA CONSEIL 2 % sirop enfant
+CARBOCISTEINE TEVA CONSEIL 2 % sol buv sans sucre enfant
+CARBOCISTEINE TEVA CONSEIL 5 % sirop adulte
+CARBOCISTEINE TEVA CONSEIL 5 % sol buv sans sucre adulte
+CARBOCISTEINE WINTHROP 5 % sirop sans sucre adulte
+CARBOCISTEINE ZENTIVA CONSEIL 2 % sirop sans sucre édulcorée saccharine sodique maltitol liquide enfant
+CARBOCISTEINE ZENTIVA CONSEIL 5 % sirop sans sucre édulcorée à la saccharine adulte
+CARBOLEVURE gél ad
+CARBOLEVURE gél enf
+CARBOMIX 50 g glé p susp buv
+CARBOPHOS 400 mg cp à croquer
+CARBOPLATINE ACCORD 10 mg/ml sol p perf
+CARBOPLATINE ARROW 10 mg/ml sol p perf
+CARBOPLATINE DAKOTA PHARM 10 mg/ml sol p perf
+CARBOPLATINE HOSPIRA 10 mg/ml sol inj p perf
+CARBOPLATINE KABI 10 mg/ml sol diluer p perf
+CARBOPLATINE MYLAN 10 mg/ml sol p perf
+CARBOPLATINE SANDOZ 10 mg/ml sol p perf
+CARBOPLATINE SUN 10 mg/ml sol diluer p perf
+CARBOPLATINE TEVA 10 mg/ml sol p perf
+CARBOPLATINE WINTHROP 10 mg/ml sol p perf
+CARBOSYLANE gél
+CARBOSYLANE gél enfant
+CARBOSYMAG gél
+CARDENSIEL 1,25 mg cp pellic
+CARDENSIEL 1,25 mg cp pellic [AT1]
+CARDENSIEL 10 mg cp pellic séc
+CARDENSIEL 2,5 mg cp pellic séc
+CARDENSIEL 3,75 mg cp pellic séc
+CARDENSIEL 5 mg cp pellic séc
+CARDENSIEL 7,5 mg cp pellic séc
+CARDIOCALM cp enr
+CARDIOCOR 1,25 mg cp pellic
+CARDIOCOR 2,5 mg cp pellic séc
+CARDIOCOR 5 mg cp pellic séc
+CARDIOLITE trousse p prép radiopharma
+CARDIOMIBI 1 mg trousse p prép radiopharma
+CARDIOXANE 500 mg pdre p sol p perf
+CARLIN 75 µg/20 µg cp enr
+CARLIN 75 µg/30 µg cp enr
+CARLYTENE 30 mg cp enr
+CARMYNE 40 mg/5 ml sol inj
+CAROMINTHE sol buv
+CAROMINTHE sol buv en gouttes
+CARTEABAK 2 % collyre
+CARTEOL 0,5 % collyre
+CARTEOL 1 % collyre
+CARTEOL 1 % collyre sol en récipient unidose
+CARTEOL 2 % collyre
+CARTEOL 2 % collyre sol en récipient unidose
+CARTEOL LP 1 % collyre en récipient unidose
+CARTEOL LP 1 % collyre sol
+CARTEOL LP 2 % collyre en solution LP en récipient unidose
+CARTEOL LP 2 % collyre sol
+CARTREX 100 mg cp pellic
+CARVEDILOL BIOGARAN 12,5 mg cp séc
+CARVEDILOL BIOGARAN 25 mg cp séc
+CARVEDILOL BIOGARAN 6,25 mg cp séc
+CARVEDILOL EG 12,5 mg cp pellic séc
+CARVEDILOL EG 25 mg cp pellic séc
+CARVEDILOL EG 6,25 mg cp pellic séc
+CARVEDILOL MYLAN 12,5 mg cp pellic séc
+CARVEDILOL MYLAN 25 mg cp pellic séc
+CARVEDILOL MYLAN 6,25 mg cp pellic séc
+CARVEDILOL PFIZER 12,5 mg cp pellic séc
+CARVEDILOL PFIZER 25 mg cp pellic séc
+CARVEDILOL PFIZER 6,25 mg cp pellic séc
+CARVEDILOL TEVA 12,5 mg cp séc
+CARVEDILOL TEVA 25 mg cp séc
+CARVEDILOL TEVA 6,25 mg cp séc
+CARVEDILOL ZENTIVA 12,5 mg cp pellic séc
+CARVEDILOL ZENTIVA 25 mg cp pellic séc
+CARVEDILOL ZENTIVA 6,25 mg cp pellic séc
+CARYOLYSINE 10 mg sol diluer/solv p sol inj/p appl cut
+CASENLAX 10 g sol buv en sachet
+CASODEX 50 mg cp enr
+CASODEX 50 mg cp enr [ES1]
+CATACOL 0,1 % collyre
+CATAPRESSAN 0,15 mg cp séc
+CATAPRESSAN 0,15 mg/ml sol inj
+CATARSTAT collyre
+CAUSTINERF ARSENICAL pâte p us dent
+CAUSTINERF SANS ARSENIC pâte p us dent
+CAVERJECT 10 µg/ml pdre/solv p sol inj
+CAVERJECT 20 µg/ml pdre/solv p sol inj
+CAVERJECTDUAL 10 µg/0,5 ml pdre/solv p sol inj
+CAVERJECTDUAL 20 µg/0,5 ml pdre/solv p sol inj
+CAYSTON 75 mg pdre/solv p sol p inhal
+CEBEMYXINE collyre sol
+CEBEMYXINE pom ophtalm
+CEBESINE 0,4 % collyre
+CEBUTID 100 mg cp enr
+CEBUTID 50 mg cp enr
+CEBUTID LP 200 mg gél LP
+CEFACET 1 g cp pellic séc
+CEFACET 500 mg cp pellic séc
+CEFACLOR MYLAN 125 mg/5 ml pdre p susp buv
+CEFACLOR MYLAN 250 mg/5 ml pdre p susp buv
+CEFADROXIL BIOGARAN 125 mg/5 ml pdre p susp buv
+CEFADROXIL BIOGARAN 250 mg/5 ml pdre p susp buv
+CEFADROXIL BIOGARAN 500 mg gél
+CEFADROXIL BIOGARAN 500 mg/5 ml pdre p susp buv
+CEFADROXIL EG 500 mg gél
+CEFADROXIL MYLAN 1 g cp pellic
+CEFADROXIL MYLAN 125 mg/5 ml pdre p susp buv
+CEFADROXIL MYLAN 250 mg/5 ml pdre p susp buv
+CEFADROXIL MYLAN 500 mg gél
+CEFADROXIL MYLAN 500 mg/5 ml pdre p susp buv
+CEFADROXIL SANDOZ 500 mg gél
+CEFADROXIL TEVA 500 mg gél
+CEFALINE HAUTH 500 mg/50 mg cp pellic séc
+CEFALINE HAUTH pdre p susp buv
+CEFALOTINE PANPHARMA 1 g pdre/solv p sol inj
+CEFAMANDOLE PANPHARMA 750 mg pdre p us parentér
+CEFATRIZINE MYLAN 500 mg gél
+CEFATRIZINE QUALIMED 500 mg gél
+CEFATRIZINE TEVA 500 mg gél
+CEFAZOLINE FLAVELAB 1 g pdre p sol inj IV
+CEFAZOLINE MYLAN 1 g pdre p sol inj IM IV
+CEFAZOLINE MYLAN 2 g pdre p sol inj IM IV
+CEFAZOLINE PANPHARMA 0,5 g/5 ml pdre/sol p us parentér IV
+CEFAZOLINE PANPHARMA 1 g/5 ml pdre/sol p us parentér IV
+CEFAZOLINE PANPHARMA 2 g/10 ml pdre/sol p us parentér IV
+CEFEPIME MYLAN 1 g pdre p sol inj
+CEFEPIME MYLAN 2 g pdre p sol inj
+CEFEPIME PANPHARMA 1 g pdre p sol inj IM/IV
+CEFEPIME PANPHARMA 2 g pdre p sol inj IV
+CEFIXIME ACTAVIS 200 mg cp pellic
+CEFIXIME ALMUS 200 mg cp pellic
+CEFIXIME ARROW 200 mg cp pellic
+CEFIXIME BIOGARAN 200 mg cp pellic
+CEFIXIME EG 200 mg cp pellic
+CEFIXIME EVOLUGEN 200 mg cp pellic
+CEFIXIME MYLAN 200 mg cp pellic
+CEFIXIME MYLAN PHARMA 200 mg cp pellic
+CEFIXIME QUALIMED 200 mg cp pellic
+CEFIXIME RANBAXY 200 mg cp pellic
+CEFIXIME RATIOPHARM 200 mg cp pellic
+CEFIXIME TEVA 200 mg cp pellic
+CEFIXIME ZENTIVA 200 mg cp pellic
+CEFIXIME ZYDUS 200 mg cp pellic
+CEFOTAXIME G GAM 0,5 g pdre p sol inj IM IV
+CEFOTAXIME G GAM 1 g pdre p sol inj IM/IV
+CEFOTAXIME G GAM 2 g pdre p sol inj IM IV
+CEFOTAXIME MYLAN 1 g pdre p sol inj IM/IV
+CEFOTAXIME MYLAN 2 g pdre p sol inj IM/IV
+CEFOTAXIME MYLAN 500 mg pdre p sol inj IM IV
+CEFOTAXIME PANPHARMA 0,5 g pdre p sol inj IM IV
+CEFOTAXIME PANPHARMA 1 g pdre p sol inj IM IV
+CEFOTAXIME WINTHROP 1 g pdre p sol inj IM IV
+CEFOTAXIME WINTHROP 2 g pdre p sol inj IM/IV
+CEFOTAXIME WINTHROP 500 mg pdre p sol inj IM IV
+CEFOXITINE HOSPIRA 1 g pdre p sol inj IV
+CEFOXITINE HOSPIRA 2 g pdre p sol inj IV
+CEFOXITINE PANPHARMA 1 g pdre p sol inj IV
+CEFOXITINE PANPHARMA 2 g pdre p sol inj IV
+CEFPODOXIME ACTAVIS 100 mg cp pellic
+CEFPODOXIME ALMUS 100 mg cp pellic
+CEFPODOXIME ARROW 100 mg cp pellic
+CEFPODOXIME ARROW 40 mg/5 ml pdre p susp buv enfant nourrisson
+CEFPODOXIME ARROW GENERIQUES 40 mg/5 ml glé p susp buv enfant nourrisson
+CEFPODOXIME ARROW LAB 100 mg cp pellic
+CEFPODOXIME BIOGARAN 100 mg cp pellic
+CEFPODOXIME BIOGARAN 40 mg/5 ml pdre p susp buv enfant nourrisson
+CEFPODOXIME CRISTERS 100 mg cp pellic
+CEFPODOXIME EG 100 mg cp pellic
+CEFPODOXIME EG 40 mg/5 ml pdre p susp buv enfant nourrisson
+CEFPODOXIME EVOLUGEN 100 mg cp pellic
+CEFPODOXIME ISOMED 100 mg cp pellic
+CEFPODOXIME ISOMED 40 mg/5 ml pdre p susp buv enfant nourrisson
+CEFPODOXIME MYLAN 100 mg cp pellic
+CEFPODOXIME MYLAN 40 mg/5 ml pdre p susp buv enfant nourrisson
+CEFPODOXIME MYLAN PHARMA 100 mg cp pellic
+CEFPODOXIME QUALIMED 100 mg cp pellic
+CEFPODOXIME QUALIMED 40 mg/5 ml pdre p susp buv enfant nourrisson
+CEFPODOXIME RANBAXY 100 mg cp pellic
+CEFPODOXIME RATIOPHARM 100 mg cp pellic
+CEFPODOXIME RATIOPHARM 40 mg/5 ml pdre p susp buv enfant nourrisson
+CEFPODOXIME SANDOZ 100 mg cp pellic
+CEFPODOXIME SANDOZ 40 mg/5 ml pdre p susp buv enfant nourrisson
+CEFPODOXIME TEVA 100 mg cp pellic
+CEFPODOXIME TEVA 40 mg/5 ml pdre p susp buv enfant nourrisson
+CEFPODOXIME ZENTIVA 100 mg cp pellic
+CEFPODOXIME ZENTIVA 40 mg/5 ml glé p susp buv enfant nourrisson
+CEFPODOXIME ZYDUS 100 mg cp pellic
+CEFPODOXIME ZYDUS 40 mg/5 ml pdre p susp buv enfant nourrisson
+CEFROM 2 g/20 ml pdre/solv p sol inj IV
+CEFTAZIDIME ACTAVIS 0,5 g pdre p sol inj IM IV
+CEFTAZIDIME AGUETTANT 0,5 g pdre p sol inj IM IV
+CEFTAZIDIME AGUETTANT 1 g pdre p sol inj IM IV
+CEFTAZIDIME AGUETTANT 2 g pdre p sol inj IV
+CEFTAZIDIME ARROW 0,5 g pdre p sol inj IM IV
+CEFTAZIDIME ARROW 1 g pdre p sol inj IM IV
+CEFTAZIDIME ARROW 1 g pdre p sol inj IM IV
+CEFTAZIDIME ARROW 2 g pdre p sol inj IV
+CEFTAZIDIME ARROW 2 g pdre p sol inj IV
+CEFTAZIDIME ARROW 250 mg pdre p sol inj enfant nourrisson
+CEFTAZIDIME BIOGARAN 1 g pdre p sol inj IM IV
+CEFTAZIDIME KABI 1 g pdre p sol inj IM IV
+CEFTAZIDIME KABI 2 g pdre p sol inj IV
+CEFTAZIDIME KABI 500 mg pdre p sol inj IV/IM
+CEFTAZIDIME MYLAN 1 g pdre p sol inj IM IV
+CEFTAZIDIME MYLAN 2 g pdre p sol inj IV
+CEFTAZIDIME MYLAN 250 mg pdre p sol inj IM IV enfant nourrisson
+CEFTAZIDIME MYLAN 500 mg pdre p sol inj IM IV enfant nourrisson
+CEFTAZIDIME PANMEDICA 1 g pdre p sol inj
+CEFTAZIDIME PANMEDICA 2 g pdre p sol inj
+CEFTAZIDIME PANMEDICA 250 mg pdre p sol inj enfant nourrisson
+CEFTAZIDIME PANMEDICA 500 mg pdre p sol inj enfant nourrisson
+CEFTAZIDIME PANPHARMA 1 g pdre p sol inj
+CEFTAZIDIME PANPHARMA 2 g pdre p sol inj
+CEFTAZIDIME PANPHARMA 250 mg pdre p sol inj enfant nourrisson
+CEFTAZIDIME PANPHARMA 500 mg pdre p sol inj enfant nourrisson
+CEFTAZIDIME SANDOZ 1 g pdre p sol inj
+CEFTAZIDIME SANDOZ 2 g pdre p sol inj
+CEFTAZIDIME SANDOZ 250 mg pdre p sol inj enfant nourrisson
+CEFTAZIDIME SANDOZ 500 mg pdre p sol inj enfant nourrisson
+CEFTAZIDIME TEVA 1 g pdre p sol inj
+CEFTAZIDIME TEVA 2 g pdre p sol inj
+CEFTAZIDIME TEVA 500 mg pdre/solv p sol inj
+CEFTRIAXONE ACTAVIS 1 g/10 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE ACTAVIS 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE AGUETTANT 1 g pdre p sol inj
+CEFTRIAXONE ALMUS 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE ARROW 1 g/10 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE ARROW 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE ARROW 500 mg/2 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE ARROW 500 mg/5 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE BIOGARAN 1 g/10 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE BIOGARAN 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE CRISTERS 1 g/10 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE CRISTERS 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE EG 1 g/10 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE EG 1 g/3,5 ml pdre/solv p sol inj IM
+CEFTRIAXONE EVOLUGEN 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE G GAM 500 mg/5 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE GNR 1 g/10 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE GNR 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE GNR 500 mg/2 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE KABI 1 g pdre p sol inj IV
+CEFTRIAXONE KABI 2 g pdre p sol p perf
+CEFTRIAXONE MYLAN 1 g pdre p sol inj
+CEFTRIAXONE MYLAN 1 g/10 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE MYLAN 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE MYLAN 2 g pdre p sol inj IV
+CEFTRIAXONE MYLAN 250 mg pdre p sol inj
+CEFTRIAXONE MYLAN 500 mg pdre p sol inj
+CEFTRIAXONE MYLAN 500 mg/2 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE MYLAN 500 mg/5 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE PANPHARMA 1 g pdre p sol inj
+CEFTRIAXONE PANPHARMA 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE PANPHARMA 2 g pdre p sol p perf
+CEFTRIAXONE QUALIMED 1 g/10 ml pdre/solv p sol inj IV
+CEFTRIAXONE QUALIMED 1 g/3,5 ml pdre/solv p sol inj IM
+CEFTRIAXONE QUALIMED 500 mg/2 ml pdre/solv p sol inj IM
+CEFTRIAXONE QUALIMED 500 mg/5 ml pdre/solv p sol inj IV
+CEFTRIAXONE RPG 1 g/3,5 ml pdre/solv p sol inj IM/SC
+CEFTRIAXONE SANDOZ 1 g/10 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE SANDOZ 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE SANDOZ 2 g pdre p sol p perf
+CEFTRIAXONE TEVA 1 g pdre p sol inj
+CEFTRIAXONE TEVA 1 g/10 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE TEVA 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE TEVA 2 g pdre p sol inj
+CEFTRIAXONE TEVA 250 mg pdre p sol inj
+CEFTRIAXONE TEVA 500 mg pdre p sol inj
+CEFTRIAXONE TEVA 500 mg/2 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE TEVA SANTE 1 g/10 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE TEVA SANTE 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE WINTHROP 1 g pdre p sol inj
+CEFTRIAXONE WINTHROP 2 g pdre p sol p perf
+CEFTRIAXONE WINTHROP 250 mg pdre p sol inj
+CEFTRIAXONE WINTHROP 500 mg pdre p sol inj
+CEFTRIAXONE ZENTIVA 1 g/10 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE ZENTIVA 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE ZENTIVA 500 mg/2 ml pdre/solv p sol inj IM SC
+CEFTRIAXONE ZENTIVA 500 mg/5 ml pdre/solv p sol inj IV SC
+CEFTRIAXONE ZYDUS 1 g/3,5 ml pdre/solv p sol inj IM SC
+CEFUROXIME ACTAVIS 250 mg cp pellic
+CEFUROXIME ACTAVIS 500 mg cp pellic
+CEFUROXIME ARROW 250 mg cp pellic
+CEFUROXIME ARROW 500 mg cp pellic
+CEFUROXIME BIOGARAN 125 mg cp pellic
+CEFUROXIME BIOGARAN 250 mg cp pellic
+CEFUROXIME BIOGARAN 500 mg cp pellic
+CEFUROXIME EG 250 mg cp
+CEFUROXIME EG 500 mg cp
+CEFUROXIME KABI 1500 mg pdre p sol p perf
+CEFUROXIME KABI 750 mg pdre p sol inj
+CEFUROXIME MYLAN 1,5 g pdre p sol p perf
+CEFUROXIME MYLAN 125 mg cp enr
+CEFUROXIME MYLAN 250 mg cp enr
+CEFUROXIME MYLAN 500 mg cp enr
+CEFUROXIME MYLAN 750 mg pdre p sol inj IM/IV
+CEFUROXIME PANPHARMA 1,5 g pdre p sol p perf
+CEFUROXIME PANPHARMA 250 mg pdre p sol inj IM/IV
+CEFUROXIME PANPHARMA 750 mg pdre p sol inj IM/IV
+CEFUROXIME QUALIMED 125 mg cp enr
+CEFUROXIME QUALIMED 250 mg cp enr
+CEFUROXIME QUALIMED 500 mg cp enr
+CEFUROXIME RANBAXY 250 mg cp
+CEFUROXIME RANBAXY 500 mg cp
+CEFUROXIME RATIOPHARM 250 mg cp
+CEFUROXIME RATIOPHARM 500 mg cp
+CEFUROXIME SANDOZ 125 mg cp enr
+CEFUROXIME SANDOZ 250 mg cp enr
+CEFUROXIME SANDOZ 500 mg cp enr
+CEFUROXIME TEVA 1,5 g pdre p sol p perf
+CEFUROXIME TEVA 250 mg cp pellic
+CEFUROXIME TEVA 500 mg cp pellic
+CEFUROXIME TEVA 750 mg pdre p sol inj
+CEFUROXIME ZENTIVA 125 mg cp enr
+CEFUROXIME ZENTIVA 250 mg cp enr
+CEFUROXIME ZENTIVA 250 mg cp pellic
+CEFUROXIME ZENTIVA 500 mg cp enr
+CEFUROXIME ZYDUS 250 mg cp
+CEFUROXIME ZYDUS 500 mg cp
+CELANCE 0,05 mg cp séc
+CELANCE 0,25 mg cp séc
+CELANCE 1 mg cp séc
+CELEBREX 100 mg gél
+CELEBREX 200 mg gél
+CELECOXIB ARROW 100 mg gél
+CELECOXIB ARROW 200 mg gél
+CELECOXIB BIOGARAN 100 mg gél
+CELECOXIB BIOGARAN 200 mg gél
+CELECOXIB CRISTERS 200 mg gél
+CELECOXIB EG 100 mg gél
+CELECOXIB EG 200 mg gél
+CELECOXIB HCS 100 mg gél
+CELECOXIB HCS 200 mg gél
+CELECOXIB MYLAN PHARMA 100 mg gél
+CELECOXIB MYLAN PHARMA 200 mg gél
+CELECOXIB PFIZER 100 mg gél
+CELECOXIB PFIZER 200 mg gél
+CELECOXIB RANBAXY 200 mg gél
+CELECOXIB SANDOZ 100 mg gél
+CELECOXIB SANDOZ 200 mg gél
+CELECOXIB TEVA 100 mg gél
+CELECOXIB TEVA 200 mg gél
+CELECOXIB ZENTIVA 100 mg gél
+CELECOXIB ZENTIVA 200 mg gél
+CELECOXIB ZYDUS 100 mg gél
+CELECOXIB ZYDUS 200 mg gél
+CELECTOL 200 mg cp pellic
+CELESTAMINE cp
+CELESTENE 0,05 % sol buv en gouttes
+CELESTENE 2 mg cp dispers séc
+CELESTENE 4 mg/ml sol inj
+CELESTENE 8 mg/2 ml sol inj
+CELESTENE CHRONODOSE 5,7 mg/ml susp inj
+CELESTODERM RELAIS 0,05 % crème
+CELIPROLOL ACTAVIS 200 mg cp pellic séc
+CELIPROLOL ALMUS 200 mg cp pellic
+CELIPROLOL ARROW 200 mg cp pellic séc
+CELIPROLOL BIOGARAN 200 mg cp pellic
+CELIPROLOL CRISTERS 200 mg cp pellic séc
+CELIPROLOL EG 200 mg cp pellic séc
+CELIPROLOL EVOLUGEN 200 mg cp pellic
+CELIPROLOL GERDA 200 mg cp pellic séc
+CELIPROLOL MYLAN 200 mg cp pellic séc
+CELIPROLOL QUALIMED 200 mg cp pellic séc
+CELIPROLOL RANBAXY 200 mg cp pellic
+CELIPROLOL RATIOPHARM 200 mg cp pellic séc
+CELIPROLOL SANDOZ 200 mg cp pellic séc
+CELIPROLOL TEVA 200 mg cp pellic
+CELIPROLOL ZENTIVA 200 mg cp pellic
+CELIPROLOL ZYDUS 200 mg cp pellic séc
+CELLCEPT 1 g/5 ml pdre p susp buv
+CELLCEPT 250 mg gél
+CELLCEPT 250 mg gél [ADP1]
+CELLCEPT 500 mg cp
+CELLCEPT 500 mg cp [ADP1]
+CELLCEPT 500 mg pdre p sol diluer p perf
+CELLTOP 25 mg caps molle
+CELLTOP 50 mg caps molle
+CELLUVISC 4 mg/0,4 ml collyre
+CELOCURINE 50 mg/ml sol inj
+CELSENTRI 150 mg cp pellic
+CELSENTRI 300 mg cp pellic
+CELVAPAN susp inj
+CEMAFLAVONE sol buv en ampoule
+CEPHYL cp
+CEPROTIN 500 UI/5 ml pdre/solv p sol inj
+CERAZETTE 0,075 mg cp pellic
+CERDELGA 84 mg gél
+CERDELGA 84 mg gél [ATUc]
+CEREALES GERMEES BOIRON cp
+CEREALES GERMEES BOIRON gle
+CEREALES GERMEES BOIRON sol buv
+CERESTAB 500 µg trousse radiopharmaceutique
+CERETEC 500 µg trousse radiopharmaceutique
+CEREZYME 400 U pdre p sol p perf
+CERIS 20 mg cp enr
+CERITINIB 150 mg gél [ATUc]
+CERNEVIT pdre p sol inj/p perf
+CERTICAN 0,1 mg cp dispers
+CERTICAN 0,25 mg cp
+CERTICAN 0,25 mg cp dispers
+CERTICAN 0,5 mg cp
+CERTICAN 0,75 mg cp
+CERUBIDINE 20 mg pdre p sol p perf
+CERULYSE 5 % sol auric
+CERVAGEME 1 mg ovule
+CERVARIX 20 µg/20 µg susp inj en seringue préremplie
+CERVOXAN 60 mg gél
+CETAVLEX AQUEUX 0,5 % sol p appl cut
+CETAVLON 0,5 % crème
+CETIRIZINE ACTAVIS 10 mg cp pellic séc
+CETIRIZINE ALMUS 10 mg cp pellic séc
+CETIRIZINE ARROW 10 mg cp pellic séc
+CETIRIZINE ARROW 10 mg/ml sol buv en gte
+CETIRIZINE ARROW CONSEIL 10 mg cp pellic séc
+CETIRIZINE BIOGARAN 10 mg cp pellic séc
+CETIRIZINE BIOGARAN 10 mg/ml sol buv en gte
+CETIRIZINE BIOGARAN CONSEIL 10 mg cp pellic séc
+CETIRIZINE CRISTERS 10 mg cp pellic séc
+CETIRIZINE CRISTERS CONSEIL 10 mg cp pellic séc
+CETIRIZINE EG 10 mg cp à sucer
+CETIRIZINE EG 10 mg cp pellic séc
+CETIRIZINE EVOLUGEN 10 mg cp pellic séc
+CETIRIZINE ISOMED 10 mg cp pellic séc
+CETIRIZINE MYLAN 10 mg cp pellic séc
+CETIRIZINE MYLAN PHARMA 10 mg cp pellic séc
+CETIRIZINE NEPENTHES 10 mg cp pellic séc
+CETIRIZINE PHR LAB 10 mg cp pellic séc
+CETIRIZINE QUALIMED 10 mg cp pellic séc
+CETIRIZINE RANBAXY MEDICATION OFFICINALE 10 mg cp pellic séc
+CETIRIZINE RATIOPHARM 10 mg cp pellic séc
+CETIRIZINE RATIOPHARM CONSEIL 10 mg cp pellic séc
+CETIRIZINE RPG 10 mg cp pellic séc
+CETIRIZINE SANDOZ 10 mg cp pellic séc
+CETIRIZINE SANDOZ 10 mg cp pellic séc
+CETIRIZINE SANDOZ CONSEIL 10 mg cp pellic séc
+CETIRIZINE TEVA 10 mg cp pellic séc
+CETIRIZINE TEVA 10 mg/ml sol buv en gte
+CETIRIZINE TEVA CONSEIL 10 mg cp pellic séc
+CETIRIZINE ZENTIVA 10 mg cp pellic séc
+CETIRIZINE ZYDUS 10 mg cp pellic séc
+CETIRIZINE ZYDUS FRANCE 10 mg cp pellic séc
+CETOGLUTARAN pdre efferv p sol buv
+CETORNAN 10 g pdre p sol buv/entér en sachet
+CETORNAN 5 g pdre p sol buv/entér
+CETROTIDE 0,25 mg pdre/solv p sol inj
+CETROTIDE 3 mg pdre/solv p sol inj
+CHAMOMILLA VULGARIS 9CH BOIRON suppos
+CHAMPIX 0,5 mg cp pellic
+CHAMPIX 0,5 mg et 1 mg cp pellic
+CHAMPIX 1 mg cp pellic
+CHARBON DE BELLOC 125 mg caps molle
+CHELIDONIUM COMPOSE BOIRON cp
+CHELIDONIUM COMPOSE BOIRON gle
+CHELIDONIUM COMPOSE BOIRON sol buv
+CHIBRO CADRON collyre
+CHIBRO-PROSCAR 5 mg cp pellic
+CHIBROXINE 0,3 % collyre
+CHIROCAINE 0,625 mg/ml sol p perf
+CHIROCAINE 1,25 mg/ml sol p perf
+CHIROCAINE 2,5 mg/ml sol inj ou sol diluer p perf
+CHIROCAINE 5 mg/ml sol inj ou sol diluer p perf
+CHLORAMINOPHENE 2 mg gél
+CHLORAPREP COLORE sol p appl cut
+CHLORAPREP sol p appl cut
+CHLORHEXIDINE ALCOOL COLOREE GILBERT 0,5 % sol p appl cut
+CHLORHEXIDINE ALCOOLIQUE GILBERT HEALTHCARE 0,5 % sol p appl cut
+CHLORHEXIDINE AQUEUSE GILBERT 0,05 % sol p appl loc colorée
+CHLORHEXIDINE AQUEUSE STERILE GILBERT 0,05 % sol p appl loc
+CHLORHEXIDINE AQUEUSE STERILE GILBERT 0,2 % sol p appl cut
+CHLORHEXIDINE/CHLOROBUTANOL ARROW 0,5 ml/0,5 g pour 100 ml sol p bain bouch
+CHLORHEXIDINE/CHLOROBUTANOL BIOGARAN 0,5 ml/0,5 g pour 100 ml sol p bain bouch en flacon
+CHLORHEXIDINE/CHLOROBUTANOL BIOGARAN CONSEIL 0,5 ml/0,5 g pour 100 ml sol p bain bouch en flacon
+CHLORHEXIDINE/CHLOROBUTANOL EG 0,5 ml/0,5 g pour 100 ml sol p bain bouch
+CHLORHEXIDINE/CHLOROBUTANOL MYLAN 0,5 ml/0,5 g pour 100 ml sol p bain bouch en flacon
+CHLORHEXIDINE/CHLOROBUTANOL PHR LAB 0,5 ml/0,5 g pour 100 ml sol p bain bouch en flacon
+CHLORHEXIDINE/CHLOROBUTANOL RATIOPHARM 0,5 ml/0,5 g pour 100 ml sol p bain bouch en flacon
+CHLORHEXIDINE/CHLOROBUTANOL SANDOZ 0,5 ml/0,5 g pour 100 ml sol p bain bouch en flacon
+CHLORHEXIDINE/CHLOROBUTANOL TEVA 0,5 ml/0,5 g pour 100 ml sol p bain bouch
+CHLORHEXIDINE/CHLOROBUTANOL ZENTIVA 0,5 ml/0,5 g pour 100 ml sol p bain bouch en flacon
+CHLORHYDRATE D'AMILORIDE/HYDROCHLOROTHIAZIDE RPG 5 mg/50 mg cp séc
+CHLORHYDRATE D'HEPTAMINOL RICHARD 187,8 mg cp
+CHLORHYDRATE D'OXYBUPROCAINE THEA 1,6 mg/0,4 ml collyre en récipient unidose
+CHLORHYDRATE DE DILTIAZEM MYLAN 60 mg cp
+CHLORHYDRATE DE LIDOCAINE RENAUDIN 10 mg/ml sol inj
+CHLORHYDRATE DE MEBEVERINE MYLAN 200 mg gél
+CHLORHYDRATE DE METOCLOPRAMIDE RENAUDIN 10 mg/2 ml sol inj
+CHLORHYDRATE DE METOCLOPRAMIDE RENAUDIN 20 mg/ml sol inj
+CHLORHYDRATE DE METOCLOPRAMIDE RICHARD 1 mg/ml sol buv
+CHLORHYDRATE DE PROCAINE BIOSTABILEX 20 mg/ml sol inj
+CHLORHYDRATE DE PROPRANOLOL PIERRE FABRE DERMATOLOGIE 3,75 mg/ml sol buv [ATUc]
+CHLORMADINONE MYLAN 10 mg cp
+CHLORMADINONE MYLAN 5 mg cp
+CHLORMADINONE QUALIMED 10 mg cp
+CHLORMADINONE QUALIMED 5 mg cp
+CHLORMADINONE SANDOZ 10 mg cp
+CHLORMADINONE SANDOZ 5 mg cp
+CHLORMADINONE TEVA 10 mg cp
+CHLORMADINONE TEVA 2 mg cp
+CHLORMADINONE TEVA 5 mg cp
+CHLORUMAGENE pdre p susp buv
+CHLORURE D'INDIUM [111 In] MALLINCKRODT MEDICAL sol pour marquage
+CHLORURE DE CALCIUM RENAUDIN 10 % sol inj
+CHLORURE DE MAGNESIUM AGUETTANT 10 % sol inj
+CHLORURE DE MAGNESIUM LAVOISIER 10 % (1 g/10 ml) sol inj en ampoule IV
+CHLORURE DE METHYLTHIONINIUM PROVEBLUE 5 mg/ml sol inj
+CHLORURE DE POTASSIUM B BRAUN 10 % (0,10 g/ml) sol diluer p perf
+CHLORURE DE POTASSIUM BIOSEDRA 15 % sol à diluer p perf
+CHLORURE DE POTASSIUM COOPER 10 % (0,10 g/ml) sol diluer p perf
+CHLORURE DE POTASSIUM FRESENIUS 10 % (0,10 g/ml) sol diluer p perf
+CHLORURE DE POTASSIUM LAVOISIER 10 % (0,10 g/ml) sol diluer p perf
+CHLORURE DE POTASSIUM LAVOISIER 15 % (0,15 g/ml) sol diluer p perf
+CHLORURE DE POTASSIUM LAVOISIER 20 % (0,20 g/ml) sol diluer p perf
+CHLORURE DE POTASSIUM LAVOISIER 7,46 % (0,0746 g/ml) sol diluer p perf
+CHLORURE DE POTASSIUM PROAMP 0,0746 g/ml sol diluer p perf
+CHLORURE DE POTASSIUM PROAMP 0,10 g/ml sol diluer p perf
+CHLORURE DE POTASSIUM PROAMP 0,15 g/ml sol diluer p perf
+CHLORURE DE POTASSIUM PROAMP 20 % (0,20 g/ml) sol diluer p perf
+CHLORURE DE POTASSIUM RENAUDIN 10 % (1 g/10 ml) sol diluer p perf
+CHLORURE DE POTASSIUM RENAUDIN 10 % sol inj
+CHLORURE DE POTASSIUM RENAUDIN 20 % (0,20 g/ml) sol diluer p perf
+CHLORURE DE POTASSIUM RENAUDIN 20 % (0,20 g/ml) sol diluer p perf
+CHLORURE DE POTASSIUM RENAUDIN 20 % (4 g/20 ml) sol inj en ampoule
+CHLORURE DE POTASSIUM RENAUDIN 7,46 % (0,0746 g/ml) sol diluer p perf
+CHLORURE DE SODIUM 0,9 % B BRAUN sol inj en ampoule
+CHLORURE DE SODIUM 0,9 % B BRAUN sol p perf en poche
+CHLORURE DE SODIUM 20 % B BRAUN sol diluer p perf
+CHLORURE DE SODIUM AGUETTANT 0,9 % sol inj
+CHLORURE DE SODIUM AGUETTANT 0,9 % sol p perf
+CHLORURE DE SODIUM AGUETTANT 30 % sol inj
+CHLORURE DE SODIUM BAXTER 0,9 % sol p perf
+CHLORURE DE SODIUM BAXTER 0,9 % sol p perf en poche
+CHLORURE DE SODIUM BIOLUZ 0,9 % sol inj en poche
+CHLORURE DE SODIUM BIOPERF 0,9 % sol p perf
+CHLORURE DE SODIUM COOPER 0,9 % sol inj
+CHLORURE DE SODIUM FRESENIUS 0,9 % sol inj
+CHLORURE DE SODIUM FRESENIUS 0,9 % sol p perf
+CHLORURE DE SODIUM HYPERTONIQUE COOPER 10 % sol diluer inj
+CHLORURE DE SODIUM HYPERTONIQUE FRESENIUS 10 % sol diluer inj
+CHLORURE DE SODIUM HYPERTONIQUE FRESENIUS 20 % sol diluer inj
+CHLORURE DE SODIUM HYPERTONIQUE LAVOISIER 10 % sol diluer inj
+CHLORURE DE SODIUM HYPERTONIQUE LAVOISIER 20 % sol diluer inj
+CHLORURE DE SODIUM LAVOISIER 0,9 % sol inj
+CHLORURE DE SODIUM MACOPHARMA 0,9 % sol p perf
+CHLORURE DE SODIUM PERFUFLAC 0,9 % sol p perf
+CHLORURE DE SODIUM PHYSIOFLEX 0,9 % sol p perf
+CHLORURE DE SODIUM PROAMP 0,0585 g/ml sol diluer p perf
+CHLORURE DE SODIUM PROAMP 0,10 g/ml sol diluer p perf
+CHLORURE DE SODIUM PROAMP 0,20 g/ml sol diluer p perf
+CHLORURE DE SODIUM PROAMP 0,9 % sol inj
+CHLORURE DE SODIUM RENAUDIN 0,9 % (0,045 g/5 ml) sol inj en ampoule
+CHLORURE DE SODIUM RENAUDIN 0,9 % (0,09 g/10 ml) sol inj en ampoule
+CHLORURE DE SODIUM RENAUDIN 0,9 % sol inj
+CHLORURE DE SODIUM RENAUDIN 10 % (1 g/10 ml) sol inj en ampoule
+CHLORURE DE SODIUM RENAUDIN 10 % (2 g/20 ml) sol inj en ampoule
+CHLORURE DE SODIUM RENAUDIN 20 % (2 g/10 ml) sol inj p perf en ampoule
+CHLORURE DE SODIUM RENAUDIN 20 % (4 g/20 ml) sol inj
+CHLORURE DE SODIUM VIAFLO 0,9 % sol p perf
+CHOLBAM 250 mg gél [ATUc]
+CHOLBAM 50 mg gél [ATUc]
+CHOLECALCIFEROL BIOGARAN 100 000 UI sol buv en ampoule
+CHOLECALCIFEROL MYLAN 100 000 UI sol buv en ampoule
+CHOLECALCIFEROL SANDOZ 100 000 UI sol buv en ampoule
+CHOLEODORON sol buv
+CHOLURSO 250 mg cp pellic
+CHOLURSO 500 mg cp pellic séc
+CHONDROSULF 400 mg gél
+CHONDROSULF 400 mg glé p sol buv en sachet
+CHOPHYTOL 20 % sol buv
+CHOPHYTOL cp enr
+CHROMARGON sol p appl loc
+CHROMATE (51Cr) DE SODIUM AMERSHAM sol pour marquage
+CHRONADALATE LP 30 mg cp osmot pellic LP
+CHRONO-INDOCID 75 mg gél
+CIALIS 10 mg cp pellic
+CIALIS 10 mg cp pellic [ADP1]
+CIALIS 10 mg cp pellic [ADP2]
+CIALIS 10 mg cp pellic [ADP3]
+CIALIS 2,5 mg cp pellic
+CIALIS 20 mg cp pellic
+CIALIS 20 mg cp pellic [ADP1]
+CIALIS 20 mg cp pellic [ADP2]
+CIALIS 20 mg cp pellic [ADP3]
+CIALIS 5 mg cp pellic
+CIBACALCINE 0,25 mg pdre/solv p sol inj
+CIBACALCINE 0,5 mg pdre/solv p sol inj
+CIBACENE 10 mg cp pellic
+CIBACENE 5 mg cp pellic séc
+CIBADREX 10 mg/12,5 mg cp pellic séc
+CICADERMA pom
+CICATRYL pom en sachet-dose
+CICLETANINE BIOGARAN 50 mg gél
+CICLETANINE MYLAN 50 mg gél
+CICLETANINE TEVA 50 mg gél
+CICLOPIROX BIOGARAN 8 % vernis ongl médicamenteux
+CICLOPIROX MYLAN 8 % vernis ongl médicamenteux
+CICLOPIROX OLAMINE BIOGARAN 1 % crème
+CICLOPIROX OLAMINE SANDOZ 1 % crème
+CICLOPIROX OLAMINE TEVA 1 % crème
+CICLOPIROX QUALIMED 8 % vernis ongl médicamenteux
+CICLOPIROX TEVA 8 % vernis ongl médicamenteux
+CIDERMEX pom ophtalm
+CIELLA 0,1 % sol p lav opht en récipient unidose
+CIFLOX 200 mg/100 ml sol p perf en poche
+CIFLOX 200 mg/100 ml sol p perf IV
+CIFLOX 250 mg cp pellic séc
+CIFLOX 400 mg/200 ml sol p perf
+CIFLOX 400 mg/200 ml sol p perf en poche
+CIFLOX 500 mg cp pellic séc
+CIFLOX 500 mg/5 ml glé/solv p susp buv
+CIFLOX 750 mg cp pellic
+CILAZAPRIL TEVA 2,5 mg cp pellic séc
+CILEST cp
+CILOXADEX 3 mg/1 mg par ml susp p instil auriculaire
+CILOXAN 0,3 % collyre
+CILOXAN 0,3 % pom ophtalm
+CILOXAN 3 mg/ml sol p instil auric
+CIMETIDINE ARROW 200 mg cp efferv
+CIMETIDINE MYLAN 200 mg cp efferv
+CIMETIDINE MYLAN 200 mg cp pellic
+CIMETIDINE MYLAN 400 mg cp pellic
+CIMETIDINE MYLAN 800 mg cp pellic
+CIMETIDINE TEVA 200 mg cp
+CIMETIDINE TEVA 200 mg cp efferv
+CIMETIDINE TEVA 400 mg cp
+CIMETIDINE TEVA 800 mg cp efferv
+CIMIPAX 6,5 mg cp pellic
+CIMZIA 200 mg sol inj
+CINA COMPOSE BOIRON cp
+CINA COMPOSE BOIRON gle
+CINA COMPOSE BOIRON sol buv
+CINRYZE 500 U pdre/solv p sol inj
+CIPRALAN 130 mg cp pellic séc
+CIPROFIBRATE ALMUS 100 mg gél
+CIPROFIBRATE ARROW 100 mg gél
+CIPROFIBRATE BIOGARAN 100 mg gél
+CIPROFIBRATE MYLAN 100 mg gél
+CIPROFIBRATE QUALIMED 100 mg gél
+CIPROFIBRATE RATIOPHARM 100 mg gél
+CIPROFIBRATE RPG 100 mg gél
+CIPROFIBRATE SANDOZ 100 mg gél
+CIPROFIBRATE TEVA 100 mg gél
+CIPROFIBRATE ZENTIVA 100 mg gél
+CIPROFLOXACINE ACCORD 250 mg cp pellic
+CIPROFLOXACINE ACCORD 500 mg cp pellic
+CIPROFLOXACINE AGUETTANT 200 mg/100 ml sol p perf
+CIPROFLOXACINE AGUETTANT 400 mg/200 ml sol p perf
+CIPROFLOXACINE ALMUS 250 mg cp pellic
+CIPROFLOXACINE ALTER 250 mg cp pellic
+CIPROFLOXACINE ALTER 500 mg cp pellic
+CIPROFLOXACINE ARROW 250 mg cp pellic
+CIPROFLOXACINE ARROW 500 mg cp pellic séc
+CIPROFLOXACINE ARROW 750 mg cp pellic
+CIPROFLOXACINE BIOGARAN 250 mg cp pellic
+CIPROFLOXACINE BIOGARAN 500 mg cp pellic séc
+CIPROFLOXACINE EG 250 mg cp pellic
+CIPROFLOXACINE EG 500 mg cp pellic
+CIPROFLOXACINE EVOLUGEN 500 mg cp pellic
+CIPROFLOXACINE KABI 200 mg/100 ml sol p perf
+CIPROFLOXACINE KABI 400 mg/200 ml sol p perf
+CIPROFLOXACINE MACOPHARMA 200 mg/100 ml sol p perf
+CIPROFLOXACINE MACOPHARMA 400 mg/200 ml sol p perf
+CIPROFLOXACINE MYLAN 200 mg/100 ml sol p perf
+CIPROFLOXACINE MYLAN 250 mg cp pellic
+CIPROFLOXACINE MYLAN 400 mg/200 ml sol p perf
+CIPROFLOXACINE MYLAN 500 mg cp pellic séc
+CIPROFLOXACINE MYLAN 750 mg cp pellic
+CIPROFLOXACINE MYLAN PHARMA 200 mg/100 ml sol p perf
+CIPROFLOXACINE MYLAN PHARMA 400 mg/200 ml sol p perf
+CIPROFLOXACINE PANMEDICA 200 mg/100 ml sol p perf
+CIPROFLOXACINE PANMEDICA 400 mg/200 ml sol p perf
+CIPROFLOXACINE PANPHARMA 200 mg/100 ml sol p perf
+CIPROFLOXACINE PANPHARMA 400 mg/200 ml sol p perf
+CIPROFLOXACINE PANPHARMA 500 mg cp pellic
+CIPROFLOXACINE PFIZER 250 mg cp pellic
+CIPROFLOXACINE PFIZER 500 mg cp pellic séc
+CIPROFLOXACINE QUALIMED 250 mg cp pellic
+CIPROFLOXACINE QUALIMED 500 mg cp pellic séc
+CIPROFLOXACINE QUIVER 250 mg cp pellic
+CIPROFLOXACINE QUIVER 500 mg cp pellic séc
+CIPROFLOXACINE QUIVER 750 mg cp pellic
+CIPROFLOXACINE RANBAXY 250 mg cp pellic
+CIPROFLOXACINE RANBAXY 500 mg cp pellic
+CIPROFLOXACINE RATIOPHARM 250 mg cp pellic
+CIPROFLOXACINE RATIOPHARM 500 mg cp pellic séc
+CIPROFLOXACINE SANDOZ 250 mg cp pellic
+CIPROFLOXACINE SANDOZ 250 mg cp pellic séc
+CIPROFLOXACINE SANDOZ 500 mg cp pellic séc
+CIPROFLOXACINE SANDOZ 500 mg cp pellic séc
+CIPROFLOXACINE TEVA 200 mg/100 ml sol p perf en poche
+CIPROFLOXACINE TEVA 250 mg cp pellic séc
+CIPROFLOXACINE TEVA 400 mg/200 ml sol p perf en poche
+CIPROFLOXACINE TEVA 500 mg cp pellic séc
+CIPROFLOXACINE TEVA 750 mg cp pellic
+CIPROFLOXACINE ZENTIVA 250 mg cp pellic
+CIPROFLOXACINE ZENTIVA 500 mg cp pellic séc
+CIPROFLOXACINE ZYDUS 250 mg cp pellic
+CIPROFLOXACINE ZYDUS 500 mg cp pellic séc
+CIRCADIN 2 mg cp LP
+CIRKAN A LA PREDNACINOLONE suppos
+CISATRACURIUM ACCORD 2 mg/ml sol inj/p perf
+CISATRACURIUM ACCORD 5 mg/ml sol inj/p perf
+CISATRACURIUM HOSPIRA 2 mg/ml sol inj p perf
+CISATRACURIUM HOSPIRA 5 mg/ml sol inj p perf
+CISATRACURIUM KABI 2 mg/ml sol inj p perf
+CISATRACURIUM KABI 5 mg/ml sol inj p perf
+CISATRACURIUM MYLAN 2 mg/ml sol inj p perf
+CISATRACURIUM MYLAN 5 mg/ml sol inj p perf
+CISATRACURIUM PFIZER 2 mg/ml sol inj p perf
+CISATRACURIUM SANDOZ 2 mg/ml sol inj p perf
+CISATRACURIUM TEVA 2 mg/ml sol inj p perf
+CISATRACURIUM TEVA 5 mg/ml sol inj p perf
+CISNAF 100 MBq/mL sol inj
+CISPLATINE ACCORD 1 mg/ml sol diluer p perf
+CISPLATINE MYLAN 1 mg/ml sol diluer p perf
+CISPLATINE MYLAN 10 mg/10 ml sol diluer p perf
+CISPLATINE MYLAN 25 mg/25 ml sol diluer p perf
+CISPLATINE TEVA 1 mg/ml sol p perf
+CITALOPRAM ACTAVIS 20 mg cp pellic séc
+CITALOPRAM ALMUS 20 mg cp pellic séc
+CITALOPRAM ALTER 20 mg cp pellic séc
+CITALOPRAM ARROW 20 mg cp pellic séc
+CITALOPRAM BIOGARAN 20 mg cp pellic séc
+CITALOPRAM BIOGARAN 20 mg cp pellic séc
+CITALOPRAM BLUEFISH 20 mg cp pellic séc
+CITALOPRAM CRISTERS 20 mg cp pellic séc
+CITALOPRAM EG 20 mg cp pellic séc
+CITALOPRAM EVOLUGEN 20 mg cp pellic séc
+CITALOPRAM GNR 20 mg cp pellic séc
+CITALOPRAM ISOMED 20 mg cp pellic séc
+CITALOPRAM MYLAN 20 mg cp pellic séc
+CITALOPRAM QUALIMED 20 mg cp pellic séc
+CITALOPRAM RANBAXY 20 mg cp pellic séc
+CITALOPRAM RPG 20 mg cp pellic séc
+CITALOPRAM SANDOZ 20 mg cpr pellic séc
+CITALOPRAM TEVA 20 mg cp pellic séc
+CITALOPRAM TEVA SANTE 20 mg cp pellic séc
+CITALOPRAM ZENTIVA 20 mg cp pellic séc
+CITALOPRAM ZYDUS 20 mg cp pellic séc
+CITICOLINE PANPHARMA 250 mg/2 ml sol inj IM IV en ampoule
+CITICOLINE PANPHARMA 500 mg/4 ml sol inj IM IV en ampoule
+CITRAFLEET pdre p sol buv en sachet-dose
+CITRAFLEET pdre p sol buv en sachet-dose [GB1]
+CITRARGININE sol buv
+CITRATE D'ERBIUM [169ER] CIS BIO INTERNATIONAL susp coll inj loc
+CITRATE D'YTTRIUM CIS BIO INTERNATIONAL susp pour injection intraarticulaire
+CITRATE DE BETAINE ARROW 1,89 g cp efferv
+CITRATE DE BETAINE BIOGARAN 2 g cp efferv
+CITRATE DE BETAINE BIOGARAN CONSEIL 2 g cp efferv
+CITRATE DE BETAINE CRISTERS 1,89 g cp efferv
+CITRATE DE BETAINE CRISTERS 10 % glé
+CITRATE DE BETAINE CRISTERS 2 g pdre p sol buv en sachet-dose
+CITRATE DE BETAINE CRISTERS 2 g/5 ml sol buv en ampoule
+CITRATE DE BETAINE EG 1,89 g cp efferv
+CITRATE DE BETAINE MYLAN 1,89 g cp efferv
+CITRATE DE BETAINE RATIOPHARM CONSEIL 1,89 g cp efferv
+CITRATE DE BETAINE SANDOZ CONSEIL 1,89 g cp efferv
+CITRATE DE BETAINE TEVA CONSEIL 1,89 g cp efferv
+CITRATE DE BETAINE UPSA 2 g cp efferv sans sucre citron
+CITRATE DE BETAINE UPSA 2 g cp efferv sans sucre menthe édulcoré à la saccharine sodique
+CITRATE DE CAFEINE COOPER 25 mg/ml sol buv/inj
+CITRATE DE GALLIUM (67GA) CIS BIO INTERNATIONAL 74 MBq/ml sol inj
+CITRATE DE GALLIUM [67 Ga] MALLINCKRODT MEDICAL sol inj
+CITROCHOLINE sol buv
+CIVIGEL 0,2 % gel ophtalm
+CLAIRODERMYL 10 % pom
+CLAIRODERMYL 5 % pom
+CLAIRYG 50 mg/ml sol p perf
+CLAMOXYL 1 g cp dispers
+CLAMOXYL 1 g pdre p sol inj IM IV
+CLAMOXYL 1 g pdre p susp buv
+CLAMOXYL 1 g pdre/solv p sol inj IM
+CLAMOXYL 125 mg/5 ml pdre p susp buv
+CLAMOXYL 2 g pdre p sol inj IV
+CLAMOXYL 250 mg/5 ml pdre p susp buv
+CLAMOXYL 500 mg gél
+CLAMOXYL 500 mg pdr p sol inj IM IV
+CLAMOXYL 500 mg/5 ml pdre p susp buv
+CLARADOL 500 mg cp efferv séc
+CLARADOL 500 mg cp séc
+CLARADOL CAFEINE 500 mg cp
+CLARADOL CAFEINE 500 mg/50 mg cp efferv
+CLARADOL CODEINE 500 mg/20 mg cp séc
+CLARAMID 100 mg cp pellic Enf
+CLARAMID 150 mg cp pellic
+CLAREAL 0,075 mg cp pellic
+CLARELUX 500 µg/g crème
+CLARELUX 500 µg/g mousse p appl cut en flacon pressurisé
+CLARITHROMYCINE ALMUS 250 mg cp pellic
+CLARITHROMYCINE ALMUS 500 mg cp pellic
+CLARITHROMYCINE ARROW 25 mg/ml glé p susp buv
+CLARITHROMYCINE ARROW 250 mg cp pellic
+CLARITHROMYCINE ARROW 50 mg/ml glé p susp buv
+CLARITHROMYCINE ARROW 500 mg cp pellic
+CLARITHROMYCINE ARROW 500 mg cp pellic LM
+CLARITHROMYCINE BIOGARAN 250 mg cp pellic
+CLARITHROMYCINE BIOGARAN 500 mg cp pellic
+CLARITHROMYCINE BIOGARAN 500 mg cp pellic LM
+CLARITHROMYCINE BIPHAR 25 mg/ml glé p susp buv
+CLARITHROMYCINE BIPHAR 250 mg cp pellic
+CLARITHROMYCINE BIPHAR 50 mg/ml glé p susp buv
+CLARITHROMYCINE BIPHAR 500 mg cp pellic
+CLARITHROMYCINE EG 250 mg cp pellic
+CLARITHROMYCINE EG 500 mg cp pellic
+CLARITHROMYCINE EG 500 mg cp pellic LM
+CLARITHROMYCINE EVOLUGEN 250 mg cp pellic
+CLARITHROMYCINE EVOLUGEN 500 mg cp pellic
+CLARITHROMYCINE EVOLUGEN 500 mg cp pellic LM
+CLARITHROMYCINE MYLAN 25 mg/ml glé p susp buv
+CLARITHROMYCINE MYLAN 250 mg cp pellic
+CLARITHROMYCINE MYLAN 50 mg/ml glé p susp buv
+CLARITHROMYCINE MYLAN 500 mg cp pellic
+CLARITHROMYCINE MYLAN 500 mg cp pellic LM
+CLARITHROMYCINE MYLAN PHARMA 250 mg cp pellic
+CLARITHROMYCINE MYLAN PHARMA 500 mg cp pellic LM
+CLARITHROMYCINE PFIZER 250 mg cp pellic
+CLARITHROMYCINE PFIZER 500 mg cp pellic
+CLARITHROMYCINE QUALIMED 250 mg cp pellic
+CLARITHROMYCINE QUALIMED 500 mg cp pellic
+CLARITHROMYCINE QUALIMED 500 mg cp pellic LM
+CLARITHROMYCINE RANBAXY 250 mg cp pellic
+CLARITHROMYCINE RANBAXY 500 mg cp pellic
+CLARITHROMYCINE RATIOPHARM 250 mg cp pellic
+CLARITHROMYCINE RATIOPHARM 500 mg cp pellic
+CLARITHROMYCINE SANDOZ 25 mg/ml glé p susp buv
+CLARITHROMYCINE SANDOZ 250 mg cp pellic
+CLARITHROMYCINE SANDOZ 50 mg/ml glé p susp buv
+CLARITHROMYCINE SANDOZ 500 mg cp pellic
+CLARITHROMYCINE TEVA 250 mg cp pellic
+CLARITHROMYCINE TEVA 500 mg cp pellic
+CLARITHROMYCINE TEVA 500 mg cp pellic LM
+CLARITHROMYCINE ZYDUS 250 mg cp pellic
+CLARITHROMYCINE ZYDUS 500 mg cp pellic
+CLARITYNE 1 mg/ml sirop
+CLARITYNE 10 mg cp
+CLARIX 0,1 % sol buv toux sèche codéthyline sans sucre
+CLARIX 2 % sirop expectorant carbocistéine enfant
+CLARIX 5 % sirop expectorant carbocistéine adulte
+CLARIX 5 % sol buv expectorant carbocistéine sans sucre adulte
+CLARIX 750 mg/10 ml sol buv expectorant carbocistéine sans sucre adulte
+CLARIX DEXTROMETHORPHANE 15 mg/5 ml sol buv sans sucre édulcorée à la saccharine sodique adulte
+CLARIX DEXTROMETHORPHANE MEPYRAMINE sirop toux sèche adulte
+CLARIX ETAT GRIPPAL PARACETAMOL CHLORPHENAMINE VITAMINE C pdre p sol buv en sachet
+CLARIX PENTOXYVERINE 0,15 % sirop toux sèche enfant
+CLARIX PHOLCODINE ERYSIMUM sirop toux sèche sans sucre adulte
+CLARIX sirop
+CLASTOBAN 300 mg/5 ml sol inj p perf
+CLASTOBAN 800 mg cp pellic
+CLAVENTIN 3 g/200 mg pdre p sol inj IV
+CLAVENTIN 5 g/200 mg pdre p sol inj IV
+CLERIDIUM 150 mg cp pellic séc
+CLEVIPREX 0,5 mg/ml émuls inj
+CLIMARA 50 µg/24 h disp transderm
+CLIMASTON 0,5 mg/2,5 mg cp pellic
+CLIMASTON 1 mg/10 mg cp pellic
+CLIMASTON 1 mg/5 mg cp pellic
+CLIMASTON 2 mg/10 mg cp pellic
+CLIMAXOL sol buv en flacon
+CLIMENE cp enr
+CLIMODIENE 2 mg/2 mg cp enr
+CLINDAFLUID 1 % sol p appl cut
+CLINDAMYCINE AGUETTANT 600 mg/4 ml sol inj
+CLINDAMYCINE KABI 600 mg/4 ml sol inj
+CLINDAMYCINE KABI 900 mg/6 ml sol inj
+CLINIMIX N12 G20 E sol p perf en poche bicompartiment
+CLINIMIX N12 G20 sol p perf en poche bicompartiment
+CLINIMIX N14 G30 sol p perf en poche bicompartiment
+CLINIMIX N9 G15E sol p perf en poche bicompartiment
+CLINOLEIC 20 % émuls p perf
+CLIPTOL gel
+CLOBEX 500 µg/g shampooing
+CLOMID 50 mg cp
+CLOMIPRAMINE (CHLORHYDRATE) MYLAN 10 mg cp pellic
+CLOMIPRAMINE (CHLORHYDRATE) MYLAN 25 mg cp pellic
+CLOMIPRAMINE MYLAN 75 mg cp pellic séc
+CLOMIPRAMINE SANDOZ 10 mg cp pellic
+CLOMIPRAMINE SANDOZ 25 mg cp pellic
+CLOMIPRAMINE SANDOZ 75 mg cp pellic séc
+CLOMIPRAMINE TEVA 10 mg gél
+CLOMIPRAMINE TEVA 25 mg gél
+CLOPIDOGREL ABBOTT 75 mg cp pellic
+CLOPIDOGREL ALMUS 75 mg cp pellic
+CLOPIDOGREL ALTER 75 mg cp pellic
+CLOPIDOGREL ARROW GENERIQUES 75 mg cp pellic
+CLOPIDOGREL ARROW LAB 75 mg cp pellic
+CLOPIDOGREL BGR 75 mg cp pellic
+CLOPIDOGREL BIOGARAN 75 mg cp pellic
+CLOPIDOGREL BIOSTABILEX 75 mg cp pellic
+CLOPIDOGREL BOUCHARA-RECORDATI 75 mg cp pellic
+CLOPIDOGREL CRISTERS 75 mg cp pellic
+CLOPIDOGREL EG 75 mg cp pellic
+CLOPIDOGREL EVOLUGEN 75 mg cp pellic
+CLOPIDOGREL ISOMED 75 mg cp pellic
+CLOPIDOGREL KRKA 75 mg cp pellic
+CLOPIDOGREL MYLAN 75 mg cp pellic
+CLOPIDOGREL MYLAN PHARMA 75 mg cp pellic
+CLOPIDOGREL PHR LAB 75 mg cp pellic
+CLOPIDOGREL QUALIMED 75 mg cp pellic
+CLOPIDOGREL RANBAXY PHARMACIE GENERIQUES 75 mg cp pellic
+CLOPIDOGREL RATIOPHARM GMBH 75 mg cp pellic
+CLOPIDOGREL RPG 75 mg cp pellic
+CLOPIDOGREL SANDOZ 75 mg cp pellic
+CLOPIDOGREL SANDOZ 75 mg cp pellic
+CLOPIDOGREL TEVA 75 mg cp pellic
+CLOPIDOGREL TEVA PHARMA 75 mg cp pellic
+CLOPIDOGREL WYETH 75 mg cp pellic
+CLOPIDOGREL ZENTIVA 75 mg cp pellic
+CLOPIDOGREL ZF 75 mg cp pellic
+CLOPIDOGREL ZYDUS 75 mg cp pellic
+CLOPIXOL 10 mg cp pellic
+CLOPIXOL 2 % sol buv en gouttes
+CLOPIXOL 25 mg cp pellic
+CLOPIXOL ACTION PROLONGEE 200 mg/ml sol inj IM
+CLOPIXOL ACTION SEMI-PROLONGEE 50 mg/ml sol inj
+CLOROTEKAL 10 mg/ml sol inj
+CLOTTAFACT 1,5 g/100 ml pdre/solv p sol inj
+CLOXACILLINE ARROW 500 mg gél
+CLOXACILLINE BIOGARAN 500 mg gél
+CLOXACILLINE PANPHARMA 1 g pdre p sol inj IV
+CLOXACILLINE PANPHARMA 1 g pdre/solv p sol inj IM
+CLOXACILLINE PANPHARMA 500 mg pdre p sol inj IV
+CLOZAPINE MYLAN 100 mg cp séc
+CLOZAPINE MYLAN 25 mg cp séc
+CLOZAPINE PANPHARMA 100 mg cp séc
+CLOZAPINE PANPHARMA 25 mg cp séc
+CO-RENITEC 20 mg/12,5 mg cp
+CO-RENITEC 20 mg/12,5 mg cp séc
+COAPROVEL 150 mg/12,5 mg cp pellic
+COAPROVEL 300 mg/12,5 mg cp pellic
+COAPROVEL 300 mg/25 mg cp pellic
+COBIMETINIB 20 mg cp pellic [ATUc]
+COCCULINE cp orodispers
+COCCULINE gle en récipient unidose
+CODEDRILL sans sucre 0,1 % sol buv édulcorée à la saccharine
+CODENFAN 1 mg/ml sirop
+CODOLIPRANE 400 mg/20 mg cp séc adulte
+CODOLIPRANE 500 mg/30 mg cp
+CODOLIPRANE 500 mg/30 mg cp efferv séc
+CODOTUSSYL 1,33 mg/ml sirop toux sèche adulte
+CODOTUSSYL 100 mg cp à sucer expectorant acetylcystéine
+CODOTUSSYL 2,5 % pdre/sirop p sol buv expectorant acetylcystéine
+CODOTUSSYL 200 mg glé p sol buv en sachet expectorant
+CODOTUSSYL 400 mg glé p sol buv expectorant acetylcystéine
+CODOTUSSYL past maux de gorge sans sucre
+CODOTUSSYL PENTOXYVERINE 3,2 mg/ml sirop toux sèche
+CODOTUSSYL sirop toux sèche enfant
+COKENZEN 16 mg/12,5 mg cp séc
+COKENZEN 8 mg/12,5 mg cp séc
+COLCHICINE OPOCALCIUM 1 mg cp séc
+COLCHIMAX cp pellic séc
+COLIMYCINE 1 000 000 UI pdre/solv p sol inj
+COLIMYCINE 1 MUI pdre/solv p inhal par nébuliseur
+COLIMYCINE 1,5 M UI cp
+COLITISANE mélange plantes p tisane
+COLLU-HEXTRIL 0,2 % collut
+COLLUDOL sol p pulv bucc en flacon pressurisé
+COLLUNOVAR 0,11 % collut
+COLLUNOVAR 0,11 % sol p pulv bucc en flacon pressurisé
+COLLYRE BLEU LAITER collyre
+COLOBREATHE 1 662 500 UI pdre p inhal en gélule
+COLOCARB 300 mg cp
+COLOFOAM mousse rect
+COLOKIT cp
+COLOPEG pdre p sol buv
+COLOPRIV 200 mg gél
+COLPOSEPTINE cp vagin
+COLPOTROPHINE 1 % crème
+COLPOTROPHINE 10 mg caps vagin
+COLPRONE 5 mg cp
+COLTHIOZID 4 mg/2 ml sol inj
+COLTRAMYL 4 mg cp
+COMBANTRIN 125 mg cp
+COMBANTRIN 125 mg/2,5 ml susp buv
+COMBIGAN 2 mg/ml + 5 mg/ml collyre sol
+COMBIVIR 150 mg/300 mg cp pellic
+COMBODART 0,5 mg/0,4 mg gél
+COMPENSAL 15 G 10 sol inj p perf
+COMPETACT 15 mg/850 mg cp pellic
+COMPLEXE LEHNING ACIDUM PHOSPHORICUM N° 5 sol buv
+COMPLEXE LEHNING AESCULUS N° 103 sol buv
+COMPLEXE LEHNING AMANITA N° 75 sol buv
+COMPLEXE LEHNING AURUM N° 38 cp
+COMPLEXE LEHNING BADIAGA N° 47 cp
+COMPLEXE LEHNING BASILICUM N° 96 sol buv
+COMPLEXE LEHNING BILINUM N° 113 cp
+COMPLEXE LEHNING CALENDULA N° 89 sol buv
+COMPLEXE LEHNING CETRARIA N° 61 sol buv
+COMPLEXE LEHNING CHOLESTEROLUM N° 112 sol buv
+COMPLEXE LEHNING COCCULUS N° 73 sol buv
+COMPLEXE LEHNING DROSERA N° 64 sol buv
+COMPLEXE LEHNING ECHINACEA N° 40 sol buv
+COMPLEXE LEHNING EUPHORBIUM N° 88 sol buv
+COMPLEXE LEHNING EUPHRASIA N° 115 sol buv
+COMPLEXE LEHNING FERRUM N° 29 cp
+COMPLEXE LEHNING GELSEMIUM N° 70 sol buv
+COMPLEXE LEHNING GRINDELIA N° 58 sol buv
+COMPLEXE LEHNING HYPERICUM N° 26 sol buv
+COMPLEXE LEHNING IODUM N° 118 sol buv
+COMPLEXE LEHNING IPECA N° 65 sol buv
+COMPLEXE LEHNING JUNIPERUS N° 6 sol buv
+COMPLEXE LEHNING KALIUM PHOSPHORICUM N° 100 cp
+COMPLEXE LEHNING KALMIA N° 18 sol buv
+COMPLEXE LEHNING KREOSOTUM N° 62 sol buv
+COMPLEXE LEHNING LACHESIS N° 122 sol buv
+COMPLEXE LEHNING LEDUM N° 81 sol buv
+COMPLEXE LEHNING LOBELIA N° 74 sol buv
+COMPLEXE LEHNING MERCURIUS SOLUBILIS N° 39 cp
+COMPLEXE LEHNING NUX VOMICA N° 49 sol buv
+COMPLEXE LEHNING OENANTHE CROCATA N° 78 sol buv
+COMPLEXE LEHNING RANUNCULUS N° 79 sol buv
+COMPLEXE LEHNING RHUS TOXICODENDRON N° 80 sol buv
+COMPLEXE LEHNING RUBIA N° 3 sol buv
+COMPLEXE LEHNING SCABIOSA N° 87 sol buv
+COMPLEXE LEHNING SELENIUM N° 99 cp
+COMPLEXE LEHNING SEPIA N° 20 cp
+COMPLEXE LEHNING SILICEA N° 11 cp
+COMPLEXE LEHNING SULFUR N° 12 cp
+COMPLEXE LEHNING TARENTULA N° 71 sol buv
+COMPLEXE LEHNING THUYA N° 37 sol buv
+COMPLEXE LEHNING UVA URSI N° 9 sol buv
+COMPLEXE LEHNING YUCCA N° 110 sol buv
+COMPRALFENE 1 % gel
+COMPRALGYL 400 mg/20 mg cp séc
+COMTAN 200 mg cp pellic
+CONCERTA LP 18 mg cp LP
+CONCERTA LP 36 mg cp LP
+CONCERTA LP 54 mg cp LP
+CONDYLINE 0,5 % sol p appl loc
+CONEBILOX 5 mg/12,5 mg cp pellic
+CONEBILOX 5 mg/25 mg cp pellic
+CONFIDEX 1000 UI pdre/solv p sol inj
+CONFIDEX 250 UI pdre/solv p sol inj
+CONFIDEX 500 UI pdre/solv p sol inj
+CONTALAX cp gastrorésis
+CONTRACNE 10 mg caps molle
+CONTRACNE 20 mg caps molle
+CONTRACNE 40 mg caps molle
+CONTRACNE 5 mg caps molle
+CONTRAMAL 100 mg/2 ml sol inj en ampoule
+CONTRAMAL 100 mg/ml sol buv
+CONTRAMAL 50 mg gél
+CONTRAMAL LP 100 mg cp LP
+CONTRAMAL LP 150 mg cp LP
+CONTRAMAL LP 200 mg cp LP
+CONTRATHION 2 % pdre/solv p sol inj
+CONTRE-COUPS DE L'ABBE PERDRIGEON sol p appl cut
+CONVULINE 0,03 mg/3 mg cp pellic
+COOLMETEC 20 mg/12,5 mg cp pellic
+COOLMETEC 20 mg/25 mg cp pellic
+COOLMETEC 40 mg/12,5 mg cp pellic
+COOLMETEC 40 mg/25 mg cp pellic
+COPAXONE 20 mg/ml sol inj en seringue préremplie
+COPEGUS 200 mg cp pellic
+COPEGUS 400 mg cp pellic
+COQUELUSEDAL PARACETAMOL 100 mg suppos
+COQUELUSEDAL PARACETAMOL 250 mg suppos
+COQUELUSEDAL PARACETAMOL 500 mg suppos
+COQUELUSEDAL suppos ad
+COQUELUSEDAL suppos enf
+COQUELUSEDAL suppos nourrisson
+CORAMINE GLUCOSE cp à sucer
+CORDARONE 150 mg/3 ml sol inj en ampoule IV
+CORDARONE 200 mg cp séc
+CORDIPATCH 10 mg/24 h disp transderm
+CORDIPATCH 5 mg/24 h disp transderm
+CORGARD 80 mg cp séc
+CORICIDE LE DIABLE 12,5 g/100 g sol p appl loc
+COROTROPE 10 mg/10 ml sol inj IV
+CORRECTOL 0,1 % collyre
+CORSODYL sol p bain bouch
+CORTANCYL 1 mg cp
+CORTANCYL 20 mg cp séc
+CORTANCYL 5 mg cp séc
+CORTAPAISYL 0,5 % crème
+CORTEXAN FRAMYCETINE pâte p us dent
+CORTICETINE sol p instil auric
+CORTISAL crème
+CORTISEDERMYL 0,5 % crème
+CORVASAL 2 mg cp séc
+CORVASAL 4 mg cp
+CORYZALIA cp enr
+CORYZALIA cp orodispers
+COSENTYX 150 mg sol inj en seringue préremplie
+COSENTYX 150 mg sol inj en stylo prérempli
+COSMEGEN 0,5 mg pdre p sol inj
+COSOPT 20 mg/ml + 5 mg/ml collyre sol
+COSOPT 20 mg/ml + 5 mg/ml collyre sol en récipient unidose
+COSOPT 20 mg/ml + 5 mg/ml collyre sol [IT1]
+COTAREG 160 mg/12,5 mg cp pellic
+COTAREG 160 mg/25 mg cp pellic
+COTAREG 80 mg/12,5 mg cp pellic
+COTELLIC 20 mg cp pellic
+COTEOULA 30 mg/12,5 mg cp pellic
+COTEVETEN 600 mg/12,5 mg cp pellic
+COTRIATEC 5 mg/12,5 mg cp
+COTRIMOXAZOLE TEVA 800 mg/160 mg cp
+COUMADINE 2 mg cp séc
+COUMADINE 5 mg cp séc
+COVATINE 50 mg cp enr
+COVERAM 10 mg/10 mg cp
+COVERAM 10 mg/10 mg cp [AIP]
+COVERAM 10 mg/10 mg cp [CZ1]
+COVERAM 10 mg/10 mg cp [PL1]
+COVERAM 10 mg/10 mg cp [PL2]
+COVERAM 10 mg/5 mg cp
+COVERAM 10 mg/5 mg cp [CZ1]
+COVERAM 10 mg/5 mg cp [PL1]
+COVERAM 10 mg/5 mg cp [PL2]
+COVERAM 5 mg/10 mg cp
+COVERAM 5 mg/10 mg cp [CZ1]
+COVERAM 5 mg/10 mg cp [PL1]
+COVERAM 5 mg/5 mg cp
+COVERAM 5 mg/5 mg cp [AIP]
+COVERAM 5 mg/5 mg cp [CZ1]
+COVERAM 5 mg/5 mg cp [PL1]
+COVERAM 5 mg/5 mg cp [PL2]
+COVERSYL 10 mg cp pellic
+COVERSYL 10 mg cp pellic [CZ1]
+COVERSYL 10 mg cp pellic [CZ2]
+COVERSYL 10 mg cp pellic [GB1]
+COVERSYL 10 mg cp pellic [IT1]
+COVERSYL 2,5 mg cp pellic
+COVERSYL 4 mg cp séc [ES1]
+COVERSYL 4 mg cp séc [ES2]
+COVERSYL 5 mg cp pellic séc
+COVERSYL 5 mg cp pellic séc [CZ1]
+COVERSYL 5 mg cp pellic séc [CZ3]
+COVERSYL 5 mg cp pellic séc [GB1]
+COVERSYL 5 mg cp pellic séc [IT1]
+COVERSYL 5 mg cp pellic séc [PL1]
+COVERSYL 5 mg cp pellic séc [PL2]
+COZAAR 100 mg cp pellic
+COZAAR 100 mg cp pellic [AT1]
+COZAAR 100 mg cp pellic [AT2]
+COZAAR 2,5 mg/ml pdre/solv susp buv
+COZAAR 50 mg cp pellic séc
+COZAAR 50 mg cp pellic séc [PL1]
+COZAAR 50 mg cp pellic séc [PL2]
+CRATAEGUS COMPLEXE N°15 sol buv en gte
+CREME 3 FLEURS D' ORIENT 10 % pom
+CREME CALENDULA crème
+CREME DE DALIBOUR COOPER crème
+CREON 12 000 U gél (glé gastrorésis)
+CREON 25 000 U gél (glé gastrorésis)
+CREON 40 000 U gél gastrorésis
+CREON 5000 U glé gastro-résistants
+CRESEMBA 100 mg gél
+CRESEMBA 200 mg pdre p sol diluer p perf
+CRESOPHENE sol p us dent
+CRESTOR 10 mg cp pellic
+CRESTOR 20 mg cp pellic
+CRESTOR 5 mg cp pellic
+CRIFENE 400 mg cp pellic
+CRINONE 80 mg/g gel vagin
+CRISTAL suppos adulte
+CRISTAL suppos enfant
+CRISTAL suppos nourrisson
+CRIXIVAN 100 mg gél
+CRIXIVAN 200 mg gél
+CRIXIVAN 400 mg gél
+CRIZOTINIB 200 mg gél [ATUc]
+CRIZOTINIB 250 mg gél [ATUc]
+CROMABAK 20 mg/ml collyre
+CROMADOSES 2 % collyre sol en récipient unidose
+CROMEDIL 2 % collyre
+CROMEDIL 2 % collyre sol en récipient unidose
+CROMOFREE 2 % collyre sol
+CROMOGLICATE DE SODIUM BIOGARAN 2 % collyre sol
+CROMOGLICATE DE SODIUM SANDOZ CONSEIL 2 % collyre sol en récipient unidose
+CROMOPTIC 2 % collyre sol
+CROMOPTIC 2 % collyre sol en récipient unidose
+CROMORHINOL 2 % sol p pulv nasal
+CUBICIN 350 mg pdre p sol inj ou perf
+CUBICIN 500 mg pdre p sol inj ou perf
+CURACNE 10 mg caps molle
+CURACNE 20 mg caps molle
+CURACNE 40 mg caps molle
+CURACNE 5 mg caps molle
+CURASPOT 5 % gel
+CURETHYL 26 % sol inj IV
+CUROMAL bâton p appl cut
+CUROSURF 120 mg/1,5 ml susp p instil ETB
+CUROSURF 240 mg/3 ml susp p instil ETB
+CUSTODIOL sol cardioplég [ATUc]
+CUTACNYL 10 g gel p appl loc
+CUTACNYL 2,5 % gel p appl loc
+CUTACNYL 5 % gel p appl loc
+CUTERPES 1 % gel p appl loc
+CUTISAN 1 % pdre p appl cut
+CYANOCOBALAMINE RENAUDIN 500 µg/ml sol inj en ampoule IM
+CYANOKIT 2,5 g pdre p sol p perf
+CYANOKIT 5 g pdre p sol p perf
+CYCLADOL 20 mg cp efferv
+CYCLADOL 20 mg cp séc
+CYCLEANE 20 µg cp
+CYCLEANE 30 µg cp
+CYCLO 3 crème
+CYCLO 3 FORT gél
+CYCLO 3 FORT sol buv en ampoule
+CYCLOPHOSPHAMIDE SANDOZ 1000 mg pdre p sol inj/p perf
+CYCLOPHOSPHAMIDE SANDOZ 500 mg pdre p sol inj/p perf
+CYMBALTA 30 mg gél gastrorésis
+CYMBALTA 60 mg gél gastrorésis
+CYMEVAN 500 mg lyoph p us parentér
+CYNOMEL 0,025 mg cp séc
+CYPROPHARM 2 mg/0,035 mg cp enr
+CYPROTERONE BIOGARAN 100 mg cp séc
+CYPROTERONE BIOGARAN 50 mg cp séc
+CYPROTERONE MYLAN 100 mg cp séc
+CYPROTERONE MYLAN 50 mg cp
+CYPROTERONE ZENTIVA 100 mg cp séc
+CYPROTERONE ZENTIVA 50 mg cp
+CYPROTERONE/ETHINYLESTRADIOL BAYER 2 mg/0,035 mg cp enr
+CYPROTERONE/ETHINYLESTRADIOL EG 2 mg/0,035 mg cp enr
+CYPROTERONE/ETHINYLESTRADIOL RANBAXY 2 mg/0,035 mg cp enr
+CYPROTERONE/ETHINYLESTRADIOL RATIOPHARM 2 mg/0,035 mg cp enr
+CYPROTERONE/ETHINYLESTRADIOL SANDOZ 2 mg/0,035 mg cp enr
+CYPROTERONE/ETHINYLESTRADIOL TEVA 2 mg/0,035 mg cp enr
+CYPROTERONE/ETHINYLESTRADIOL ZENTIVA 2 mg/0,035 mg cp enr
+CYPROTERONE/ETHINYLESTRADIOL ZYDUS 2 mg/0,035 mg cp enr
+CYRAMZA 10 mg/ml sol diluer p perf
+CYRAMZA 10 mg/ml sol diluer p perf [ATUc]
+CYRDANAX 20 mg/ml pdre p sol p perf
+CYSTADANE 1 g pdre oral
+CYSTADROPS 0,55 % collyre sol [ATUc]
+CYSTAGON 150 mg gél
+CYSTAGON 50 mg gél
+CYSTICHOL gél
+CYSTINE B6 BAILLEUL cp pellic
+CYSTINE/VITAMINE B6 BIOGARAN CONSEIL 500 mg/50 mg cp pellic
+CYTARABINE ACCORD 100 mg/ml solution inj ou per
+CYTARABINE EBEWE 20 mg/ml sol inj
+CYTARABINE EBEWE 50 mg/ml sol inj
+CYTARABINE EG 20 mg/ml sol inj
+CYTARABINE EG 50 mg/ml sol inj
+CYTARABINE KABI 100 mg/ml solution inj ou per
+CYTARABINE SANDOZ 100 mg/ml sol inj
+CYTEAL sol moussante
+CYTOTEC 200 µg cp séc

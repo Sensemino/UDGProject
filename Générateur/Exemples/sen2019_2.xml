@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+
+    <Table>
+
+        <Champs>
+            <Donnee NomColonne="id"      Type="id"                         />
+            <Donnee NomColonne="idEcole" Type="Numerique"    Min="100" Max="110"  />
+            <Donnee NomColonne="Enfant"  Type="Dictionnaire" NomDictionnaire="noms" EnMajuscules="oui" />
+            <Donnee NomColonne="Prenom"  Type="Dictionnaire" NomDictionnaire="prenoms" EnMajuscules="non" />
+            <Donnee NomColonne="Classe"  Type="Numerique"    Min="1" Max="3" Codage="1;CE1;2;CE2;3;CE1-CE2" />
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="lesCE1"/>
+            <Sortie   XML="oui" CSV="oui" SQL="oui" JSON="oui" />
+            <NbLigne  valeur="12"/>
+            <Graine   valeur="123" />
+        </Parametres>
+
+    </Table>
+
+</Generateur>

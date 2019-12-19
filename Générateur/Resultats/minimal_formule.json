@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "double": 2,
+        "triPlusUn": 4,
+        "cinqPlus7": 12,
+        "longueur": 3,
+        "largeur": 2,
+        "aire": 6
+    },
+    {
+        "id": 2,
+        "double": 4,
+        "triPlusUn": 7,
+        "cinqPlus7": 17,
+        "longueur": 5,
+        "largeur": 3,
+        "aire": 15
+    },
+    {
+        "id": 3,
+        "double": 6,
+        "triPlusUn": 10,
+        "cinqPlus7": 22,
+        "longueur": 3,
+        "largeur": 5,
+        "aire": 15
+    },
+    {
+        "id": 4,
+        "double": 8,
+        "triPlusUn": 13,
+        "cinqPlus7": 27,
+        "longueur": 1,
+        "largeur": 5,
+        "aire": 5
+    },
+    {
+        "id": 5,
+        "double": 10,
+        "triPlusUn": 16,
+        "cinqPlus7": 32,
+        "longueur": 1,
+        "largeur": 2,
+        "aire": 2
+    },
+    {
+        "id": 6,
+        "double": 12,
+        "triPlusUn": 19,
+        "cinqPlus7": 37,
+        "longueur": 3,
+        "largeur": 2,
+        "aire": 6
+    }
+]

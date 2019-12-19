@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+
+    <Table>
+        <Champs>
+            <Donnee Type="Reference" NomColonne="ColonneParReference" TableReference="TableDeLaReference" ColonneReference="ColonneDeLaReference" />
+        </Champs>
+        <Parametre>
+            <Sortie SQL="True"/>
+            <Nbligne valeur="10"/>
+            <NomTable nom="test_reference"/>
+            <Seed valeur="10276666" />
+        </Parametre>
+    </Table>
+
+</Generateur>

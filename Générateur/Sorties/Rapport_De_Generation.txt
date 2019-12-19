@@ -1,0 +1,23 @@
+RAPPORT de la commande generer Exemples/testIntervalleCodage.xml 
+La génération du jeudi 19 décembre 2019 à 14:10:01 a duré : 0.15 secondes
+Une table a été générée.
+
+==================================================
+
+Table 1 : testIntervalle
+
+==================================================
+
+Données Générales : 
+
+   - nombre de lignes produites  : 10 
+   - la graine de génération est : 123 
+
+  Variable numéro 1 / 1 : Age type Numerique
+
+    la valeur minimale est de : 5
+    la valeur maximale est de : 88
+    la valeur moyenne  est de : 35.00
+    le nombre      de valeurs NULL est de :      0 
+    le pourcentage de valeurs NULL est de :      0 % 
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+
+    <Table> <!-- VILLES -->
+        <Champs>
+            <Donnee Type="Numerique" NomColonne="idVille" Null="0" Min="1" Max="500" ModeGeneration="aleatoire"/>
+            <Donnee Type="Dictionnaire" NomColonne="nomVille" NomDictionnaire="villes" ModeGeneration="unique"/>
+        </Champs>
+        <Parametre>
+            <Sortie SQL="True"/>
+            <Nbligne valeur="10"/>
+            <NomTable nom="villes"/>
+            <Seed valeur="1027666" />
+        </Parametre>
+    </Table>
+
+    <Table> <!-- TRAINS -->
+        <Champs>
+            <Donnee Type="Numerique" NomColonne="idTrain" Null="0" Min="1000" Max="10000" ModeGeneration="aleatoire"/>
+            <Donnee Type="Dictionnaire" NomColonne="typeTrain" NomDictionnaire="typestrains" ModeGeneration="unique"/>
+        </Champs>
+        <Parametre>
+            <Sortie SQL="True"/>
+            <Nbligne valeur="10"/>
+            <NomTable nom="machines"/>
+            <Seed valeur="1027666" />
+        </Parametre>
+    </Table>
+
+    <Table> <!-- PASSAGES -->
+        <Champs>
+            <Donnee Type="Numerique" NomColonne="idTrajet" Null="0" Min="0" Max="10" ModeGeneration="aleatoire"/>
+            <Donnee Type="Reference" NomColonne="numTrain" TableReference="machines" ColonneReference="idTrain" />
+            <Donnee Type="Reference" NomColonne="villeDepart" TableReference="villes" ColonneReference="idVille" />
+            <Donnee Type="Reference" NomColonne="villeArrivee" TableReference="villes" ColonneReference="idVille" />
+        </Champs>
+        <Parametre>
+            <Sortie SQL="True"/>
+            <Nbligne valeur="10"/>
+            <NomTable nom="trajets"/>
+            <Seed valeur="10276666" />
+        </Parametre>
+    </Table>
+
+</Generateur>
