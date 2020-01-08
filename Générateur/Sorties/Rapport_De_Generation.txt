@@ -1,5 +1,5 @@
 RAPPORT de la commande generer Exemples/testFormule.xml 
-La génération du mardi 07 janvier 2020 à 17:25:44 a duré : 0.00 secondes
+La génération du mercredi 08 janvier 2020 à 16:56:51 a duré : 0.00 secondes
 Une table a été générée.
 
 ==================================================
@@ -31,9 +31,9 @@ Données Générales :
 
   Variable numéro 3 / 3 : test type Formule
 
-    la valeur minimale est de : 0.052631578947368
-    la valeur maximale est de : 8.25
-    la valeur moyenne  est de : 1.79
+    la valeur minimale est de : -2.7333333333333
+    la valeur maximale est de : 14
+    la valeur moyenne  est de : 2.43
     le nombre      de valeurs NULL est de :      0 
     le pourcentage de valeurs NULL est de :      0 % 
 

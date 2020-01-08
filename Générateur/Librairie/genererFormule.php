@@ -5,24 +5,38 @@
 function genererFormule($formule,$donnees,$NombreDonnee) {
 
   $TableauResultatFormule = array();
-  $indiceTable = 1;
-  $formuleTmp = "";
+  $tableauDonneePourFormule = array();
+  $formuleTmp = $formule;
 
-  for($i = 0;$i<count($donnees);$i++)
+  for($i=0;$i<count($donnees);$i++)
   {
-
-    $expression = "/".$donnees[$i][1]."/mD";        //Probleme avec plusieurs tables ne garde pas en mémoire les valeurs
-    for($j = 2;$j<count($donnees[$i]);$j++)
+    if(preg_match("/".$donnees[$i][1]."/mD",$formule))
     {
-      $formuleTmp = $formule;
-      $formuleTmp = preg_replace($expression,$donnees[$i][$j],$formuleTmp);
-      print("$formuleTmp\n");
+      $tableauDonneeTmp = array();
 
-      array_push($TableauResultatFormule,matheval($formuleTmp));
-    } # fin pour
+      for($j = 1;$j<count($donnees[$i]);$j++)
+      {
+        array_push($tableauDonneeTmp,$donnees[$i][$j]);
+      }
+
+      array_push($tableauDonneePourFormule,$tableauDonneeTmp);
+      unset($tableauDonneeTmp);
+    }
+  }
+
+  for($i = 1;$i<$NombreDonnee+1;$i++)
+  {
+    $tableauResultatTmp = array();
+    $tableauResultatTmp = array_column($tableauDonneePourFormule,$i);
+
+    foreach($tableauResultatTmp as $cle=>$indice)
+    {
+      $formuleTmp = preg_replace("/".$tableauDonneePourFormule[$cle][0]."/mD",$indice,$formuleTmp);
+    }
+    
+    array_push($TableauResultatFormule,matheval($formuleTmp));
+    $formuleTmp = $formule;
   } # fin pour
-
-  print_r($TableauResultatFormule);
 
   return $TableauResultatFormule;
 
