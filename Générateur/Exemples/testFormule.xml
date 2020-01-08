@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generateur>
+
+    <Table>
+
+        <Champs>
+            <Donnee NomColonne="temperature" Type="Numerique" Min="0" Max="35" />
+            <Donnee NomColonne="meteo" Type="Numerique" Min="0" Max="35" />
+            <Donnee NomColonne="test"  Type="Formule" Formule="(temperature+2)/(meteo+4)" />
+        </Champs>
+
+        <Parametres>
+            <NomTable nom="testFormule"/>
+            <Sortie   CSV="oui" />
+            <NbLigne  valeur="10"/>
+            <Graine   valeur="123" />
+        </Parametres>
+
+    </Table>
+
+</Generateur>

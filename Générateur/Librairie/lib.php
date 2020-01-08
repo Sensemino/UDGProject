@@ -14,6 +14,7 @@ require('MDGAleatoire.php');
 require('nomClePerso.php');
 require('connaitreOperateur.php');
 require('calculOperation.php');
+require('calculEquation.php');
 
 require('genererDico.php');
 require('genererNumerique.php');
