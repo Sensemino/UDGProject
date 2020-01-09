@@ -6,7 +6,7 @@
         <Champs>
             <Donnee NomColonne="temperature" Type="Numerique" Min="0" Max="35" />
             <Donnee NomColonne="meteo" Type="Numerique" Min="0" Max="35" />
-            <Donnee NomColonne="test"  Type="Formule" Formule="(temperature+meteo)/(meteo-temperature)" />
+            <Donnee NomColonne="test"  Type="Formule" Formule="temperature / pow(meteo,2)" />
         </Champs>
 
         <Parametres>

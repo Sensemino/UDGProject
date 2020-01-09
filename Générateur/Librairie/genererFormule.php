@@ -24,18 +24,22 @@ function genererFormule($formule,$donnees,$NombreDonnee) {
     }
   }
 
-  for($i = 1;$i<$NombreDonnee+1;$i++)
+  for($i = 1;$i<=$NombreDonnee;$i++)
   {
     $tableauResultatTmp = array();
     $tableauResultatTmp = array_column($tableauDonneePourFormule,$i);
 
-    foreach($tableauResultatTmp as $cle=>$indice)
+    foreach($tableauResultatTmp as $cle=>$valeur)
     {
-      $formuleTmp = preg_replace("/".$tableauDonneePourFormule[$cle][0]."/mD",$indice,$formuleTmp);
-    }
+      $formuleTmp = preg_replace("/".$tableauDonneePourFormule[$cle][0]."/mD",$valeur,$formuleTmp);
+    } #fin pour
     
+    print("$formuleTmp\n");
+
     array_push($TableauResultatFormule,matheval($formuleTmp));
     $formuleTmp = $formule;
+
+    unset($tableauResultatTmp);
   } # fin pour
 
   return $TableauResultatFormule;
