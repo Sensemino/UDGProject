@@ -4,7 +4,7 @@
         <Champs>
             <Donnee NomColonne="Prenom"  Type="Dictionnaire" NomDictionnaire="prenoms"/>
             <Donnee NomColonne="Nom"  Type="Dictionnaire" NomDictionnaire="noms"/>
-            <Donnee NomColonne="identifiant" Type="Identifiant"/>
+            <Donnee NomColonne="identifiant" Type="Identifiant"/>           <!-- Créé un type d'identifiant -->                                             
         </Champs>
 
         <Parametres>

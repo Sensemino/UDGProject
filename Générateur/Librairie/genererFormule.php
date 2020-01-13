@@ -17,12 +17,12 @@ function genererFormule($formule,$donnees,$NombreDonnee) {
       for($j = 1;$j<count($donnees[$i]);$j++)
       {
         array_push($tableauDonneeTmp,$donnees[$i][$j]);
-      }
+      } # fin pour
 
       array_push($tableauDonneePourFormule,$tableauDonneeTmp);
       unset($tableauDonneeTmp);
-    }
-  }
+    } # fin pour
+  } # fin pour
 
   for($i = 1;$i<=$NombreDonnee;$i++)
   {
@@ -33,8 +33,6 @@ function genererFormule($formule,$donnees,$NombreDonnee) {
     {
       $formuleTmp = preg_replace("/".$tableauDonneePourFormule[$cle][0]."/mD",$valeur,$formuleTmp);
     } #fin pour
-    
-    print("$formuleTmp\n");
 
     array_push($TableauResultatFormule,matheval($formuleTmp));
     $formuleTmp = $formule;

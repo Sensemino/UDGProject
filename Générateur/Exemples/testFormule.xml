@@ -4,9 +4,9 @@
     <Table>
 
         <Champs>
-            <Donnee NomColonne="temperature" Type="Numerique" Min="0" Max="35" />
-            <Donnee NomColonne="meteo" Type="Numerique" Min="0" Max="35" />
-            <Donnee NomColonne="test"  Type="Formule" Formule="temperature / pow(meteo,2)" />
+            <Donnee NomColonne="temperature" Type="Numerique" Min="0" Max="2" />
+            <Donnee NomColonne="meteo" Type="Numerique" Min="0" Max="2" />
+            <Donnee NomColonne="test"  Type="Formule" Formule="meteo + temperature / (meteo*meteo)" /> <!-- Créé une vérification pour les parenthèses --> 
         </Champs>
 
         <Parametres>

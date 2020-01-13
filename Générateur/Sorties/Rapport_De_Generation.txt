@@ -1,6 +1,3 @@
-RAPPORT de la commande generer Exemples/testFormule.xml 
-La génération du jeudi 09 janvier 2020 à 14:20:31 a duré : 0.00 secondes
-Une table a été générée.
 
 ==================================================
 
@@ -12,28 +9,4 @@ Données Générales :
 
    - nombre de lignes produites  : 10 
    - la graine de génération est : 123 
-
-  Variable numéro 1 / 3 : temperature type Numerique
-
-    la valeur minimale est de : 1
-    la valeur maximale est de : 31
-    la valeur moyenne  est de : 12.00
-    le nombre      de valeurs NULL est de :      0 
-    le pourcentage de valeurs NULL est de :      0 % 
-
-  Variable numéro 2 / 3 : meteo type Numerique
-
-    la valeur minimale est de : 11
-    la valeur maximale est de : 34
-    la valeur moyenne  est de : 20.60
-    le nombre      de valeurs NULL est de :      0 
-    le pourcentage de valeurs NULL est de :      0 % 
-
-  Variable numéro 3 / 3 : test type Formule
-
-    la valeur minimale est de : 0.0016
-    la valeur maximale est de : 0.21527777777778
-    la valeur moyenne  est de : 0.06
-    le nombre      de valeurs NULL est de :      0 
-    le pourcentage de valeurs NULL est de :      0 % 
 
