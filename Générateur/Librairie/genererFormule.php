@@ -21,7 +21,7 @@ function genererFormule($formule,$donnees,$NombreDonnee) {
 
       array_push($tableauDonneePourFormule,$tableauDonneeTmp);
       unset($tableauDonneeTmp);
-    } # fin pour
+    } # fin si
   } # fin pour
 
   for($i = 1;$i<=$NombreDonnee;$i++)

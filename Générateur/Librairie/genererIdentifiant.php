@@ -2,66 +2,47 @@
 
 //Créer un identifiant avec une table Nom et Prenom de façon dynamiques
 
-function genererIdentifiant($donnees) 
+function genererIdentifiant($donnees,$NomColonneConcatene,$Concatenation) 
 {
     $tableauIdentifiant = Array();
-    $colonneNomTrouve = FALSE;
-    $colonnePrenomTrouve = FALSE;
-    $separteur = ".";       //Permet de choisir le séparateur entre l'initial du prénom et le nom
-
-    foreach($donnees as $indicePremiereColonne=>$premiereColonne)   
-    {
-        foreach($premiereColonne as $indiceDeuxiemeColonne=>$deuxiemeColonne2) 
-        {
-            if (is_string($deuxiemeColonne2) && !preg_match('#^[0-9,\s\.-]+$#', $deuxiemeColonne2)) 
-            {
-            //Permet de vérifier si c'est une chaîne de caractères qui contient des lettres
-            $donnees[$indicePremiereColonne][$indiceDeuxiemeColonne] = strtolower($donnees[$indicePremiereColonne][$indiceDeuxiemeColonne]);
-            $donnees[$indicePremiereColonne][$indiceDeuxiemeColonne] = ucfirst($donnees[$indicePremiereColonne][$indiceDeuxiemeColonne]);
-            } # finsi
-        } # fin pour chaque
-    } # fin pour chaque
-
-
+    $tableauNomColonne = explode(";",$NomColonneConcatene);
+    $tableauConcatenation = explode(".",$Concatenation);
+    $tableauDonneePourConcatenation = array();
+    $premierPassage = 1;
+    
     for($i=0;$i<count($donnees);$i++)
     {
-        for($j=1;$j<count($donnees[$i]);$j++)
+        foreach($tableauNomColonne as $cle=>$valeur)
         {
-            if($donnees[$i][$j] == "Prenom" || $donnees[$i][$j] == "Prenoms")
+            if(preg_match("/".$donnees[$i][1]."/mD",$tableauNomColonne[$cle]))
             {
-                $colonnePrenomTrouve = TRUE;
-            }
+                $tableauDonneeTmp = array();
 
-            if($donnees[$i][$j] == "Nom" || $donnees[$i][$j] == "Noms")
-            {
-                $colonneNomTrouve = TRUE;
-            }
-        }#Fin boucle pour recherche colonne Nom et Prenom
+                for($j = 1;$j<count($donnees[$i]);$j++)
+                {
+                    array_push($tableauDonneeTmp,$donnees[$i][$j]);
+                } # fin pour
 
-        for($j=2;$j<count($donnees[$i]);$j++)   //On commence à deux car à 0 c'est la référence et à 1 le nom de la table
+                array_push($tableauDonneePourConcatenation,$tableauDonneeTmp);
+                unset($tableauDonneeTmp);
+            } # fin si
+        } # fin pour
+            
+    } # fin pour
+    
+    for($i = 0;$i<count($tableauNomColonne);$i++)
+    {
+        if(preg_match("/".$tableauNomColonne[$i]."/mD",$Concatenation))
         {
-            if($colonnePrenomTrouve == TRUE && isset($tableauIdentifiant[$j-2]))
-            {
-                $tableauIdentifiant[$j-2] = substr($donnees[$i][$j],0,1).$tableauIdentifiant[$j-2];
-            }
-            elseif($colonnePrenomTrouve == TRUE)
-            {
-                $tableauIdentifiant[$j-2] = substr($donnees[$i][$j],0,1);
-            }#fin si
-
-            if($colonneNomTrouve == TRUE && isset($tableauIdentifiant[$j-2]))
-            {
-                $tableauIdentifiant[$j-2] = $tableauIdentifiant[$j-2].$separteur.$donnees[$i][$j];
-            }
-            elseif($colonneNomTrouve == TRUE)
-            {
-                $tableauIdentifiant[$j-2] = $separteur.$donnees[$i][$j];
-            }#fin si
+            creerConcatenation("MotComplet",$tableauNomColonne[$i],$tableauDonneePourConcatenation,$tableauIdentifiant,$premierPassage);
         }
-        $colonneNomTrouve = FALSE;
-        $colonnePrenomTrouve = FALSE;
+        elseif(substr($tableauConcatenation[$i],0) == substr($tableauNomColonne[$i],0,strlen($tableauConcatenation[$i])))
+        {
+            creerConcatenation(strlen(substr($tableauConcatenation[$i],0)),$tableauNomColonne[$i],$tableauDonneePourConcatenation,$tableauIdentifiant,$premierPassage);
+        }
+        $premierPassage++;
     }
-  
+
     return $tableauIdentifiant;
 
 } # fin fonction genererIdentifiant

@@ -15,6 +15,7 @@ require('nomClePerso.php');
 require('connaitreOperateur.php');
 require('calculOperation.php');
 require('calculEquation.php');
+require('creerConcatenation.php');
 
 require('genererDico.php');
 require('genererNumerique.php');

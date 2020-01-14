@@ -118,8 +118,10 @@ function genererDonnees($listeData, &$donnees, &$DonneesRapport, $PremierPassage
                  $typeOk = 1 ; break ;
             case "Identifiant" :    //Création d'un identifiant avec le Nom et le Prenom
 
+                $NomColonneConcatene = valeurAttribut($data,"NomColonneConcatene","");
+                $Concatenation = valeurAttribut($data,"Concatenation","");
 
-                $nouveauTableau = genererIdentifiant($donnees); //appelle d'une fonction permettant le calcul de l'IMC
+                $nouveauTableau = genererIdentifiant($donnees,$NomColonneConcatene,$Concatenation);
    
                 $typeOk = 1 ; break ;
 

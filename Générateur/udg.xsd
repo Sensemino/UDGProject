@@ -105,6 +105,8 @@
       <xsd:attribute name="EnMajuscules" type="xsd:string"/>
       <xsd:attribute name="NbChiffres" type="xsd:integer"/>
       <xsd:attribute name="Masque" type="xsd:string"/>
+      <xsd:attribute name="Concatenation" type="xsd:string"/>
+      <xsd:attribute name="NomColonneConcatene" type="xsd:string"/>
     </xsd:complexType>
   </xsd:element>
 
