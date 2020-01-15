@@ -1,5 +1,5 @@
 RAPPORT de la commande generer Exemples/identifiant.xml 
-La génération du mardi 14 janvier 2020 à 14:53:21 a duré : 0.00 secondes
+La génération du mercredi 15 janvier 2020 à 14:50:09 a duré : 0.00 secondes
 Une table a été générée.
 
 ==================================================
