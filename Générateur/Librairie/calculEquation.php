@@ -22,6 +22,7 @@ function matheval($equation){
       if ($e !== null && $e['message'] == 'Division by zero')       //Vérifie si la dernière erreur correspond à la division par 0
       {
         echo "\nDivision par zéro pour $equation\n\n";
+        $resultat = NULL;
       }# fin si
     }
     catch(ParseError $e)              //S'il y a une erreur de syntaxe dans la formule
