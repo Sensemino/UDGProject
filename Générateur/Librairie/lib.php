@@ -14,6 +14,7 @@ require('MDGAleatoire.php');
 require('nomClePerso.php');
 require('calculEquation.php');
 require('creerConcatenation.php');
+require('traitementCodage.php');
 
 require('genererDico.php');
 require('genererNumerique.php');

@@ -1,10 +1,10 @@
-RAPPORT de la commande generer Exemples/identifiant.xml 
-La génération du mercredi 15 janvier 2020 à 14:50:09 a duré : 0.00 secondes
+RAPPORT de la commande generer Exemples/testFormule.xml 
+La génération du jeudi 13 février 2020 à 11:44:55 a duré : 0.00 secondes
 Une table a été générée.
 
 ==================================================
 
-Table 1 : identifiant
+Table 1 : testFormule
 
 ==================================================
 
@@ -13,14 +13,27 @@ Données Générales :
    - nombre de lignes produites  : 10 
    - la graine de génération est : 123 
 
-  Variable numéro 1 / 3 : Prenom type Dictionnaire
+  Variable numéro 1 / 3 : temperature type Numerique
 
+    la valeur minimale est de : 0
+    la valeur maximale est de : 2
+    la valeur moyenne  est de : 0.40
+    le nombre      de valeurs NULL est de :      2 
+    le pourcentage de valeurs NULL est de :     20 % 
+
+  Variable numéro 2 / 3 : meteo type Numerique
+
+    la valeur minimale est de : 1
+    la valeur maximale est de : 2
+    la valeur moyenne  est de : 1.50
     le nombre      de valeurs NULL est de :      0 
     le pourcentage de valeurs NULL est de :      0 % 
 
-  Variable numéro 2 / 3 : Nom type Dictionnaire
+  Variable numéro 3 / 3 : test type Formule
 
-    le nombre      de valeurs NULL est de :      0 
-    le pourcentage de valeurs NULL est de :      0 % 
-
+    la valeur minimale est de : 1
+    la valeur maximale est de : 3
+    la valeur moyenne  est de : 1.53
+    le nombre      de valeurs NULL est de :      2 
+    le pourcentage de valeurs NULL est de :     20 % 
 

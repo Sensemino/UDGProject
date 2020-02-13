@@ -4,7 +4,7 @@
     <Table>
 
         <Champs>
-            <Donnee NomColonne="temperature" Type="Numerique" Min="0" Max="2" />
+            <Donnee NomColonne="temperature" Type="Numerique" Min="0" Max="2" Null="2"/>
             <Donnee NomColonne="meteo" Type="Numerique" Min="0" Max="2" />
             <Donnee NomColonne="test"  Type="Formule" Formule="meteo + temperature / (meteo*meteo)" />
         </Champs>

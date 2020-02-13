@@ -7,6 +7,7 @@ function genererFormule($formule,$donnees,$NombreDonnee) {
   $TableauResultatFormule = array();
   $tableauDonneePourFormule = array();
   $formuleTmp = $formule;
+  $Null = false;
 
   for($i=0;$i<count($donnees);$i++)             //Boucle pour récupérer les données correspond à la formule en fonction des nom de colonne trouvé dans la formule
   {
@@ -31,11 +32,27 @@ function genererFormule($formule,$donnees,$NombreDonnee) {
 
     foreach($tableauResultatTmp as $cle=>$valeur)       //boucle pour remplacer les noms des colonnes par les valeurs correspondantes
     {
-      $formuleTmp = preg_replace("/".$tableauDonneePourFormule[$cle][0]."/mD",$valeur,$formuleTmp);
+      if(isset($valeur))
+      {
+        $formuleTmp = preg_replace("/".$tableauDonneePourFormule[$cle][0]."/mD",$valeur,$formuleTmp);
+      }
+      else
+      {
+        $Null = true;
+      }
+        
     } #fin pour
 
-    array_push($TableauResultatFormule,matheval($formuleTmp));        //on met dans le tableauResultatFormule le resultat calculé par la fonction matheval
+    if($Null != true)
+    {
+      array_push($TableauResultatFormule,matheval($formuleTmp));           //on met dans le tableauResultatFormule le resultat calculé par la fonction matheval
+    }
+    else
+    {
+      array_push($TableauResultatFormule,null);
+    }
     $formuleTmp = $formule;                 //On réinitialise la formuleTmp pour changer les données
+    $Null = false;
 
     unset($tableauResultatTmp);
   } # fin pour
